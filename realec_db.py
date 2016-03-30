@@ -15,7 +15,6 @@ def extract_mist():
             mistakes.append(line.strip().split('\t'))
     return mistakes
 
-
 def extract_tokens():
     tokens = []
     with open('table_tokens.csv') as tab_m:
