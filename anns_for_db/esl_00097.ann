@@ -1,0 +1,396 @@
+T1	Word_order 327 365	Therefore, there was conducted a study	
+#1	AnnotatorNotes T1	A study was therefore conducted
+T2	Lack_par_constr 478 482	it's	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+#2	AnnotatorNotes T2	at its
+T3	Pronouns 478 482	it's	
+#3	AnnotatorNotes T3	its
+T5	Punctuation 693 694	,	
+#5	AnnotatorNotes T5	;
+T6	Punctuation 1193 1194	:	
+#6	AnnotatorNotes T6	, namely, about
+T7	Punctuation 464 465	(
+#4	AnnotatorNotes T7	, and
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Weight-language T7 Minor
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Minor
+A6	Weight-language T3 Minor
+A7	Weight-language T5 Minor
+A8	Weight-language T6 Minor
+T8	pos_﻿ 0 1	﻿
+#7	AnnotatorNotes T8	lemma = '﻿'
+T9	pos_NP 1 8	Despite
+#8	AnnotatorNotes T9	lemma = 'despite'
+T10	pos_DT 9 12	the
+#9	AnnotatorNotes T10	lemma = 'the'
+T11	pos_NN 13 22	abundance
+#10	AnnotatorNotes T11	lemma = 'abundance'
+T12	pos_IN 23 25	of
+#11	AnnotatorNotes T12	lemma = 'of'
+T13	pos_NN 26 34	research
+#12	AnnotatorNotes T13	lemma = 'research'
+T14	pos_IN 35 39	into
+#13	AnnotatorNotes T14	lemma = 'into'
+T15	pos_DT 40 43	the
+#14	AnnotatorNotes T15	lemma = 'the'
+T16	pos_JJ 44 57	psychological
+#15	AnnotatorNotes T16	lemma = 'psychological'
+T17	pos_NN 58 65	support
+#16	AnnotatorNotes T17	lemma = 'support'
+T18	pos_TO 66 68	to
+#17	AnnotatorNotes T18	lemma = 'to'
+T19	pos_NNS 69 77	patients
+#18	AnnotatorNotes T19	lemma = 'patient'
+T20	pos_IN 78 82	with
+#19	AnnotatorNotes T20	lemma = 'with'
+T21	pos_JJ 83 94	intractable
+#20	AnnotatorNotes T21	lemma = 'intractable'
+T22	pos_NN 95 102	disease
+#21	AnnotatorNotes T22	lemma = 'disease'
+T23	pos_Fc 102 103	,
+#22	AnnotatorNotes T23	lemma = ','
+T24	pos_RB 104 110	little
+#23	AnnotatorNotes T24	lemma = 'little'
+T25	pos_VBZ 111 113	is
+#24	AnnotatorNotes T25	lemma = 'be'
+T26	pos_VBN 114 119	known
+#25	AnnotatorNotes T26	lemma = 'know'
+T27	pos_IN 120 125	about
+#26	AnnotatorNotes T27	lemma = 'about'
+T28	pos_DT 126 129	the
+#27	AnnotatorNotes T28	lemma = 'the'
+T29	pos_NNS 130 140	components
+#28	AnnotatorNotes T29	lemma = 'component'
+T30	pos_IN 141 143	of
+#29	AnnotatorNotes T30	lemma = 'of'
+T31	pos_PRP2 144 149	their
+#30	AnnotatorNotes T31	lemma = 'their'
+T32	pos_NN 150 160	well-being
+#31	AnnotatorNotes T32	lemma = 'well-being'
+T33	pos_CC 161 164	and
+#32	AnnotatorNotes T33	lemma = 'and'
+T34	pos_RB 165 170	hence
+#33	AnnotatorNotes T34	lemma = 'hence'
+T35	pos_Fc 170 171	,
+#34	AnnotatorNotes T35	lemma = ','
+T36	pos_IN 172 177	about
+#35	AnnotatorNotes T36	lemma = 'about'
+T37	pos_DT 178 181	the
+#36	AnnotatorNotes T37	lemma = 'the'
+T38	pos_JJ 182 191	effective
+#37	AnnotatorNotes T38	lemma = 'effective'
+T39	pos_NNS 192 196	ways
+#38	AnnotatorNotes T39	lemma = 'way'
+T40	pos_TO 197 199	to
+#39	AnnotatorNotes T40	lemma = 'to'
+T41	pos_VB 200 207	improve
+#40	AnnotatorNotes T41	lemma = 'improve'
+T42	pos_PRP 208 210	it
+#41	AnnotatorNotes T42	lemma = 'it'
+T43	pos_Fp 210 211	.
+#42	AnnotatorNotes T43	lemma = '.'
+T44	pos_DT 212 215	The
+#43	AnnotatorNotes T44	lemma = 'the'
+T45	pos_JJ 216 223	present
+#44	AnnotatorNotes T45	lemma = 'present'
+T46	pos_NN 224 231	article
+#45	AnnotatorNotes T46	lemma = 'article'
+T47	pos_VBZ 232 240	suggests
+#46	AnnotatorNotes T47	lemma = 'suggest'
+T48	pos_DT 241 245	that
+#47	AnnotatorNotes T48	lemma = 'that'
+T49	pos_NN 246 264	self-transcendence
+#48	AnnotatorNotes T49	lemma = 'self-transcendence'
+T50	pos_VBZ 265 267	is
+#49	AnnotatorNotes T50	lemma = 'be'
+T51	pos_NN 268 271	one
+#50	AnnotatorNotes T51	lemma = 'one'
+T52	pos_IN 272 274	of
+#51	AnnotatorNotes T52	lemma = 'of'
+T53	pos_DT 275 278	the
+#52	AnnotatorNotes T53	lemma = 'the'
+T54	pos_JJ 279 283	main
+#53	AnnotatorNotes T54	lemma = 'main'
+T55	pos_NNS 284 291	factors
+#54	AnnotatorNotes T55	lemma = 'factor'
+T56	pos_IN 292 294	of
+#55	AnnotatorNotes T56	lemma = 'of'
+T57	pos_NN 295 298	one
+#56	AnnotatorNotes T57	lemma = 'one'
+T58	pos_POS 298 300	's
+#57	AnnotatorNotes T58	lemma = ''s'
+T59	pos_NN 301 311	well-being
+#58	AnnotatorNotes T59	lemma = 'well-being'
+T60	pos_CC 312 315	and
+#59	AnnotatorNotes T60	lemma = 'and'
+T61	pos_NN 316 325	happiness
+#60	AnnotatorNotes T61	lemma = 'happiness'
+T62	pos_Fp 325 326	.
+#61	AnnotatorNotes T62	lemma = '.'
+T63	pos_RB 327 336	Therefore
+#62	AnnotatorNotes T63	lemma = 'therefore'
+T64	pos_Fc 336 337	,
+#63	AnnotatorNotes T64	lemma = ','
+T65	pos_EX 338 343	there
+#64	AnnotatorNotes T65	lemma = 'there'
+T66	pos_VBD 344 347	was
+#65	AnnotatorNotes T66	lemma = 'be'
+T67	pos_VBN 348 357	conducted
+#66	AnnotatorNotes T67	lemma = 'conduct'
+T68	pos_DT 358 359	a
+#67	AnnotatorNotes T68	lemma = 'a'
+T69	pos_NN 360 365	study
+#68	AnnotatorNotes T69	lemma = 'study'
+T70	pos_Fc 365 366	,
+#69	AnnotatorNotes T70	lemma = ','
+T71	pos_VBN 367 372	aimed
+#70	AnnotatorNotes T71	lemma = 'aim'
+T72	pos_IN 373 375	at
+#71	AnnotatorNotes T72	lemma = 'at'
+T73	pos_DT 376 379	the
+#72	AnnotatorNotes T73	lemma = 'the'
+T74	pos_NN 380 393	investigation
+#73	AnnotatorNotes T74	lemma = 'investigation'
+T75	pos_IN 394 396	of
+#74	AnnotatorNotes T75	lemma = 'of'
+T76	pos_DT 397 400	the
+#75	AnnotatorNotes T76	lemma = 'the'
+T77	pos_NN 401 405	role
+#76	AnnotatorNotes T77	lemma = 'role'
+T78	pos_IN 406 408	of
+#77	AnnotatorNotes T78	lemma = 'of'
+T79	pos_NN 409 427	self-transcendence
+#78	AnnotatorNotes T79	lemma = 'self-transcendence'
+T80	pos_IN 428 430	on
+#79	AnnotatorNotes T80	lemma = 'on'
+T81	pos_NNS 431 439	patients
+#80	AnnotatorNotes T81	lemma = 'patient'
+T82	pos_IN 440 444	with
+#81	AnnotatorNotes T82	lemma = 'with'
+T83	pos_JJ 445 456	intractable
+#82	AnnotatorNotes T83	lemma = 'intractable'
+T84	pos_NN 457 464	disease
+#83	AnnotatorNotes T84	lemma = 'disease'
+T85	pos_Fpa 464 465	(
+#84	AnnotatorNotes T85	lemma = '('
+T86	pos_RB 466 476	especially
+#85	AnnotatorNotes T86	lemma = 'especially'
+T87	pos_PRP 478 480	it
+#86	AnnotatorNotes T87	lemma = 'it'
+T88	pos_VBZ 480 482	's
+#87	AnnotatorNotes T88	lemma = 'be'
+T89	pos_NN 483 494	correlation
+#88	AnnotatorNotes T89	lemma = 'correlation'
+T90	pos_IN 495 499	with
+#89	AnnotatorNotes T90	lemma = 'with'
+T91	pos_JJ 500 510	subjective
+#90	AnnotatorNotes T91	lemma = 'subjective'
+T92	pos_NN 511 521	well-being
+#91	AnnotatorNotes T92	lemma = 'well-being'
+T93	pos_Fpt 521 522	)
+#92	AnnotatorNotes T93	lemma = ')'
+T94	pos_Fp 522 523	.
+#93	AnnotatorNotes T94	lemma = '.'
+T95	pos_Z 524 534	Forty-four
+#94	AnnotatorNotes T95	lemma = '44'
+T96	pos_NNS 535 543	patients
+#95	AnnotatorNotes T96	lemma = 'patient'
+T97	pos_IN 544 548	with
+#96	AnnotatorNotes T97	lemma = 'with'
+T98	pos_JJ 549 560	intractable
+#97	AnnotatorNotes T98	lemma = 'intractable'
+T99	pos_NN 561 568	disease
+#98	AnnotatorNotes T99	lemma = 'disease'
+T100	pos_VBD 569 578	completed
+#99	AnnotatorNotes T100	lemma = 'complete'
+T101	pos_DT 579 582	the
+#100	AnnotatorNotes T101	lemma = 'the'
+T102	pos_NP 583 607	Self-Transcendence Scale
+#101	AnnotatorNotes T102	lemma = 'self-transcendence_scale'
+T103	pos_Fpa 608 609	(
+#102	AnnotatorNotes T103	lemma = '('
+T104	pos_NP 609 612	STS
+#103	AnnotatorNotes T104	lemma = 'sts'
+T105	pos_Fpt 612 613	)
+#104	AnnotatorNotes T105	lemma = ')'
+T106	pos_CC 614 617	and
+#105	AnnotatorNotes T106	lemma = 'and'
+T107	pos_DT 618 621	the
+#106	AnnotatorNotes T107	lemma = 'the'
+T108	pos_NP 622 630	Japanese
+#107	AnnotatorNotes T108	lemma = 'japanese'
+T109	pos_NN 631 638	version
+#108	AnnotatorNotes T109	lemma = 'version'
+T110	pos_IN 639 641	of
+#109	AnnotatorNotes T110	lemma = 'of'
+T111	pos_DT 642 645	the
+#110	AnnotatorNotes T111	lemma = 'the'
+T112	pos_NP 646 692	World Health Organization-Subjective Inventory
+#111	AnnotatorNotes T112	lemma = 'world_health_organization-subjective_inventory'
+T113	pos_Fc 693 694	,
+#112	AnnotatorNotes T113	lemma = ','
+T114	pos_PRP 695 699	they
+#113	AnnotatorNotes T114	lemma = 'they'
+T115	pos_RB 700 704	also
+#114	AnnotatorNotes T115	lemma = 'also'
+T116	pos_VBD 705 708	got
+#115	AnnotatorNotes T116	lemma = 'get'
+T117	pos_IN 709 716	through
+#116	AnnotatorNotes T117	lemma = 'through'
+T118	pos_DT 717 720	the
+#117	AnnotatorNotes T118	lemma = 'the'
+T119	pos_NP 721 729	Japanese
+#118	AnnotatorNotes T119	lemma = 'japanese'
+T120	pos_NN 730 737	version
+#119	AnnotatorNotes T120	lemma = 'version'
+T121	pos_IN 738 740	of
+#120	AnnotatorNotes T121	lemma = 'of'
+T122	pos_DT 741 744	the
+#121	AnnotatorNotes T122	lemma = 'the'
+T123	pos_NP 745 790	Mini-International Neuropsychiatric Interview
+#122	AnnotatorNotes T123	lemma = 'mini-international_neuropsychiatric_interview'
+T124	pos_Fp 790 791	.
+#123	AnnotatorNotes T124	lemma = '.'
+T125	pos_DT 792 795	The
+#124	AnnotatorNotes T125	lemma = 'the'
+T126	pos_NNS 796 804	controls
+#125	AnnotatorNotes T126	lemma = 'control'
+T127	pos_VBD 805 809	were
+#126	AnnotatorNotes T127	lemma = 'be'
+T128	pos_Z 810 814	1854
+#127	AnnotatorNotes T128	lemma = '1854'
+T129	pos_JJ 815 822	healthy
+#128	AnnotatorNotes T129	lemma = 'healthy'
+T130	pos_NNS 823 834	individuals
+#129	AnnotatorNotes T130	lemma = 'individual'
+T131	pos_Fp 834 835	.
+#130	AnnotatorNotes T131	lemma = '.'
+T132	pos_DT 836 839	The
+#131	AnnotatorNotes T132	lemma = 'the'
+T133	pos_NN 840 848	analysis
+#132	AnnotatorNotes T133	lemma = 'analysis'
+T134	pos_VBD 849 855	proved
+#133	AnnotatorNotes T134	lemma = 'prove'
+T135	pos_IN 856 860	that
+#134	AnnotatorNotes T135	lemma = 'that'
+T136	pos_EX 861 866	there
+#135	AnnotatorNotes T136	lemma = 'there'
+T137	pos_VBZ 867 869	is
+#136	AnnotatorNotes T137	lemma = 'be'
+T138	pos_DT 870 871	a
+#137	AnnotatorNotes T138	lemma = 'a'
+T139	pos_JJ 872 883	significant
+#138	AnnotatorNotes T139	lemma = 'significant'
+T140	pos_NN 884 892	increase
+#139	AnnotatorNotes T140	lemma = 'increase'
+T141	pos_IN 893 895	in
+#140	AnnotatorNotes T141	lemma = 'in'
+T142	pos_NN 897 915	self-transcendence
+#141	AnnotatorNotes T142	lemma = 'self-transcendence'
+T143	pos_IN 916 921	among
+#142	AnnotatorNotes T143	lemma = 'among'
+T144	pos_DT 922 925	the
+#143	AnnotatorNotes T144	lemma = 'the'
+T145	pos_JJ 926 937	intractable
+#144	AnnotatorNotes T145	lemma = 'intractable'
+T146	pos_NN 938 945	disease
+#145	AnnotatorNotes T146	lemma = 'disease'
+T147	pos_NN 946 951	group
+#146	AnnotatorNotes T147	lemma = 'group'
+T148	pos_Fc 951 952	,
+#147	AnnotatorNotes T148	lemma = ','
+T149	pos_CC 953 956	and
+#148	AnnotatorNotes T149	lemma = 'and'
+T150	pos_IN 957 961	that
+#149	AnnotatorNotes T150	lemma = 'that'
+T151	pos_EX 962 967	there
+#150	AnnotatorNotes T151	lemma = 'there'
+T152	pos_VBZ 968 970	is
+#151	AnnotatorNotes T152	lemma = 'be'
+T153	pos_DT 971 972	a
+#152	AnnotatorNotes T153	lemma = 'a'
+T154	pos_JJ 973 979	strong
+#153	AnnotatorNotes T154	lemma = 'strong'
+T155	pos_JJ 980 986	direct
+#154	AnnotatorNotes T155	lemma = 'direct'
+T156	pos_NN 987 998	correlation
+#155	AnnotatorNotes T156	lemma = 'correlation'
+T157	pos_IN 999 1006	between
+#156	AnnotatorNotes T157	lemma = 'between'
+T158	pos_NN 1007 1025	self-transcendence
+#157	AnnotatorNotes T158	lemma = 'self-transcendence'
+T159	pos_CC 1026 1029	and
+#158	AnnotatorNotes T159	lemma = 'and'
+T160	pos_NNS 1030 1041	respondents
+#159	AnnotatorNotes T160	lemma = 'respondent'
+T161	pos_Fw 1041 1042	'
+#160	AnnotatorNotes T161	lemma = '''
+T162	pos_JJ 1043 1053	subjective
+#161	AnnotatorNotes T162	lemma = 'subjective'
+T163	pos_NN 1054 1064	well-being
+#162	AnnotatorNotes T163	lemma = 'well-being'
+T164	pos_Fp 1064 1065	.
+#163	AnnotatorNotes T164	lemma = '.'
+T165	pos_DT 1066 1069	The
+#164	AnnotatorNotes T165	lemma = 'the'
+T166	pos_NNS 1070 1078	outcomes
+#165	AnnotatorNotes T166	lemma = 'outcome'
+T167	pos_IN 1079 1081	of
+#166	AnnotatorNotes T167	lemma = 'of'
+T168	pos_DT 1082 1086	this
+#167	AnnotatorNotes T168	lemma = 'this'
+T169	pos_NN 1087 1095	research
+#168	AnnotatorNotes T169	lemma = 'research'
+T170	pos_MD 1096 1099	can
+#169	AnnotatorNotes T170	lemma = 'can'
+T171	pos_VB 1100 1104	help
+#170	AnnotatorNotes T171	lemma = 'help'
+T172	pos_PRP 1105 1107	us
+#171	AnnotatorNotes T172	lemma = 'us'
+T173	pos_VB 1108 1113	learn
+#172	AnnotatorNotes T173	lemma = 'learn'
+T174	pos_RBR 1114 1118	more
+#173	AnnotatorNotes T174	lemma = 'many'
+T175	pos_IN 1119 1124	about
+#174	AnnotatorNotes T175	lemma = 'about'
+T176	pos_DT 1125 1128	the
+#175	AnnotatorNotes T176	lemma = 'the'
+T177	pos_NN 1129 1133	role
+#176	AnnotatorNotes T177	lemma = 'role'
+T178	pos_IN 1134 1136	of
+#177	AnnotatorNotes T178	lemma = 'of'
+T179	pos_NN 1137 1155	self-transcendence
+#178	AnnotatorNotes T179	lemma = 'self-transcendence'
+T180	pos_IN 1156 1158	on
+#179	AnnotatorNotes T180	lemma = 'on'
+T181	pos_NNS 1159 1167	patients
+#180	AnnotatorNotes T181	lemma = 'patient'
+T182	pos_IN 1168 1172	with
+#181	AnnotatorNotes T182	lemma = 'with'
+T183	pos_JJ 1173 1184	intractable
+#182	AnnotatorNotes T183	lemma = 'intractable'
+T184	pos_NN 1185 1192	disease
+#183	AnnotatorNotes T184	lemma = 'disease'
+T185	pos_Fd 1193 1194	:
+#184	AnnotatorNotes T185	lemma = ':'
+T186	pos_WRB 1195 1198	how
+#185	AnnotatorNotes T186	lemma = 'how'
+T187	pos_NN 1199 1217	self-transcendence
+#186	AnnotatorNotes T187	lemma = 'self-transcendence'
+T188	pos_VBZ 1218 1223	helps
+#187	AnnotatorNotes T188	lemma = 'help'
+T189	pos_PRP 1224 1228	them
+#188	AnnotatorNotes T189	lemma = 'them'
+T190	pos_TO 1229 1231	to
+#189	AnnotatorNotes T190	lemma = 'to'
+T191	pos_VB 1232 1238	regain
+#190	AnnotatorNotes T191	lemma = 'regain'
+T192	pos_PRP2 1239 1244	their
+#191	AnnotatorNotes T192	lemma = 'their'
+T193	pos_JJ 1245 1251	mental
+#192	AnnotatorNotes T193	lemma = 'mental'
+T194	pos_NN 1252 1262	well-being
+#193	AnnotatorNotes T194	lemma = 'well-being'
+T195	pos_Fp 1262 1263	.
+#194	AnnotatorNotes T195	lemma = '.'

@@ -1,0 +1,328 @@
+T1	Absence_explanation 2 16	The connection
+#1	AnnotatorNotes T1	Current paper analyzes the connection
+T2	Absence_explanation 63 88	factors that influence it	
+#2	AnnotatorNotes T2	socio-cultural factors
+T3	Lack_of_ref_device 156 159	The
+#3	AnnotatorNotes T3	The paper constructs the
+T4	Absence_comp_colloc 162 166	core	 	 	 	 	 	 	 	 
+#4	AnnotatorNotes T4	so-called core
+T5	Pronouns 224 226	it	
+#5	AnnotatorNotes T5	which 
+T6	Abs_comp_clause 434 438	Thus	
+#6	AnnotatorNotes T6	The results suggest that
+T7	Adverbs 700 704	have	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+#7	AnnotatorNotes T7	also have
+T8	Lack_of_ref_device 748 756	Striking
+#8	AnnotatorNotes T8	The paper also reveals striking differences
+A1	Weight-language T1 Minor
+A2	Weight-language T2 Minor
+T9	Redundant_comp 89 127	has been analyzed in the current paper
+A3	Delete T9
+T10	Grammar 200 220	has been constructed
+A4	Delete T10
+T11	Tense_choice 227 230	was
+A5	Weight-language T11 Major
+#9	AnnotatorNotes T11	is
+A6	Weight-language T5 Major
+A7	Weight-language T6 Minor
+A8	Weight-language T7 Minor
+A9	Weight-language T9 Minor
+A10	Weight-language T3 Minor
+A11	Weight-language T4 Minor
+A12	Weight-language T10 Major
+A13	Weight-language T8 Minor
+T12	Conjunctions 224 226	it
+A14	Cause T12 Other
+A15	Weight-language T12 Major
+T13	pos_﻿ 0 1	﻿
+#10	AnnotatorNotes T13	lemma = '﻿'
+T14	pos_NP 2 5	The
+#11	AnnotatorNotes T14	lemma = 'the'
+T15	pos_NN 6 16	connection
+#12	AnnotatorNotes T15	lemma = 'connection'
+T16	pos_IN 17 24	between
+#13	AnnotatorNotes T16	lemma = 'between'
+T17	pos_NN 25 28	age
+#14	AnnotatorNotes T17	lemma = 'age'
+T18	pos_NN 29 43	discrimination
+#15	AnnotatorNotes T18	lemma = 'discrimination'
+T19	pos_CC 44 47	and
+#16	AnnotatorNotes T19	lemma = 'and'
+T20	pos_Z 48 51	two
+#17	AnnotatorNotes T20	lemma = '2'
+T21	pos_NNS 52 58	groups
+#18	AnnotatorNotes T21	lemma = 'group'
+T22	pos_IN 59 61	of
+#19	AnnotatorNotes T22	lemma = 'of'
+T23	pos_NNS 63 70	factors
+#20	AnnotatorNotes T23	lemma = 'factor'
+T24	pos_WDT 71 75	that
+#21	AnnotatorNotes T24	lemma = 'that'
+T25	pos_VBP 76 85	influence
+#22	AnnotatorNotes T25	lemma = 'influence'
+T26	pos_PRP 86 88	it
+#23	AnnotatorNotes T26	lemma = 'it'
+T27	pos_VBZ 89 92	has
+#24	AnnotatorNotes T27	lemma = 'have'
+T28	pos_VBN 93 97	been
+#25	AnnotatorNotes T28	lemma = 'be'
+T29	pos_VBN 98 106	analyzed
+#26	AnnotatorNotes T29	lemma = 'analyze'
+T30	pos_IN 107 109	in
+#27	AnnotatorNotes T30	lemma = 'in'
+T31	pos_DT 110 113	the
+#28	AnnotatorNotes T31	lemma = 'the'
+T32	pos_JJ 114 121	current
+#29	AnnotatorNotes T32	lemma = 'current'
+T33	pos_NN 122 127	paper
+#30	AnnotatorNotes T33	lemma = 'paper'
+T34	pos_IN 128 130	on
+#31	AnnotatorNotes T34	lemma = 'on'
+T35	pos_DT 131 134	the
+#32	AnnotatorNotes T35	lemma = 'the'
+T36	pos_NN 135 140	basis
+#33	AnnotatorNotes T36	lemma = 'basis'
+T37	pos_IN 141 143	of
+#34	AnnotatorNotes T37	lemma = 'of'
+T38	pos_NP 144 147	ESS
+#35	AnnotatorNotes T38	lemma = 'ess'
+T39	pos_NNS 148 152	data
+#36	AnnotatorNotes T39	lemma = 'data'
+T40	pos_Fp 152 153	.
+#37	AnnotatorNotes T40	lemma = '.'
+T41	pos_DT 156 159	The
+#38	AnnotatorNotes T41	lemma = 'the'
+T42	pos_JJ 162 166	core
+#39	AnnotatorNotes T42	lemma = 'core'
+T43	pos_NN 167 175	variable
+#40	AnnotatorNotes T43	lemma = 'variable'
+T44	pos_IN 176 178	of
+#41	AnnotatorNotes T44	lemma = 'of'
+T45	pos_Fe 179 180	"
+#42	AnnotatorNotes T45	lemma = '"'
+T46	pos_NN 180 183	age
+#43	AnnotatorNotes T46	lemma = 'age'
+T47	pos_NN 184 198	discrimination
+#44	AnnotatorNotes T47	lemma = 'discrimination'
+T48	pos_Fe 198 199	"
+#45	AnnotatorNotes T48	lemma = '"'
+T49	pos_VBZ 200 203	has
+#46	AnnotatorNotes T49	lemma = 'have'
+T50	pos_VBN 204 208	been
+#47	AnnotatorNotes T50	lemma = 'be'
+T51	pos_VBN 209 220	constructed
+#48	AnnotatorNotes T51	lemma = 'construct'
+T52	pos_Fx 220 221	;
+#49	AnnotatorNotes T52	lemma = ';'
+T53	pos_PRP 224 226	it
+#50	AnnotatorNotes T53	lemma = 'it'
+T54	pos_VBD 227 230	was
+#51	AnnotatorNotes T54	lemma = 'be'
+T55	pos_VBN 232 236	used
+#52	AnnotatorNotes T55	lemma = 'use'
+T56	pos_IN 237 239	as
+#53	AnnotatorNotes T56	lemma = 'as'
+T57	pos_DT 240 241	a
+#54	AnnotatorNotes T57	lemma = 'a'
+T58	pos_JJ 242 251	dependent
+#55	AnnotatorNotes T58	lemma = 'dependent'
+T59	pos_NN 252 260	variable
+#56	AnnotatorNotes T59	lemma = 'variable'
+T60	pos_TO 261 263	to
+#57	AnnotatorNotes T60	lemma = 'to'
+T61	pos_VB 264 269	check
+#58	AnnotatorNotes T61	lemma = 'check'
+T62	pos_DT 270 273	the
+#59	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NN 274 283	influence
+#60	AnnotatorNotes T63	lemma = 'influence'
+T64	pos_IN 284 286	of
+#61	AnnotatorNotes T64	lemma = 'of'
+T65	pos_Z 287 290	two
+#62	AnnotatorNotes T65	lemma = '2'
+T66	pos_NNS 291 297	groups
+#63	AnnotatorNotes T66	lemma = 'group'
+T67	pos_IN 298 300	of
+#64	AnnotatorNotes T67	lemma = 'of'
+T68	pos_JJ 301 312	independent
+#65	AnnotatorNotes T68	lemma = 'independent'
+T69	pos_Fg 313 314	-
+#66	AnnotatorNotes T69	lemma = '-'
+T70	pos_JJ 315 323	personal
+#67	AnnotatorNotes T70	lemma = 'personal'
+T71	pos_NNS 324 339	characteristics
+#68	AnnotatorNotes T71	lemma = 'characteristic'
+T72	pos_Fpa 340 341	(
+#69	AnnotatorNotes T72	lemma = '('
+T73	pos_VBG 341 350	including
+#70	AnnotatorNotes T73	lemma = 'include'
+T74	pos_JJ 351 368	socio-demographic
+#71	AnnotatorNotes T74	lemma = 'socio-demographic'
+T75	pos_NNS 369 376	indexes
+#72	AnnotatorNotes T75	lemma = 'index'
+T76	pos_Fpt 376 377	)
+#73	AnnotatorNotes T76	lemma = ')'
+T77	pos_CC 378 381	and
+#74	AnnotatorNotes T77	lemma = 'and'
+T78	pos_JJ 382 396	socio-cultural
+#75	AnnotatorNotes T78	lemma = 'socio-cultural'
+T79	pos_NNS 397 404	factors
+#76	AnnotatorNotes T79	lemma = 'factor'
+T80	pos_Fpa 405 406	(
+#77	AnnotatorNotes T80	lemma = '('
+T81	pos_VBG 406 415	including
+#78	AnnotatorNotes T81	lemma = 'include'
+T82	pos_JJ 416 422	social
+#79	AnnotatorNotes T82	lemma = 'social'
+T83	pos_NN 423 430	context
+#80	AnnotatorNotes T83	lemma = 'context'
+T84	pos_Fpt 430 431	)
+#81	AnnotatorNotes T84	lemma = ')'
+T85	pos_Fp 431 432	.
+#82	AnnotatorNotes T85	lemma = '.'
+T86	pos_RB 434 438	Thus
+#83	AnnotatorNotes T86	lemma = 'thus'
+T87	pos_Fc 438 439	,
+#84	AnnotatorNotes T87	lemma = ','
+T88	pos_NN 440 446	gender
+#85	AnnotatorNotes T88	lemma = 'gender'
+T89	pos_Fc 446 447	,
+#86	AnnotatorNotes T89	lemma = ','
+T90	pos_NN 448 457	education
+#87	AnnotatorNotes T90	lemma = 'education'
+T91	pos_Fc 457 458	,
+#88	AnnotatorNotes T91	lemma = ','
+T92	pos_NN 459 465	income
+#89	AnnotatorNotes T92	lemma = 'income'
+T93	pos_CC 466 469	and
+#90	AnnotatorNotes T93	lemma = 'and'
+T94	pos_VBG 470 479	belonging
+#91	AnnotatorNotes T94	lemma = 'belong'
+T95	pos_TO 480 482	to
+#92	AnnotatorNotes T95	lemma = 'to'
+T96	pos_DT 483 484	a
+#93	AnnotatorNotes T96	lemma = 'a'
+T97	pos_NN 485 493	minority
+#94	AnnotatorNotes T97	lemma = 'minority'
+T98	pos_NN 494 499	group
+#95	AnnotatorNotes T98	lemma = 'group'
+T99	pos_VBP 500 503	are
+#96	AnnotatorNotes T99	lemma = 'be'
+T100	pos_RB 504 512	strongly
+#97	AnnotatorNotes T100	lemma = 'strongly'
+T101	pos_VBN 513 520	related
+#98	AnnotatorNotes T101	lemma = 'relate'
+T102	pos_TO 521 523	to
+#99	AnnotatorNotes T102	lemma = 'to'
+T103	pos_VBG 524 536	experiencing
+#100	AnnotatorNotes T103	lemma = 'experience'
+T104	pos_DT 537 539	an
+#101	AnnotatorNotes T104	lemma = 'a'
+T105	pos_NN 540 546	ageism
+#102	AnnotatorNotes T105	lemma = 'ageism'
+T106	pos_Fp 546 547	.
+#103	AnnotatorNotes T106	lemma = '.'
+T107	pos_RB 548 556	Moreover
+#104	AnnotatorNotes T107	lemma = 'moreover'
+T108	pos_Fc 556 557	,
+#105	AnnotatorNotes T108	lemma = ','
+T109	pos_PDT 558 562	such
+#106	AnnotatorNotes T109	lemma = 'such'
+T110	pos_NNS 563 570	indexes
+#107	AnnotatorNotes T110	lemma = 'index'
+T111	pos_IN 571 573	as
+#108	AnnotatorNotes T111	lemma = 'as'
+T112	pos_NN 574 586	satisfaction
+#109	AnnotatorNotes T112	lemma = 'satisfaction'
+T113	pos_IN 587 591	with
+#110	AnnotatorNotes T113	lemma = 'with'
+T114	pos_NN 592 596	life
+#111	AnnotatorNotes T114	lemma = 'life'
+T115	pos_Fc 596 597	,
+#112	AnnotatorNotes T115	lemma = ','
+T116	pos_JJ 598 608	subjective
+#113	AnnotatorNotes T116	lemma = 'subjective'
+T117	pos_NN 609 615	health
+#114	AnnotatorNotes T117	lemma = 'health'
+T118	pos_Fc 615 616	,
+#115	AnnotatorNotes T118	lemma = ','
+T119	pos_NN 617 622	trust
+#116	AnnotatorNotes T119	lemma = 'trust'
+T120	pos_IN 623 625	in
+#117	AnnotatorNotes T120	lemma = 'in'
+T121	pos_JJ 626 631	other
+#118	AnnotatorNotes T121	lemma = 'other'
+T122	pos_NNS 632 638	people
+#119	AnnotatorNotes T122	lemma = 'people'
+T123	pos_Fc 638 639	,
+#120	AnnotatorNotes T123	lemma = ','
+T124	pos_CC 640 643	and
+#121	AnnotatorNotes T124	lemma = 'and'
+T125	pos_NN 644 655	seriousness
+#122	AnnotatorNotes T125	lemma = 'seriousness'
+T126	pos_IN 656 658	of
+#123	AnnotatorNotes T126	lemma = 'of'
+T127	pos_DT 659 662	the
+#124	AnnotatorNotes T127	lemma = 'the'
+T128	pos_NN 663 677	discrimination
+#125	AnnotatorNotes T128	lemma = 'discrimination'
+T129	pos_NN 678 683	level
+#126	AnnotatorNotes T129	lemma = 'level'
+T130	pos_IN 684 686	in
+#127	AnnotatorNotes T130	lemma = 'in'
+T131	pos_DT 687 690	the
+#128	AnnotatorNotes T131	lemma = 'the'
+T132	pos_NN 691 698	country
+#129	AnnotatorNotes T132	lemma = 'country'
+T133	pos_VBP 700 704	have
+#130	AnnotatorNotes T133	lemma = 'have'
+T134	pos_NN 705 720	interconnection
+#131	AnnotatorNotes T134	lemma = 'interconnection'
+T135	pos_IN 721 725	with
+#132	AnnotatorNotes T135	lemma = 'with'
+T136	pos_DT 726 729	the
+#133	AnnotatorNotes T136	lemma = 'the'
+T137	pos_NN 730 735	level
+#134	AnnotatorNotes T137	lemma = 'level'
+T138	pos_IN 736 738	of
+#135	AnnotatorNotes T138	lemma = 'of'
+T139	pos_NN 739 745	ageism
+#136	AnnotatorNotes T139	lemma = 'ageism'
+T140	pos_Fp 745 746	.
+#137	AnnotatorNotes T140	lemma = '.'
+T141	pos_VBG 748 756	Striking
+#138	AnnotatorNotes T141	lemma = 'strike'
+T142	pos_NNS 757 768	differences
+#139	AnnotatorNotes T142	lemma = 'difference'
+T143	pos_IN 769 771	in
+#140	AnnotatorNotes T143	lemma = 'in'
+T144	pos_DT 772 775	the
+#141	AnnotatorNotes T144	lemma = 'the'
+T145	pos_NN 776 781	level
+#142	AnnotatorNotes T145	lemma = 'level'
+T146	pos_IN 782 784	of
+#143	AnnotatorNotes T146	lemma = 'of'
+T147	pos_VBN 785 796	experienced
+#144	AnnotatorNotes T147	lemma = 'experience'
+T148	pos_NN 797 811	discrimination
+#145	AnnotatorNotes T148	lemma = 'discrimination'
+T149	pos_VBP 812 816	have
+#146	AnnotatorNotes T149	lemma = 'have'
+T150	pos_VBN 817 821	been
+#147	AnnotatorNotes T150	lemma = 'be'
+T151	pos_RB 822 826	also
+#148	AnnotatorNotes T151	lemma = 'also'
+T152	pos_VBN 827 832	found
+#149	AnnotatorNotes T152	lemma = 'find'
+T153	pos_RP 833 836	out
+#150	AnnotatorNotes T153	lemma = 'out'
+T154	pos_IN 837 839	in
+#151	AnnotatorNotes T154	lemma = 'in'
+T155	pos_JJ 840 849	different
+#152	AnnotatorNotes T155	lemma = 'different'
+T156	pos_NP 850 858	European
+#153	AnnotatorNotes T156	lemma = 'european'
+T157	pos_NNS 859 868	countries
+#154	AnnotatorNotes T157	lemma = 'country'
+T158	pos_Fp 868 869	.
+#155	AnnotatorNotes T158	lemma = '.'

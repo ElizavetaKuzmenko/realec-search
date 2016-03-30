@@ -1,0 +1,302 @@
+T1	Punctuation 40 41	-	
+T3	lex_item_choice 326 335	basically	
+#3	AnnotatorNotes T3	mostly
+T5	lex_item_choice 474 484	unexplored	
+#5	AnnotatorNotes T5	explored
+T7	Word_choice 492 512	in the first instant	
+T9	Lack_of_ref_device 526 537	course pape
+#9	AnnotatorNotes T9	this course paper
+T10	lex_item_choice 631 642	secondarily	
+#10	AnnotatorNotes T10	the second goal is
+T11	Word_choice 643 721	to pick out the negative functions of hope and investigate them more carefully	
+#11	AnnotatorNotes T11	to determine and investigate the negative functions of hope
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Delete T1
+T2	Quant_choice 286 291	a few
+A4	Weight-language T2 Minor
+#1	AnnotatorNotes T2	some
+T12	lex_item_choice 292 305	researches of
+A5	Weight-language T12 Minor
+#2	AnnotatorNotes T12	studies on
+A6	Weight-language T3 Minor
+T4	Punctuation 368 380	Nevertheless
+A7	Weight-language T4 Minor
+#4	AnnotatorNotes T4	Nevertheless,
+A8	Weight-language T5 Minor
+T6	Punctuation 487 491	Thus
+A9	Weight-language T6 Minor
+#6	AnnotatorNotes T6	Thus,
+A10	Weight-language T10 Minor
+A11	Weight-language T9 Minor
+A12	Delete T7
+T13	lex_item_choice 517 521	goal
+#7	AnnotatorNotes T13	first goal
+T14	pos_﻿ 0 1	﻿
+#12	AnnotatorNotes T14	lemma = '﻿'
+T15	pos_NP 1 14	Psychological
+#13	AnnotatorNotes T15	lemma = 'psychological'
+T16	pos_NNS 15 24	functions
+#14	AnnotatorNotes T16	lemma = 'function'
+T17	pos_IN 25 27	of
+#15	AnnotatorNotes T17	lemma = 'of'
+T18	pos_NN 28 32	hope
+#16	AnnotatorNotes T18	lemma = 'hope'
+T19	pos_Fp 32 33	.
+#17	AnnotatorNotes T19	lemma = '.'
+T20	pos_NN 34 38	Hope
+#18	AnnotatorNotes T20	lemma = 'hope'
+T21	pos_Fg 40 41	-
+#19	AnnotatorNotes T21	lemma = '-'
+T22	pos_VBZ 43 45	is
+#20	AnnotatorNotes T22	lemma = 'be'
+T23	pos_NN 46 49	one
+#21	AnnotatorNotes T23	lemma = 'one'
+T24	pos_IN 50 52	of
+#22	AnnotatorNotes T24	lemma = 'of'
+T25	pos_DT 53 56	the
+#23	AnnotatorNotes T25	lemma = 'the'
+T26	pos_RBS 57 61	most
+#24	AnnotatorNotes T26	lemma = 'many'
+T27	pos_JJ 62 71	important
+#25	AnnotatorNotes T27	lemma = 'important'
+T28	pos_JJ 73 78	human
+#26	AnnotatorNotes T28	lemma = 'human'
+T29	pos_JJ 79 88	spiritual
+#27	AnnotatorNotes T29	lemma = 'spiritual'
+T30	pos_NNS 89 99	properties
+#28	AnnotatorNotes T30	lemma = 'property'
+T31	pos_Fc 99 100	,
+#29	AnnotatorNotes T31	lemma = ','
+T32	pos_WDT 101 106	which
+#30	AnnotatorNotes T32	lemma = 'which'
+T33	pos_VBZ 107 112	helps
+#31	AnnotatorNotes T33	lemma = 'help'
+T34	pos_TO 113 115	to
+#32	AnnotatorNotes T34	lemma = 'to'
+T35	pos_VB 116 120	cope
+#33	AnnotatorNotes T35	lemma = 'cope'
+T36	pos_IN 121 125	with
+#34	AnnotatorNotes T36	lemma = 'with'
+T37	pos_NN 126 130	life
+#35	AnnotatorNotes T37	lemma = 'life'
+T38	pos_POS 130 132	's
+#36	AnnotatorNotes T38	lemma = ''s'
+T39	pos_NNS 133 145	difficulties
+#37	AnnotatorNotes T39	lemma = 'difficulty'
+T40	pos_Fp 145 146	.
+#38	AnnotatorNotes T40	lemma = '.'
+T41	pos_IN 148 150	In
+#39	AnnotatorNotes T41	lemma = 'in'
+T42	pos_PRP2 151 154	our
+#40	AnnotatorNotes T42	lemma = 'our'
+T43	pos_JJ 155 160	daily
+#41	AnnotatorNotes T43	lemma = 'daily'
+T44	pos_NNS 161 166	lives
+#42	AnnotatorNotes T44	lemma = 'life'
+T45	pos_PRP 167 169	it
+#43	AnnotatorNotes T45	lemma = 'it'
+T46	pos_VBZ 170 173	has
+#44	AnnotatorNotes T46	lemma = 'have'
+T47	pos_PRP 174 178	many
+#45	AnnotatorNotes T47	lemma = 'many'
+T48	pos_NNS 179 188	functions
+#46	AnnotatorNotes T48	lemma = 'function'
+T49	pos_Fc 188 189	,
+#47	AnnotatorNotes T49	lemma = ','
+T50	pos_WDT 190 195	which
+#48	AnnotatorNotes T50	lemma = 'which'
+T51	pos_MD 196 199	may
+#49	AnnotatorNotes T51	lemma = 'may'
+T52	pos_VB 200 204	seem
+#50	AnnotatorNotes T52	lemma = 'seem'
+T53	pos_TO 205 207	to
+#51	AnnotatorNotes T53	lemma = 'to'
+T54	pos_VB 208 210	be
+#52	AnnotatorNotes T54	lemma = 'be'
+T55	pos_RB 211 214	not
+#53	AnnotatorNotes T55	lemma = 'not'
+T56	pos_JJ 215 226	significant
+#54	AnnotatorNotes T56	lemma = 'significant'
+T57	pos_JJ 227 233	enough
+#55	AnnotatorNotes T57	lemma = 'enough'
+T58	pos_TO 234 236	to
+#56	AnnotatorNotes T58	lemma = 'to'
+T59	pos_VB 237 239	be
+#57	AnnotatorNotes T59	lemma = 'be'
+T60	pos_VBN 240 246	become
+#58	AnnotatorNotes T60	lemma = 'become'
+T61	pos_DT 247 249	an
+#59	AnnotatorNotes T61	lemma = 'a'
+T62	pos_NN 250 256	object
+#60	AnnotatorNotes T62	lemma = 'object'
+T63	pos_IN 257 259	of
+#61	AnnotatorNotes T63	lemma = 'of'
+T64	pos_NN 261 269	research
+#62	AnnotatorNotes T64	lemma = 'research'
+T65	pos_Fp 269 270	.
+#63	AnnotatorNotes T65	lemma = '.'
+T66	pos_DT 271 274	The
+#64	AnnotatorNotes T66	lemma = 'the'
+T67	pos_NNS 275 282	results
+#65	AnnotatorNotes T67	lemma = 'result'
+T68	pos_IN 283 285	of
+#66	AnnotatorNotes T68	lemma = 'of'
+T69	pos_DT 286 287	a
+#67	AnnotatorNotes T69	lemma = 'a'
+T70	pos_PRP 288 291	few
+#68	AnnotatorNotes T70	lemma = 'few'
+T71	pos_VBZ 292 302	researches
+#69	AnnotatorNotes T71	lemma = 'research'
+T72	pos_IN 303 305	of
+#70	AnnotatorNotes T72	lemma = 'of'
+T73	pos_DT 306 310	this
+#71	AnnotatorNotes T73	lemma = 'this'
+T74	pos_NN 311 316	topic
+#72	AnnotatorNotes T74	lemma = 'topic'
+T75	pos_VB 317 325	identify
+#73	AnnotatorNotes T75	lemma = 'identify'
+T76	pos_RB 326 335	basically
+#74	AnnotatorNotes T76	lemma = 'basically'
+T77	pos_DT 336 339	the
+#75	AnnotatorNotes T77	lemma = 'the'
+T78	pos_JJ 340 348	positive
+#76	AnnotatorNotes T78	lemma = 'positive'
+T79	pos_NNS 349 358	functions
+#77	AnnotatorNotes T79	lemma = 'function'
+T80	pos_IN 359 361	of
+#78	AnnotatorNotes T80	lemma = 'of'
+T81	pos_NN 362 366	hope
+#79	AnnotatorNotes T81	lemma = 'hope'
+T82	pos_Fp 366 367	.
+#80	AnnotatorNotes T82	lemma = '.'
+T83	pos_RB 368 380	Nevertheless
+#81	AnnotatorNotes T83	lemma = 'nevertheless'
+T84	pos_RB 381 390	sometimes
+#82	AnnotatorNotes T84	lemma = 'sometimes'
+T85	pos_NN 391 395	hope
+#83	AnnotatorNotes T85	lemma = 'hope'
+T86	pos_MD 396 399	may
+#84	AnnotatorNotes T86	lemma = 'may'
+T87	pos_VB 400 404	have
+#85	AnnotatorNotes T87	lemma = 'have'
+T88	pos_JJ 405 408	bad
+#86	AnnotatorNotes T88	lemma = 'bad'
+T89	pos_NN 409 418	influence
+#87	AnnotatorNotes T89	lemma = 'influence'
+T90	pos_IN 419 421	on
+#88	AnnotatorNotes T90	lemma = 'on'
+T91	pos_NN 422 425	one
+#89	AnnotatorNotes T91	lemma = 'one'
+T92	pos_POS 425 427	's
+#90	AnnotatorNotes T92	lemma = ''s'
+T93	pos_NN 428 432	life
+#91	AnnotatorNotes T93	lemma = 'life'
+T94	pos_Fc 432 433	,
+#92	AnnotatorNotes T94	lemma = ','
+T95	pos_CC 434 437	and
+#93	AnnotatorNotes T95	lemma = 'and'
+T96	pos_DT 438 442	this
+#94	AnnotatorNotes T96	lemma = 'this'
+T97	pos_NN 443 451	property
+#95	AnnotatorNotes T97	lemma = 'property'
+T98	pos_IN 452 454	of
+#96	AnnotatorNotes T98	lemma = 'of'
+T99	pos_NN 455 459	hope
+#97	AnnotatorNotes T99	lemma = 'hope'
+T100	pos_VBZ 460 467	remains
+#98	AnnotatorNotes T100	lemma = 'remain'
+T101	pos_TO 468 470	to
+#99	AnnotatorNotes T101	lemma = 'to'
+T102	pos_VB 471 473	be
+#100	AnnotatorNotes T102	lemma = 'be'
+T103	pos_JJ 474 484	unexplored
+#101	AnnotatorNotes T103	lemma = 'unexplored'
+T104	pos_Fp 484 485	.
+#102	AnnotatorNotes T104	lemma = '.'
+T105	pos_RB 487 491	Thus
+#103	AnnotatorNotes T105	lemma = 'thus'
+T106	pos_IN 492 494	in
+#104	AnnotatorNotes T106	lemma = 'in'
+T107	pos_DT 495 498	the
+#105	AnnotatorNotes T107	lemma = 'the'
+T108	pos_JJ 499 504	first
+#106	AnnotatorNotes T108	lemma = '1'
+T109	pos_NN 505 512	instant
+#107	AnnotatorNotes T109	lemma = 'instant'
+T110	pos_DT 513 516	the
+#108	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NN 517 521	goal
+#109	AnnotatorNotes T111	lemma = 'goal'
+T112	pos_IN 522 524	of
+#110	AnnotatorNotes T112	lemma = 'of'
+T113	pos_NN 526 532	course
+#111	AnnotatorNotes T113	lemma = 'course'
+T114	pos_NN 533 538	paper
+#112	AnnotatorNotes T114	lemma = 'paper'
+T115	pos_VBZ 539 541	is
+#113	AnnotatorNotes T115	lemma = 'be'
+T116	pos_TO 542 544	to
+#114	AnnotatorNotes T116	lemma = 'to'
+T117	pos_VB 545 552	explore
+#115	AnnotatorNotes T117	lemma = 'explore'
+T118	pos_DT 553 556	the
+#116	AnnotatorNotes T118	lemma = 'the'
+T119	pos_NN 557 563	impact
+#117	AnnotatorNotes T119	lemma = 'impact'
+T120	pos_IN 564 566	of
+#118	AnnotatorNotes T120	lemma = 'of'
+T121	pos_NN 567 571	hope
+#119	AnnotatorNotes T121	lemma = 'hope'
+T122	pos_IN 572 574	on
+#120	AnnotatorNotes T122	lemma = 'on'
+T123	pos_NN 575 578	one
+#121	AnnotatorNotes T123	lemma = 'one'
+T124	pos_POS 578 580	's
+#122	AnnotatorNotes T124	lemma = ''s'
+T125	pos_NN 581 585	life
+#123	AnnotatorNotes T125	lemma = 'life'
+T126	pos_CC 586 589	and
+#124	AnnotatorNotes T126	lemma = 'and'
+T127	pos_NNS 590 599	decisions
+#125	AnnotatorNotes T127	lemma = 'decision'
+T128	pos_RB 600 606	in all
+#126	AnnotatorNotes T128	lemma = 'in_all'
+T129	pos_PRP2 607 610	its
+#127	AnnotatorNotes T129	lemma = 'its'
+T130	pos_NNS 611 625	manifestations
+#128	AnnotatorNotes T130	lemma = 'manifestation'
+T131	pos_Fc 625 626	,
+#129	AnnotatorNotes T131	lemma = ','
+T132	pos_CC 627 630	and
+#130	AnnotatorNotes T132	lemma = 'and'
+T133	pos_RB 631 642	secondarily
+#131	AnnotatorNotes T133	lemma = 'secondarily'
+T134	pos_TO 643 645	to
+#132	AnnotatorNotes T134	lemma = 'to'
+T135	pos_VB 646 650	pick
+#133	AnnotatorNotes T135	lemma = 'pick'
+T136	pos_RP 651 654	out
+#134	AnnotatorNotes T136	lemma = 'out'
+T137	pos_DT 655 658	the
+#135	AnnotatorNotes T137	lemma = 'the'
+T138	pos_JJ 659 667	negative
+#136	AnnotatorNotes T138	lemma = 'negative'
+T139	pos_NNS 668 677	functions
+#137	AnnotatorNotes T139	lemma = 'function'
+T140	pos_IN 678 680	of
+#138	AnnotatorNotes T140	lemma = 'of'
+T141	pos_NN 681 685	hope
+#139	AnnotatorNotes T141	lemma = 'hope'
+T142	pos_CC 686 689	and
+#140	AnnotatorNotes T142	lemma = 'and'
+T143	pos_VB 690 701	investigate
+#141	AnnotatorNotes T143	lemma = 'investigate'
+T144	pos_PRP 702 706	them
+#142	AnnotatorNotes T144	lemma = 'them'
+T145	pos_RBR 707 711	more
+#143	AnnotatorNotes T145	lemma = 'many'
+T146	pos_RB 712 721	carefully
+#144	AnnotatorNotes T146	lemma = 'carefully'
+T147	pos_Fp 721 722	.
+#145	AnnotatorNotes T147	lemma = '.'

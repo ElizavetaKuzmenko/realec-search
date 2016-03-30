@@ -1,0 +1,889 @@
+T1	Tense_choice 276 286	ever tried
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	had tried
+T2	Word_order 287 330	at least once a kind of treatment with aloe
+A4	Cause T2 Other
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	any kind of aloe treatment at least once
+T3	lex_item_choice 1470 1530	or for the treatment of a variety of conditions and diseases
+A7	Cause T3 Other
+A8	Weight-language T3 Critical
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	as a remedy
+T4	Prepositions 1563 1570	through
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	from
+T5	lex_item_choice 1809 1822	in moderation
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	sufficiently
+T6	pos_NN 0 6	Report
+#6	AnnotatorNotes T6	lemma = 'report'
+T7	pos_IN 7 9	on
+#7	AnnotatorNotes T7	lemma = 'on'
+T8	pos_DT 10 13	the
+#8	AnnotatorNotes T8	lemma = 'the'
+T9	pos_NN 14 17	use
+#9	AnnotatorNotes T9	lemma = 'use'
+T10	pos_IN 18 20	of
+#10	AnnotatorNotes T10	lemma = 'of'
+T11	pos_NP 21 30	Aloe Vera
+#11	AnnotatorNotes T11	lemma = 'aloe_vera'
+T12	pos_IN 31 33	in
+#12	AnnotatorNotes T12	lemma = 'in'
+T13	pos_NN 34 42	medicine
+#13	AnnotatorNotes T13	lemma = 'medicine'
+T14	pos_Fp 42 43	.
+#14	AnnotatorNotes T14	lemma = '.'
+T15	pos_NN 44 56	Introduction
+#15	AnnotatorNotes T15	lemma = 'introduction'
+T16	pos_DT 57 61	This
+#16	AnnotatorNotes T16	lemma = 'this'
+T17	pos_NN 62 68	report
+#17	AnnotatorNotes T17	lemma = 'report'
+T18	pos_VBZ 69 77	provides
+#18	AnnotatorNotes T18	lemma = 'provide'
+T19	pos_DT 78 79	a
+#19	AnnotatorNotes T19	lemma = 'a'
+T20	pos_NN 80 91	description
+#20	AnnotatorNotes T20	lemma = 'description'
+T21	pos_IN 92 94	of
+#21	AnnotatorNotes T21	lemma = 'of'
+T22	pos_NP 95 99	Aloe
+#22	AnnotatorNotes T22	lemma = 'aloe'
+T23	pos_NNS 100 108	benefits
+#23	AnnotatorNotes T23	lemma = 'benefit'
+T24	pos_IN 109 111	in
+#24	AnnotatorNotes T24	lemma = 'in'
+T25	pos_JJ 112 123	traditional
+#25	AnnotatorNotes T25	lemma = 'traditional'
+T26	pos_CC 124 127	and
+#26	AnnotatorNotes T26	lemma = 'and'
+T27	pos_NN 128 132	folk
+#27	AnnotatorNotes T27	lemma = 'folk'
+T28	pos_NNS 133 142	medicines
+#28	AnnotatorNotes T28	lemma = 'medicine'
+T29	pos_CC 143 146	and
+#29	AnnotatorNotes T29	lemma = 'and'
+T30	pos_NN 147 158	cosmetology
+#30	AnnotatorNotes T30	lemma = 'cosmetology'
+T31	pos_Fp 158 159	.
+#31	AnnotatorNotes T31	lemma = '.'
+T32	pos_DT 161 164	The
+#32	AnnotatorNotes T32	lemma = 'the'
+T33	pos_NN 165 171	report
+#33	AnnotatorNotes T33	lemma = 'report'
+T34	pos_VBD 172 180	gathered
+#34	AnnotatorNotes T34	lemma = 'gather'
+T35	pos_NN 181 192	information
+#35	AnnotatorNotes T35	lemma = 'information'
+T36	pos_IN 193 197	from
+#36	AnnotatorNotes T36	lemma = 'from'
+T37	pos_DT 198 201	the
+#37	AnnotatorNotes T37	lemma = 'the'
+T38	pos_VBG 202 211	following
+#38	AnnotatorNotes T38	lemma = 'follow'
+T39	pos_NNS 212 219	sources
+#39	AnnotatorNotes T39	lemma = 'source'
+T40	pos_Fd 219 220	:
+#40	AnnotatorNotes T40	lemma = ':'
+T41	pos_Fg 221 222	-
+#41	AnnotatorNotes T41	lemma = '-'
+T42	pos_DT 223 226	The
+#42	AnnotatorNotes T42	lemma = 'the'
+T43	pos_NN 227 233	survey
+#43	AnnotatorNotes T43	lemma = 'survey'
+T44	pos_VBD 234 237	was
+#44	AnnotatorNotes T44	lemma = 'be'
+T45	pos_VBN 238 247	conducted
+#45	AnnotatorNotes T45	lemma = 'conduct'
+T46	pos_IN 248 253	among
+#46	AnnotatorNotes T46	lemma = 'among'
+T47	pos_Z 254 257	120
+#47	AnnotatorNotes T47	lemma = '120'
+T48	pos_NNS 258 270	participants
+#48	AnnotatorNotes T48	lemma = 'participant'
+T49	pos_Fc 270 271	,
+#49	AnnotatorNotes T49	lemma = ','
+T50	pos_WP 272 275	who
+#50	AnnotatorNotes T50	lemma = 'who'
+T51	pos_RB 276 280	ever
+#51	AnnotatorNotes T51	lemma = 'ever'
+T52	pos_VBD 281 286	tried
+#52	AnnotatorNotes T52	lemma = 'try'
+T53	pos_RB 287 295	at least
+#53	AnnotatorNotes T53	lemma = 'at_least'
+T54	pos_IN 296 300	once
+#54	AnnotatorNotes T54	lemma = 'once'
+T55	pos_DT 301 302	a
+#55	AnnotatorNotes T55	lemma = 'a'
+T56	pos_NN 303 307	kind
+#56	AnnotatorNotes T56	lemma = 'kind'
+T57	pos_IN 308 310	of
+#57	AnnotatorNotes T57	lemma = 'of'
+T58	pos_NN 311 320	treatment
+#58	AnnotatorNotes T58	lemma = 'treatment'
+T59	pos_IN 321 325	with
+#59	AnnotatorNotes T59	lemma = 'with'
+T60	pos_NN 326 330	aloe
+#60	AnnotatorNotes T60	lemma = 'aloe'
+T61	pos_Fp 330 331	.
+#61	AnnotatorNotes T61	lemma = '.'
+T62	pos_Fg 332 333	-
+#62	AnnotatorNotes T62	lemma = '-'
+T63	pos_VBG 334 341	Leading
+#63	AnnotatorNotes T63	lemma = 'lead'
+T64	pos_JJ 342 349	medical
+#64	AnnotatorNotes T64	lemma = 'medical'
+T65	pos_NNS 350 358	journals
+#65	AnnotatorNotes T65	lemma = 'journal'
+T66	pos_CC 359 362	and
+#66	AnnotatorNotes T66	lemma = 'and'
+T67	pos_NNS 363 370	experts
+#67	AnnotatorNotes T67	lemma = 'expert'
+T68	pos_IN 371 373	in
+#68	AnnotatorNotes T68	lemma = 'in'
+T69	pos_DT 374 377	the
+#69	AnnotatorNotes T69	lemma = 'the'
+T70	pos_NN 378 383	field
+#70	AnnotatorNotes T70	lemma = 'field'
+T71	pos_VBD 384 388	were
+#71	AnnotatorNotes T71	lemma = 'be'
+T72	pos_VBN 389 398	consulted
+#72	AnnotatorNotes T72	lemma = 'consult'
+T73	pos_Fp 398 399	.
+#73	AnnotatorNotes T73	lemma = '.'
+T74	pos_NNS 400 405	Facts
+#74	AnnotatorNotes T74	lemma = 'fact'
+T75	pos_CC 406 409	and
+#75	AnnotatorNotes T75	lemma = 'and'
+T76	pos_NNS 410 418	findings
+#76	AnnotatorNotes T76	lemma = 'finding'
+T77	pos_Z 419 420	1
+#77	AnnotatorNotes T77	lemma = '1'
+T78	pos_Fp 420 421	.
+#78	AnnotatorNotes T78	lemma = '.'
+T79	pos_NN 422 426	Aloe
+#79	AnnotatorNotes T79	lemma = 'aloe'
+T80	pos_NN 427 431	vera
+#80	AnnotatorNotes T80	lemma = 'vera'
+T81	pos_Fc 431 432	,
+#81	AnnotatorNotes T81	lemma = ','
+T82	pos_JJ 433 446	also known as
+#82	AnnotatorNotes T82	lemma = 'also_known_as'
+T83	pos_NP 447 455	Barbados
+#83	AnnotatorNotes T83	lemma = 'barbados'
+T84	pos_CC 456 458	or
+#84	AnnotatorNotes T84	lemma = 'or'
+T85	pos_NP 459 471	Curacao Aloe
+#85	AnnotatorNotes T85	lemma = 'curacao_aloe'
+T86	pos_Fc 471 472	,
+#86	AnnotatorNotes T86	lemma = ','
+T87	pos_VBZ 473 476	has
+#87	AnnotatorNotes T87	lemma = 'have'
+T88	pos_VBN 477 481	been
+#88	AnnotatorNotes T88	lemma = 'be'
+T89	pos_VBN 482 486	used
+#89	AnnotatorNotes T89	lemma = 'use'
+T90	pos_IN 487 489	in
+#90	AnnotatorNotes T90	lemma = 'in'
+T91	pos_JJ 490 501	traditional
+#91	AnnotatorNotes T91	lemma = 'traditional'
+T92	pos_CC 502 505	and
+#92	AnnotatorNotes T92	lemma = 'and'
+T93	pos_NN 506 510	folk
+#93	AnnotatorNotes T93	lemma = 'folk'
+T94	pos_NNS 511 520	medicines
+#94	AnnotatorNotes T94	lemma = 'medicine'
+T95	pos_IN 521 524	for
+#95	AnnotatorNotes T95	lemma = 'for'
+T96	pos_NNS 525 534	thousands
+#96	AnnotatorNotes T96	lemma = 'thousand'
+T97	pos_IN 535 537	of
+#97	AnnotatorNotes T97	lemma = 'of'
+T98	pos_NNS 538 543	years
+#98	AnnotatorNotes T98	lemma = 'year'
+T99	pos_TO 544 546	to
+#99	AnnotatorNotes T99	lemma = 'to'
+T100	pos_VB 547 552	treat
+#100	AnnotatorNotes T100	lemma = 'treat'
+T101	pos_CC 553 556	and
+#101	AnnotatorNotes T101	lemma = 'and'
+T102	pos_VB 557 561	cure
+#102	AnnotatorNotes T102	lemma = 'cure'
+T103	pos_DT 562 563	a
+#103	AnnotatorNotes T103	lemma = 'a'
+T104	pos_NN 564 571	variety
+#104	AnnotatorNotes T104	lemma = 'variety'
+T105	pos_IN 572 574	of
+#105	AnnotatorNotes T105	lemma = 'of'
+T106	pos_NNS 575 583	diseases
+#106	AnnotatorNotes T106	lemma = 'disease'
+T107	pos_Fp 583 584	.
+#107	AnnotatorNotes T107	lemma = '.'
+T108	pos_Z 586 587	2
+#108	AnnotatorNotes T108	lemma = '2'
+T109	pos_Fp 587 588	.
+#109	AnnotatorNotes T109	lemma = '.'
+T110	pos_PRP 589 591	It
+#110	AnnotatorNotes T110	lemma = 'it'
+T111	pos_RB 592 596	also
+#111	AnnotatorNotes T111	lemma = 'also'
+T112	pos_VBZ 597 604	appears
+#112	AnnotatorNotes T112	lemma = 'appear'
+T113	pos_DT 605 609	that
+#113	AnnotatorNotes T113	lemma = 'that'
+T114	pos_NN 610 614	aloe
+#114	AnnotatorNotes T114	lemma = 'aloe'
+T115	pos_NN 615 618	gel
+#115	AnnotatorNotes T115	lemma = 'gel'
+T116	pos_VBZ 619 622	has
+#116	AnnotatorNotes T116	lemma = 'have'
+T117	pos_NNS 623 633	properties
+#117	AnnotatorNotes T117	lemma = 'property'
+T118	pos_WDT 634 638	that
+#118	AnnotatorNotes T118	lemma = 'that'
+T119	pos_VBP 639 642	are
+#119	AnnotatorNotes T119	lemma = 'be'
+T120	pos_JJ 643 650	harmful
+#120	AnnotatorNotes T120	lemma = 'harmful'
+T121	pos_TO 651 653	to
+#121	AnnotatorNotes T121	lemma = 'to'
+T122	pos_JJ 654 661	certain
+#122	AnnotatorNotes T122	lemma = 'certain'
+T123	pos_NNS 662 667	types
+#123	AnnotatorNotes T123	lemma = 'type'
+T124	pos_IN 668 670	of
+#124	AnnotatorNotes T124	lemma = 'of'
+T125	pos_NNS 671 679	bacteria
+#125	AnnotatorNotes T125	lemma = 'bacteria'
+T126	pos_CC 680 683	and
+#126	AnnotatorNotes T126	lemma = 'and'
+T127	pos_NNS 684 689	fungi
+#127	AnnotatorNotes T127	lemma = 'fungus'
+T128	pos_Fp 689 690	.
+#128	AnnotatorNotes T128	lemma = '.'
+T129	pos_Z 691 692	3
+#129	AnnotatorNotes T129	lemma = '3'
+T130	pos_Fp 692 693	.
+#130	AnnotatorNotes T130	lemma = '.'
+T131	pos_NNS 694 702	Remedies
+#131	AnnotatorNotes T131	lemma = 'remedy'
+T132	pos_VBN 703 708	based
+#132	AnnotatorNotes T132	lemma = 'base'
+T133	pos_IN 709 711	on
+#133	AnnotatorNotes T133	lemma = 'on'
+T134	pos_NN 712 716	aloe
+#134	AnnotatorNotes T134	lemma = 'aloe'
+T135	pos_NN 717 721	vera
+#135	AnnotatorNotes T135	lemma = 'vera'
+T136	pos_VBP 722 725	are
+#136	AnnotatorNotes T136	lemma = 'be'
+T137	pos_VBN 726 730	used
+#137	AnnotatorNotes T137	lemma = 'use'
+T138	pos_IN 731 734	for
+#138	AnnotatorNotes T138	lemma = 'for'
+T139	pos_VBG 735 743	reducing
+#139	AnnotatorNotes T139	lemma = 'reduce'
+T140	pos_NN 744 756	inflammation
+#140	AnnotatorNotes T140	lemma = 'inflammation'
+T141	pos_Fc 756 757	,
+#141	AnnotatorNotes T141	lemma = ','
+T142	pos_NN 758 763	mouth
+#142	AnnotatorNotes T142	lemma = 'mouth'
+T143	pos_NNS 764 774	infections
+#143	AnnotatorNotes T143	lemma = 'infection'
+T144	pos_Fc 774 775	,
+#144	AnnotatorNotes T144	lemma = ','
+T145	pos_VBG 776 782	curing
+#145	AnnotatorNotes T145	lemma = 'cure'
+T146	pos_NN 783 792	radiation
+#146	AnnotatorNotes T146	lemma = 'radiation'
+T147	pos_NNS 793 803	dermatitis
+#147	AnnotatorNotes T147	lemma = 'dermatitis'
+T148	pos_Fc 803 804	,
+#148	AnnotatorNotes T148	lemma = ','
+T149	pos_NNS 805 810	sores
+#149	AnnotatorNotes T149	lemma = 'sore'
+T150	pos_CC 811 814	and
+#150	AnnotatorNotes T150	lemma = 'and'
+T151	pos_PRP 815 819	many
+#151	AnnotatorNotes T151	lemma = 'many'
+T152	pos_JJ 820 825	other
+#152	AnnotatorNotes T152	lemma = 'other'
+T153	pos_NNS 826 834	symptoms
+#153	AnnotatorNotes T153	lemma = 'symptom'
+T154	pos_IN 835 837	of
+#154	AnnotatorNotes T154	lemma = 'of'
+T155	pos_NNS 838 847	illnesses
+#155	AnnotatorNotes T155	lemma = 'illness'
+T156	pos_Fp 847 848	.
+#156	AnnotatorNotes T156	lemma = '.'
+T157	pos_Z 849 850	4
+#157	AnnotatorNotes T157	lemma = '4'
+T158	pos_Fp 850 851	.
+#158	AnnotatorNotes T158	lemma = '.'
+T159	pos_PRP 852 855	You
+#159	AnnotatorNotes T159	lemma = 'you'
+T160	pos_MD 856 859	can
+#160	AnnotatorNotes T160	lemma = 'can'
+T161	pos_VB 860 868	purchase
+#161	AnnotatorNotes T161	lemma = 'purchase'
+T162	pos_NN 869 873	aloe
+#162	AnnotatorNotes T162	lemma = 'aloe'
+T163	pos_IN 874 876	in
+#163	AnnotatorNotes T163	lemma = 'in'
+T164	pos_DT 877 880	the
+#164	AnnotatorNotes T164	lemma = 'the'
+T165	pos_NN 881 885	form
+#165	AnnotatorNotes T165	lemma = 'form'
+T166	pos_IN 886 888	of
+#166	AnnotatorNotes T166	lemma = 'of'
+T167	pos_NNS 889 897	capsules
+#167	AnnotatorNotes T167	lemma = 'capsule'
+T168	pos_Fc 897 898	,
+#168	AnnotatorNotes T168	lemma = ','
+T169	pos_NNS 899 906	tablets
+#169	AnnotatorNotes T169	lemma = 'tablet'
+T170	pos_Fc 906 907	,
+#170	AnnotatorNotes T170	lemma = ','
+T171	pos_NN 908 913	juice
+#171	AnnotatorNotes T171	lemma = 'juice'
+T172	pos_Fc 913 914	,
+#172	AnnotatorNotes T172	lemma = ','
+T173	pos_NN 915 918	gel
+#173	AnnotatorNotes T173	lemma = 'gel'
+T174	pos_Fc 918 919	,
+#174	AnnotatorNotes T174	lemma = ','
+T175	pos_NN 920 928	ointment
+#175	AnnotatorNotes T175	lemma = 'ointment'
+T176	pos_Fc 928 929	,
+#176	AnnotatorNotes T176	lemma = ','
+T177	pos_NN 930 935	cream
+#177	AnnotatorNotes T177	lemma = 'cream'
+T178	pos_Fc 935 936	,
+#178	AnnotatorNotes T178	lemma = ','
+T179	pos_CC 937 940	and
+#179	AnnotatorNotes T179	lemma = 'and'
+T180	pos_NN 941 947	lotion
+#180	AnnotatorNotes T180	lemma = 'lotion'
+T181	pos_Fp 947 948	.
+#181	AnnotatorNotes T181	lemma = '.'
+T182	pos_Z 949 950	5
+#182	AnnotatorNotes T182	lemma = '5'
+T183	pos_Fp 950 951	.
+#183	AnnotatorNotes T183	lemma = '.'
+T184	pos_NN 952 956	Aloe
+#184	AnnotatorNotes T184	lemma = 'aloe'
+T185	pos_NN 957 961	vera
+#185	AnnotatorNotes T185	lemma = 'vera'
+T186	pos_VBD 962 971	prevented
+#186	AnnotatorNotes T186	lemma = 'prevent'
+T187	pos_DT 972 975	the
+#187	AnnotatorNotes T187	lemma = 'the'
+T188	pos_JJ 976 984	systemic
+#188	AnnotatorNotes T188	lemma = 'systemic'
+T189	pos_NN 985 996	suppression
+#189	AnnotatorNotes T189	lemma = 'suppression'
+T190	pos_IN 997 999	of
+#190	AnnotatorNotes T190	lemma = 'of'
+T191	pos_NP 1000 1015	T-cell-mediated
+#191	AnnotatorNotes T191	lemma = 't-cell-mediated'
+T192	pos_JJ 1016 1022	immune
+#192	AnnotatorNotes T192	lemma = 'immune'
+T193	pos_NNS 1023 1032	responses
+#193	AnnotatorNotes T193	lemma = 'response'
+T194	pos_CC 1033 1036	and
+#194	AnnotatorNotes T194	lemma = 'and'
+T195	pos_DT 1037 1040	the
+#195	AnnotatorNotes T195	lemma = 'the'
+T196	pos_NN 1041 1051	production
+#196	AnnotatorNotes T196	lemma = 'production'
+T197	pos_IN 1052 1054	of
+#197	AnnotatorNotes T197	lemma = 'of'
+T198	pos_VBN 1055 1075	keratinocyte-derived
+#198	AnnotatorNotes T198	lemma = 'keratinocyte-derived'
+T199	pos_NP 1076 1087	Interleukin
+#199	AnnotatorNotes T199	lemma = 'interleukin'
+T200	pos_Z 1088 1090	10
+#200	AnnotatorNotes T200	lemma = '10'
+T201	pos_IN 1091 1093	by
+#201	AnnotatorNotes T201	lemma = 'by'
+T202	pos_NP 1094 1107	UV-irradiated
+#202	AnnotatorNotes T202	lemma = 'uv-irradiated'
+T203	pos_JJ 1108 1117	epidermal
+#203	AnnotatorNotes T203	lemma = 'epidermal'
+T204	pos_NNS 1118 1123	cells
+#204	AnnotatorNotes T204	lemma = 'cell'
+T205	pos_IN 1124 1126	in
+#205	AnnotatorNotes T205	lemma = 'in'
+T206	pos_NNS 1127 1131	mice
+#206	AnnotatorNotes T206	lemma = 'mouse'
+T207	pos_Fp 1131 1132	.
+#207	AnnotatorNotes T207	lemma = '.'
+T208	pos_NNS 1133 1142	Compounds
+#208	AnnotatorNotes T208	lemma = 'compound'
+T209	pos_VBD 1143 1152	extracted
+#209	AnnotatorNotes T209	lemma = 'extract'
+T210	pos_IN 1153 1157	from
+#210	AnnotatorNotes T210	lemma = 'from'
+T211	pos_NN 1158 1162	aloe
+#211	AnnotatorNotes T211	lemma = 'aloe'
+T212	pos_NN 1163 1167	vera
+#212	AnnotatorNotes T212	lemma = 'vera'
+T213	pos_VBP 1168 1172	have
+#213	AnnotatorNotes T213	lemma = 'have'
+T214	pos_VBN 1173 1177	been
+#214	AnnotatorNotes T214	lemma = 'be'
+T215	pos_VBN 1178 1182	used
+#215	AnnotatorNotes T215	lemma = 'use'
+T216	pos_IN 1183 1185	as
+#216	AnnotatorNotes T216	lemma = 'as'
+T217	pos_DT 1186 1188	an
+#217	AnnotatorNotes T217	lemma = 'a'
+T218	pos_NN 1189 1204	immunostimulant
+#218	AnnotatorNotes T218	lemma = 'immunostimulant'
+T219	pos_IN 1205 1209	that
+#219	AnnotatorNotes T219	lemma = 'that'
+T220	pos_NNS 1210 1214	aids
+#220	AnnotatorNotes T220	lemma = 'aid'
+T221	pos_IN 1215 1217	in
+#221	AnnotatorNotes T221	lemma = 'in'
+T222	pos_VBG 1218 1226	fighting
+#222	AnnotatorNotes T222	lemma = 'fight'
+T223	pos_NNS 1227 1234	cancers
+#223	AnnotatorNotes T223	lemma = 'cancer'
+T224	pos_IN 1235 1237	in
+#224	AnnotatorNotes T224	lemma = 'in'
+T225	pos_NNS 1238 1242	cats
+#225	AnnotatorNotes T225	lemma = 'cat'
+T226	pos_CC 1243 1246	and
+#226	AnnotatorNotes T226	lemma = 'and'
+T227	pos_NNS 1247 1251	dogs
+#227	AnnotatorNotes T227	lemma = 'dog'
+T228	pos_Fx 1251 1252	;
+#228	AnnotatorNotes T228	lemma = ';'
+T229	pos_RB 1253 1260	however
+#229	AnnotatorNotes T229	lemma = 'however'
+T230	pos_Fc 1260 1261	,
+#230	AnnotatorNotes T230	lemma = ','
+T231	pos_DT 1262 1266	this
+#231	AnnotatorNotes T231	lemma = 'this'
+T232	pos_NN 1267 1276	treatment
+#232	AnnotatorNotes T232	lemma = 'treatment'
+T233	pos_VBZ 1277 1280	has
+#233	AnnotatorNotes T233	lemma = 'have'
+T234	pos_RB 1281 1284	not
+#234	AnnotatorNotes T234	lemma = 'not'
+T235	pos_VBN 1285 1289	been
+#235	AnnotatorNotes T235	lemma = 'be'
+T236	pos_RB 1290 1304	scientifically
+#236	AnnotatorNotes T236	lemma = 'scientifically'
+T237	pos_VBN 1305 1311	tested
+#237	AnnotatorNotes T237	lemma = 'test'
+T238	pos_IN 1312 1314	in
+#238	AnnotatorNotes T238	lemma = 'in'
+T239	pos_NNS 1315 1321	humans
+#239	AnnotatorNotes T239	lemma = 'human'
+T240	pos_Fp 1321 1322	.
+#240	AnnotatorNotes T240	lemma = '.'
+T241	pos_NN 1323 1333	Conclusion
+#241	AnnotatorNotes T241	lemma = 'conclusion'
+T242	pos_IN 1334 1342	Although
+#242	AnnotatorNotes T242	lemma = 'although'
+T243	pos_PRP 1343 1347	many
+#243	AnnotatorNotes T243	lemma = 'many'
+T244	pos_NNS 1348 1359	respondents
+#244	AnnotatorNotes T244	lemma = 'respondent'
+T245	pos_VBD 1360 1367	pointed
+#245	AnnotatorNotes T245	lemma = 'point'
+T246	pos_RP 1368 1371	out
+#246	AnnotatorNotes T246	lemma = 'out'
+T247	pos_DT 1372 1373	a
+#247	AnnotatorNotes T247	lemma = 'a'
+T248	pos_JJ 1374 1378	wide
+#248	AnnotatorNotes T248	lemma = 'wide'
+T249	pos_NN 1379 1384	range
+#249	AnnotatorNotes T249	lemma = 'range'
+T250	pos_IN 1385 1387	of
+#250	AnnotatorNotes T250	lemma = 'of'
+T251	pos_JJ 1388 1395	medical
+#251	AnnotatorNotes T251	lemma = 'medical'
+T252	pos_NNS 1396 1406	properties
+#252	AnnotatorNotes T252	lemma = 'property'
+T253	pos_IN 1407 1409	of
+#253	AnnotatorNotes T253	lemma = 'of'
+T254	pos_NN 1410 1414	aloe
+#254	AnnotatorNotes T254	lemma = 'aloe'
+T255	pos_NN 1415 1419	vera
+#255	AnnotatorNotes T255	lemma = 'vera'
+T256	pos_NNS 1420 1428	extracts
+#256	AnnotatorNotes T256	lemma = 'extract'
+T257	pos_CC 1429 1432	and
+#257	AnnotatorNotes T257	lemma = 'and'
+T258	pos_NNS 1433 1441	products
+#258	AnnotatorNotes T258	lemma = 'product'
+T259	pos_IN 1442 1444	on
+#259	AnnotatorNotes T259	lemma = 'on'
+T260	pos_PRP2 1445 1448	its
+#260	AnnotatorNotes T260	lemma = 'its'
+T261	pos_NN 1449 1454	basis
+#261	AnnotatorNotes T261	lemma = 'basis'
+T262	pos_Fc 1454 1455	,
+#262	AnnotatorNotes T262	lemma = ','
+T263	pos_DT 1456 1459	the
+#263	AnnotatorNotes T263	lemma = 'the'
+T264	pos_NN 1460 1463	use
+#264	AnnotatorNotes T264	lemma = 'use'
+T265	pos_IN 1464 1466	of
+#265	AnnotatorNotes T265	lemma = 'of'
+T266	pos_PRP 1467 1469	it
+#266	AnnotatorNotes T266	lemma = 'it'
+T267	pos_CC 1470 1472	or
+#267	AnnotatorNotes T267	lemma = 'or'
+T268	pos_IN 1473 1476	for
+#268	AnnotatorNotes T268	lemma = 'for'
+T269	pos_DT 1477 1480	the
+#269	AnnotatorNotes T269	lemma = 'the'
+T270	pos_NN 1481 1490	treatment
+#270	AnnotatorNotes T270	lemma = 'treatment'
+T271	pos_IN 1491 1493	of
+#271	AnnotatorNotes T271	lemma = 'of'
+T272	pos_DT 1494 1495	a
+#272	AnnotatorNotes T272	lemma = 'a'
+T273	pos_NN 1496 1503	variety
+#273	AnnotatorNotes T273	lemma = 'variety'
+T274	pos_IN 1504 1506	of
+#274	AnnotatorNotes T274	lemma = 'of'
+T275	pos_NNS 1507 1517	conditions
+#275	AnnotatorNotes T275	lemma = 'condition'
+T276	pos_CC 1518 1521	and
+#276	AnnotatorNotes T276	lemma = 'and'
+T277	pos_NNS 1522 1530	diseases
+#277	AnnotatorNotes T277	lemma = 'disease'
+T278	pos_VBZ 1531 1536	needs
+#278	AnnotatorNotes T278	lemma = 'need'
+T279	pos_RBR 1537 1544	further
+#279	AnnotatorNotes T279	lemma = 'far'
+T280	pos_JJ 1545 1553	clinical
+#280	AnnotatorNotes T280	lemma = 'clinical'
+T281	pos_NN 1554 1562	evidence
+#281	AnnotatorNotes T281	lemma = 'evidence'
+T282	pos_IN 1563 1570	through
+#282	AnnotatorNotes T282	lemma = 'through'
+T283	pos_JJ 1571 1584	well-designed
+#283	AnnotatorNotes T283	lemma = 'well-designed'
+T284	pos_NNS 1585 1592	studies
+#284	AnnotatorNotes T284	lemma = 'study'
+T285	pos_IN 1593 1597	with
+#285	AnnotatorNotes T285	lemma = 'with'
+T286	pos_VBN 1598 1605	defined
+#286	AnnotatorNotes T286	lemma = 'define'
+T287	pos_NN 1607 1611	aloe
+#287	AnnotatorNotes T287	lemma = 'aloe'
+T288	pos_NNS 1612 1620	extracts
+#288	AnnotatorNotes T288	lemma = 'extract'
+T289	pos_CC 1621 1624	and
+#289	AnnotatorNotes T289	lemma = 'and'
+T290	pos_VBG 1625 1633	matching
+#290	AnnotatorNotes T290	lemma = 'match'
+T291	pos_NN 1634 1641	placebo
+#291	AnnotatorNotes T291	lemma = 'placebo'
+T292	pos_NNS 1642 1650	controls
+#292	AnnotatorNotes T292	lemma = 'control'
+T293	pos_Fp 1650 1651	.
+#293	AnnotatorNotes T293	lemma = '.'
+T294	pos_NNS 1652 1667	Recommendations
+#294	AnnotatorNotes T294	lemma = 'recommendation'
+T295	pos_Z 1668 1669	1
+#295	AnnotatorNotes T295	lemma = '1'
+T296	pos_Fp 1669 1670	.
+#296	AnnotatorNotes T296	lemma = '.'
+T297	pos_PRP 1671 1674	You
+#297	AnnotatorNotes T297	lemma = 'you'
+T298	pos_MD 1675 1680	would
+#298	AnnotatorNotes T298	lemma = 'would'
+T299	pos_RB 1681 1687	rather
+#299	AnnotatorNotes T299	lemma = 'rather'
+T300	pos_VB 1688 1695	consult
+#300	AnnotatorNotes T300	lemma = 'consult'
+T301	pos_PRP2 1696 1700	your
+#301	AnnotatorNotes T301	lemma = 'your'
+T302	pos_NN 1701 1707	doctor
+#302	AnnotatorNotes T302	lemma = 'doctor'
+T303	pos_IN 1708 1714	before
+#303	AnnotatorNotes T303	lemma = 'before'
+T304	pos_VBG 1715 1720	using
+#304	AnnotatorNotes T304	lemma = 'use'
+T305	pos_NNS 1721 1729	products
+#305	AnnotatorNotes T305	lemma = 'product'
+T306	pos_VBN 1730 1735	based
+#306	AnnotatorNotes T306	lemma = 'base'
+T307	pos_IN 1736 1738	on
+#307	AnnotatorNotes T307	lemma = 'on'
+T308	pos_NN 1739 1743	aloe
+#308	AnnotatorNotes T308	lemma = 'aloe'
+T309	pos_NN 1744 1748	vera
+#309	AnnotatorNotes T309	lemma = 'vera'
+T310	pos_Fp 1748 1749	.
+#310	AnnotatorNotes T310	lemma = '.'
+T311	pos_Z 1750 1751	2
+#311	AnnotatorNotes T311	lemma = '2'
+T312	pos_Fp 1751 1752	.
+#312	AnnotatorNotes T312	lemma = '.'
+T313	pos_PRP 1753 1755	It
+#313	AnnotatorNotes T313	lemma = 'it'
+T314	pos_VBZ 1756 1758	is
+#314	AnnotatorNotes T314	lemma = 'be'
+T315	pos_JJ 1759 1768	essential
+#315	AnnotatorNotes T315	lemma = 'essential'
+T316	pos_TO 1769 1771	to
+#316	AnnotatorNotes T316	lemma = 'to'
+T317	pos_VB 1772 1780	remember
+#317	AnnotatorNotes T317	lemma = 'remember'
+T318	pos_DT 1781 1785	that
+#318	AnnotatorNotes T318	lemma = 'that'
+T319	pos_NN 1786 1790	aloe
+#319	AnnotatorNotes T319	lemma = 'aloe'
+T320	pos_VBZ 1791 1793	is
+#320	AnnotatorNotes T320	lemma = 'be'
+T321	pos_JJ 1794 1798	safe
+#321	AnnotatorNotes T321	lemma = 'safe'
+T322	pos_WRB 1799 1803	when
+#322	AnnotatorNotes T322	lemma = 'when'
+T323	pos_VBN 1804 1808	used
+#323	AnnotatorNotes T323	lemma = 'use'
+T324	pos_IN 1809 1811	in
+#324	AnnotatorNotes T324	lemma = 'in'
+T325	pos_NN 1812 1822	moderation
+#325	AnnotatorNotes T325	lemma = 'moderation'
+T326	pos_Fc 1822 1823	,
+#326	AnnotatorNotes T326	lemma = ','
+T327	pos_CC 1824 1827	but
+#327	AnnotatorNotes T327	lemma = 'but'
+T328	pos_EX 1828 1833	there
+#328	AnnotatorNotes T328	lemma = 'there'
+T329	pos_VBP 1834 1837	are
+#329	AnnotatorNotes T329	lemma = 'be'
+T330	pos_DT 1838 1839	a
+#330	AnnotatorNotes T330	lemma = 'a'
+T331	pos_DT 1840 1843	few
+#331	AnnotatorNotes T331	lemma = 'few'
+T332	pos_NNS 1844 1861	contraindications
+#332	AnnotatorNotes T332	lemma = 'contraindication'
+T333	pos_Fp 1861 1862	.
+#333	AnnotatorNotes T333	lemma = '.'
+T334	pos_Z 1863 1864	3
+#334	AnnotatorNotes T334	lemma = '3'
+T335	pos_Fp 1864 1865	.
+#335	AnnotatorNotes T335	lemma = '.'
+T336	pos_NNS 1866 1871	Herbs
+#336	AnnotatorNotes T336	lemma = 'herb'
+T337	pos_MD 1872 1875	can
+#337	AnnotatorNotes T337	lemma = 'can'
+T338	pos_VB 1876 1883	trigger
+#338	AnnotatorNotes T338	lemma = 'trigger'
+T339	pos_NN 1884 1888	side
+#339	AnnotatorNotes T339	lemma = 'side'
+T340	pos_NNS 1889 1896	effects
+#340	AnnotatorNotes T340	lemma = 'effect'
+T341	pos_CC 1897 1900	and
+#341	AnnotatorNotes T341	lemma = 'and'
+T342	pos_MD 1901 1904	can
+#342	AnnotatorNotes T342	lemma = 'can'
+T343	pos_VB 1905 1913	interact
+#343	AnnotatorNotes T343	lemma = 'interact'
+T344	pos_IN 1914 1918	with
+#344	AnnotatorNotes T344	lemma = 'with'
+T345	pos_JJ 1919 1924	other
+#345	AnnotatorNotes T345	lemma = 'other'
+T346	pos_NNS 1925 1930	herbs
+#346	AnnotatorNotes T346	lemma = 'herb'
+T347	pos_Fc 1930 1931	,
+#347	AnnotatorNotes T347	lemma = ','
+T348	pos_NNS 1932 1943	supplements
+#348	AnnotatorNotes T348	lemma = 'supplement'
+T349	pos_Fc 1943 1944	,
+#349	AnnotatorNotes T349	lemma = ','
+T350	pos_CC 1945 1947	or
+#350	AnnotatorNotes T350	lemma = 'or'
+T351	pos_NNS 1948 1959	medications
+#351	AnnotatorNotes T351	lemma = 'medication'
+T352	pos_Fp 1959 1960	.
+#352	AnnotatorNotes T352	lemma = '.'
+T353	pos_IN 1961 1964	For
+#353	AnnotatorNotes T353	lemma = 'for'
+T354	pos_DT 1965 1970	these
+#354	AnnotatorNotes T354	lemma = 'these'
+T355	pos_NNS 1971 1978	reasons
+#355	AnnotatorNotes T355	lemma = 'reason'
+T356	pos_Fc 1978 1979	,
+#356	AnnotatorNotes T356	lemma = ','
+T357	pos_PRP 1980 1983	you
+#357	AnnotatorNotes T357	lemma = 'you'
+T358	pos_MD 1984 1990	should
+#358	AnnotatorNotes T358	lemma = 'should'
+T359	pos_VB 1991 1995	take
+#359	AnnotatorNotes T359	lemma = 'take'
+T360	pos_NNS 1996 2001	herbs
+#360	AnnotatorNotes T360	lemma = 'herb'
+T361	pos_IN 2002 2006	with
+#361	AnnotatorNotes T361	lemma = 'with'
+T362	pos_NN 2007 2011	care
+#362	AnnotatorNotes T362	lemma = 'care'
+T363	pos_Fc 2011 2012	,
+#363	AnnotatorNotes T363	lemma = ','
+T364	pos_IN 2013 2018	under
+#364	AnnotatorNotes T364	lemma = 'under'
+T365	pos_DT 2019 2022	the
+#365	AnnotatorNotes T365	lemma = 'the'
+T366	pos_NN 2023 2034	supervision
+#366	AnnotatorNotes T366	lemma = 'supervision'
+T367	pos_IN 2035 2037	of
+#367	AnnotatorNotes T367	lemma = 'of'
+T368	pos_DT 2038 2039	a
+#368	AnnotatorNotes T368	lemma = 'a'
+T369	pos_NN 2040 2046	health
+#369	AnnotatorNotes T369	lemma = 'health'
+T370	pos_NN 2047 2051	care
+#370	AnnotatorNotes T370	lemma = 'care'
+T371	pos_NN 2052 2060	provider
+#371	AnnotatorNotes T371	lemma = 'provider'
+T372	pos_Fp 2060 2061	.
+#372	AnnotatorNotes T372	lemma = '.'
+T373	pos_Z 2062 2063	4
+#373	AnnotatorNotes T373	lemma = '4'
+T374	pos_Fp 2063 2064	.
+#374	AnnotatorNotes T374	lemma = '.'
+T375	pos_NN 2065 2069	Aloe
+#375	AnnotatorNotes T375	lemma = 'aloe'
+T376	pos_NN 2070 2073	gel
+#376	AnnotatorNotes T376	lemma = 'gel'
+T377	pos_MD 2074 2080	should
+#377	AnnotatorNotes T377	lemma = 'should'
+T378	pos_RB 2081 2084	not
+#378	AnnotatorNotes T378	lemma = 'not'
+T379	pos_VB 2085 2087	be
+#379	AnnotatorNotes T379	lemma = 'be'
+T380	pos_VBN 2088 2095	applied
+#380	AnnotatorNotes T380	lemma = 'apply'
+T381	pos_TO 2096 2098	to
+#381	AnnotatorNotes T381	lemma = 'to'
+T382	pos_JJ 2099 2103	open
+#382	AnnotatorNotes T382	lemma = 'open'
+T383	pos_CC 2104 2106	or
+#383	AnnotatorNotes T383	lemma = 'or'
+T384	pos_JJ 2107 2111	deep
+#384	AnnotatorNotes T384	lemma = 'deep'
+T385	pos_NNS 2112 2118	wounds
+#385	AnnotatorNotes T385	lemma = 'wound'
+T386	pos_Fp 2118 2119	.
+#386	AnnotatorNotes T386	lemma = '.'
+T387	pos_IN 2120 2122	In
+#387	AnnotatorNotes T387	lemma = 'in'
+T388	pos_JJ 2123 2127	rare
+#388	AnnotatorNotes T388	lemma = 'rare'
+T389	pos_NNS 2128 2133	cases
+#389	AnnotatorNotes T389	lemma = 'case'
+T390	pos_Fc 2133 2134	,
+#390	AnnotatorNotes T390	lemma = ','
+T391	pos_PRP 2135 2137	it
+#391	AnnotatorNotes T391	lemma = 'it'
+T392	pos_MD 2138 2141	may
+#392	AnnotatorNotes T392	lemma = 'may'
+T393	pos_VB 2142 2147	cause
+#393	AnnotatorNotes T393	lemma = 'cause'
+T394	pos_DT 2148 2150	an
+#394	AnnotatorNotes T394	lemma = 'a'
+T395	pos_JJ 2151 2159	allergic
+#395	AnnotatorNotes T395	lemma = 'allergic'
+T396	pos_NN 2160 2168	reaction
+#396	AnnotatorNotes T396	lemma = 'reaction'
+T397	pos_Fc 2168 2169	,
+#397	AnnotatorNotes T397	lemma = ','
+T398	pos_RB 2170 2176	mainly
+#398	AnnotatorNotes T398	lemma = 'mainly'
+T399	pos_DT 2177 2178	a
+#399	AnnotatorNotes T399	lemma = 'a'
+T400	pos_NN 2179 2183	skin
+#400	AnnotatorNotes T400	lemma = 'skin'
+T401	pos_NN 2184 2188	rash
+#401	AnnotatorNotes T401	lemma = 'rash'
+T402	pos_Fp 2188 2189	.
+#402	AnnotatorNotes T402	lemma = '.'
+T403	pos_Z 2190 2191	5
+#403	AnnotatorNotes T403	lemma = '5'
+T404	pos_Fp 2191 2192	.
+#404	AnnotatorNotes T404	lemma = '.'
+T405	pos_VBG 2193 2199	Taking
+#405	AnnotatorNotes T405	lemma = 'take'
+T406	pos_NN 2200 2204	aloe
+#406	AnnotatorNotes T406	lemma = 'aloe'
+T407	pos_NN 2205 2210	latex
+#407	AnnotatorNotes T407	lemma = 'latex'
+T408	pos_RB 2211 2217	orally
+#408	AnnotatorNotes T408	lemma = 'orally'
+T409	pos_MD 2218 2221	may
+#409	AnnotatorNotes T409	lemma = 'may'
+T410	pos_VB 2222 2227	cause
+#410	AnnotatorNotes T410	lemma = 'cause'
+T411	pos_JJ 2228 2234	severe
+#411	AnnotatorNotes T411	lemma = 'severe'
+T412	pos_JJ 2235 2245	intestinal
+#412	AnnotatorNotes T412	lemma = 'intestinal'
+T413	pos_NNS 2246 2252	cramps
+#413	AnnotatorNotes T413	lemma = 'cramp'
+T414	pos_CC 2253 2255	or
+#414	AnnotatorNotes T414	lemma = 'or'
+T415	pos_NN 2256 2264	diarrhea
+#415	AnnotatorNotes T415	lemma = 'diarrhea'
+T416	pos_CC 2265 2268	and
+#416	AnnotatorNotes T416	lemma = 'and'
+T417	pos_VBZ 2269 2271	is
+#417	AnnotatorNotes T417	lemma = 'be'
+T418	pos_RB 2272 2275	not
+#418	AnnotatorNotes T418	lemma = 'not'
+T419	pos_VBN 2276 2287	recommended
+#419	AnnotatorNotes T419	lemma = 'recommend'
+T420	pos_Fp 2287 2288	.
+#420	AnnotatorNotes T420	lemma = '.'
+T421	pos_JJ 2289 2297	Pregnant
+#421	AnnotatorNotes T421	lemma = 'pregnant'
+T422	pos_NNS 2298 2303	women
+#422	AnnotatorNotes T422	lemma = 'woman'
+T423	pos_MD 2304 2310	should
+#423	AnnotatorNotes T423	lemma = 'should'
+T424	pos_RB 2311 2316	never
+#424	AnnotatorNotes T424	lemma = 'never'
+T425	pos_VB 2317 2321	take
+#425	AnnotatorNotes T425	lemma = 'take'
+T426	pos_NN 2322 2326	aloe
+#426	AnnotatorNotes T426	lemma = 'aloe'
+T427	pos_NN 2327 2332	latex
+#427	AnnotatorNotes T427	lemma = 'latex'
+T428	pos_IN 2333 2340	because
+#428	AnnotatorNotes T428	lemma = 'because'
+T429	pos_PRP 2341 2343	it
+#429	AnnotatorNotes T429	lemma = 'it'
+T430	pos_MD 2344 2347	may
+#430	AnnotatorNotes T430	lemma = 'may'
+T431	pos_VB 2348 2353	cause
+#431	AnnotatorNotes T431	lemma = 'cause'
+T432	pos_JJ 2354 2361	uterine
+#432	AnnotatorNotes T432	lemma = 'uterine'
+T433	pos_NNS 2362 2374	contractions
+#433	AnnotatorNotes T433	lemma = 'contraction'
+T434	pos_CC 2375 2378	and
+#434	AnnotatorNotes T434	lemma = 'and'
+T435	pos_VB 2379 2386	trigger
+#435	AnnotatorNotes T435	lemma = 'trigger'
+T436	pos_NN 2387 2398	miscarriage
+#436	AnnotatorNotes T436	lemma = 'miscarriage'
+T437	pos_Fp 2398 2399	.
+#437	AnnotatorNotes T437	lemma = '.'

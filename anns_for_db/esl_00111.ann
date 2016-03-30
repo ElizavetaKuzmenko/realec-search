@@ -1,0 +1,234 @@
+T1	lex_part_choice 20 37	the major part of	
+#1	AnnotatorNotes T1	most
+T2	lex_item_choice 45 63	give preference to	
+#2	AnnotatorNotes T2	value
+T3	lex_item_choice 82 86	life	
+#3	AnnotatorNotes T3	activities
+T5	lex_item_choice 114 116	it	
+#5	AnnotatorNotes T5	life
+T6	Punctuation 122 122	
+#6	AnnotatorNotes T6	,
+T7	Art_choice 138 139	a	
+A7	Delete T7
+T8	Number 193 194	s	
+A8	Delete T8
+T9	Conjunctions 216 219	and	
+A9	Delete T9
+T10	lex_item_choice 225 231	result	
+#10	AnnotatorNotes T10	prerequisite
+T11	lex_part_choice 242 255	fullfill life	
+#11	AnnotatorNotes T11	successful and fulfilling lives
+T12	Noun_number 287 287	
+#12	AnnotatorNotes T12	s
+T13	Noun_number 310 317	life is	
+#13	AnnotatorNotes T13	lives are
+T14	Punctuation 354 354	
+#14	AnnotatorNotes T14	,
+T15	Word_choice 355 368	this question	
+#15	AnnotatorNotes T15	the issue of professional choice
+T16	Punctuation 446 446	
+#16	AnnotatorNotes T16	,
+A1	Weight-language T1 Major
+A2	Weight-language T2 Minor
+A3	Weight-language T3 Minor
+A5	Weight-language T5 Minor
+A6	Weight-language T6 Minor
+A10	Cause T7 Absence_of_Category_in_L1
+A11	Weight-language T7 Minor
+A12	Weight-language T8 Minor
+A13	Weight-language T9 Minor
+A14	Weight-language T10 Minor
+A15	Weight-language T11 Major
+A16	Weight-language T12 Minor
+A17	Weight-language T13 Minor
+A18	Weight-language T14 Minor
+A19	Weight-language T15 Major
+A20	Weight-language T16 Minor
+T17	pos_﻿ 0 1	﻿
+#17	AnnotatorNotes T17	lemma = '﻿'
+T18	pos_NP 1 3	In
+#18	AnnotatorNotes T18	lemma = 'in'
+T19	pos_JJ 4 10	modern
+#19	AnnotatorNotes T19	lemma = 'modern'
+T20	pos_NN 11 18	society
+#20	AnnotatorNotes T20	lemma = 'society'
+T21	pos_Fc 18 19	,
+#21	AnnotatorNotes T21	lemma = ','
+T22	pos_DT 20 23	the
+#22	AnnotatorNotes T22	lemma = 'the'
+T23	pos_JJ 24 29	major
+#23	AnnotatorNotes T23	lemma = 'major'
+T24	pos_NN 30 34	part
+#24	AnnotatorNotes T24	lemma = 'part'
+T25	pos_IN 35 37	of
+#25	AnnotatorNotes T25	lemma = 'of'
+T26	pos_NNS 38 44	people
+#26	AnnotatorNotes T26	lemma = 'people'
+T27	pos_VBP 45 49	give
+#27	AnnotatorNotes T27	lemma = 'give'
+T28	pos_NN 50 60	preference
+#28	AnnotatorNotes T28	lemma = 'preference'
+T29	pos_NN 61 68	totheir
+#29	AnnotatorNotes T29	lemma = 'totheir'
+T30	pos_JJ 69 81	professional
+#30	AnnotatorNotes T30	lemma = 'professional'
+T31	pos_NN 82 86	life
+#31	AnnotatorNotes T31	lemma = 'life'
+T32	pos_VBD 87 96	minimized
+#32	AnnotatorNotes T32	lemma = 'minimize'
+T33	pos_JJ 97 102	other
+#33	AnnotatorNotes T33	lemma = 'other'
+T34	pos_NNS 103 110	aspects
+#34	AnnotatorNotes T34	lemma = 'aspect'
+T35	pos_IN 111 113	of
+#35	AnnotatorNotes T35	lemma = 'of'
+T36	pos_PRP 114 116	it
+#36	AnnotatorNotes T36	lemma = 'it'
+T37	pos_Fp 116 117	.
+#37	AnnotatorNotes T37	lemma = '.'
+T38	pos_RB 118 122	Thus
+#38	AnnotatorNotes T38	lemma = 'thus'
+T39	pos_DT 123 126	the
+#39	AnnotatorNotes T39	lemma = 'the'
+T40	pos_NN 127 134	process
+#40	AnnotatorNotes T40	lemma = 'process'
+T41	pos_IN 135 137	of
+#41	AnnotatorNotes T41	lemma = 'of'
+T42	pos_DT 138 139	a
+#42	AnnotatorNotes T42	lemma = 'a'
+T43	pos_JJ 140 152	professional
+#43	AnnotatorNotes T43	lemma = 'professional'
+T44	pos_NN 153 159	choice
+#44	AnnotatorNotes T44	lemma = 'choice'
+T45	pos_CC 160 163	and
+#45	AnnotatorNotes T45	lemma = 'and'
+T46	pos_PRP2 164 167	its
+#46	AnnotatorNotes T46	lemma = 'its'
+T47	pos_JJ 168 178	subsequent
+#47	AnnotatorNotes T47	lemma = 'subsequent'
+T48	pos_NNS 179 186	changes
+#48	AnnotatorNotes T48	lemma = 'change'
+T49	pos_VBZ 187 194	becomes
+#49	AnnotatorNotes T49	lemma = 'become'
+T50	pos_JJ 195 204	important
+#50	AnnotatorNotes T50	lemma = 'important'
+T51	pos_IN 205 208	for
+#51	AnnotatorNotes T51	lemma = 'for'
+T52	pos_NNS 209 215	people
+#52	AnnotatorNotes T52	lemma = 'people'
+T53	pos_CC 216 219	and
+#53	AnnotatorNotes T53	lemma = 'and'
+T54	pos_IN 220 222	as
+#54	AnnotatorNotes T54	lemma = 'as'
+T55	pos_DT 223 224	a
+#55	AnnotatorNotes T55	lemma = 'a'
+T56	pos_NN 225 231	result
+#56	AnnotatorNotes T56	lemma = 'result'
+T57	pos_IN 232 235	for
+#57	AnnotatorNotes T57	lemma = 'for'
+T58	pos_PRP 236 241	their
+#58	AnnotatorNotes T58	lemma = 'their'
+T59	pos_VBP 242 250	fullfill
+#59	AnnotatorNotes T59	lemma = 'fullfill'
+T60	pos_NN 251 255	life
+#60	AnnotatorNotes T60	lemma = 'life'
+T61	pos_Fp 255 256	.
+#61	AnnotatorNotes T61	lemma = '.'
+T62	pos_RB 257 268	Accordingly
+#62	AnnotatorNotes T62	lemma = 'accordingly'
+T63	pos_Fc 268 269	,
+#63	AnnotatorNotes T63	lemma = ','
+T64	pos_NNS 270 276	people
+#64	AnnotatorNotes T64	lemma = 'people'
+T65	pos_POS 276 278	's
+#65	AnnotatorNotes T65	lemma = ''s'
+T66	pos_NN 279 287	attitude
+#66	AnnotatorNotes T66	lemma = 'attitude'
+T67	pos_TO 288 290	to
+#67	AnnotatorNotes T67	lemma = 'to'
+T68	pos_PRP2 291 296	their
+#68	AnnotatorNotes T68	lemma = 'their'
+T69	pos_JJ 297 309	professional
+#69	AnnotatorNotes T69	lemma = 'professional'
+T70	pos_NN 310 314	life
+#70	AnnotatorNotes T70	lemma = 'life'
+T71	pos_VBZ 315 317	is
+#71	AnnotatorNotes T71	lemma = 'be'
+T72	pos_VBN 318 325	studied
+#72	AnnotatorNotes T72	lemma = 'study'
+T73	pos_IN 326 328	in
+#73	AnnotatorNotes T73	lemma = 'in'
+T74	pos_NN 329 339	psychology
+#74	AnnotatorNotes T74	lemma = 'psychology'
+T75	pos_Fp 339 340	.
+#75	AnnotatorNotes T75	lemma = '.'
+T76	pos_IN 341 343	In
+#76	AnnotatorNotes T76	lemma = 'in'
+T77	pos_DT 344 348	this
+#77	AnnotatorNotes T77	lemma = 'this'
+T78	pos_NN 349 354	paper
+#78	AnnotatorNotes T78	lemma = 'paper'
+T79	pos_DT 355 359	this
+#79	AnnotatorNotes T79	lemma = 'this'
+T80	pos_NN 360 368	question
+#80	AnnotatorNotes T80	lemma = 'question'
+T81	pos_MD 369 373	will
+#81	AnnotatorNotes T81	lemma = 'will'
+T82	pos_VB 374 376	be
+#82	AnnotatorNotes T82	lemma = 'be'
+T83	pos_VBN 377 387	considered
+#83	AnnotatorNotes T83	lemma = 'consider'
+T84	pos_IN 388 394	within
+#84	AnnotatorNotes T84	lemma = 'within'
+T85	pos_DT 395 398	the
+#85	AnnotatorNotes T85	lemma = 'the'
+T86	pos_NN 399 408	framework
+#86	AnnotatorNotes T86	lemma = 'framework'
+T87	pos_IN 409 411	of
+#87	AnnotatorNotes T87	lemma = 'of'
+T88	pos_JJ 412 423	existential
+#88	AnnotatorNotes T88	lemma = 'existential'
+T89	pos_NN 424 430	theory
+#89	AnnotatorNotes T89	lemma = 'theory'
+T90	pos_Fp 430 431	.
+#90	AnnotatorNotes T90	lemma = '.'
+T91	pos_RBR 432 436	More
+#91	AnnotatorNotes T91	lemma = 'many'
+T92	pos_RB 437 446	precisely
+#92	AnnotatorNotes T92	lemma = 'precisely'
+T93	pos_DT 447 450	the
+#93	AnnotatorNotes T93	lemma = 'the'
+T94	pos_NNS 451 458	reasons
+#94	AnnotatorNotes T94	lemma = 'reason'
+T95	pos_IN 459 463	that
+#95	AnnotatorNotes T95	lemma = 'that'
+T96	pos_DT 464 465	a
+#96	AnnotatorNotes T96	lemma = 'a'
+T97	pos_NN 466 472	person
+#97	AnnotatorNotes T97	lemma = 'person'
+T98	pos_VBN 473 478	based
+#98	AnnotatorNotes T98	lemma = 'base'
+T99	pos_IN 479 481	on
+#99	AnnotatorNotes T99	lemma = 'on'
+T100	pos_IN 482 484	in
+#100	AnnotatorNotes T100	lemma = 'in'
+T101	pos_VBG 485 493	changing
+#101	AnnotatorNotes T101	lemma = 'change'
+T102	pos_NNS 494 503	attitudes
+#102	AnnotatorNotes T102	lemma = 'attitude'
+T103	pos_IN 504 511	towards
+#103	AnnotatorNotes T103	lemma = 'towards'
+T104	pos_DT 512 515	the
+#104	AnnotatorNotes T104	lemma = 'the'
+T105	pos_JJ 516 528	professional
+#105	AnnotatorNotes T105	lemma = 'professional'
+T106	pos_NN 529 533	life
+#106	AnnotatorNotes T106	lemma = 'life'
+T107	pos_MD 534 538	will
+#107	AnnotatorNotes T107	lemma = 'will'
+T108	pos_VB 539 541	be
+#108	AnnotatorNotes T108	lemma = 'be'
+T109	pos_VBN 542 550	examined
+#109	AnnotatorNotes T109	lemma = 'examine'
+T110	pos_Fp 550 551	.
+#110	AnnotatorNotes T110	lemma = '.'

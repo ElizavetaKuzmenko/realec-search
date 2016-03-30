@@ -1,0 +1,253 @@
+T1	Voice_choice 8 16	perceive	
+#1	AnnotatorNotes T1	is perceived
+T2	lex_item_choice 89 94	named	
+#2	AnnotatorNotes T2	called
+T3	lex_item_choice 181 188	defines	
+#3	AnnotatorNotes T3	examines
+T4	Art_choice 190 200	connection
+#4	AnnotatorNotes T4	the connection
+T5	Noun_number 285 285	
+#5	AnnotatorNotes T5	s
+T6	Standard 522 547	were used factor analyses	
+#6	AnnotatorNotes T6	factor analysis is used
+T7	Word_choice 549 572	Investigation has shown	
+#7	AnnotatorNotes T7	Experiments demonstrate
+A1	Weight-language T1 Major
+A2	Weight-language T2 Minor
+A3	Weight-language T3 Minor
+A4	Cause T4 Absence_of_Category_in_L1
+A5	Weight-language T4 Minor
+A6	Weight-language T5 Minor
+A7	Cause T6 L1_interference
+A8	Weight-language T6 Critical
+A9	Weight-language T7 Minor
+T8	pos_﻿ 0 1	﻿
+#8	AnnotatorNotes T8	lemma = '﻿'
+T9	pos_NP 1 7	Colour
+#9	AnnotatorNotes T9	lemma = 'colour'
+T10	pos_VB 8 16	perceive
+#10	AnnotatorNotes T10	lemma = 'perceive'
+T11	pos_IN 17 19	on
+#11	AnnotatorNotes T11	lemma = 'on'
+T12	pos_JJ 20 29	different
+#12	AnnotatorNotes T12	lemma = 'different'
+T13	pos_NNS 30 36	levels
+#13	AnnotatorNotes T13	lemma = 'level'
+T14	pos_VBG 37 46	including
+#14	AnnotatorNotes T14	lemma = 'include'
+T15	pos_JJ 47 56	emotional
+#15	AnnotatorNotes T15	lemma = 'emotional'
+T16	pos_Fp 56 57	.
+#16	AnnotatorNotes T16	lemma = '.'
+T17	pos_NNS 58 66	Emotions
+#17	AnnotatorNotes T17	lemma = 'emotion'
+T18	pos_VBD 67 75	provoked
+#18	AnnotatorNotes T18	lemma = 'provoke'
+T19	pos_IN 76 78	by
+#19	AnnotatorNotes T19	lemma = 'by'
+T20	pos_NN 79 84	color
+#20	AnnotatorNotes T20	lemma = 'color'
+T21	pos_VBP 85 88	are
+#21	AnnotatorNotes T21	lemma = 'be'
+T22	pos_VBN 89 94	named
+#22	AnnotatorNotes T22	lemma = 'name'
+T23	pos_NN 95 101	colour
+#23	AnnotatorNotes T23	lemma = 'colour'
+T24	pos_NNS 102 110	emotions
+#24	AnnotatorNotes T24	lemma = 'emotion'
+T25	pos_Fp 110 111	.
+#25	AnnotatorNotes T25	lemma = '.'
+T26	pos_NN 112 117	Color
+#26	AnnotatorNotes T26	lemma = 'color'
+T27	pos_VBZ 118 121	has
+#27	AnnotatorNotes T27	lemma = 'have'
+T28	pos_Z 122 123	3
+#28	AnnotatorNotes T28	lemma = '3'
+T29	pos_NN 124 134	appearance
+#29	AnnotatorNotes T29	lemma = 'appearance'
+T30	pos_NNS 135 145	attributes
+#30	AnnotatorNotes T30	lemma = 'attribute'
+T31	pos_Fd 145 146	:
+#31	AnnotatorNotes T31	lemma = ':'
+T32	pos_NN 147 150	hue
+#32	AnnotatorNotes T32	lemma = 'hue'
+T33	pos_Fc 150 151	,
+#33	AnnotatorNotes T33	lemma = ','
+T34	pos_NN 152 157	light
+#34	AnnotatorNotes T34	lemma = 'light'
+T35	pos_CC 158 161	and
+#35	AnnotatorNotes T35	lemma = 'and'
+T36	pos_NN 162 168	chroma
+#36	AnnotatorNotes T36	lemma = 'chroma'
+T37	pos_Fp 168 169	.
+#37	AnnotatorNotes T37	lemma = '.'
+T38	pos_DT 170 174	This
+#38	AnnotatorNotes T38	lemma = 'this'
+T39	pos_NN 175 180	study
+#39	AnnotatorNotes T39	lemma = 'study'
+T40	pos_VBZ 181 188	defines
+#40	AnnotatorNotes T40	lemma = 'define'
+T41	pos_NN 190 200	connection
+#41	AnnotatorNotes T41	lemma = 'connection'
+T42	pos_IN 201 208	between
+#42	AnnotatorNotes T42	lemma = 'between'
+T43	pos_NN 209 215	colour
+#43	AnnotatorNotes T43	lemma = 'colour'
+T44	pos_NNS 216 224	emotions
+#44	AnnotatorNotes T44	lemma = 'emotion'
+T45	pos_CC 225 228	and
+#45	AnnotatorNotes T45	lemma = 'and'
+T46	pos_NN 229 235	colour
+#46	AnnotatorNotes T46	lemma = 'colour'
+T47	pos_NN 236 246	appearance
+#47	AnnotatorNotes T47	lemma = 'appearance'
+T48	pos_NNS 247 257	attributes
+#48	AnnotatorNotes T48	lemma = 'attribute'
+T49	pos_Fp 257 258	.
+#49	AnnotatorNotes T49	lemma = '.'
+T50	pos_IN 258 260	In
+#50	AnnotatorNotes T50	lemma = 'in'
+T51	pos_JJR 261 268	earlier
+#51	AnnotatorNotes T51	lemma = 'earlier'
+T52	pos_NNS 269 274	works
+#52	AnnotatorNotes T52	lemma = 'work'
+T53	pos_NN 275 285	researcher
+#53	AnnotatorNotes T53	lemma = 'researcher'
+T54	pos_VBN 286 293	defined
+#54	AnnotatorNotes T54	lemma = 'define'
+T55	pos_JJ 294 301	similar
+#55	AnnotatorNotes T55	lemma = 'similar'
+T56	pos_NNS 302 309	factors
+#56	AnnotatorNotes T56	lemma = 'factor'
+T57	pos_WDT 310 315	which
+#57	AnnotatorNotes T57	lemma = 'which'
+T58	pos_VBD 316 320	were
+#58	AnnotatorNotes T58	lemma = 'be'
+T59	pos_VBN 321 325	used
+#59	AnnotatorNotes T59	lemma = 'use'
+T60	pos_IN 326 328	in
+#60	AnnotatorNotes T60	lemma = 'in'
+T61	pos_JJ 329 338	different
+#61	AnnotatorNotes T61	lemma = 'different'
+T62	pos_NNS 339 346	studies
+#62	AnnotatorNotes T62	lemma = 'study'
+T63	pos_IN 347 349	on
+#63	AnnotatorNotes T63	lemma = 'on'
+T64	pos_JJ 350 359	different
+#64	AnnotatorNotes T64	lemma = 'different'
+T65	pos_NNS 360 368	cultures
+#65	AnnotatorNotes T65	lemma = 'culture'
+T66	pos_Fp 368 369	.
+#66	AnnotatorNotes T66	lemma = '.'
+T67	pos_DT 370 374	This
+#67	AnnotatorNotes T67	lemma = 'this'
+T68	pos_NN 375 380	study
+#68	AnnotatorNotes T68	lemma = 'study'
+T69	pos_VBZ 381 393	investigates
+#69	AnnotatorNotes T69	lemma = 'investigate'
+T70	pos_DT 394 398	this
+#70	AnnotatorNotes T70	lemma = 'this'
+T71	pos_JJ 399 415	colour-emotional
+#71	AnnotatorNotes T71	lemma = 'colour-emotional'
+T72	pos_NNS 416 422	scales
+#72	AnnotatorNotes T72	lemma = 'scale'
+T73	pos_Fc 422 423	,
+#73	AnnotatorNotes T73	lemma = ','
+T74	pos_NNS 424 435	comparisons
+#74	AnnotatorNotes T74	lemma = 'comparison'
+T75	pos_VBD 436 440	were
+#75	AnnotatorNotes T75	lemma = 'be'
+T76	pos_VBN 441 445	made
+#76	AnnotatorNotes T76	lemma = 'make'
+T77	pos_IN 446 453	between
+#77	AnnotatorNotes T77	lemma = 'between'
+T78	pos_JJ 454 458	male
+#78	AnnotatorNotes T78	lemma = 'male'
+T79	pos_/ 458 459	/
+#79	AnnotatorNotes T79	lemma = '/'
+T80	pos_NN 459 465	female
+#80	AnnotatorNotes T80	lemma = 'female'
+T81	pos_Fc 465 466	,
+#81	AnnotatorNotes T81	lemma = ','
+T82	pos_NP 467 474	British
+#82	AnnotatorNotes T82	lemma = 'british'
+T83	pos_/ 474 475	/
+#83	AnnotatorNotes T83	lemma = '/'
+T84	pos_NP 475 482	Chinese
+#84	AnnotatorNotes T84	lemma = 'chinese'
+T85	pos_NNS 483 489	groups
+#85	AnnotatorNotes T85	lemma = 'group'
+T86	pos_Fp 489 490	.
+#86	AnnotatorNotes T86	lemma = '.'
+T87	pos_TO 491 493	To
+#87	AnnotatorNotes T87	lemma = 'to'
+T88	pos_VB 494 504	categorize
+#88	AnnotatorNotes T88	lemma = 'categorize'
+T89	pos_NN 505 511	colour
+#89	AnnotatorNotes T89	lemma = 'colour'
+T90	pos_NNS 512 520	emotions
+#90	AnnotatorNotes T90	lemma = 'emotion'
+T91	pos_Fc 520 521	,
+#91	AnnotatorNotes T91	lemma = ','
+T92	pos_VBD 522 526	were
+#92	AnnotatorNotes T92	lemma = 'be'
+T93	pos_VBN 527 531	used
+#93	AnnotatorNotes T93	lemma = 'use'
+T94	pos_NN 532 538	factor
+#94	AnnotatorNotes T94	lemma = 'factor'
+T95	pos_NNS 539 547	analyses
+#95	AnnotatorNotes T95	lemma = 'analysis'
+T96	pos_Fp 547 548	.
+#96	AnnotatorNotes T96	lemma = '.'
+T97	pos_NN 549 562	Investigation
+#97	AnnotatorNotes T97	lemma = 'investigation'
+T98	pos_VBZ 563 566	has
+#98	AnnotatorNotes T98	lemma = 'have'
+T99	pos_VBN 567 572	shown
+#99	AnnotatorNotes T99	lemma = 'show'
+T100	pos_IN 573 577	that
+#100	AnnotatorNotes T100	lemma = 'that'
+T101	pos_EX 578 583	there
+#101	AnnotatorNotes T101	lemma = 'there'
+T102	pos_VBP 584 587	are
+#102	AnnotatorNotes T102	lemma = 'be'
+T103	pos_NN 588 597	universal
+#103	AnnotatorNotes T103	lemma = 'universal'
+T104	pos_JJ 598 613	color-emotional
+#104	AnnotatorNotes T104	lemma = 'color-emotional'
+T105	pos_NNS 614 621	factors
+#105	AnnotatorNotes T105	lemma = 'factor'
+T106	pos_WDT 622 627	which
+#106	AnnotatorNotes T106	lemma = 'which'
+T107	pos_VBD 628 632	were
+#107	AnnotatorNotes T107	lemma = 'be'
+T108	pos_JJ 633 640	similar
+#108	AnnotatorNotes T108	lemma = 'similar'
+T109	pos_VBN 641 649	accessed
+#109	AnnotatorNotes T109	lemma = 'access'
+T110	pos_IN 650 652	by
+#110	AnnotatorNotes T110	lemma = 'by'
+T111	pos_NNS 653 662	observers
+#111	AnnotatorNotes T111	lemma = 'observer'
+T112	pos_Fc 662 663	,
+#112	AnnotatorNotes T112	lemma = ','
+T113	pos_PRP 664 666	it
+#113	AnnotatorNotes T113	lemma = 'it'
+T114	pos_VBZ 666 668	's
+#114	AnnotatorNotes T114	lemma = 'be'
+T115	pos_NN 669 675	colour
+#115	AnnotatorNotes T115	lemma = 'colour'
+T116	pos_NN 676 684	activity
+#116	AnnotatorNotes T116	lemma = 'activity'
+T117	pos_NN 685 691	colour
+#117	AnnotatorNotes T117	lemma = 'colour'
+T118	pos_NN 692 698	weight
+#118	AnnotatorNotes T118	lemma = 'weight'
+T119	pos_CC 699 702	and
+#119	AnnotatorNotes T119	lemma = 'and'
+T120	pos_NN 703 709	colour
+#120	AnnotatorNotes T120	lemma = 'colour'
+T121	pos_NN 710 714	heat
+#121	AnnotatorNotes T121	lemma = 'heat'
+T122	pos_Fp 714 715	.
+#122	AnnotatorNotes T122	lemma = '.'

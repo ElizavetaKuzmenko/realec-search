@@ -1,0 +1,649 @@
+T1	lex_item_choice 412 417	waste
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	spend
+T2	lex_item_choice 418 419	t
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	leisure
+T3	Conjunctions 452 453	i
+A7	Cause T3 Typo
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	and
+T4	suggestion 534 543	there are
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+A13	Delete T4
+T5	Voice 603 605	be
+A14	Cause T5 Typo
+A15	Weight-language T5 Minor
+A16	Weight-understanding T5 Minor
+#4	AnnotatorNotes T5	by
+T6	Articles 731 732	l
+A17	Cause T6 Absence_of_Category_in_L1
+A18	Weight-language T6 Major
+A19	Weight-understanding T6 Minor
+#5	AnnotatorNotes T6	the
+T7	Quantifiers 777 782	a lot
+A20	Cause T7 Other
+A21	Weight-language T7 Minor
+A22	Weight-understanding T7 Minor
+A23	Delete T7
+T8	suggestion 811 820	there are
+A24	Cause T8 Other
+A25	Weight-language T8 Major
+A26	Weight-understanding T8 Minor
+A27	Delete T8
+T9	Conjunctions 872 876	that
+A28	Cause T9 Other
+A29	Weight-language T9 Minor
+A30	Weight-understanding T9 Minor
+A31	Delete T9
+T10	Abs_comp_clause 928 929	l
+A32	Cause T10 Other
+A33	Weight-language T10 Minor
+A34	Weight-understanding T10 Minor
+#6	AnnotatorNotes T10	segments
+T11	Word_choice 933 944	Australians
+A35	Cause T11 Other
+A36	Weight-language T11 Minor
+A37	Weight-understanding T11 Minor
+#7	AnnotatorNotes T11	Australian population
+T12	Articles 966 967	i
+A38	Cause T12 Absence_of_Category_in_L1
+A39	Weight-language T12 Major
+A40	Weight-understanding T12 Minor
+#8	AnnotatorNotes T12	an
+T13	Lack_par_constr 982 996	disappointment
+A41	Cause T13 Other
+A42	Weight-language T13 Major
+A43	Weight-understanding T13 Minor
+#9	AnnotatorNotes T13	disappointing
+T14	suggestion 1047 1054	as well
+A44	Cause T14 Other
+A45	Weight-language T14 Minor
+A46	Weight-understanding T14 Minor
+A47	Delete T14
+T15	lex_item_choice 1074 1082	schedule
+A48	Cause T15 Other
+A49	Weight-language T15 Minor
+A50	Weight-understanding T15 Minor
+#10	AnnotatorNotes T15	chart
+T16	Punctuation 1081 1082	e
+A51	Cause T16 Typo
+A52	Weight-language T16 Minor
+A53	Weight-understanding T16 Minor
+#11	AnnotatorNotes T16	,
+T17	Attributes 1180 1182	do
+A54	Cause T17 Other
+A55	Weight-language T17 Major
+A56	Weight-understanding T17 Minor
+A57	Delete T17
+T18	Pronouns 1243 1246	the
+A58	Cause T18 Other
+A59	Weight-language T18 Minor
+A60	Weight-understanding T18 Minor
+#12	AnnotatorNotes T18	their
+T19	lex_part_choice 1267 1283	in contrast with
+A61	Cause T19 Other
+A62	Weight-language T19 Major
+A63	Weight-understanding T19 Minor
+#13	AnnotatorNotes T19	in contrast to
+T20	Conjunctions 1296 1300	that
+A64	Cause T20 Other
+A65	Weight-language T20 Major
+A66	Weight-understanding T20 Minor
+#14	AnnotatorNotes T20	which
+T21	Punctuation 1294 1295	s
+A67	Cause T21 Typo
+A68	Weight-language T21 Minor
+A69	Weight-understanding T21 Minor
+#15	AnnotatorNotes T21	,
+T22	Word_choice 1339 1356	disinterestedness
+A70	Cause T22 Other
+A71	Weight-language T22 Minor
+A72	Weight-understanding T22 Minor
+#16	AnnotatorNotes T22	lack of interest
+T23	Conjunctions 1337 1338	,
+A73	Cause T23 Other
+A74	Weight-language T23 Minor
+A75	Weight-understanding T23 Minor
+#17	AnnotatorNotes T23	,or
+T24	Conjunctions 1376 1377	,
+A76	Cause T24 Other
+A77	Weight-language T24 Minor
+A78	Weight-understanding T24 Minor
+#18	AnnotatorNotes T24	, or
+T25	note 1213 1214	e
+A79	Cause T25 Other
+A80	Weight-language T25 Minor
+A81	Weight-understanding T25 Major
+#19	AnnotatorNotes T25	- I can only hypothesise what can play the role in this country
+T26	pos_DT 0 3	The
+#20	AnnotatorNotes T26	lemma = 'the'
+T27	pos_NN 4 9	graph
+#21	AnnotatorNotes T27	lemma = 'graph'
+T28	pos_VBZ 10 15	gives
+#22	AnnotatorNotes T28	lemma = 'give'
+T29	pos_NN 16 27	information
+#23	AnnotatorNotes T29	lemma = 'information'
+T30	pos_IN 28 33	about
+#24	AnnotatorNotes T30	lemma = 'about'
+T31	pos_NN 34 39	where
+#25	AnnotatorNotes T31	lemma = 'where'
+T32	pos_NNS 40 46	people
+#26	AnnotatorNotes T32	lemma = 'people'
+T33	pos_VBG 47 53	living
+#27	AnnotatorNotes T33	lemma = 'live'
+T34	pos_IN 54 56	in
+#28	AnnotatorNotes T34	lemma = 'in'
+T35	pos_NP 57 66	Australia
+#29	AnnotatorNotes T35	lemma = 'australia'
+T36	pos_VBP 67 69	go
+#30	AnnotatorNotes T36	lemma = 'go'
+T37	pos_TO 70 72	to
+#31	AnnotatorNotes T37	lemma = 'to'
+T38	pos_VB 73 78	spend
+#32	AnnotatorNotes T38	lemma = 'spend'
+T39	pos_PRP2 79 84	their
+#33	AnnotatorNotes T39	lemma = 'their'
+T40	pos_JJ 85 90	spare
+#34	AnnotatorNotes T40	lemma = 'spare'
+T41	pos_NN 91 95	time
+#35	AnnotatorNotes T41	lemma = 'time'
+T42	pos_Fp 95 96	.
+#36	AnnotatorNotes T42	lemma = '.'
+T43	pos_DT 97 101	This
+#37	AnnotatorNotes T43	lemma = 'this'
+T44	pos_NN 102 107	chart
+#38	AnnotatorNotes T44	lemma = 'chart'
+T45	pos_VBZ 108 116	presents
+#39	AnnotatorNotes T45	lemma = 'present'
+T46	pos_Z 117 118	3
+#40	AnnotatorNotes T46	lemma = '3'
+T47	pos_NNS 119 129	categories
+#41	AnnotatorNotes T47	lemma = 'category'
+T48	pos_IN 130 132	of
+#42	AnnotatorNotes T48	lemma = 'of'
+T49	pos_NP 133 144	Australians
+#43	AnnotatorNotes T49	lemma = 'australians'
+T50	pos_Fd 144 145	:
+#44	AnnotatorNotes T50	lemma = ':'
+T51	pos_NNS 146 154	migrants
+#45	AnnotatorNotes T51	lemma = 'migrant'
+T52	pos_IN 155 159	from
+#46	AnnotatorNotes T52	lemma = 'from'
+T53	pos_NP 160 176	English-speaking
+#47	AnnotatorNotes T53	lemma = 'english-speaking'
+T54	pos_NNS 177 186	countries
+#48	AnnotatorNotes T54	lemma = 'country'
+T55	pos_Fc 186 187	,
+#49	AnnotatorNotes T55	lemma = ','
+T56	pos_NNS 188 196	migrants
+#50	AnnotatorNotes T56	lemma = 'migrant'
+T57	pos_IN 197 201	from
+#51	AnnotatorNotes T57	lemma = 'from'
+T58	pos_JJ 202 207	other
+#52	AnnotatorNotes T58	lemma = 'other'
+T59	pos_NNS 208 217	countries
+#53	AnnotatorNotes T59	lemma = 'country'
+T60	pos_CC 218 221	and
+#54	AnnotatorNotes T60	lemma = 'and'
+T61	pos_NP 222 233	Australians
+#55	AnnotatorNotes T61	lemma = 'australians'
+T62	pos_VBN 234 238	born
+#56	AnnotatorNotes T62	lemma = 'bear'
+T63	pos_CC 239 242	and
+#57	AnnotatorNotes T63	lemma = 'and'
+T64	pos_VBN 243 247	bred
+#58	AnnotatorNotes T64	lemma = 'breed'
+T65	pos_Fp 247 248	.
+#59	AnnotatorNotes T65	lemma = '.'
+T66	pos_EX 251 256	There
+#60	AnnotatorNotes T66	lemma = 'there'
+T67	pos_VBP 257 260	are
+#61	AnnotatorNotes T67	lemma = 'be'
+T68	pos_RB 261 265	also
+#62	AnnotatorNotes T68	lemma = 'also'
+T69	pos_Z 266 270	four
+#63	AnnotatorNotes T69	lemma = '4'
+T70	pos_JJ 271 278	popular
+#64	AnnotatorNotes T70	lemma = 'popular'
+T71	pos_NNS 279 285	places
+#65	AnnotatorNotes T71	lemma = 'place'
+T72	pos_WRB 286 291	where
+#66	AnnotatorNotes T72	lemma = 'where'
+T73	pos_PRP 292 296	they
+#67	AnnotatorNotes T73	lemma = 'they'
+T74	pos_VBP 297 303	prefer
+#68	AnnotatorNotes T74	lemma = 'prefer'
+T75	pos_TO 304 306	to
+#69	AnnotatorNotes T75	lemma = 'to'
+T76	pos_VB 307 312	spend
+#70	AnnotatorNotes T76	lemma = 'spend'
+T77	pos_PRP2 313 318	their
+#71	AnnotatorNotes T77	lemma = 'their'
+T78	pos_JJ 319 323	free
+#72	AnnotatorNotes T78	lemma = 'free'
+T79	pos_NN 324 328	time
+#73	AnnotatorNotes T79	lemma = 'time'
+T80	pos_Fd 328 329	:
+#74	AnnotatorNotes T80	lemma = ':'
+T81	pos_NN 330 333	Zoo
+#75	AnnotatorNotes T81	lemma = 'zoo'
+T82	pos_Fc 333 334	,
+#76	AnnotatorNotes T82	lemma = ','
+T83	pos_NP 335 342	Library
+#77	AnnotatorNotes T83	lemma = 'library'
+T84	pos_Fc 342 343	,
+#78	AnnotatorNotes T84	lemma = ','
+T85	pos_NP 344 351	Theatre
+#79	AnnotatorNotes T85	lemma = 'theatre'
+T86	pos_CC 352 355	and
+#80	AnnotatorNotes T86	lemma = 'and'
+T87	pos_NP 356 362	Cinema
+#81	AnnotatorNotes T87	lemma = 'cinema'
+T88	pos_Fp 362 363	.
+#82	AnnotatorNotes T88	lemma = '.'
+T89	pos_DT 365 368	The
+#83	AnnotatorNotes T89	lemma = 'the'
+T90	pos_NN 369 374	graph
+#84	AnnotatorNotes T90	lemma = 'graph'
+T91	pos_VBZ 375 380	shows
+#85	AnnotatorNotes T91	lemma = 'show'
+T92	pos_IN 381 385	that
+#86	AnnotatorNotes T92	lemma = 'that'
+T93	pos_DT 386 389	the
+#87	AnnotatorNotes T93	lemma = 'the'
+T94	pos_RBS 390 394	most
+#88	AnnotatorNotes T94	lemma = 'many'
+T95	pos_JJ 395 402	popular
+#89	AnnotatorNotes T95	lemma = 'popular'
+T96	pos_NN 403 408	place
+#90	AnnotatorNotes T96	lemma = 'place'
+T97	pos_TO 409 411	to
+#91	AnnotatorNotes T97	lemma = 'to'
+T98	pos_VB 412 417	waste
+#92	AnnotatorNotes T98	lemma = 'waste'
+T99	pos_NN 418 422	time
+#93	AnnotatorNotes T99	lemma = 'time'
+T100	pos_IN 423 426	for
+#94	AnnotatorNotes T100	lemma = 'for'
+T101	pos_NNS 427 433	people
+#95	AnnotatorNotes T101	lemma = 'people'
+T102	pos_VBN 434 438	born
+#96	AnnotatorNotes T102	lemma = 'bear'
+T103	pos_IN 439 441	in
+#97	AnnotatorNotes T103	lemma = 'in'
+T104	pos_NP 442 451	Australia
+#98	AnnotatorNotes T104	lemma = 'australia'
+T105	pos_IN 452 454	in
+#99	AnnotatorNotes T105	lemma = 'in'
+T106	pos_NP 455 471	English-speaking
+#100	AnnotatorNotes T106	lemma = 'english-speaking'
+T107	pos_NNS 472 481	countries
+#101	AnnotatorNotes T107	lemma = 'country'
+T108	pos_VBZ 482 484	is
+#102	AnnotatorNotes T108	lemma = 'be'
+T109	pos_NN 485 491	cinema
+#103	AnnotatorNotes T109	lemma = 'cinema'
+T110	pos_Fp 491 492	.
+#104	AnnotatorNotes T110	lemma = '.'
+T111	pos_RB 493 495	As
+#105	AnnotatorNotes T111	lemma = 'as'
+T112	pos_IN 496 499	for
+#106	AnnotatorNotes T112	lemma = 'for'
+T113	pos_NNS 500 508	migrants
+#107	AnnotatorNotes T113	lemma = 'migrant'
+T114	pos_VBN 509 513	born
+#108	AnnotatorNotes T114	lemma = 'bear'
+T115	pos_IN 514 516	in
+#109	AnnotatorNotes T115	lemma = 'in'
+T116	pos_JJ 517 522	other
+#110	AnnotatorNotes T116	lemma = 'other'
+T117	pos_NNS 523 532	countries
+#111	AnnotatorNotes T117	lemma = 'country'
+T118	pos_Fc 532 533	,
+#112	AnnotatorNotes T118	lemma = ','
+T119	pos_EX 534 539	there
+#113	AnnotatorNotes T119	lemma = 'there'
+T120	pos_VBP 540 543	are
+#114	AnnotatorNotes T120	lemma = 'be'
+T121	pos_Zp 544 547	55%
+#115	AnnotatorNotes T121	lemma = '55/100'
+T122	pos_VBP 548 554	prefer
+#116	AnnotatorNotes T122	lemma = 'prefer'
+T123	pos_NN 555 562	library
+#117	AnnotatorNotes T123	lemma = 'library'
+T124	pos_TO 563 565	to
+#118	AnnotatorNotes T124	lemma = 'to'
+T125	pos_JJ 566 571	other
+#119	AnnotatorNotes T125	lemma = 'other'
+T126	pos_NNS 572 578	places
+#120	AnnotatorNotes T126	lemma = 'place'
+T127	pos_Fp 578 579	.
+#121	AnnotatorNotes T127	lemma = '.'
+T128	pos_DT 581 585	This
+#122	AnnotatorNotes T128	lemma = 'this'
+T129	pos_MD 586 589	can
+#123	AnnotatorNotes T129	lemma = 'can'
+T130	pos_VB 590 592	be
+#124	AnnotatorNotes T130	lemma = 'be'
+T131	pos_VBD 593 602	explained
+#125	AnnotatorNotes T131	lemma = 'explain'
+T132	pos_VB 603 605	be
+#126	AnnotatorNotes T132	lemma = 'be'
+T133	pos_DT 606 609	the
+#127	AnnotatorNotes T133	lemma = 'the'
+T134	pos_NN 610 614	fact
+#128	AnnotatorNotes T134	lemma = 'fact'
+T135	pos_IN 615 619	that
+#129	AnnotatorNotes T135	lemma = 'that'
+T136	pos_DT 620 623	the
+#130	AnnotatorNotes T136	lemma = 'the'
+T137	pos_NN 624 632	majority
+#131	AnnotatorNotes T137	lemma = 'majority'
+T138	pos_IN 633 635	of
+#132	AnnotatorNotes T138	lemma = 'of'
+T139	pos_NNS 636 642	movies
+#133	AnnotatorNotes T139	lemma = 'movie'
+T140	pos_CC 643 646	and
+#134	AnnotatorNotes T140	lemma = 'and'
+T141	pos_NNS 647 652	plays
+#135	AnnotatorNotes T141	lemma = 'play'
+T142	pos_VBP 653 656	are
+#136	AnnotatorNotes T142	lemma = 'be'
+T143	pos_IN 657 659	in
+#137	AnnotatorNotes T143	lemma = 'in'
+T144	pos_NNS 660 667	English
+#138	AnnotatorNotes T144	lemma = 'english'
+T145	pos_CC 668 671	and
+#139	AnnotatorNotes T145	lemma = 'and'
+T146	pos_NNS 672 680	migrants
+#140	AnnotatorNotes T146	lemma = 'migrant'
+T147	pos_WDT 681 685	that
+#141	AnnotatorNotes T147	lemma = 'that'
+T148	pos_VBP 686 688	do
+#142	AnnotatorNotes T148	lemma = 'do'
+T149	pos_RB 689 692	not
+#143	AnnotatorNotes T149	lemma = 'not'
+T150	pos_VB 693 697	know
+#144	AnnotatorNotes T150	lemma = 'know'
+T151	pos_DT 698 702	this
+#145	AnnotatorNotes T151	lemma = 'this'
+T152	pos_NN 703 711	language
+#146	AnnotatorNotes T152	lemma = 'language'
+T153	pos_MD 712 717	would
+#147	AnnotatorNotes T153	lemma = 'would'
+T154	pos_RB 718 724	rather
+#148	AnnotatorNotes T154	lemma = 'rather'
+T155	pos_VB 725 727	go
+#149	AnnotatorNotes T155	lemma = 'go'
+T156	pos_TO 728 730	to
+#150	AnnotatorNotes T156	lemma = 'to'
+T157	pos_NN 731 738	library
+#151	AnnotatorNotes T157	lemma = 'library'
+T158	pos_TO 739 741	to
+#152	AnnotatorNotes T158	lemma = 'to'
+T159	pos_VB 742 749	improve
+#153	AnnotatorNotes T159	lemma = 'improve'
+T160	pos_PRP 750 752	it
+#154	AnnotatorNotes T160	lemma = 'it'
+T161	pos_Fp 752 753	.
+#155	AnnotatorNotes T161	lemma = '.'
+T162	pos_NN 755 758	Zoo
+#156	AnnotatorNotes T162	lemma = 'zoo'
+T163	pos_VBZ 759 761	is
+#157	AnnotatorNotes T163	lemma = 'be'
+T164	pos_RB 762 765	not
+#158	AnnotatorNotes T164	lemma = 'not'
+T165	pos_VBN 766 776	frequented
+#159	AnnotatorNotes T165	lemma = 'frequent'
+T166	pos_RB 777 782	a lot
+#160	AnnotatorNotes T166	lemma = 'a_lot'
+T167	pos_RB 783 785	as
+#161	AnnotatorNotes T167	lemma = 'as'
+T168	pos_RB 786 790	much
+#162	AnnotatorNotes T168	lemma = 'much'
+T169	pos_IN 791 793	as
+#163	AnnotatorNotes T169	lemma = 'as'
+T170	pos_NN 794 800	cinema
+#164	AnnotatorNotes T170	lemma = 'cinema'
+T171	pos_NNS 801 805	does
+#165	AnnotatorNotes T171	lemma = 'doe'
+T172	pos_Fc 805 806	,
+#166	AnnotatorNotes T172	lemma = ','
+T173	pos_CC 807 810	but
+#167	AnnotatorNotes T173	lemma = 'but'
+T174	pos_EX 811 816	there
+#168	AnnotatorNotes T174	lemma = 'there'
+T175	pos_VBP 817 820	are
+#169	AnnotatorNotes T175	lemma = 'be'
+T176	pos_Zp 821 824	50%
+#170	AnnotatorNotes T176	lemma = '50/100'
+T177	pos_IN 825 827	of
+#171	AnnotatorNotes T177	lemma = 'of'
+T178	pos_NNS 828 836	migrants
+#172	AnnotatorNotes T178	lemma = 'migrant'
+T179	pos_VBN 837 841	born
+#173	AnnotatorNotes T179	lemma = 'bear'
+T180	pos_IN 842 844	in
+#174	AnnotatorNotes T180	lemma = 'in'
+T181	pos_NP 845 861	English-speaking
+#175	AnnotatorNotes T181	lemma = 'english-speaking'
+T182	pos_NNS 862 871	countries
+#176	AnnotatorNotes T182	lemma = 'country'
+T183	pos_WDT 872 876	that
+#177	AnnotatorNotes T183	lemma = 'that'
+T184	pos_VBP 877 882	visit
+#178	AnnotatorNotes T184	lemma = 'visit'
+T185	pos_DT 883 887	this
+#179	AnnotatorNotes T185	lemma = 'this'
+T186	pos_NN 888 893	place
+#180	AnnotatorNotes T186	lemma = 'place'
+T187	pos_Fp 893 894	.
+#181	AnnotatorNotes T187	lemma = '.'
+T188	pos_DT 896 899	The
+#182	AnnotatorNotes T188	lemma = 'the'
+T189	pos_JJS 900 905	least
+#183	AnnotatorNotes T189	lemma = 'little'
+T190	pos_VBN 906 916	frequented
+#184	AnnotatorNotes T190	lemma = 'frequent'
+T191	pos_NN 917 922	place
+#185	AnnotatorNotes T191	lemma = 'place'
+T192	pos_IN 923 925	by
+#186	AnnotatorNotes T192	lemma = 'by'
+T193	pos_DT 926 929	all
+#187	AnnotatorNotes T193	lemma = 'all'
+T194	pos_IN 930 932	of
+#188	AnnotatorNotes T194	lemma = 'of'
+T195	pos_NP 933 944	Australians
+#189	AnnotatorNotes T195	lemma = 'australians'
+T196	pos_VBZ 945 947	is
+#190	AnnotatorNotes T196	lemma = 'be'
+T197	pos_NN 948 955	theatre
+#191	AnnotatorNotes T197	lemma = 'theatre'
+T198	pos_Fp 955 956	.
+#192	AnnotatorNotes T198	lemma = '.'
+T199	pos_EX 957 962	There
+#193	AnnotatorNotes T199	lemma = 'there'
+T200	pos_VBZ 963 965	is
+#194	AnnotatorNotes T200	lemma = 'be'
+T201	pos_VBG 966 977	interesting
+#195	AnnotatorNotes T201	lemma = 'interest'
+T202	pos_CC 978 981	and
+#196	AnnotatorNotes T202	lemma = 'and'
+T203	pos_NN 982 996	disappointment
+#197	AnnotatorNotes T203	lemma = 'disappointment'
+T204	pos_NN 997 1001	fact
+#198	AnnotatorNotes T204	lemma = 'fact'
+T205	pos_Fd 1001 1002	:
+#199	AnnotatorNotes T205	lemma = ':'
+T206	pos_JJ 1003 1010	English
+#200	AnnotatorNotes T206	lemma = 'english'
+T207	pos_NNS 1011 1019	speakers
+#201	AnnotatorNotes T207	lemma = 'speaker'
+T208	pos_VBP 1020 1026	prefer
+#202	AnnotatorNotes T208	lemma = 'prefer'
+T209	pos_JJ 1027 1032	other
+#203	AnnotatorNotes T209	lemma = 'other'
+T210	pos_NNS 1033 1039	places
+#204	AnnotatorNotes T210	lemma = 'place'
+T211	pos_TO 1040 1042	to
+#205	AnnotatorNotes T211	lemma = 'to'
+T212	pos_NN 1043 1046	zoo
+#206	AnnotatorNotes T212	lemma = 'zoo'
+T213	pos_RB 1047 1054	as well
+#207	AnnotatorNotes T213	lemma = 'as_well'
+T214	pos_Fp 1054 1055	.
+#208	AnnotatorNotes T214	lemma = '.'
+T215	pos_IN 1057 1069	According to
+#209	AnnotatorNotes T215	lemma = 'according_to'
+T216	pos_DT 1070 1073	the
+#210	AnnotatorNotes T216	lemma = 'the'
+T217	pos_NN 1074 1082	schedule
+#211	AnnotatorNotes T217	lemma = 'schedule'
+T218	pos_JJ 1083 1087	only
+#212	AnnotatorNotes T218	lemma = 'only'
+T219	pos_Zp 1088 1091	20%
+#213	AnnotatorNotes T219	lemma = '20/100'
+T220	pos_IN 1092 1094	of
+#214	AnnotatorNotes T220	lemma = 'of'
+T221	pos_NNS 1095 1101	people
+#215	AnnotatorNotes T221	lemma = 'people'
+T222	pos_VBN 1102 1106	born
+#216	AnnotatorNotes T222	lemma = 'bear'
+T223	pos_IN 1107 1109	in
+#217	AnnotatorNotes T223	lemma = 'in'
+T224	pos_NP 1110 1119	Australia
+#218	AnnotatorNotes T224	lemma = 'australia'
+T225	pos_VB 1120 1125	spend
+#219	AnnotatorNotes T225	lemma = 'spend'
+T226	pos_PRP2 1126 1131	their
+#220	AnnotatorNotes T226	lemma = 'their'
+T227	pos_JJ 1132 1137	spare
+#221	AnnotatorNotes T227	lemma = 'spare'
+T228	pos_NN 1138 1142	time
+#222	AnnotatorNotes T228	lemma = 'time'
+T229	pos_RB 1143 1148	there
+#223	AnnotatorNotes T229	lemma = 'there'
+T230	pos_Fp 1148 1149	.
+#224	AnnotatorNotes T230	lemma = '.'
+T231	pos_EX 1150 1155	There
+#225	AnnotatorNotes T231	lemma = 'there'
+T232	pos_MD 1156 1159	may
+#226	AnnotatorNotes T232	lemma = 'may'
+T233	pos_VB 1160 1162	be
+#227	AnnotatorNotes T233	lemma = 'be'
+T234	pos_PRP 1163 1167	many
+#228	AnnotatorNotes T234	lemma = 'many'
+T235	pos_VBZ 1168 1175	reasons
+#229	AnnotatorNotes T235	lemma = 'reason'
+T236	pos_WRB 1176 1179	why
+#230	AnnotatorNotes T236	lemma = 'why'
+T237	pos_VBP 1180 1182	do
+#231	AnnotatorNotes T237	lemma = 'do'
+T238	pos_NNS 1183 1189	people
+#232	AnnotatorNotes T238	lemma = 'people'
+T239	pos_RB 1190 1196	rarely
+#233	AnnotatorNotes T239	lemma = 'rarely'
+T240	pos_VB 1197 1199	go
+#234	AnnotatorNotes T240	lemma = 'go'
+T241	pos_TO 1200 1202	to
+#235	AnnotatorNotes T241	lemma = 'to'
+T242	pos_DT 1203 1206	the
+#236	AnnotatorNotes T242	lemma = 'the'
+T243	pos_NN 1207 1214	theatre
+#237	AnnotatorNotes T243	lemma = 'theatre'
+T244	pos_Fd 1214 1215	:
+#238	AnnotatorNotes T244	lemma = ':'
+T245	pos_DT 1217 1220	the
+#239	AnnotatorNotes T245	lemma = 'the'
+T246	pos_NN 1221 1228	absence
+#240	AnnotatorNotes T246	lemma = 'absence'
+T247	pos_IN 1229 1231	of
+#241	AnnotatorNotes T247	lemma = 'of'
+T248	pos_NN 1232 1239	theatre
+#242	AnnotatorNotes T248	lemma = 'theatre'
+T249	pos_IN 1240 1242	in
+#243	AnnotatorNotes T249	lemma = 'in'
+T250	pos_DT 1243 1246	the
+#244	AnnotatorNotes T250	lemma = 'the'
+T251	pos_NN 1247 1252	place
+#245	AnnotatorNotes T251	lemma = 'place'
+T252	pos_IN 1253 1255	of
+#246	AnnotatorNotes T252	lemma = 'of'
+T253	pos_NN 1256 1265	residence
+#247	AnnotatorNotes T253	lemma = 'residence'
+T254	pos_Fpa 1266 1267	(
+#248	AnnotatorNotes T254	lemma = '('
+T255	pos_IN 1267 1269	in
+#249	AnnotatorNotes T255	lemma = 'in'
+T256	pos_NN 1270 1278	contrast
+#250	AnnotatorNotes T256	lemma = 'contrast'
+T257	pos_IN 1279 1283	with
+#251	AnnotatorNotes T257	lemma = 'with'
+T258	pos_DT 1284 1287	the
+#252	AnnotatorNotes T258	lemma = 'the'
+T259	pos_NNS 1288 1295	cinemas
+#253	AnnotatorNotes T259	lemma = 'cinema'
+T260	pos_WDT 1296 1300	that
+#254	AnnotatorNotes T260	lemma = 'that'
+T261	pos_VBP 1301 1304	are
+#255	AnnotatorNotes T261	lemma = 'be'
+T262	pos_VBN 1305 1311	placed
+#256	AnnotatorNotes T262	lemma = 'place'
+T263	pos_RB 1312 1318	almost
+#257	AnnotatorNotes T263	lemma = 'almost'
+T264	pos_IN 1319 1321	in
+#258	AnnotatorNotes T264	lemma = 'in'
+T265	pos_DT 1322 1327	every
+#259	AnnotatorNotes T265	lemma = 'every'
+T266	pos_NN 1328 1336	district
+#260	AnnotatorNotes T266	lemma = 'district'
+T267	pos_Fpt 1336 1337	)
+#261	AnnotatorNotes T267	lemma = ')'
+T268	pos_Fc 1337 1338	,
+#262	AnnotatorNotes T268	lemma = ','
+T269	pos_NN 1339 1356	disinterestedness
+#263	AnnotatorNotes T269	lemma = 'disinterestedness'
+T270	pos_IN 1357 1359	in
+#264	AnnotatorNotes T270	lemma = 'in'
+T271	pos_DT 1360 1364	this
+#265	AnnotatorNotes T271	lemma = 'this'
+T272	pos_NN 1365 1369	kind
+#266	AnnotatorNotes T272	lemma = 'kind'
+T273	pos_IN 1370 1372	of
+#267	AnnotatorNotes T273	lemma = 'of'
+T274	pos_NN 1373 1376	art
+#268	AnnotatorNotes T274	lemma = 'art'
+T275	pos_Fc 1376 1377	,
+#269	AnnotatorNotes T275	lemma = ','
+T276	pos_RB 1378 1382	very
+#270	AnnotatorNotes T276	lemma = 'very'
+T277	pos_JJ 1383 1392	expensive
+#271	AnnotatorNotes T277	lemma = 'expensive'
+T278	pos_NNS 1393 1400	tickets
+#272	AnnotatorNotes T278	lemma = 'ticket'
+T279	pos_Fp 1400 1401	.
+#273	AnnotatorNotes T279	lemma = '.'
+T280	pos_DT 1403 1406	The
+#274	AnnotatorNotes T280	lemma = 'the'
+T281	pos_NN 1407 1412	graph
+#275	AnnotatorNotes T281	lemma = 'graph'
+T282	pos_VBZ 1413 1418	shows
+#276	AnnotatorNotes T282	lemma = 'show'
+T283	pos_JJ 1419 1426	unequal
+#277	AnnotatorNotes T283	lemma = 'unequal'
+T284	pos_NN 1427 1439	distribution
+#278	AnnotatorNotes T284	lemma = 'distribution'
+T285	pos_IN 1440 1442	of
+#279	AnnotatorNotes T285	lemma = 'of'
+T286	pos_NN 1443 1453	percentage
+#280	AnnotatorNotes T286	lemma = 'percentage'
+T287	pos_Fp 1453 1454	.
+#281	AnnotatorNotes T287	lemma = '.'

@@ -1,0 +1,406 @@
+T1	Abs_comp_clause 152 154	is
+#1	AnnotatorNotes T1	is called
+T3	Tense_form 170 174	have	
+#3	AnnotatorNotes T3	has a
+T5	Art_form 245 259	nonlinear plot
+#5	AnnotatorNotes T5	a nonlinear plot
+T7	Pronouns 291 297	decide
+#7	AnnotatorNotes T7	decide on his/her own
+T8	lex_item_choice 326 333	advance	
+#8	AnnotatorNotes T8	develop
+T9	suggestion 370 378	director
+#9	AnnotatorNotes T9	the
+T10	Word_choice 380 395	therefore it is	
+#10	AnnotatorNotes T10	thus creating a
+T11	Comparative_constr 396 406	more close	
+#11	AnnotatorNotes T11	closer
+T12	Art_choice 427 429	ad
+#12	AnnotatorNotes T12	the ad
+T13	Art_choice 435 440	human
+#13	AnnotatorNotes T13	the consumer
+T14	Word_choice 435 440	human	
+#14	AnnotatorNotes T14	consumer
+T15	Coherence 443 455	In this case
+#15	AnnotatorNotes T15	The hypothesis of this paper is that
+T17	Word_choice 456 472	human more trust	
+#17	AnnotatorNotes T17	viewer trusts the
+T18	Abs_comp_clause 485 490	of ad
+#18	AnnotatorNotes T18	of ad more
+T19	Personal 499 505	viewer	
+#19	AnnotatorNotes T19	(s)he is
+T20	Art_choice 528 535	process
+#20	AnnotatorNotes T20	the process
+T21	Prepositions 537 557	human-ad interaction
+#21	AnnotatorNotes T21	of consumer-ad interaction
+T22	lex_item_choice 537 542	human	
+#22	AnnotatorNotes T22	consumer
+T23	Prepositions 619 621	in	
+#23	AnnotatorNotes T23	of
+T24	Lack_of_connective 636 639	The
+#24	AnnotatorNotes T24	Thus,
+T2	Person 506 509	are
+#2	AnnotatorNotes T2	is
+T4	lex_item_choice 268 274	second
+#4	AnnotatorNotes T4	latter
+T6	Tautology 268 274	second
+A1	Cause T6 Other
+A2	Weight-language T6 Minor
+A3	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	latter
+A4	Cause T15 Other
+A5	Weight-language T15 Minor
+A6	Weight-understanding T15 Major
+T16	Punctuation 668 671	the
+#16	AnnotatorNotes T16	, the
+T25	Punctuation 712 727	on the one hand
+#25	AnnotatorNotes T25	on the one hand,
+T26	Punctuation 869 886	On the other hand
+#26	AnnotatorNotes T26	On the other hand,
+T27	pos_JJ 0 12	introductory
+#27	AnnotatorNotes T27	lemma = 'introductory'
+T28	pos_NNS 13 23	paragraphs
+#28	AnnotatorNotes T28	lemma = 'paragraph'
+T29	pos_NP 24 28	This
+#29	AnnotatorNotes T29	lemma = 'this'
+T30	pos_NN 29 33	work
+#30	AnnotatorNotes T30	lemma = 'work'
+T31	pos_VBZ 34 36	is
+#31	AnnotatorNotes T31	lemma = 'be'
+T32	pos_VBN 37 46	dedicated
+#32	AnnotatorNotes T32	lemma = 'dedicate'
+T33	pos_TO 47 49	to
+#33	AnnotatorNotes T33	lemma = 'to'
+T34	pos_DT 50 53	the
+#34	AnnotatorNotes T34	lemma = 'the'
+T35	pos_NN 54 62	research
+#35	AnnotatorNotes T35	lemma = 'research'
+T36	pos_IN 63 65	of
+#36	AnnotatorNotes T36	lemma = 'of'
+T37	pos_JJ 66 77	interactive
+#37	AnnotatorNotes T37	lemma = 'interactive'
+T38	pos_NN 78 91	advertisement
+#38	AnnotatorNotes T38	lemma = 'advertisement'
+T39	pos_IN 92 94	in
+#39	AnnotatorNotes T39	lemma = 'in'
+T40	pos_NN 95 105	psychology
+#40	AnnotatorNotes T40	lemma = 'psychology'
+T41	pos_Fp 105 106	.
+#41	AnnotatorNotes T41	lemma = '.'
+T42	pos_EX 107 112	There
+#42	AnnotatorNotes T42	lemma = 'there'
+T43	pos_VBP 113 116	are
+#43	AnnotatorNotes T43	lemma = 'be'
+T44	pos_Z 117 120	two
+#44	AnnotatorNotes T44	lemma = '2'
+T45	pos_NNS 121 126	kinds
+#45	AnnotatorNotes T45	lemma = 'kind'
+T46	pos_IN 127 129	of
+#46	AnnotatorNotes T46	lemma = 'of'
+T47	pos_NNS 130 133	ads
+#47	AnnotatorNotes T47	lemma = 'ad'
+T48	pos_Fp 133 134	.
+#48	AnnotatorNotes T48	lemma = '.'
+T49	pos_DT 135 138	The
+#49	AnnotatorNotes T49	lemma = 'the'
+T50	pos_JJ 139 144	first
+#50	AnnotatorNotes T50	lemma = '1'
+T51	pos_NN 145 149	type
+#51	AnnotatorNotes T51	lemma = 'type'
+T52	pos_VBZ 152 154	is
+#52	AnnotatorNotes T52	lemma = 'be'
+T53	pos_JJ 155 161	simple
+#53	AnnotatorNotes T53	lemma = 'simple'
+T54	pos_NN 162 164	ad
+#54	AnnotatorNotes T54	lemma = 'ad'
+T55	pos_WDT 165 169	that
+#55	AnnotatorNotes T55	lemma = 'that'
+T56	pos_VBP 170 174	have
+#56	AnnotatorNotes T56	lemma = 'have'
+T57	pos_JJ 175 183	one-line
+#57	AnnotatorNotes T57	lemma = 'one-line'
+T58	pos_NN 184 188	plot
+#58	AnnotatorNotes T58	lemma = 'plot'
+T59	pos_Fp 188 189	.
+#59	AnnotatorNotes T59	lemma = '.'
+T60	pos_DT 190 193	The
+#60	AnnotatorNotes T60	lemma = 'the'
+T61	pos_JJ 194 200	second
+#61	AnnotatorNotes T61	lemma = '2'
+T62	pos_NN 201 205	type
+#62	AnnotatorNotes T62	lemma = 'type'
+T63	pos_VBZ 206 208	is
+#63	AnnotatorNotes T63	lemma = 'be'
+T64	pos_VBN 209 215	called
+#64	AnnotatorNotes T64	lemma = 'call'
+T65	pos_DT 217 219	an
+#65	AnnotatorNotes T65	lemma = 'a'
+T66	pos_JJ 220 231	interactive
+#66	AnnotatorNotes T66	lemma = 'interactive'
+T67	pos_NN 232 234	ad
+#67	AnnotatorNotes T67	lemma = 'ad'
+T68	pos_Fc 235 236	,
+#68	AnnotatorNotes T68	lemma = ','
+T69	pos_PRP 237 239	it
+#69	AnnotatorNotes T69	lemma = 'it'
+T70	pos_VBZ 240 243	has
+#70	AnnotatorNotes T70	lemma = 'have'
+T71	pos_JJ 245 254	nonlinear
+#71	AnnotatorNotes T71	lemma = 'nonlinear'
+T72	pos_NN 255 259	plot
+#72	AnnotatorNotes T72	lemma = 'plot'
+T73	pos_Fp 259 260	.
+#73	AnnotatorNotes T73	lemma = '.'
+T74	pos_IN 261 263	In
+#74	AnnotatorNotes T74	lemma = 'in'
+T75	pos_DT 264 267	the
+#75	AnnotatorNotes T75	lemma = 'the'
+T76	pos_JJ 268 274	second
+#76	AnnotatorNotes T76	lemma = '2'
+T77	pos_NN 275 279	case
+#77	AnnotatorNotes T77	lemma = 'case'
+T78	pos_NN 280 286	viewer
+#78	AnnotatorNotes T78	lemma = 'viewer'
+T79	pos_MD 287 290	can
+#79	AnnotatorNotes T79	lemma = 'can'
+T80	pos_VB 291 297	decide
+#80	AnnotatorNotes T80	lemma = 'decide'
+T81	pos_WRB 298 301	how
+#81	AnnotatorNotes T81	lemma = 'how'
+T82	pos_DT 302 305	the
+#82	AnnotatorNotes T82	lemma = 'the'
+T83	pos_NN 306 310	plot
+#83	AnnotatorNotes T83	lemma = 'plot'
+T84	pos_IN 311 313	of
+#84	AnnotatorNotes T84	lemma = 'of'
+T85	pos_DT 314 317	the
+#85	AnnotatorNotes T85	lemma = 'the'
+T86	pos_NN 318 320	ad
+#86	AnnotatorNotes T86	lemma = 'ad'
+T87	pos_MD 321 325	will
+#87	AnnotatorNotes T87	lemma = 'will'
+T88	pos_VB 326 333	advance
+#88	AnnotatorNotes T88	lemma = 'advance'
+T89	pos_Fp 333 334	.
+#89	AnnotatorNotes T89	lemma = '.'
+T90	pos_IN 335 337	In
+#90	AnnotatorNotes T90	lemma = 'in'
+T91	pos_JJ 338 343	other
+#91	AnnotatorNotes T91	lemma = 'other'
+T92	pos_NNS 344 349	words
+#92	AnnotatorNotes T92	lemma = 'word'
+T93	pos_Fc 349 350	,
+#93	AnnotatorNotes T93	lemma = ','
+T94	pos_DT 351 354	the
+#94	AnnotatorNotes T94	lemma = 'the'
+T95	pos_NN 355 361	viewer
+#95	AnnotatorNotes T95	lemma = 'viewer'
+T96	pos_NNS 362 366	acts
+#96	AnnotatorNotes T96	lemma = 'act'
+T97	pos_IN 367 369	as
+#97	AnnotatorNotes T97	lemma = 'as'
+T98	pos_NN 370 378	director
+#98	AnnotatorNotes T98	lemma = 'director'
+T99	pos_Fc 378 379	,
+#99	AnnotatorNotes T99	lemma = ','
+T100	pos_RB 380 389	therefore
+#100	AnnotatorNotes T100	lemma = 'therefore'
+T101	pos_PRP 390 392	it
+#101	AnnotatorNotes T101	lemma = 'it'
+T102	pos_VBZ 393 395	is
+#102	AnnotatorNotes T102	lemma = 'be'
+T103	pos_RBR 396 400	more
+#103	AnnotatorNotes T103	lemma = 'many'
+T104	pos_JJ 401 406	close
+#104	AnnotatorNotes T104	lemma = 'close'
+T105	pos_NN 407 418	interaction
+#105	AnnotatorNotes T105	lemma = 'interaction'
+T106	pos_IN 419 426	between
+#106	AnnotatorNotes T106	lemma = 'between'
+T107	pos_NN 427 429	ad
+#107	AnnotatorNotes T107	lemma = 'ad'
+T108	pos_CC 430 433	and
+#108	AnnotatorNotes T108	lemma = 'and'
+T109	pos_JJ 435 440	human
+#109	AnnotatorNotes T109	lemma = 'human'
+T110	pos_Fp 440 441	.
+#110	AnnotatorNotes T110	lemma = '.'
+T111	pos_IN 443 445	In
+#111	AnnotatorNotes T111	lemma = 'in'
+T112	pos_DT 446 450	this
+#112	AnnotatorNotes T112	lemma = 'this'
+T113	pos_NN 451 455	case
+#113	AnnotatorNotes T113	lemma = 'case'
+T114	pos_JJ 456 461	human
+#114	AnnotatorNotes T114	lemma = 'human'
+T115	pos_RBR 462 466	more
+#115	AnnotatorNotes T115	lemma = 'many'
+T116	pos_NN 467 472	trust
+#116	AnnotatorNotes T116	lemma = 'trust'
+T117	pos_NN 473 484	information
+#117	AnnotatorNotes T117	lemma = 'information'
+T118	pos_IN 485 487	of
+#118	AnnotatorNotes T118	lemma = 'of'
+T119	pos_NN 488 490	ad
+#119	AnnotatorNotes T119	lemma = 'ad'
+T120	pos_IN 491 498	because
+#120	AnnotatorNotes T120	lemma = 'because'
+T121	pos_NN 499 505	viewer
+#121	AnnotatorNotes T121	lemma = 'viewer'
+T122	pos_VBP 506 509	are
+#122	AnnotatorNotes T122	lemma = 'be'
+T123	pos_RBR 510 514	more
+#123	AnnotatorNotes T123	lemma = 'many'
+T124	pos_VBN 515 523	involved
+#124	AnnotatorNotes T124	lemma = 'involve'
+T125	pos_IN 524 526	in
+#125	AnnotatorNotes T125	lemma = 'in'
+T126	pos_NN 528 535	process
+#126	AnnotatorNotes T126	lemma = 'process'
+T127	pos_JJ 537 545	human-ad
+#127	AnnotatorNotes T127	lemma = 'human-ad'
+T128	pos_NN 546 557	interaction
+#128	AnnotatorNotes T128	lemma = 'interaction'
+T129	pos_Fp 557 558	.
+#129	AnnotatorNotes T129	lemma = '.'
+T130	pos_NN 559 564	Trust
+#130	AnnotatorNotes T130	lemma = 'trust'
+T131	pos_VBZ 565 567	is
+#131	AnnotatorNotes T131	lemma = 'be'
+T132	pos_DT 568 569	a
+#132	AnnotatorNotes T132	lemma = 'a'
+T133	pos_RB 570 574	very
+#133	AnnotatorNotes T133	lemma = 'very'
+T134	pos_JJ 575 584	important
+#134	AnnotatorNotes T134	lemma = 'important'
+T135	pos_NN 585 594	component
+#135	AnnotatorNotes T135	lemma = 'component'
+T136	pos_IN 595 597	of
+#136	AnnotatorNotes T136	lemma = 'of'
+T137	pos_VBG 598 607	marketing
+#137	AnnotatorNotes T137	lemma = 'market'
+T138	pos_RB 608 615	as well
+#138	AnnotatorNotes T138	lemma = 'as_well'
+T139	pos_RB 616 618	as
+#139	AnnotatorNotes T139	lemma = 'as'
+T140	pos_IN 619 621	in
+#140	AnnotatorNotes T140	lemma = 'in'
+T141	pos_VBG 622 633	advertising
+#141	AnnotatorNotes T141	lemma = 'advertise'
+T142	pos_Fp 633 634	.
+#142	AnnotatorNotes T142	lemma = '.'
+T143	pos_DT 636 639	The
+#143	AnnotatorNotes T143	lemma = 'the'
+T144	pos_RBR 640 644	more
+#144	AnnotatorNotes T144	lemma = 'many'
+T145	pos_DT 645 646	a
+#145	AnnotatorNotes T145	lemma = 'a'
+T146	pos_NN 647 653	person
+#146	AnnotatorNotes T146	lemma = 'person'
+T147	pos_VBZ 654 660	trusts
+#147	AnnotatorNotes T147	lemma = 'trust'
+T148	pos_DT 661 664	the
+#148	AnnotatorNotes T148	lemma = 'the'
+T149	pos_NN 665 667	ad
+#149	AnnotatorNotes T149	lemma = 'ad'
+T150	pos_DT 668 671	the
+#150	AnnotatorNotes T150	lemma = 'the'
+T151	pos_RBR 672 676	more
+#151	AnnotatorNotes T151	lemma = 'many'
+T152	pos_JJ 677 686	efficient
+#152	AnnotatorNotes T152	lemma = 'efficient'
+T153	pos_DT 687 690	the
+#153	AnnotatorNotes T153	lemma = 'the'
+T154	pos_NNS 691 696	sales
+#154	AnnotatorNotes T154	lemma = 'sale'
+T155	pos_VBP 697 700	are
+#155	AnnotatorNotes T155	lemma = 'be'
+T156	pos_Fp 700 701	.
+#156	AnnotatorNotes T156	lemma = '.'
+T157	pos_RB 703 710	Notably
+#157	AnnotatorNotes T157	lemma = 'notably'
+T158	pos_Fc 710 711	,
+#158	AnnotatorNotes T158	lemma = ','
+T159	pos_RB 712 727	on the one hand
+#159	AnnotatorNotes T159	lemma = 'on_the_one_hand'
+T160	pos_DT 728 733	these
+#160	AnnotatorNotes T160	lemma = 'these'
+T161	pos_JJ 734 737	new
+#161	AnnotatorNotes T161	lemma = 'new'
+T162	pos_NN 738 749	interaction
+#162	AnnotatorNotes T162	lemma = 'interaction'
+T163	pos_IN 750 757	between
+#163	AnnotatorNotes T163	lemma = 'between'
+T164	pos_DT 758 760	an
+#164	AnnotatorNotes T164	lemma = 'a'
+T165	pos_NN 761 763	ad
+#165	AnnotatorNotes T165	lemma = 'ad'
+T166	pos_CC 764 767	and
+#166	AnnotatorNotes T166	lemma = 'and'
+T167	pos_DT 768 769	a
+#167	AnnotatorNotes T167	lemma = 'a'
+T168	pos_JJ 770 775	human
+#168	AnnotatorNotes T168	lemma = 'human'
+T169	pos_VBZ 776 778	is
+#169	AnnotatorNotes T169	lemma = 'be'
+T170	pos_VBG 779 790	interesting
+#170	AnnotatorNotes T170	lemma = 'interest'
+T171	pos_IN 791 794	for
+#171	AnnotatorNotes T171	lemma = 'for'
+T172	pos_JJ 795 808	psychological
+#172	AnnotatorNotes T172	lemma = 'psychological'
+T173	pos_NN 809 816	science
+#173	AnnotatorNotes T173	lemma = 'science'
+T174	pos_IN 817 819	as
+#174	AnnotatorNotes T174	lemma = 'as'
+T175	pos_DT 820 821	a
+#175	AnnotatorNotes T175	lemma = 'a'
+T176	pos_NN 822 830	research
+#176	AnnotatorNotes T176	lemma = 'research'
+T177	pos_IN 831 833	of
+#177	AnnotatorNotes T177	lemma = 'of'
+T178	pos_JJ 834 837	new
+#178	AnnotatorNotes T178	lemma = 'new'
+T179	pos_RBR 838 842	more
+#179	AnnotatorNotes T179	lemma = 'many'
+T180	pos_JJ 843 850	complex
+#180	AnnotatorNotes T180	lemma = 'complex'
+T181	pos_JJ 851 859	human-ad
+#181	AnnotatorNotes T181	lemma = 'human-ad'
+T182	pos_NN 860 867	reality
+#182	AnnotatorNotes T182	lemma = 'reality'
+T183	pos_Fp 867 868	.
+#183	AnnotatorNotes T183	lemma = '.'
+T184	pos_RB 869 886	On the other hand
+#184	AnnotatorNotes T184	lemma = 'on_the_other_hand'
+T185	pos_DT 887 891	this
+#185	AnnotatorNotes T185	lemma = 'this'
+T186	pos_VBZ 892 894	is
+#186	AnnotatorNotes T186	lemma = 'be'
+T187	pos_JJ 895 904	important
+#187	AnnotatorNotes T187	lemma = 'important'
+T188	pos_IN 905 908	for
+#188	AnnotatorNotes T188	lemma = 'for'
+T189	pos_VBG 909 918	marketing
+#189	AnnotatorNotes T189	lemma = 'market'
+T190	pos_IN 919 921	as
+#190	AnnotatorNotes T190	lemma = 'as'
+T191	pos_DT 922 923	a
+#191	AnnotatorNotes T191	lemma = 'a'
+T192	pos_NN 924 928	test
+#192	AnnotatorNotes T192	lemma = 'test'
+T193	pos_IN 929 931	of
+#193	AnnotatorNotes T193	lemma = 'of'
+T194	pos_JJ 932 935	new
+#194	AnnotatorNotes T194	lemma = 'new'
+T195	pos_NN 936 940	tool
+#195	AnnotatorNotes T195	lemma = 'tool'
+T196	pos_IN 941 943	of
+#196	AnnotatorNotes T196	lemma = 'of'
+T197	pos_NN 944 948	sale
+#197	AnnotatorNotes T197	lemma = 'sale'
+T198	pos_NNS 949 957	proceeds
+#198	AnnotatorNotes T198	lemma = 'proceeds'
+T199	pos_Fp 957 958	.
+#199	AnnotatorNotes T199	lemma = '.'
+T200	pos_Fp 959 960	.
+#200	AnnotatorNotes T200	lemma = '.'

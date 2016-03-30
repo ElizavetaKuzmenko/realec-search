@@ -1,0 +1,380 @@
+T1	Noun_number 48 52	life	
+#1	AnnotatorNotes T1	lives
+T2	Punctuation 160 160	
+#2	AnnotatorNotes T2	,
+T3	Det_choice 175 175	
+#3	AnnotatorNotes T3	their
+T4	Spelling 176 186	personalit
+#4	AnnotatorNotes T4	ies
+T5	Noun_number 198 198	
+#5	AnnotatorNotes T5	s
+T6	Noun_number 203 208	value
+#6	AnnotatorNotes T6	s
+T7	Prepositions 345 348	But	
+#7	AnnotatorNotes T7	However,
+T8	Number 360 366	intend
+#8	AnnotatorNotes T8	s
+T10	lex_item_choice 371 381	looking at	
+#10	AnnotatorNotes T10	consider
+T11	Noun_number 487 487	
+#11	AnnotatorNotes T11	s
+T12	Noun_number 528 532	life	
+#12	AnnotatorNotes T12	lives
+T13	lex_item_choice 571 579	advanced	
+#13	AnnotatorNotes T13	proposed
+T14	Prepositions 580 582	in	
+#14	AnnotatorNotes T14	at
+T15	lex_item_choice 588 593	phase	
+#15	AnnotatorNotes T15	stage
+T16	Modals_choice 750 760	supplement
+#16	AnnotatorNotes T16	may supplement
+T17	Punctuation 833 833	
+#17	AnnotatorNotes T17	,
+A1	Weight-language T1 Minor
+A2	Weight-language T2 Minor
+A3	Weight-language T3 Major
+A4	Cause T4 Typo
+A5	Weight-language T4 Major
+A6	Weight-language T5 Minor
+A7	Weight-language T6 Minor
+A8	Weight-language T7 Minor
+A9	Weight-language T8 Minor
+A11	Weight-language T10 Minor
+A12	Weight-language T11 Minor
+A13	Weight-language T12 Minor
+A14	Weight-language T13 Major
+A15	Weight-language T14 Minor
+A16	Weight-language T15 Minor
+A17	Weight-language T16 Major
+A18	Weight-language T17 Minor
+T9	Diff 360 378	intend for looking
+A10	Weight-language T9 Major
+#9	AnnotatorNotes T9	intends to look
+T18	pos_﻿ 0 1	﻿
+#18	AnnotatorNotes T18	lemma = '﻿'
+T19	pos_NP 1 7	Modern
+#19	AnnotatorNotes T19	lemma = 'modern'
+T20	pos_NNS 8 14	people
+#20	AnnotatorNotes T20	lemma = 'people'
+T21	pos_VBP 15 20	spend
+#21	AnnotatorNotes T21	lemma = 'spend'
+T22	pos_JJ 21 33	considerable
+#22	AnnotatorNotes T22	lemma = 'considerable'
+T23	pos_NN 34 38	part
+#23	AnnotatorNotes T23	lemma = 'part'
+T24	pos_IN 39 41	of
+#24	AnnotatorNotes T24	lemma = 'of'
+T25	pos_PRP2 42 47	their
+#25	AnnotatorNotes T25	lemma = 'their'
+T26	pos_NN 48 52	life
+#26	AnnotatorNotes T26	lemma = 'life'
+T27	pos_IN 53 55	in
+#27	AnnotatorNotes T27	lemma = 'in'
+T28	pos_JJ 56 65	so-called
+#28	AnnotatorNotes T28	lemma = 'so-called'
+T29	pos_Fe 66 67	"
+#29	AnnotatorNotes T29	lemma = '"'
+T30	pos_JJ 67 74	virtual
+#30	AnnotatorNotes T30	lemma = 'virtual'
+T31	pos_NN 75 82	reality
+#31	AnnotatorNotes T31	lemma = 'reality'
+T32	pos_Fe 82 83	"
+#32	AnnotatorNotes T32	lemma = '"'
+T33	pos_Fp 83 84	.
+#33	AnnotatorNotes T33	lemma = '.'
+T34	pos_DT 85 89	This
+#34	AnnotatorNotes T34	lemma = 'this'
+T35	pos_NN 90 97	reality
+#35	AnnotatorNotes T35	lemma = 'reality'
+T36	pos_VBZ 98 105	becomes
+#36	AnnotatorNotes T36	lemma = 'become'
+T37	pos_DT 106 107	a
+#37	AnnotatorNotes T37	lemma = 'a'
+T38	pos_NN 108 119	constituent
+#38	AnnotatorNotes T38	lemma = 'constituent'
+T39	pos_IN 120 122	of
+#39	AnnotatorNotes T39	lemma = 'of'
+T40	pos_DT 123 126	the
+#40	AnnotatorNotes T40	lemma = 'the'
+T41	pos_JJ 127 139	contemporary
+#41	AnnotatorNotes T41	lemma = 'contemporary'
+T42	pos_NN 140 149	lifeworld
+#42	AnnotatorNotes T42	lemma = 'lifeworld'
+T43	pos_Fx 149 150	;
+#43	AnnotatorNotes T43	lemma = ';'
+T44	pos_RB 151 160	therefore
+#44	AnnotatorNotes T44	lemma = 'therefore'
+T45	pos_PRP 161 163	it
+#45	AnnotatorNotes T45	lemma = 'it'
+T46	pos_VBZ 164 171	affects
+#46	AnnotatorNotes T46	lemma = 'affect'
+T47	pos_DT 172 175	the
+#47	AnnotatorNotes T47	lemma = 'the'
+T48	pos_NN 176 186	personalit
+#48	AnnotatorNotes T48	lemma = 'personalit'
+T49	pos_Fc 186 187	,
+#49	AnnotatorNotes T49	lemma = ','
+T50	pos_NN 188 193	world
+#50	AnnotatorNotes T50	lemma = 'world'
+T51	pos_NN 194 198	view
+#51	AnnotatorNotes T51	lemma = 'view'
+T52	pos_CC 199 202	and
+#52	AnnotatorNotes T52	lemma = 'and'
+T53	pos_NN 203 208	value
+#53	AnnotatorNotes T53	lemma = 'value'
+T54	pos_Fp 208 209	.
+#54	AnnotatorNotes T54	lemma = '.'
+T55	pos_DT 211 214	The
+#55	AnnotatorNotes T55	lemma = 'the'
+T56	pos_NN 215 222	problem
+#56	AnnotatorNotes T56	lemma = 'problem'
+T57	pos_IN 223 225	of
+#57	AnnotatorNotes T57	lemma = 'of'
+T58	pos_JJ 226 231	human
+#58	AnnotatorNotes T58	lemma = 'human'
+T59	pos_NN 232 243	interaction
+#59	AnnotatorNotes T59	lemma = 'interaction'
+T60	pos_IN 244 248	with
+#60	AnnotatorNotes T60	lemma = 'with'
+T61	pos_JJ 249 256	virtual
+#61	AnnotatorNotes T61	lemma = 'virtual'
+T62	pos_NN 257 264	reality
+#62	AnnotatorNotes T62	lemma = 'reality'
+T63	pos_VBZ 265 267	is
+#63	AnnotatorNotes T63	lemma = 'be'
+T64	pos_RB 268 276	commonly
+#64	AnnotatorNotes T64	lemma = 'commonly'
+T65	pos_VBN 277 287	considered
+#65	AnnotatorNotes T65	lemma = 'consider'
+T66	pos_IN 288 292	from
+#66	AnnotatorNotes T66	lemma = 'from'
+T67	pos_DT 293 296	the
+#67	AnnotatorNotes T67	lemma = 'the'
+T68	pos_NN 297 302	point
+#68	AnnotatorNotes T68	lemma = 'point'
+T69	pos_IN 303 305	of
+#69	AnnotatorNotes T69	lemma = 'of'
+T70	pos_NN 306 310	view
+#70	AnnotatorNotes T70	lemma = 'view'
+T71	pos_IN 311 313	of
+#71	AnnotatorNotes T71	lemma = 'of'
+T72	pos_JJ 314 322	negative
+#72	AnnotatorNotes T72	lemma = 'negative'
+T73	pos_NN 323 329	impact
+#73	AnnotatorNotes T73	lemma = 'impact'
+T74	pos_CC 330 333	and
+#74	AnnotatorNotes T74	lemma = 'and'
+T75	pos_NN 334 343	addiction
+#75	AnnotatorNotes T75	lemma = 'addiction'
+T76	pos_Fp 343 344	.
+#76	AnnotatorNotes T76	lemma = '.'
+T77	pos_CC 345 348	But
+#77	AnnotatorNotes T77	lemma = 'but'
+T78	pos_DT 349 353	this
+#78	AnnotatorNotes T78	lemma = 'this'
+T79	pos_NN 354 359	paper
+#79	AnnotatorNotes T79	lemma = 'paper'
+T80	pos_VB 360 366	intend
+#80	AnnotatorNotes T80	lemma = 'intend'
+T81	pos_IN 367 370	for
+#81	AnnotatorNotes T81	lemma = 'for'
+T82	pos_VBG 371 378	looking
+#82	AnnotatorNotes T82	lemma = 'look'
+T83	pos_IN 379 381	at
+#83	AnnotatorNotes T83	lemma = 'at'
+T84	pos_DT 382 385	the
+#84	AnnotatorNotes T84	lemma = 'the'
+T85	pos_NN 386 392	matter
+#85	AnnotatorNotes T85	lemma = 'matter'
+T86	pos_IN 393 397	from
+#86	AnnotatorNotes T86	lemma = 'from'
+T87	pos_DT 398 399	a
+#87	AnnotatorNotes T87	lemma = 'a'
+T88	pos_JJ 400 409	different
+#88	AnnotatorNotes T88	lemma = 'different'
+T89	pos_NN 410 420	standpoint
+#89	AnnotatorNotes T89	lemma = 'standpoint'
+T90	pos_Fd 420 421	:
+#90	AnnotatorNotes T90	lemma = ':'
+T91	pos_VBG 422 427	being
+#91	AnnotatorNotes T91	lemma = 'be'
+T92	pos_IN 428 430	in
+#92	AnnotatorNotes T92	lemma = 'in'
+T93	pos_JJ 431 438	virtual
+#93	AnnotatorNotes T93	lemma = 'virtual'
+T94	pos_NN 439 446	reality
+#94	AnnotatorNotes T94	lemma = 'reality'
+T95	pos_VBZ 447 449	is
+#95	AnnotatorNotes T95	lemma = 'be'
+T96	pos_DT 450 451	a
+#96	AnnotatorNotes T96	lemma = 'a'
+T97	pos_JJ 452 459	natural
+#97	AnnotatorNotes T97	lemma = 'natural'
+T98	pos_NN 460 470	phenomenon
+#98	AnnotatorNotes T98	lemma = 'phenomenon'
+T99	pos_IN 471 474	for
+#99	AnnotatorNotes T99	lemma = 'for'
+T100	pos_JJ 475 481	modern
+#100	AnnotatorNotes T100	lemma = 'modern'
+T101	pos_NN 482 487	youth
+#101	AnnotatorNotes T101	lemma = 'youth'
+T102	pos_CC 488 491	and
+#102	AnnotatorNotes T102	lemma = 'and'
+T103	pos_PRP 492 494	it
+#103	AnnotatorNotes T103	lemma = 'it'
+T104	pos_VBZ 495 497	is
+#104	AnnotatorNotes T104	lemma = 'be'
+T105	pos_JJ 498 509	significant
+#105	AnnotatorNotes T105	lemma = 'significant'
+T106	pos_IN 510 512	in
+#106	AnnotatorNotes T106	lemma = 'in'
+T107	pos_PRP2 513 518	their
+#107	AnnotatorNotes T107	lemma = 'their'
+T108	pos_JJ 519 527	everyday
+#108	AnnotatorNotes T108	lemma = 'everyday'
+T109	pos_NN 528 532	life
+#109	AnnotatorNotes T109	lemma = 'life'
+T110	pos_Fp 532 533	.
+#110	AnnotatorNotes T110	lemma = '.'
+T111	pos_RB 534 541	Thereby
+#111	AnnotatorNotes T111	lemma = 'thereby'
+T112	pos_DT 542 545	the
+#112	AnnotatorNotes T112	lemma = 'the'
+T113	pos_NN 546 555	following
+#113	AnnotatorNotes T113	lemma = 'following'
+T114	pos_NNS 556 566	hypotheses
+#114	AnnotatorNotes T114	lemma = 'hypothesis'
+T115	pos_VBP 567 570	are
+#115	AnnotatorNotes T115	lemma = 'be'
+T116	pos_VBN 571 579	advanced
+#116	AnnotatorNotes T116	lemma = 'advance'
+T117	pos_IN 580 582	in
+#117	AnnotatorNotes T117	lemma = 'in'
+T118	pos_DT 583 587	this
+#118	AnnotatorNotes T118	lemma = 'this'
+T119	pos_NN 588 593	phase
+#119	AnnotatorNotes T119	lemma = 'phase'
+T120	pos_IN 594 596	of
+#120	AnnotatorNotes T120	lemma = 'of'
+T121	pos_NN 597 605	research
+#121	AnnotatorNotes T121	lemma = 'research'
+T122	pos_Fd 605 606	:
+#122	AnnotatorNotes T122	lemma = ':'
+T123	pos_Fg 608 609	-
+#123	AnnotatorNotes T123	lemma = '-'
+T124	pos_DT 610 613	the
+#124	AnnotatorNotes T124	lemma = 'the'
+T125	pos_NNS 614 620	senses
+#125	AnnotatorNotes T125	lemma = 'sense'
+T126	pos_IN 621 623	of
+#126	AnnotatorNotes T126	lemma = 'of'
+T127	pos_NN 624 632	activity
+#127	AnnotatorNotes T127	lemma = 'activity'
+T128	pos_IN 633 635	in
+#128	AnnotatorNotes T128	lemma = 'in'
+T129	pos_JJ 636 643	virtual
+#129	AnnotatorNotes T129	lemma = 'virtual'
+T130	pos_NN 644 651	reality
+#130	AnnotatorNotes T130	lemma = 'reality'
+T131	pos_VBP 652 655	are
+#131	AnnotatorNotes T131	lemma = 'be'
+T132	pos_JJ 656 663	similar
+#132	AnnotatorNotes T132	lemma = 'similar'
+T133	pos_TO 664 666	to
+#133	AnnotatorNotes T133	lemma = 'to'
+T134	pos_DT 667 670	the
+#134	AnnotatorNotes T134	lemma = 'the'
+T135	pos_NN 671 682	personality
+#135	AnnotatorNotes T135	lemma = 'personality'
+T136	pos_NNS 683 689	senses
+#136	AnnotatorNotes T136	lemma = 'sense'
+T137	pos_IN 690 692	in
+#137	AnnotatorNotes T137	lemma = 'in'
+T138	pos_JJ 693 697	real
+#138	AnnotatorNotes T138	lemma = 'real'
+T139	pos_NN 698 702	life
+#139	AnnotatorNotes T139	lemma = 'life'
+T140	pos_Fx 702 703	;
+#140	AnnotatorNotes T140	lemma = ';'
+T141	pos_Fg 705 706	-
+#141	AnnotatorNotes T141	lemma = '-'
+T142	pos_DT 707 710	the
+#142	AnnotatorNotes T142	lemma = 'the'
+T143	pos_NNS 711 717	senses
+#143	AnnotatorNotes T143	lemma = 'sense'
+T144	pos_IN 718 720	of
+#144	AnnotatorNotes T144	lemma = 'of'
+T145	pos_NN 721 729	activity
+#145	AnnotatorNotes T145	lemma = 'activity'
+T146	pos_IN 730 732	in
+#146	AnnotatorNotes T146	lemma = 'in'
+T147	pos_JJ 733 740	virtual
+#147	AnnotatorNotes T147	lemma = 'virtual'
+T148	pos_NN 741 748	reality
+#148	AnnotatorNotes T148	lemma = 'reality'
+T149	pos_NN 750 760	supplement
+#149	AnnotatorNotes T149	lemma = 'supplement'
+T150	pos_/ 760 761	/
+#150	AnnotatorNotes T150	lemma = '/'
+T151	pos_VB 761 771	compensate
+#151	AnnotatorNotes T151	lemma = 'compensate'
+T152	pos_/ 771 772	/
+#152	AnnotatorNotes T152	lemma = '/'
+T153	pos_NN 772 782	substitute
+#153	AnnotatorNotes T153	lemma = 'substitute'
+T154	pos_DT 783 786	the
+#154	AnnotatorNotes T154	lemma = 'the'
+T155	pos_NN 787 798	personality
+#155	AnnotatorNotes T155	lemma = 'personality'
+T156	pos_NNS 799 805	senses
+#156	AnnotatorNotes T156	lemma = 'sense'
+T157	pos_IN 806 808	in
+#157	AnnotatorNotes T157	lemma = 'in'
+T158	pos_JJ 809 813	real
+#158	AnnotatorNotes T158	lemma = 'real'
+T159	pos_NN 814 818	life
+#159	AnnotatorNotes T159	lemma = 'life'
+T160	pos_Fp 818 819	.
+#160	AnnotatorNotes T160	lemma = '.'
+T161	pos_RB 821 833	Consequently
+#161	AnnotatorNotes T161	lemma = 'consequently'
+T162	pos_DT 834 837	the
+#162	AnnotatorNotes T162	lemma = 'the'
+T163	pos_NN 838 842	goal
+#163	AnnotatorNotes T163	lemma = 'goal'
+T164	pos_IN 843 845	of
+#164	AnnotatorNotes T164	lemma = 'of'
+T165	pos_DT 846 850	this
+#165	AnnotatorNotes T165	lemma = 'this'
+T166	pos_NN 851 856	study
+#166	AnnotatorNotes T166	lemma = 'study'
+T167	pos_VBZ 857 859	is
+#167	AnnotatorNotes T167	lemma = 'be'
+T168	pos_TO 860 862	to
+#168	AnnotatorNotes T168	lemma = 'to'
+T169	pos_VB 863 869	elicit
+#169	AnnotatorNotes T169	lemma = 'elicit'
+T170	pos_DT 870 873	the
+#170	AnnotatorNotes T170	lemma = 'the'
+T171	pos_JJ 874 881	various
+#171	AnnotatorNotes T171	lemma = 'various'
+T172	pos_VBZ 882 890	purports
+#172	AnnotatorNotes T172	lemma = 'purport'
+T173	pos_IN 891 893	of
+#173	AnnotatorNotes T173	lemma = 'of'
+T174	pos_DT 894 897	the
+#174	AnnotatorNotes T174	lemma = 'the'
+T175	pos_JJ 898 904	modern
+#175	AnnotatorNotes T175	lemma = 'modern'
+T176	pos_NN 905 910	youth
+#176	AnnotatorNotes T176	lemma = 'youth'
+T177	pos_NN 911 919	activity
+#177	AnnotatorNotes T177	lemma = 'activity'
+T178	pos_IN 920 922	in
+#178	AnnotatorNotes T178	lemma = 'in'
+T179	pos_JJ 923 930	virtual
+#179	AnnotatorNotes T179	lemma = 'virtual'
+T180	pos_NN 931 938	reality
+#180	AnnotatorNotes T180	lemma = 'reality'
+T181	pos_Fp 938 939	.
+#181	AnnotatorNotes T181	lemma = '.'

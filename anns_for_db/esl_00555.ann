@@ -1,0 +1,510 @@
+T1	Articles 1026 1034	a little
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	as little as
+T2	Prepositions 48 52	from
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	among
+T3	suggestion 81 93	varying from
+A7	Weight-language T3 Minor
+A8	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	of
+T4	Prepositions 116 118	of
+A9	Weight-language T4 Minor
+A10	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	in
+T5	Prepositions 242 246	1950
+A11	Addition T5
+A12	Weight-language T5 Major
+A13	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	in 1950
+T6	Prepositions 247 257	throughout
+A14	Weight-language T6 Minor
+A15	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	at
+T7	lex_item_choice 316 324	stronger
+A16	Weight-language T7 Minor
+A17	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	higher
+T8	Comparative_constr 381 393	most healthy
+A18	Cause T8 L1_interference
+A19	Weight-language T8 Critical
+A20	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	healthiest
+T9	Word_choice 416 422	was of
+A21	Weight-language T9 Minor
+A22	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	had
+T10	Conjunctions 487 490	nor
+A23	Cause T10 Typo
+A24	Weight-language T10 Major
+A25	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	or
+T11	Adjectives 595 602	most un
+A26	Weight-language T11 Minor
+A27	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	least 
+T12	note 732 756	was not of ideal weight.
+#12	AnnotatorNotes T12	It is a contradiction to what you are saying in the next paragraph!
+T13	Quantifiers 967 976	much more
+A28	Weight-language T13 Minor
+A29	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	quite
+T14	Abs_comp_clause 998 1001	70%
+A30	Addition T14
+A31	Weight-language T14 Major
+A32	Weight-understanding T14 Critical
+#14	AnnotatorNotes T14	70% have healthy weight
+T15	Prepositions 1002 1005	for
+A33	Weight-language T15 Major
+A34	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	among
+T16	note 988 1015	more than 70% for the young
+#16	AnnotatorNotes T16	which is the same as in 1950!
+T17	Conjunctions 1026 1027	a
+A35	Cause T17 Typo
+A36	Weight-language T17 Major
+A37	Weight-understanding T17 Major
+#17	AnnotatorNotes T17	as
+T18	Abs_comp_clause 1035 1037	5%
+A38	Addition T18
+A39	Weight-language T18 Major
+A40	Weight-understanding T18 Major
+#18	AnnotatorNotes T18	as 5%
+T19	Prepositions 1038 1041	for
+A41	Weight-language T19 Minor
+A42	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	among
+T20	pos_DT 0 3	The
+#20	AnnotatorNotes T20	lemma = 'the'
+T21	pos_Z 4 7	two
+#21	AnnotatorNotes T21	lemma = '2'
+T22	pos_NNS 8 14	charts
+#22	AnnotatorNotes T22	lemma = 'chart'
+T23	pos_VBP 15 19	show
+#23	AnnotatorNotes T23	lemma = 'show'
+T24	pos_DT 20 23	the
+#24	AnnotatorNotes T24	lemma = 'the'
+T25	pos_NN 24 30	weight
+#25	AnnotatorNotes T25	lemma = 'weight'
+T26	pos_NN 31 41	assessment
+#26	AnnotatorNotes T26	lemma = 'assessment'
+T27	pos_VBN 42 47	taken
+#27	AnnotatorNotes T27	lemma = 'take'
+T28	pos_IN 48 52	from
+#28	AnnotatorNotes T28	lemma = 'from'
+T29	pos_DT 53 56	the
+#29	AnnotatorNotes T29	lemma = 'the'
+T30	pos_NNS 57 68	inhabitants
+#30	AnnotatorNotes T30	lemma = 'inhabitant'
+T31	pos_IN 69 71	of
+#31	AnnotatorNotes T31	lemma = 'of'
+T32	pos_NP 72 79	Newtown
+#32	AnnotatorNotes T32	lemma = 'newtown'
+T33	pos_Fc 79 80	,
+#33	AnnotatorNotes T33	lemma = ','
+T34	pos_VBG 81 88	varying
+#34	AnnotatorNotes T34	lemma = 'vary'
+T35	pos_IN 89 93	from
+#35	AnnotatorNotes T35	lemma = 'from'
+T36	pos_JJ 94 103	different
+#36	AnnotatorNotes T36	lemma = 'different'
+T37	pos_NN 104 107	age
+#37	AnnotatorNotes T37	lemma = 'age'
+T38	pos_NNS 108 114	groups
+#38	AnnotatorNotes T38	lemma = 'group'
+T39	pos_Fc 114 115	,
+#39	AnnotatorNotes T39	lemma = ','
+T40	pos_IN 116 118	of
+#40	AnnotatorNotes T40	lemma = 'of'
+T41	pos_DT 119 122	the
+#41	AnnotatorNotes T41	lemma = 'the'
+T42	pos_NNS 123 128	years
+#42	AnnotatorNotes T42	lemma = 'year'
+T43	pos_Z 129 133	1950
+#43	AnnotatorNotes T43	lemma = '1950'
+T44	pos_CC 134 137	and
+#44	AnnotatorNotes T44	lemma = 'and'
+T45	pos_Z 138 142	2010
+#45	AnnotatorNotes T45	lemma = '2010'
+T46	pos_Fp 142 143	.
+#46	AnnotatorNotes T46	lemma = '.'
+T47	pos_IN 144 146	At
+#47	AnnotatorNotes T47	lemma = 'at'
+T48	pos_DT 147 148	a
+#48	AnnotatorNotes T48	lemma = 'a'
+T49	pos_JJ 149 154	first
+#49	AnnotatorNotes T49	lemma = '1'
+T50	pos_NN 155 161	glance
+#50	AnnotatorNotes T50	lemma = 'glance'
+T51	pos_PRP 162 164	we
+#51	AnnotatorNotes T51	lemma = 'we'
+T52	pos_MD 165 168	can
+#52	AnnotatorNotes T52	lemma = 'can'
+T53	pos_RB 169 176	clearly
+#53	AnnotatorNotes T53	lemma = 'clearly'
+T54	pos_VB 177 180	see
+#54	AnnotatorNotes T54	lemma = 'see'
+T55	pos_IN 181 185	that
+#55	AnnotatorNotes T55	lemma = 'that'
+T56	pos_DT 186 189	the
+#56	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NN 190 196	number
+#57	AnnotatorNotes T57	lemma = 'number'
+T58	pos_IN 197 199	of
+#58	AnnotatorNotes T58	lemma = 'of'
+T59	pos_JJ 200 205	obese
+#59	AnnotatorNotes T59	lemma = 'obese'
+T60	pos_NNS 206 212	people
+#60	AnnotatorNotes T60	lemma = 'people'
+T61	pos_VBD 213 216	was
+#61	AnnotatorNotes T61	lemma = 'be'
+T62	pos_RB 217 221	much
+#62	AnnotatorNotes T62	lemma = 'much'
+T63	pos_JJR 222 228	higher
+#63	AnnotatorNotes T63	lemma = 'high'
+T64	pos_IN 229 231	in
+#64	AnnotatorNotes T64	lemma = 'in'
+T65	pos_W 232 236	2010
+#65	AnnotatorNotes T65	lemma = '[??:??/??/2010:??.??:??]'
+T66	pos_IN 237 241	than
+#66	AnnotatorNotes T66	lemma = 'than'
+T67	pos_Z 242 246	1950
+#67	AnnotatorNotes T67	lemma = '1950'
+T68	pos_IN 247 257	throughout
+#68	AnnotatorNotes T68	lemma = 'throughout'
+T69	pos_DT 258 261	all
+#69	AnnotatorNotes T69	lemma = 'all'
+T70	pos_NNS 262 266	ages
+#70	AnnotatorNotes T70	lemma = 'age'
+T71	pos_Fc 266 267	,
+#71	AnnotatorNotes T71	lemma = ','
+T72	pos_IN 268 273	while
+#72	AnnotatorNotes T72	lemma = 'while'
+T73	pos_DT 274 277	the
+#73	AnnotatorNotes T73	lemma = 'the'
+T74	pos_NN 278 284	number
+#74	AnnotatorNotes T74	lemma = 'number'
+T75	pos_IN 285 287	of
+#75	AnnotatorNotes T75	lemma = 'of'
+T76	pos_NN 288 299	underweight
+#76	AnnotatorNotes T76	lemma = 'underweight'
+T77	pos_NNS 300 311	inhabitants
+#77	AnnotatorNotes T77	lemma = 'inhabitant'
+T78	pos_VBD 312 315	was
+#78	AnnotatorNotes T78	lemma = 'be'
+T79	pos_JJR 316 324	stronger
+#79	AnnotatorNotes T79	lemma = 'strong'
+T80	pos_IN 325 327	in
+#80	AnnotatorNotes T80	lemma = 'in'
+T81	pos_W 328 332	1950
+#81	AnnotatorNotes T81	lemma = '[??:??/??/1950:??.??:??]'
+T82	pos_Fp 332 333	.
+#82	AnnotatorNotes T82	lemma = '.'
+T83	pos_NNS 335 341	People
+#83	AnnotatorNotes T83	lemma = 'people'
+T84	pos_IN 342 346	from
+#84	AnnotatorNotes T84	lemma = 'from'
+T85	pos_Z 347 349	20
+#85	AnnotatorNotes T85	lemma = '20'
+T86	pos_TO 350 352	to
+#86	AnnotatorNotes T86	lemma = 'to'
+T87	pos_Z 353 355	29
+#87	AnnotatorNotes T87	lemma = '29'
+T88	pos_NNS 356 361	years
+#88	AnnotatorNotes T88	lemma = 'year'
+T89	pos_NN 362 365	old
+#89	AnnotatorNotes T89	lemma = 'old'
+T90	pos_VBP 366 370	seem
+#90	AnnotatorNotes T90	lemma = 'seem'
+T91	pos_TO 371 373	to
+#91	AnnotatorNotes T91	lemma = 'to'
+T92	pos_VB 374 376	be
+#92	AnnotatorNotes T92	lemma = 'be'
+T93	pos_DT 377 380	the
+#93	AnnotatorNotes T93	lemma = 'the'
+T94	pos_RBS 381 385	most
+#94	AnnotatorNotes T94	lemma = 'many'
+T95	pos_JJ 386 393	healthy
+#95	AnnotatorNotes T95	lemma = 'healthy'
+T96	pos_Fd 393 394	:
+#96	AnnotatorNotes T96	lemma = ':'
+T97	pos_IN 395 397	in
+#97	AnnotatorNotes T97	lemma = 'in'
+T98	pos_W 398 402	2010
+#98	AnnotatorNotes T98	lemma = '[??:??/??/2010:??.??:??]'
+T99	pos_DT 403 406	the
+#99	AnnotatorNotes T99	lemma = 'the'
+T100	pos_NN 407 415	majority
+#100	AnnotatorNotes T100	lemma = 'majority'
+T101	pos_VBD 416 419	was
+#101	AnnotatorNotes T101	lemma = 'be'
+T102	pos_IN 420 422	of
+#102	AnnotatorNotes T102	lemma = 'of'
+T103	pos_JJ 423 428	ideal
+#103	AnnotatorNotes T103	lemma = 'ideal'
+T104	pos_NN 429 435	weight
+#104	AnnotatorNotes T104	lemma = 'weight'
+T105	pos_Fc 435 436	,
+#105	AnnotatorNotes T105	lemma = ','
+T106	pos_CC 437 440	and
+#106	AnnotatorNotes T106	lemma = 'and'
+T107	pos_VBG 441 450	following
+#107	AnnotatorNotes T107	lemma = 'follow'
+T108	pos_DT 451 454	the
+#108	AnnotatorNotes T108	lemma = 'the'
+T109	pos_JJ 455 459	same
+#109	AnnotatorNotes T109	lemma = 'same'
+T110	pos_NN 460 464	line
+#110	AnnotatorNotes T110	lemma = 'line'
+T111	pos_PRP 465 467	we
+#111	AnnotatorNotes T111	lemma = 'we'
+T112	pos_VBP 468 472	find
+#112	AnnotatorNotes T112	lemma = 'find'
+T113	pos_DT 473 475	no
+#113	AnnotatorNotes T113	lemma = 'no'
+T114	pos_JJ 476 486	overweight
+#114	AnnotatorNotes T114	lemma = 'overweight'
+T115	pos_CC 487 490	nor
+#115	AnnotatorNotes T115	lemma = 'nor'
+T116	pos_JJ 491 496	obese
+#116	AnnotatorNotes T116	lemma = 'obese'
+T117	pos_NNS 497 503	people
+#117	AnnotatorNotes T117	lemma = 'people'
+T118	pos_IN 504 506	in
+#118	AnnotatorNotes T118	lemma = 'in'
+T119	pos_DT 507 510	the
+#119	AnnotatorNotes T119	lemma = 'the'
+T120	pos_NN 511 516	chart
+#120	AnnotatorNotes T120	lemma = 'chart'
+T121	pos_IN 517 519	of
+#121	AnnotatorNotes T121	lemma = 'of'
+T122	pos_Z 520 524	1950
+#122	AnnotatorNotes T122	lemma = '1950'
+T123	pos_Fp 524 525	.
+#123	AnnotatorNotes T123	lemma = '.'
+T124	pos_IN 526 528	On
+#124	AnnotatorNotes T124	lemma = 'on'
+T125	pos_DT 529 532	the
+#125	AnnotatorNotes T125	lemma = 'the'
+T126	pos_NN 533 541	contrary
+#126	AnnotatorNotes T126	lemma = 'contrary'
+T127	pos_Fc 541 542	,
+#127	AnnotatorNotes T127	lemma = ','
+T128	pos_DT 543 546	the
+#128	AnnotatorNotes T128	lemma = 'the'
+T129	pos_JJS 547 553	oldest
+#129	AnnotatorNotes T129	lemma = 'old'
+T130	pos_NN 554 564	population
+#130	AnnotatorNotes T130	lemma = 'population'
+T131	pos_IN 565 567	of
+#131	AnnotatorNotes T131	lemma = 'of'
+T132	pos_NP 568 575	Newtown
+#132	AnnotatorNotes T132	lemma = 'newtown'
+T133	pos_VBZ 576 578	is
+#133	AnnotatorNotes T133	lemma = 'be'
+T134	pos_VBN 579 584	found
+#134	AnnotatorNotes T134	lemma = 'find'
+T135	pos_TO 585 587	to
+#135	AnnotatorNotes T135	lemma = 'to'
+T136	pos_VB 588 590	be
+#136	AnnotatorNotes T136	lemma = 'be'
+T137	pos_DT 591 594	the
+#137	AnnotatorNotes T137	lemma = 'the'
+T138	pos_RBS 595 599	most
+#138	AnnotatorNotes T138	lemma = 'many'
+T139	pos_JJ 600 609	unhealthy
+#139	AnnotatorNotes T139	lemma = 'unhealthy'
+T140	pos_IN 610 612	in
+#140	AnnotatorNotes T140	lemma = 'in'
+T141	pos_NNS 613 618	terms
+#141	AnnotatorNotes T141	lemma = 'term'
+T142	pos_IN 619 621	of
+#142	AnnotatorNotes T142	lemma = 'of'
+T143	pos_VBG 622 628	eating
+#143	AnnotatorNotes T143	lemma = 'eat'
+T144	pos_NNS 629 635	habits
+#144	AnnotatorNotes T144	lemma = 'habit'
+T145	pos_Fd 635 636	:
+#145	AnnotatorNotes T145	lemma = ':'
+T146	pos_IN 637 639	in
+#146	AnnotatorNotes T146	lemma = 'in'
+T147	pos_W 640 644	2010
+#147	AnnotatorNotes T147	lemma = '[??:??/??/2010:??.??:??]'
+T148	pos_JJ 645 648	old
+#148	AnnotatorNotes T148	lemma = 'old'
+T149	pos_NNS 649 655	people
+#149	AnnotatorNotes T149	lemma = 'people'
+T150	pos_VBD 656 660	were
+#150	AnnotatorNotes T150	lemma = 'be'
+T151	pos_RB 661 667	mostly
+#151	AnnotatorNotes T151	lemma = 'mostly'
+T152	pos_JJ 668 673	obese
+#152	AnnotatorNotes T152	lemma = 'obese'
+T153	pos_CC 674 676	or
+#153	AnnotatorNotes T153	lemma = 'or'
+T154	pos_JJ 677 687	overweight
+#154	AnnotatorNotes T154	lemma = 'overweight'
+T155	pos_Fc 687 688	,
+#155	AnnotatorNotes T155	lemma = ','
+T156	pos_IN 689 694	while
+#156	AnnotatorNotes T156	lemma = 'while'
+T157	pos_IN 695 697	in
+#157	AnnotatorNotes T157	lemma = 'in'
+T158	pos_W 698 702	1950
+#158	AnnotatorNotes T158	lemma = '[??:??/??/1950:??.??:??]'
+T159	pos_RBR 703 707	more
+#159	AnnotatorNotes T159	lemma = 'many'
+T160	pos_IN 708 712	than
+#160	AnnotatorNotes T160	lemma = 'than'
+T161	pos_Zp 713 716	60%
+#161	AnnotatorNotes T161	lemma = '60/100'
+T162	pos_IN 717 719	of
+#162	AnnotatorNotes T162	lemma = 'of'
+T163	pos_DT 720 723	the
+#163	AnnotatorNotes T163	lemma = 'the'
+T164	pos_JJ 724 731	elderly
+#164	AnnotatorNotes T164	lemma = 'elderly'
+T165	pos_VBD 732 735	was
+#165	AnnotatorNotes T165	lemma = 'be'
+T166	pos_RB 736 739	not
+#166	AnnotatorNotes T166	lemma = 'not'
+T167	pos_IN 740 742	of
+#167	AnnotatorNotes T167	lemma = 'of'
+T168	pos_JJ 743 748	ideal
+#168	AnnotatorNotes T168	lemma = 'ideal'
+T169	pos_NN 749 755	weight
+#169	AnnotatorNotes T169	lemma = 'weight'
+T170	pos_Fp 755 756	.
+#170	AnnotatorNotes T170	lemma = '.'
+T171	pos_PRP 758 760	It
+#171	AnnotatorNotes T171	lemma = 'it'
+T172	pos_VBZ 761 763	is
+#172	AnnotatorNotes T172	lemma = 'be'
+T173	pos_JJ 764 772	possible
+#173	AnnotatorNotes T173	lemma = 'possible'
+T174	pos_TO 773 775	to
+#174	AnnotatorNotes T174	lemma = 'to'
+T175	pos_NN 776 782	notice
+#175	AnnotatorNotes T175	lemma = 'notice'
+T176	pos_IN 783 787	that
+#176	AnnotatorNotes T176	lemma = 'that'
+T177	pos_IN 788 790	in
+#177	AnnotatorNotes T177	lemma = 'in'
+T178	pos_W 791 795	1950
+#178	AnnotatorNotes T178	lemma = '[??:??/??/1950:??.??:??]'
+T179	pos_DT 796 799	the
+#179	AnnotatorNotes T179	lemma = 'the'
+T180	pos_NN 800 806	number
+#180	AnnotatorNotes T180	lemma = 'number'
+T181	pos_IN 807 809	of
+#181	AnnotatorNotes T181	lemma = 'of'
+T182	pos_NNS 810 821	inhabitants
+#182	AnnotatorNotes T182	lemma = 'inhabitant'
+T183	pos_IN 822 826	with
+#183	AnnotatorNotes T183	lemma = 'with'
+T184	pos_JJ 827 832	ideal
+#184	AnnotatorNotes T184	lemma = 'ideal'
+T185	pos_NN 833 839	weight
+#185	AnnotatorNotes T185	lemma = 'weight'
+T186	pos_VBD 840 843	was
+#186	AnnotatorNotes T186	lemma = 'be'
+T187	pos_RB 844 850	fairly
+#187	AnnotatorNotes T187	lemma = 'fairly'
+T188	pos_JJ 851 857	stable
+#188	AnnotatorNotes T188	lemma = 'stable'
+T189	pos_Fc 857 858	,
+#189	AnnotatorNotes T189	lemma = ','
+T190	pos_VBG 859 864	going
+#190	AnnotatorNotes T190	lemma = 'go'
+T191	pos_IN 865 869	from
+#191	AnnotatorNotes T191	lemma = 'from'
+T192	pos_Zp 870 873	70%
+#192	AnnotatorNotes T192	lemma = '70/100'
+T193	pos_IN 874 877	for
+#193	AnnotatorNotes T193	lemma = 'for'
+T194	pos_NNS 878 884	people
+#194	AnnotatorNotes T194	lemma = 'people'
+T195	pos_IN 885 887	of
+#195	AnnotatorNotes T195	lemma = 'of'
+T196	pos_NN 888 891	age
+#196	AnnotatorNotes T196	lemma = 'age'
+T197	pos_Z 892 897	20-29
+#197	AnnotatorNotes T197	lemma = '20-29'
+T198	pos_TO 898 900	to
+#198	AnnotatorNotes T198	lemma = 'to'
+T199	pos_Zp 901 904	50%
+#199	AnnotatorNotes T199	lemma = '50/100'
+T200	pos_IN 905 908	for
+#200	AnnotatorNotes T200	lemma = 'for'
+T201	pos_NNS 909 915	people
+#201	AnnotatorNotes T201	lemma = 'people'
+T202	pos_IN 916 920	from
+#202	AnnotatorNotes T202	lemma = 'from'
+T203	pos_Z 921 923	60
+#203	AnnotatorNotes T203	lemma = '60'
+T204	pos_TO 924 926	to
+#204	AnnotatorNotes T204	lemma = 'to'
+T205	pos_Z 927 929	69
+#205	AnnotatorNotes T205	lemma = '69'
+T206	pos_NNS 930 935	years
+#206	AnnotatorNotes T206	lemma = 'year'
+T207	pos_JJ 936 939	old
+#207	AnnotatorNotes T207	lemma = 'old'
+T208	pos_Fp 939 940	.
+#208	AnnotatorNotes T208	lemma = '.'
+T209	pos_DT 941 944	The
+#209	AnnotatorNotes T209	lemma = 'the'
+T210	pos_JJ 945 949	same
+#210	AnnotatorNotes T210	lemma = 'same'
+T211	pos_NN 950 955	chart
+#211	AnnotatorNotes T211	lemma = 'chart'
+T212	pos_IN 956 958	in
+#212	AnnotatorNotes T212	lemma = 'in'
+T213	pos_W 959 963	2010
+#213	AnnotatorNotes T213	lemma = '[??:??/??/2010:??.??:??]'
+T214	pos_VBZ 964 966	is
+#214	AnnotatorNotes T214	lemma = 'be'
+T215	pos_RB 967 971	much
+#215	AnnotatorNotes T215	lemma = 'much'
+T216	pos_RBR 972 976	more
+#216	AnnotatorNotes T216	lemma = 'many'
+T217	pos_JJ 977 986	different
+#217	AnnotatorNotes T217	lemma = 'different'
+T218	pos_Fd 986 987	:
+#218	AnnotatorNotes T218	lemma = ':'
+T219	pos_RBR 988 992	more
+#219	AnnotatorNotes T219	lemma = 'many'
+T220	pos_IN 993 997	than
+#220	AnnotatorNotes T220	lemma = 'than'
+T221	pos_Zp 998 1001	70%
+#221	AnnotatorNotes T221	lemma = '70/100'
+T222	pos_IN 1002 1005	for
+#222	AnnotatorNotes T222	lemma = 'for'
+T223	pos_DT 1006 1009	the
+#223	AnnotatorNotes T223	lemma = 'the'
+T224	pos_JJ 1010 1015	young
+#224	AnnotatorNotes T224	lemma = 'young'
+T225	pos_Fc 1015 1016	,
+#225	AnnotatorNotes T225	lemma = ','
+T226	pos_CC 1017 1020	but
+#226	AnnotatorNotes T226	lemma = 'but'
+T227	pos_JJ 1021 1025	only
+#227	AnnotatorNotes T227	lemma = 'only'
+T228	pos_DT 1026 1027	a
+#228	AnnotatorNotes T228	lemma = 'a'
+T229	pos_JJ 1028 1034	little
+#229	AnnotatorNotes T229	lemma = 'little'
+T230	pos_Zp 1035 1037	5%
+#230	AnnotatorNotes T230	lemma = '5/100'
+T231	pos_IN 1038 1041	for
+#231	AnnotatorNotes T231	lemma = 'for'
+T232	pos_DT 1042 1045	the
+#232	AnnotatorNotes T232	lemma = 'the'
+T233	pos_JJ 1046 1053	elderly
+#233	AnnotatorNotes T233	lemma = 'elderly'
+T234	pos_Fp 1053 1054	.
+#234	AnnotatorNotes T234	lemma = '.'

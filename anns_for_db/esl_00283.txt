@@ -1,0 +1,19 @@
+Review
+John Lyons. Componential analysis. In  Linguistic Semantics. pp. 107-114.
+In this paper I will review Lyons chapter "Componential analysis", devoted to componential analysis, a semantic framework, which appeared in the 50's. It heritaged different sciences, like logics, philosophy and linguistics, and caused heated discussions between linguists, influencing various areas of linguistics.
+Componential analysis involves the composition of the lexeme's sense into its component parts, which "should share prototypical/focal/nuclear sense with other lexemes". This analysis procedure is called lexical decomposition.
+Lyons begins with an introducing a fundamental term for the meaning components, sense-components,  providing an example of extracting factors from four words: 'boy', 'girl', 'man' and 'woman'. The sense of each of the words can be represented as the product of three factors:
+"man" = "human" x "male" x "adult";
+"woman" = "human" x "female" x "adult";
+"boy" = "human" x "male" x "non-adult";
+"girl" = "human" x "female" x "non-adult".
+In order to develop the formalisation, the author adds to his analysis negation-operator, which allows to operate two-valued variable, conjunction and the terminology and notation of elementary set-theory.
+The sense-components are supposed to be cross-linguistically universal, but the components that linguists have traditionally accepted for componential analysis framework do not match fundamental conceptualizations. Thus, there are components, like "male" or "adult" from the example above,
+for which not all languages have words.
+Another key criticism of this study is the fact that componential analysis has to interpret everything literally. It has to ignore the point that the difference in animacy between the senses of hands as 'hands of a clock' and 'hands of a person' prevents a conjunction like 
+*The clock's hands look funny, but mine don't. 
+(Paolo Acquaviva, Phoevos Panagiotidis 2012)
+This aspect would have to be explained outside a linguistic theory, or not explained at all.
+As a semantic framework, compositional analysis has serious theoretical limitations, but it we cannot deny that it has caused a breakthrough in semantics, for example, inspiring the creation of the Natural Semantic Metalanguage (NSM; Goddard andWierzbicka 2007), which manipulates semantic primitives and reductive paraphrase. 
+In applied problems compositional analysis can be used in computational linguistics. Reducing the natural language to the meta-language helps computers to operate more effectively, working with the information itself. Particularly, this universality would increase сomputer-assisted translation's accuracy.
+Despite the above criticisms, componential analysis goes a long way towards the linguistic semantics research, and it yields, giving the distinct results in computer-directed tasks.

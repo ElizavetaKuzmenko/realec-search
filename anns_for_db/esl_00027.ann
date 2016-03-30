@@ -1,0 +1,864 @@
+T1	Punctuation 1006 1016	production
+#1	AnnotatorNotes T1	production,
+T2	Spelling 1327 1344	pneumonia related	
+#2	AnnotatorNotes T2	pneumonia-related
+T3	Punctuation 1391 1400	Worldwide
+#3	AnnotatorNotes T3	Worldwide,
+T4	Pronouns 2326 2334	mindless	
+#4	AnnotatorNotes T4	their
+T5	pos_NN 0 3	Air
+#5	AnnotatorNotes T5	lemma = 'air'
+T6	pos_NN 4 13	pollution
+#6	AnnotatorNotes T6	lemma = 'pollution'
+T7	pos_VBZ 14 24	influences
+#7	AnnotatorNotes T7	lemma = 'influence'
+T8	pos_PRP 25 28	our
+#8	AnnotatorNotes T8	lemma = 'our'
+T9	pos_VBZ 29 34	lives
+#9	AnnotatorNotes T9	lemma = 'live'
+T10	pos_RB 35 37	so
+#10	AnnotatorNotes T10	lemma = 'so'
+T11	pos_RB 38 42	much
+#11	AnnotatorNotes T11	lemma = 'much'
+T12	pos_Fc 42 43	,
+#12	AnnotatorNotes T12	lemma = ','
+T13	pos_PRP 44 46	we
+#13	AnnotatorNotes T13	lemma = 'we'
+T14	pos_MD 47 50	can
+#14	AnnotatorNotes T14	lemma = 'can'
+T15	pos_RB 611 614	n't
+#15	AnnotatorNotes T15	lemma = 'not'
+T16	pos_VB 53 57	stay
+#16	AnnotatorNotes T16	lemma = 'stay'
+T17	pos_JJ 58 69	indifferent
+#17	AnnotatorNotes T17	lemma = 'indifferent'
+T18	pos_TO 70 72	to
+#18	AnnotatorNotes T18	lemma = 'to'
+T19	pos_DT 73 76	the
+#19	AnnotatorNotes T19	lemma = 'the'
+T20	pos_NN 77 84	quality
+#20	AnnotatorNotes T20	lemma = 'quality'
+T21	pos_IN 85 87	of
+#21	AnnotatorNotes T21	lemma = 'of'
+T22	pos_PRP2 88 91	our
+#22	AnnotatorNotes T22	lemma = 'our'
+T23	pos_NN 92 96	mood
+#23	AnnotatorNotes T23	lemma = 'mood'
+T24	pos_Fc 96 97	,
+#24	AnnotatorNotes T24	lemma = ','
+T25	pos_VBG 98 106	thinking
+#25	AnnotatorNotes T25	lemma = 'think'
+T26	pos_CC 107 110	and
+#26	AnnotatorNotes T26	lemma = 'and'
+T27	pos_Fc 110 111	,
+#27	AnnotatorNotes T27	lemma = ','
+T28	pos_RB 112 123	importantly
+#28	AnnotatorNotes T28	lemma = 'importantly'
+T29	pos_Fc 123 124	,
+#29	AnnotatorNotes T29	lemma = ','
+T30	pos_NN 125 131	health
+#30	AnnotatorNotes T30	lemma = 'health'
+T31	pos_Fp 131 132	.
+#31	AnnotatorNotes T31	lemma = '.'
+T32	pos_DT 133 136	The
+#32	AnnotatorNotes T32	lemma = 'the'
+T33	pos_NP 137 162	World Health Organization
+#33	AnnotatorNotes T33	lemma = 'world_health_organization'
+T34	pos_NNS 163 169	states
+#34	AnnotatorNotes T34	lemma = 'state'
+T35	pos_IN 170 174	that
+#35	AnnotatorNotes T35	lemma = 'that'
+T36	pos_Z 175 186	2.4 million
+#36	AnnotatorNotes T36	lemma = '2400000'
+T37	pos_NNS 187 193	people
+#37	AnnotatorNotes T37	lemma = 'people'
+T38	pos_VB 194 197	die
+#38	AnnotatorNotes T38	lemma = 'die'
+T39	pos_DT 198 202	each
+#39	AnnotatorNotes T39	lemma = 'each'
+T40	pos_NN 203 207	year
+#40	AnnotatorNotes T40	lemma = 'year'
+T41	pos_IN 208 212	from
+#41	AnnotatorNotes T41	lemma = 'from'
+T42	pos_VBZ 213 219	causes
+#42	AnnotatorNotes T42	lemma = 'cause'
+T43	pos_RB 220 228	directly
+#43	AnnotatorNotes T43	lemma = 'directly'
+T44	pos_JJ 229 241	attributable
+#44	AnnotatorNotes T44	lemma = 'attributable'
+T45	pos_TO 242 244	to
+#45	AnnotatorNotes T45	lemma = 'to'
+T46	pos_NN 245 248	air
+#46	AnnotatorNotes T46	lemma = 'air'
+T47	pos_NN 249 258	pollution
+#47	AnnotatorNotes T47	lemma = 'pollution'
+T48	pos_Fc 258 259	,
+#48	AnnotatorNotes T48	lemma = ','
+T49	pos_CC 260 263	and
+#49	AnnotatorNotes T49	lemma = 'and'
+T50	pos_DT 264 268	this
+#50	AnnotatorNotes T50	lemma = 'this'
+T51	pos_NN 269 275	number
+#51	AnnotatorNotes T51	lemma = 'number'
+T52	pos_VBZ 276 287	exacerbates
+#52	AnnotatorNotes T52	lemma = 'exacerbate'
+T53	pos_DT 288 293	every
+#53	AnnotatorNotes T53	lemma = 'every'
+T54	pos_NN 294 298	year
+#54	AnnotatorNotes T54	lemma = 'year'
+T55	pos_Fp 298 299	.
+#55	AnnotatorNotes T55	lemma = '.'
+T56	pos_PRP 300 302	It
+#56	AnnotatorNotes T56	lemma = 'it'
+T57	pos_VBZ 302 304	's
+#57	AnnotatorNotes T57	lemma = 'be'
+T58	pos_NN 305 309	time
+#58	AnnotatorNotes T58	lemma = 'time'
+T59	pos_TO 310 312	to
+#59	AnnotatorNotes T59	lemma = 'to'
+T60	pos_VB 313 318	worry
+#60	AnnotatorNotes T60	lemma = 'worry'
+T61	pos_Fd 318 319	:
+#61	AnnotatorNotes T61	lemma = ':'
+T62	pos_IN 320 332	according to
+#62	AnnotatorNotes T62	lemma = 'according_to'
+T63	pos_DT 333 336	the
+#63	AnnotatorNotes T63	lemma = 'the'
+T64	pos_NP 337 374	Carnegie Department of Global Ecology
+#64	AnnotatorNotes T64	lemma = 'carnegie_department_of_global_ecology'
+T65	pos_Fc 374 375	,
+#65	AnnotatorNotes T65	lemma = ','
+T66	pos_DT 376 379	the
+#66	AnnotatorNotes T66	lemma = 'the'
+T67	pos_NN 380 390	percentage
+#67	AnnotatorNotes T67	lemma = 'percentage'
+T68	pos_IN 391 393	of
+#68	AnnotatorNotes T68	lemma = 'of'
+T69	pos_NN 394 400	carbon
+#69	AnnotatorNotes T69	lemma = 'carbon'
+T70	pos_NN 401 408	dioxide
+#70	AnnotatorNotes T70	lemma = 'dioxide'
+T71	pos_IN 409 411	in
+#71	AnnotatorNotes T71	lemma = 'in'
+T72	pos_DT 412 415	the
+#72	AnnotatorNotes T72	lemma = 'the'
+T73	pos_NN 416 419	air
+#73	AnnotatorNotes T73	lemma = 'air'
+T74	pos_VBZ 420 422	is
+#74	AnnotatorNotes T74	lemma = 'be'
+T75	pos_VBG 423 433	increasing
+#75	AnnotatorNotes T75	lemma = 'increase'
+T76	pos_IN 434 436	at
+#76	AnnotatorNotes T76	lemma = 'at'
+T77	pos_DT 437 439	an
+#77	AnnotatorNotes T77	lemma = 'a'
+T78	pos_VBG 440 448	alarming
+#78	AnnotatorNotes T78	lemma = 'alarm'
+T79	pos_NN 449 453	rate
+#79	AnnotatorNotes T79	lemma = 'rate'
+T80	pos_Fp 453 454	.
+#80	AnnotatorNotes T80	lemma = '.'
+T81	pos_IN 455 457	In
+#81	AnnotatorNotes T81	lemma = 'in'
+T82	pos_DT 458 461	the
+#82	AnnotatorNotes T82	lemma = 'the'
+T83	pos_Z 462 464	90
+#83	AnnotatorNotes T83	lemma = '90'
+T84	pos_POS 464 466	's
+#84	AnnotatorNotes T84	lemma = ''s'
+T85	pos_Fc 466 467	,
+#85	AnnotatorNotes T85	lemma = ','
+T86	pos_NN 468 474	carbon
+#86	AnnotatorNotes T86	lemma = 'carbon'
+T87	pos_NNS 476 485	emissions
+#87	AnnotatorNotes T87	lemma = 'emission'
+T88	pos_NN 486 493	dioxide
+#88	AnnotatorNotes T88	lemma = 'dioxide'
+T89	pos_VBD 494 498	were
+#89	AnnotatorNotes T89	lemma = 'be'
+T90	pos_VBG 499 509	increasing
+#90	AnnotatorNotes T90	lemma = 'increase'
+T91	pos_IN 510 512	by
+#91	AnnotatorNotes T91	lemma = 'by'
+T92	pos_IN 513 518	about
+#92	AnnotatorNotes T92	lemma = 'about'
+T93	pos_Z 519 522	1.3
+#93	AnnotatorNotes T93	lemma = '1.3'
+T94	pos_NN 523 530	percent
+#94	AnnotatorNotes T94	lemma = 'percent'
+T95	pos_IN 531 534	per
+#95	AnnotatorNotes T95	lemma = 'per'
+T96	pos_NN 535 539	year
+#96	AnnotatorNotes T96	lemma = 'year'
+T97	pos_Fp 539 540	.
+#97	AnnotatorNotes T97	lemma = '.'
+T98	pos_CC 541 544	But
+#98	AnnotatorNotes T98	lemma = 'but'
+T99	pos_IN 545 550	since
+#99	AnnotatorNotes T99	lemma = 'since'
+T100	pos_Z 551 555	2000
+#100	AnnotatorNotes T100	lemma = '2000'
+T101	pos_Fc 555 556	,
+#101	AnnotatorNotes T101	lemma = ','
+T102	pos_DT 557 561	this
+#102	AnnotatorNotes T102	lemma = 'this'
+T103	pos_NN 562 568	figure
+#103	AnnotatorNotes T103	lemma = 'figure'
+T104	pos_VBZ 569 572	has
+#104	AnnotatorNotes T104	lemma = 'have'
+T105	pos_VBN 573 577	been
+#105	AnnotatorNotes T105	lemma = 'be'
+T106	pos_Z 578 581	3.3
+#106	AnnotatorNotes T106	lemma = '3.3'
+T107	pos_NN 582 589	percent
+#107	AnnotatorNotes T107	lemma = 'percent'
+T108	pos_IN 590 593	per
+#108	AnnotatorNotes T108	lemma = 'per'
+T109	pos_NN 594 598	year
+#109	AnnotatorNotes T109	lemma = 'year'
+T110	pos_Fc 598 599	,
+#110	AnnotatorNotes T110	lemma = ','
+T111	pos_RB 600 602	so
+#111	AnnotatorNotes T111	lemma = 'so'
+T112	pos_IN 603 605	if
+#112	AnnotatorNotes T112	lemma = 'if'
+T113	pos_PRP 606 608	we
+#113	AnnotatorNotes T113	lemma = 'we'
+T114	pos_VBP 609 611	do
+#114	AnnotatorNotes T114	lemma = 'do'
+T115	pos_RB 2292 2295	n't
+#115	AnnotatorNotes T115	lemma = 'not'
+T116	pos_VB 615 621	change
+#116	AnnotatorNotes T116	lemma = 'change'
+T117	pos_PRP 622 630	anything
+#117	AnnotatorNotes T117	lemma = 'anything'
+T118	pos_Fc 630 631	,
+#118	AnnotatorNotes T118	lemma = ','
+T119	pos_DT 632 635	the
+#119	AnnotatorNotes T119	lemma = 'the'
+T120	pos_NN 636 645	situation
+#120	AnnotatorNotes T120	lemma = 'situation'
+T121	pos_MD 646 649	may
+#121	AnnotatorNotes T121	lemma = 'may'
+T122	pos_VB 650 654	take
+#122	AnnotatorNotes T122	lemma = 'take'
+T123	pos_DT 655 656	a
+#123	AnnotatorNotes T123	lemma = 'a'
+T124	pos_JJ 657 660	bad
+#124	AnnotatorNotes T124	lemma = 'bad'
+T125	pos_NN 661 665	turn
+#125	AnnotatorNotes T125	lemma = 'turn'
+T126	pos_Fp 665 666	.
+#126	AnnotatorNotes T126	lemma = '.'
+T127	pos_PDT 667 670	All
+#127	AnnotatorNotes T127	lemma = 'all'
+T128	pos_DT 671 676	these
+#128	AnnotatorNotes T128	lemma = 'these'
+T129	pos_VBG 677 688	frightening
+#129	AnnotatorNotes T129	lemma = 'frighten'
+T130	pos_NNS 689 698	disasters
+#130	AnnotatorNotes T130	lemma = 'disaster'
+T131	pos_Fc 698 699	,
+#131	AnnotatorNotes T131	lemma = ','
+T132	pos_IN 700 704	like
+#132	AnnotatorNotes T132	lemma = 'like'
+T133	pos_DT 705 708	the
+#133	AnnotatorNotes T133	lemma = 'the'
+T134	pos_NN 709 719	greenhouse
+#134	AnnotatorNotes T134	lemma = 'greenhouse'
+T135	pos_NN 720 726	effect
+#135	AnnotatorNotes T135	lemma = 'effect'
+T136	pos_Fc 726 727	,
+#136	AnnotatorNotes T136	lemma = ','
+T137	pos_NN 728 732	smog
+#137	AnnotatorNotes T137	lemma = 'smog'
+T138	pos_Fc 732 733	,
+#138	AnnotatorNotes T138	lemma = ','
+T139	pos_NN 734 739	ozone
+#139	AnnotatorNotes T139	lemma = 'ozone'
+T140	pos_NN 740 744	hole
+#140	AnnotatorNotes T140	lemma = 'hole'
+T141	pos_CC 745 748	and
+#141	AnnotatorNotes T141	lemma = 'and'
+T142	pos_NN 749 753	acid
+#142	AnnotatorNotes T142	lemma = 'acid'
+T143	pos_NN 754 758	rain
+#143	AnnotatorNotes T143	lemma = 'rain'
+T144	pos_Fc 758 759	,
+#144	AnnotatorNotes T144	lemma = ','
+T145	pos_RB 760 768	actually
+#145	AnnotatorNotes T145	lemma = 'actually'
+T146	pos_VBP 769 772	are
+#146	AnnotatorNotes T146	lemma = 'be'
+T147	pos_DT 773 776	the
+#147	AnnotatorNotes T147	lemma = 'the'
+T148	pos_NNS 777 784	results
+#148	AnnotatorNotes T148	lemma = 'result'
+T149	pos_IN 785 787	of
+#149	AnnotatorNotes T149	lemma = 'of'
+T150	pos_NN 788 791	air
+#150	AnnotatorNotes T150	lemma = 'air'
+T151	pos_NN 792 801	pollution
+#151	AnnotatorNotes T151	lemma = 'pollution'
+T152	pos_Fp 801 802	.
+#152	AnnotatorNotes T152	lemma = '.'
+T153	pos_RB 803 814	For example
+#153	AnnotatorNotes T153	lemma = 'for_example'
+T154	pos_Fc 814 815	,
+#154	AnnotatorNotes T154	lemma = ','
+T155	pos_DT 816 819	the
+#155	AnnotatorNotes T155	lemma = 'the'
+T156	pos_NN 820 830	greenhouse
+#156	AnnotatorNotes T156	lemma = 'greenhouse'
+T157	pos_NN 831 837	effect
+#157	AnnotatorNotes T157	lemma = 'effect'
+T158	pos_VBZ 838 840	is
+#158	AnnotatorNotes T158	lemma = 'be'
+T159	pos_VBN 841 847	caused
+#159	AnnotatorNotes T159	lemma = 'cause'
+T160	pos_IN 848 850	by
+#160	AnnotatorNotes T160	lemma = 'by'
+T161	pos_DT 851 854	the
+#161	AnnotatorNotes T161	lemma = 'the'
+T162	pos_JJ 855 860	toxic
+#162	AnnotatorNotes T162	lemma = 'toxic'
+T163	pos_NNS 861 870	emissions
+#163	AnnotatorNotes T163	lemma = 'emission'
+T164	pos_IN 871 873	of
+#164	AnnotatorNotes T164	lemma = 'of'
+T165	pos_DT 874 877	the
+#165	AnnotatorNotes T165	lemma = 'the'
+T166	pos_NN 878 881	oil
+#166	AnnotatorNotes T166	lemma = 'oil'
+T167	pos_NN 882 892	combustion
+#167	AnnotatorNotes T167	lemma = 'combustion'
+T168	pos_Fp 892 893	.
+#168	AnnotatorNotes T168	lemma = '.'
+T169	pos_DT 894 897	The
+#169	AnnotatorNotes T169	lemma = 'the'
+T170	pos_JJ 898 902	main
+#170	AnnotatorNotes T170	lemma = 'main'
+T171	pos_NN 903 908	enemy
+#171	AnnotatorNotes T171	lemma = 'enemy'
+T172	pos_IN 909 911	of
+#172	AnnotatorNotes T172	lemma = 'of'
+T173	pos_JJ 912 917	clean
+#173	AnnotatorNotes T173	lemma = 'clean'
+T174	pos_NN 918 921	air
+#174	AnnotatorNotes T174	lemma = 'air'
+T175	pos_VBZ 922 924	is
+#175	AnnotatorNotes T175	lemma = 'be'
+T176	pos_NN 925 932	methane
+#176	AnnotatorNotes T176	lemma = 'methane'
+T177	pos_Fp 932 933	.
+#177	AnnotatorNotes T177	lemma = '.'
+T178	pos_PRP 934 936	It
+#178	AnnotatorNotes T178	lemma = 'it'
+T179	pos_VBZ 937 939	is
+#179	AnnotatorNotes T179	lemma = 'be'
+T180	pos_VBN 940 948	released
+#180	AnnotatorNotes T180	lemma = 'release'
+T181	pos_IN 949 951	by
+#181	AnnotatorNotes T181	lemma = 'by'
+T182	pos_DT 952 955	the
+#182	AnnotatorNotes T182	lemma = 'the'
+T183	pos_NN 956 969	decomposition
+#183	AnnotatorNotes T183	lemma = 'decomposition'
+T184	pos_IN 970 972	of
+#184	AnnotatorNotes T184	lemma = 'of'
+T185	pos_DT 973 976	the
+#185	AnnotatorNotes T185	lemma = 'the'
+T186	pos_NN 977 983	sewage
+#186	AnnotatorNotes T186	lemma = 'sewage'
+T187	pos_Fc 983 984	,
+#187	AnnotatorNotes T187	lemma = ','
+T188	pos_IN 985 989	with
+#188	AnnotatorNotes T188	lemma = 'with'
+T189	pos_DT 990 993	the
+#189	AnnotatorNotes T189	lemma = 'the'
+T190	pos_JJ 994 1001	natural
+#190	AnnotatorNotes T190	lemma = 'natural'
+T191	pos_NN 1002 1005	gas
+#191	AnnotatorNotes T191	lemma = 'gas'
+T192	pos_NN 1006 1016	production
+#192	AnnotatorNotes T192	lemma = 'production'
+T193	pos_CC 1018 1020	or
+#193	AnnotatorNotes T193	lemma = 'or'
+T194	pos_IN 1021 1025	from
+#194	AnnotatorNotes T194	lemma = 'from'
+T195	pos_NN 1026 1031	waste
+#195	AnnotatorNotes T195	lemma = 'waste'
+T196	pos_NN 1032 1044	incineration
+#196	AnnotatorNotes T196	lemma = 'incineration'
+T197	pos_Fp 1044 1045	.
+#197	AnnotatorNotes T197	lemma = '.'
+T198	pos_EX 1046 1051	There
+#198	AnnotatorNotes T198	lemma = 'there'
+T199	pos_VBP 1052 1055	are
+#199	AnnotatorNotes T199	lemma = 'be'
+T200	pos_JJ 1056 1060	huge
+#200	AnnotatorNotes T200	lemma = 'huge'
+T201	pos_NN 1061 1067	health
+#201	AnnotatorNotes T201	lemma = 'health'
+T202	pos_NNS 1068 1075	effects
+#202	AnnotatorNotes T202	lemma = 'effect'
+T203	pos_Fpa 1076 1077	(
+#203	AnnotatorNotes T203	lemma = '('
+T204	pos_NN 1077 1081	i.e.
+#204	AnnotatorNotes T204	lemma = 'i.e.'
+T205	pos_NN 1082 1091	mortality
+#205	AnnotatorNotes T205	lemma = 'mortality'
+T206	pos_CC 1092 1095	and
+#206	AnnotatorNotes T206	lemma = 'and'
+T207	pos_NN 1096 1104	hospital
+#207	AnnotatorNotes T207	lemma = 'hospital'
+T208	pos_NNS 1105 1115	admissions
+#208	AnnotatorNotes T208	lemma = 'admission'
+T209	pos_Fpt 1115 1116	)
+#209	AnnotatorNotes T209	lemma = ')'
+T210	pos_IN 1117 1119	on
+#210	AnnotatorNotes T210	lemma = 'on'
+T211	pos_NNS 1120 1128	patients
+#211	AnnotatorNotes T211	lemma = 'patient'
+T212	pos_VBG 1129 1138	suffering
+#212	AnnotatorNotes T212	lemma = 'suffer'
+T213	pos_IN 1139 1143	from
+#213	AnnotatorNotes T213	lemma = 'from'
+T214	pos_NNS 1144 1152	diseases
+#214	AnnotatorNotes T214	lemma = 'disease'
+T215	pos_PDT 1153 1157	such
+#215	AnnotatorNotes T215	lemma = 'such'
+T216	pos_IN 1158 1160	as
+#216	AnnotatorNotes T216	lemma = 'as'
+T217	pos_JJ 1161 1168	chronic
+#217	AnnotatorNotes T217	lemma = 'chronic'
+T218	pos_NNS 1169 1179	bronchitis
+#218	AnnotatorNotes T218	lemma = 'bronchitis'
+T219	pos_Fc 1179 1180	,
+#219	AnnotatorNotes T219	lemma = ','
+T220	pos_NN 1181 1190	emphysema
+#220	AnnotatorNotes T220	lemma = 'emphysema'
+T221	pos_Fc 1190 1191	,
+#221	AnnotatorNotes T221	lemma = ','
+T222	pos_CC 1192 1195	and
+#222	AnnotatorNotes T222	lemma = 'and'
+T223	pos_DT 1196 1200	some
+#223	AnnotatorNotes T223	lemma = 'some'
+T224	pos_NNS 1201 1206	forms
+#224	AnnotatorNotes T224	lemma = 'form'
+T225	pos_IN 1207 1209	of
+#225	AnnotatorNotes T225	lemma = 'of'
+T226	pos_NN 1210 1216	asthma
+#226	AnnotatorNotes T226	lemma = 'asthma'
+T227	pos_CC 1217 1219	or
+#227	AnnotatorNotes T227	lemma = 'or'
+T228	pos_IN 1220 1224	from
+#228	AnnotatorNotes T228	lemma = 'from'
+T229	pos_JJ 1225 1231	cystic
+#229	AnnotatorNotes T229	lemma = 'cystic'
+T230	pos_NN 1232 1240	fibrosis
+#230	AnnotatorNotes T230	lemma = 'fibrosis'
+T231	pos_Fp 1240 1241	.
+#231	AnnotatorNotes T231	lemma = '.'
+T232	pos_RB 1242 1246	Also
+#232	AnnotatorNotes T232	lemma = 'also'
+T233	pos_Fc 1246 1247	,
+#233	AnnotatorNotes T233	lemma = ','
+T234	pos_DT 1248 1249	a
+#234	AnnotatorNotes T234	lemma = 'a'
+T235	pos_NN 1250 1255	study
+#235	AnnotatorNotes T235	lemma = 'study'
+T236	pos_IN 1256 1258	by
+#236	AnnotatorNotes T236	lemma = 'by'
+T237	pos_DT 1259 1262	the
+#237	AnnotatorNotes T237	lemma = 'the'
+T238	pos_NP 1263 1287	University of Birmingham
+#238	AnnotatorNotes T238	lemma = 'university_of_birmingham'
+T239	pos_VBZ 1288 1291	has
+#239	AnnotatorNotes T239	lemma = 'have'
+T240	pos_VBN 1292 1297	shown
+#240	AnnotatorNotes T240	lemma = 'show'
+T241	pos_DT 1298 1299	a
+#241	AnnotatorNotes T241	lemma = 'a'
+T242	pos_JJ 1300 1306	strong
+#242	AnnotatorNotes T242	lemma = 'strong'
+T243	pos_NN 1307 1318	correlation
+#243	AnnotatorNotes T243	lemma = 'correlation'
+T244	pos_IN 1319 1326	between
+#244	AnnotatorNotes T244	lemma = 'between'
+T245	pos_NN 1327 1336	pneumonia
+#245	AnnotatorNotes T245	lemma = 'pneumonia'
+T246	pos_VBN 1337 1344	related
+#246	AnnotatorNotes T246	lemma = 'relate'
+T247	pos_NNS 1345 1351	deaths
+#247	AnnotatorNotes T247	lemma = 'death'
+T248	pos_CC 1352 1355	and
+#248	AnnotatorNotes T248	lemma = 'and'
+T249	pos_NN 1356 1359	air
+#249	AnnotatorNotes T249	lemma = 'air'
+T250	pos_NN 1360 1369	pollution
+#250	AnnotatorNotes T250	lemma = 'pollution'
+T251	pos_IN 1370 1374	from
+#251	AnnotatorNotes T251	lemma = 'from'
+T252	pos_NN 1375 1380	motor
+#252	AnnotatorNotes T252	lemma = 'motor'
+T253	pos_NNS 1381 1389	vehicles
+#253	AnnotatorNotes T253	lemma = 'vehicle'
+T254	pos_Fp 1389 1390	.
+#254	AnnotatorNotes T254	lemma = '.'
+T255	pos_RB 1391 1400	Worldwide
+#255	AnnotatorNotes T255	lemma = 'worldwide'
+T256	pos_RBR 1402 1406	more
+#256	AnnotatorNotes T256	lemma = 'many'
+T257	pos_NNS 1407 1413	deaths
+#257	AnnotatorNotes T257	lemma = 'death'
+T258	pos_IN 1414 1417	per
+#258	AnnotatorNotes T258	lemma = 'per'
+T259	pos_NN 1418 1422	year
+#259	AnnotatorNotes T259	lemma = 'year'
+T260	pos_VBP 1423 1426	are
+#260	AnnotatorNotes T260	lemma = 'be'
+T261	pos_VBN 1427 1433	linked
+#261	AnnotatorNotes T261	lemma = 'link'
+T262	pos_TO 1434 1436	to
+#262	AnnotatorNotes T262	lemma = 'to'
+T263	pos_NN 1437 1440	air
+#263	AnnotatorNotes T263	lemma = 'air'
+T264	pos_NN 1441 1450	pollution
+#264	AnnotatorNotes T264	lemma = 'pollution'
+T265	pos_IN 1451 1455	than
+#265	AnnotatorNotes T265	lemma = 'than'
+T266	pos_TO 1456 1458	to
+#266	AnnotatorNotes T266	lemma = 'to'
+T267	pos_NN 1459 1469	automobile
+#267	AnnotatorNotes T267	lemma = 'automobile'
+T268	pos_NNS 1470 1479	accidents
+#268	AnnotatorNotes T268	lemma = 'accident'
+T269	pos_Fat 1479 1480	!
+#269	AnnotatorNotes T269	lemma = '!'
+T270	pos_CC 1481 1484	But
+#270	AnnotatorNotes T270	lemma = 'but'
+T271	pos_WP 1485 1489	what
+#271	AnnotatorNotes T271	lemma = 'what'
+T272	pos_MD 1490 1493	can
+#272	AnnotatorNotes T272	lemma = 'can'
+T273	pos_PRP 1494 1496	we
+#273	AnnotatorNotes T273	lemma = 'we'
+T274	pos_VB 1497 1499	do
+#274	AnnotatorNotes T274	lemma = 'do'
+T275	pos_Fit 1499 1500	?
+#275	AnnotatorNotes T275	lemma = '?'
+T276	pos_DT 1501 1503	An
+#276	AnnotatorNotes T276	lemma = 'a'
+T277	pos_JJ 1504 1514	individual
+#277	AnnotatorNotes T277	lemma = 'individual'
+T278	pos_NN 1515 1525	initiative
+#278	AnnotatorNotes T278	lemma = 'initiative'
+T279	pos_VBZ 1526 1528	is
+#279	AnnotatorNotes T279	lemma = 'be'
+T280	pos_RB 1529 1535	hardly
+#280	AnnotatorNotes T280	lemma = 'hardly'
+T281	pos_JJ 1536 1540	able
+#281	AnnotatorNotes T281	lemma = 'able'
+T282	pos_TO 1541 1543	to
+#282	AnnotatorNotes T282	lemma = 'to'
+T283	pos_VB 1544 1553	influence
+#283	AnnotatorNotes T283	lemma = 'influence'
+T284	pos_DT 1554 1557	the
+#284	AnnotatorNotes T284	lemma = 'the'
+T285	pos_NN 1558 1567	situation
+#285	AnnotatorNotes T285	lemma = 'situation'
+T286	pos_Fp 1567 1568	.
+#286	AnnotatorNotes T286	lemma = '.'
+T287	pos_DT 1569 1573	This
+#287	AnnotatorNotes T287	lemma = 'this'
+T288	pos_NN 1574 1582	movement
+#288	AnnotatorNotes T288	lemma = 'movement'
+T289	pos_VBZ 1583 1586	has
+#289	AnnotatorNotes T289	lemma = 'have'
+T290	pos_TO 1587 1589	to
+#290	AnnotatorNotes T290	lemma = 'to'
+T291	pos_VB 1590 1592	be
+#291	AnnotatorNotes T291	lemma = 'be'
+T292	pos_VBN 1593 1602	supported
+#292	AnnotatorNotes T292	lemma = 'support'
+T293	pos_IN 1603 1605	by
+#293	AnnotatorNotes T293	lemma = 'by'
+T294	pos_NNS 1606 1616	scientists
+#294	AnnotatorNotes T294	lemma = 'scientist'
+T295	pos_Fc 1616 1617	,
+#295	AnnotatorNotes T295	lemma = ','
+T296	pos_NNS 1618 1629	businessmen
+#296	AnnotatorNotes T296	lemma = 'businessman'
+T297	pos_Fc 1629 1630	,
+#297	AnnotatorNotes T297	lemma = ','
+T298	pos_NNS 1631 1639	teachers
+#298	AnnotatorNotes T298	lemma = 'teacher'
+T299	pos_Fpa 1640 1641	(
+#299	AnnotatorNotes T299	lemma = '('
+T300	pos_NN 1641 1650	agitation
+#300	AnnotatorNotes T300	lemma = 'agitation'
+T301	pos_IN 1651 1656	among
+#301	AnnotatorNotes T301	lemma = 'among'
+T302	pos_DT 1657 1660	the
+#302	AnnotatorNotes T302	lemma = 'the'
+T303	pos_NNS 1661 1671	youngsters
+#303	AnnotatorNotes T303	lemma = 'youngster'
+T304	pos_Fpt 1671 1672	)
+#304	AnnotatorNotes T304	lemma = ')'
+T305	pos_CC 1673 1676	and
+#305	AnnotatorNotes T305	lemma = 'and'
+T306	pos_NNS 1677 1688	politicians
+#306	AnnotatorNotes T306	lemma = 'politician'
+T307	pos_Fp 1688 1689	.
+#307	AnnotatorNotes T307	lemma = '.'
+T308	pos_DT 1690 1693	The
+#308	AnnotatorNotes T308	lemma = 'the'
+T309	pos_JJ 1694 1699	first
+#309	AnnotatorNotes T309	lemma = '1'
+T310	pos_NN 1700 1704	step
+#310	AnnotatorNotes T310	lemma = 'step'
+T311	pos_IN 1705 1707	in
+#311	AnnotatorNotes T311	lemma = 'in'
+T312	pos_VBG 1708 1715	solving
+#312	AnnotatorNotes T312	lemma = 'solve'
+T313	pos_DT 1716 1719	the
+#313	AnnotatorNotes T313	lemma = 'the'
+T314	pos_NN 1720 1727	problem
+#314	AnnotatorNotes T314	lemma = 'problem'
+T315	pos_VBZ 1728 1730	is
+#315	AnnotatorNotes T315	lemma = 'be'
+T316	pos_VBG 1731 1741	monitoring
+#316	AnnotatorNotes T316	lemma = 'monitor'
+T317	pos_DT 1742 1745	the
+#317	AnnotatorNotes T317	lemma = 'the'
+T318	pos_NNS 1746 1755	polluters
+#318	AnnotatorNotes T318	lemma = 'polluter'
+T319	pos_Fp 1755 1756	.
+#319	AnnotatorNotes T319	lemma = '.'
+T320	pos_DT 1757 1760	The
+#320	AnnotatorNotes T320	lemma = 'the'
+T321	pos_JJ 1761 1765	next
+#321	AnnotatorNotes T321	lemma = 'next'
+T322	pos_NN 1766 1770	step
+#322	AnnotatorNotes T322	lemma = 'step'
+T323	pos_VBZ 1771 1774	has
+#323	AnnotatorNotes T323	lemma = 'have'
+T324	pos_TO 1775 1777	to
+#324	AnnotatorNotes T324	lemma = 'to'
+T325	pos_VB 1778 1780	be
+#325	AnnotatorNotes T325	lemma = 'be'
+T326	pos_VBN 1781 1785	held
+#326	AnnotatorNotes T326	lemma = 'hold'
+T327	pos_IN 1786 1788	at
+#327	AnnotatorNotes T327	lemma = 'at'
+T328	pos_DT 1789 1792	the
+#328	AnnotatorNotes T328	lemma = 'the'
+T329	pos_JJ 1793 1804	legislative
+#329	AnnotatorNotes T329	lemma = 'legislative'
+T330	pos_NN 1805 1810	level
+#330	AnnotatorNotes T330	lemma = 'level'
+T331	pos_Fd 1810 1811	:
+#331	AnnotatorNotes T331	lemma = ':'
+T332	pos_JJ 1812 1817	first
+#332	AnnotatorNotes T332	lemma = '1'
+T333	pos_Fc 1817 1818	,
+#333	AnnotatorNotes T333	lemma = ','
+T334	pos_NNS 1819 1833	industrialists
+#334	AnnotatorNotes T334	lemma = 'industrialist'
+T335	pos_MD 1834 1840	should
+#335	AnnotatorNotes T335	lemma = 'should'
+T336	pos_VB 1841 1843	be
+#336	AnnotatorNotes T336	lemma = 'be'
+T337	pos_VBN 1844 1851	obliged
+#337	AnnotatorNotes T337	lemma = 'oblige'
+T338	pos_TO 1852 1854	to
+#338	AnnotatorNotes T338	lemma = 'to'
+T339	pos_VB 1855 1860	build
+#339	AnnotatorNotes T339	lemma = 'build'
+T340	pos_NN 1861 1870	treatment
+#340	AnnotatorNotes T340	lemma = 'treatment'
+T341	pos_NNS 1871 1877	plants
+#341	AnnotatorNotes T341	lemma = 'plant'
+T342	pos_IN 1878 1882	with
+#342	AnnotatorNotes T342	lemma = 'with'
+T343	pos_PRP2 1883 1888	their
+#343	AnnotatorNotes T343	lemma = 'their'
+T344	pos_NNS 1889 1898	factories
+#344	AnnotatorNotes T344	lemma = 'factory'
+T345	pos_Fc 1898 1899	,
+#345	AnnotatorNotes T345	lemma = ','
+T346	pos_TO 1900 1902	to
+#346	AnnotatorNotes T346	lemma = 'to'
+T347	pos_VB 1903 1908	avoid
+#347	AnnotatorNotes T347	lemma = 'avoid'
+T348	pos_NN 1909 1914	waste
+#348	AnnotatorNotes T348	lemma = 'waste'
+T349	pos_NN 1915 1922	release
+#349	AnnotatorNotes T349	lemma = 'release'
+T350	pos_IN 1923 1927	into
+#350	AnnotatorNotes T350	lemma = 'into'
+T351	pos_DT 1928 1931	the
+#351	AnnotatorNotes T351	lemma = 'the'
+T352	pos_NN 1932 1943	environment
+#352	AnnotatorNotes T352	lemma = 'environment'
+T353	pos_Fp 1943 1944	.
+#353	AnnotatorNotes T353	lemma = '.'
+T354	pos_RB 1945 1953	Secondly
+#354	AnnotatorNotes T354	lemma = 'secondly'
+T355	pos_Fc 1953 1954	,
+#355	AnnotatorNotes T355	lemma = ','
+T356	pos_PDT 1955 1958	all
+#356	AnnotatorNotes T356	lemma = 'all'
+T357	pos_DT 1959 1962	the
+#357	AnnotatorNotes T357	lemma = 'the'
+T358	pos_NNS 1963 1969	owners
+#358	AnnotatorNotes T358	lemma = 'owner'
+T359	pos_IN 1970 1972	of
+#359	AnnotatorNotes T359	lemma = 'of'
+T360	pos_JJ 1973 1978	heavy
+#360	AnnotatorNotes T360	lemma = 'heavy'
+T361	pos_NN 1979 1987	industry
+#361	AnnotatorNotes T361	lemma = 'industry'
+T362	pos_NNS 1988 1997	factories
+#362	AnnotatorNotes T362	lemma = 'factory'
+T363	pos_MD 1998 2004	should
+#363	AnnotatorNotes T363	lemma = 'should'
+T364	pos_VB 2005 2008	pay
+#364	AnnotatorNotes T364	lemma = 'pay'
+T365	pos_JJ 2009 2013	high
+#365	AnnotatorNotes T365	lemma = 'high'
+T366	pos_NNS 2014 2019	taxes
+#366	AnnotatorNotes T366	lemma = 'tax'
+T367	pos_Fp 2019 2020	.
+#367	AnnotatorNotes T367	lemma = '.'
+T368	pos_RB 2021 2029	Moreover
+#368	AnnotatorNotes T368	lemma = 'moreover'
+T369	pos_Fc 2029 2030	,
+#369	AnnotatorNotes T369	lemma = ','
+T370	pos_RB 2031 2035	even
+#370	AnnotatorNotes T370	lemma = 'even'
+T371	pos_NN 2036 2039	car
+#371	AnnotatorNotes T371	lemma = 'car'
+T372	pos_NNS 2040 2047	drivers
+#372	AnnotatorNotes T372	lemma = 'driver'
+T373	pos_MD 2048 2054	should
+#373	AnnotatorNotes T373	lemma = 'should'
+T374	pos_VB 2055 2057	be
+#374	AnnotatorNotes T374	lemma = 'be'
+T375	pos_VBN 2058 2068	encouraged
+#375	AnnotatorNotes T375	lemma = 'encourage'
+T376	pos_TO 2069 2071	to
+#376	AnnotatorNotes T376	lemma = 'to'
+T377	pos_VB 2072 2080	decrease
+#377	AnnotatorNotes T377	lemma = 'decrease'
+T378	pos_PRP2 2081 2086	their
+#378	AnnotatorNotes T378	lemma = 'their'
+T379	pos_NN 2087 2096	petroleum
+#379	AnnotatorNotes T379	lemma = 'petroleum'
+T380	pos_NN 2097 2108	consumption
+#380	AnnotatorNotes T380	lemma = 'consumption'
+T381	pos_CC 2109 2112	and
+#381	AnnotatorNotes T381	lemma = 'and'
+T382	pos_RB 2113 2118	maybe
+#382	AnnotatorNotes T382	lemma = 'maybe'
+T383	pos_TO 2119 2121	to
+#383	AnnotatorNotes T383	lemma = 'to'
+T384	pos_VB 2122 2125	use
+#384	AnnotatorNotes T384	lemma = 'use'
+T385	pos_NNS 2126 2134	bicycles
+#385	AnnotatorNotes T385	lemma = 'bicycle'
+T386	pos_CC 2135 2138	and
+#386	AnnotatorNotes T386	lemma = 'and'
+T387	pos_NNS 2139 2150	electrocars
+#387	AnnotatorNotes T387	lemma = 'electrocars'
+T388	pos_Fp 2150 2151	.
+#388	AnnotatorNotes T388	lemma = '.'
+T389	pos_WDT 2152 2160	Whatever
+#389	AnnotatorNotes T389	lemma = 'whatever'
+T390	pos_DT 2161 2164	the
+#390	AnnotatorNotes T390	lemma = 'the'
+T391	pos_NNS 2165 2174	solutions
+#391	AnnotatorNotes T391	lemma = 'solution'
+T392	pos_Fc 2174 2175	,
+#392	AnnotatorNotes T392	lemma = ','
+T393	pos_PRP 2176 2178	we
+#393	AnnotatorNotes T393	lemma = 'we'
+T394	pos_MD 2178 2180	'd
+#394	AnnotatorNotes T394	lemma = 'would'
+T395	pos_RBR 2181 2187	better
+#395	AnnotatorNotes T395	lemma = 'well'
+T396	pos_VB 2188 2193	think
+#396	AnnotatorNotes T396	lemma = 'think'
+T397	pos_RB 2194 2199	about
+#397	AnnotatorNotes T397	lemma = 'about'
+T398	pos_RBR 2200 2204	more
+#398	AnnotatorNotes T398	lemma = 'many'
+T399	pos_JJ 2205 2211	global
+#399	AnnotatorNotes T399	lemma = 'global'
+T400	pos_NNS 2212 2220	problems
+#400	AnnotatorNotes T400	lemma = 'problem'
+T401	pos_Fg 2221 2222	-
+#401	AnnotatorNotes T401	lemma = '-'
+T402	pos_PRP 2223 2225	we
+#402	AnnotatorNotes T402	lemma = 'we'
+T403	pos_MD 2226 2230	must
+#403	AnnotatorNotes T403	lemma = 'must'
+T404	pos_VB 2231 2235	make
+#404	AnnotatorNotes T404	lemma = 'make'
+T405	pos_NNS 2236 2242	people
+#405	AnnotatorNotes T405	lemma = 'people'
+T406	pos_NN 2243 2247	care
+#406	AnnotatorNotes T406	lemma = 'care'
+T407	pos_IN 2248 2253	about
+#407	AnnotatorNotes T407	lemma = 'about'
+T408	pos_DT 2254 2257	the
+#408	AnnotatorNotes T408	lemma = 'the'
+T409	pos_NN 2258 2269	environment
+#409	AnnotatorNotes T409	lemma = 'environment'
+T410	pos_Fc 2269 2270	,
+#410	AnnotatorNotes T410	lemma = ','
+T411	pos_RB 2271 2278	because
+#411	AnnotatorNotes T411	lemma = 'because'
+T412	pos_IN 2279 2284	while
+#412	AnnotatorNotes T412	lemma = 'while'
+T413	pos_PRP 2285 2289	they
+#413	AnnotatorNotes T413	lemma = 'they'
+T414	pos_VBP 2290 2292	do
+#414	AnnotatorNotes T414	lemma = 'do'
+T415	pos_RB 2351 2354	n't
+#415	AnnotatorNotes T415	lemma = 'not'
+T416	pos_VB 2296 2306	understand
+#416	AnnotatorNotes T416	lemma = 'understand'
+T417	pos_PDT 2307 2310	all
+#417	AnnotatorNotes T417	lemma = 'all'
+T418	pos_DT 2311 2314	the
+#418	AnnotatorNotes T418	lemma = 'the'
+T419	pos_NNS 2315 2322	dangers
+#419	AnnotatorNotes T419	lemma = 'danger'
+T420	pos_IN 2323 2325	of
+#420	AnnotatorNotes T420	lemma = 'of'
+T421	pos_JJ 2326 2334	mindless
+#421	AnnotatorNotes T421	lemma = 'mindless'
+T422	pos_NN 2335 2344	lifestyle
+#422	AnnotatorNotes T422	lemma = 'lifestyle'
+T423	pos_Fc 2344 2345	,
+#423	AnnotatorNotes T423	lemma = ','
+T424	pos_PRP 2346 2348	we
+#424	AnnotatorNotes T424	lemma = 'we'
+T425	pos_MD 2349 2352	can
+#425	AnnotatorNotes T425	lemma = 'can'
+T426	pos_RB 2351 2354	n't
+#426	AnnotatorNotes T426	lemma = 'not'
+T427	pos_VB 2355 2359	help
+#427	AnnotatorNotes T427	lemma = 'help'
+T428	pos_PRP 2360 2364	them
+#428	AnnotatorNotes T428	lemma = 'them'
+T429	pos_TO 2365 2367	to
+#429	AnnotatorNotes T429	lemma = 'to'
+T430	pos_VB 2368 2372	save
+#430	AnnotatorNotes T430	lemma = 'save'
+T431	pos_PRP 2373 2383	themselves
+#431	AnnotatorNotes T431	lemma = 'themselves'
+T432	pos_Fp 2383 2384	.
+#432	AnnotatorNotes T432	lemma = '.'

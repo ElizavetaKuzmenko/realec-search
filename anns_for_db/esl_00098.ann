@@ -1,0 +1,406 @@
+T1	Art_choice 25 28	the	
+A1	Delete T1
+T2	Art_choice 48 51	the	
+A2	Delete T2
+T3	Art_choice 76 79	the	
+A3	Delete T3
+T4	Word_order 105 113	for both	
+#4	AnnotatorNotes T4	both for
+T5	Category_confusion 114 132	non-discrimination	
+#5	AnnotatorNotes T5	non-discriminative
+T6	Tense_choice 224 242	are still avoiding	
+#6	AnnotatorNotes T6	still avoid
+T7	Verb_Gerund 243 247	work	
+#7	AnnotatorNotes T7	working
+T8	Art_choice 272 275	the	
+A8	Delete T8
+T10	Art_choice 341 344	the	
+A10	Delete T10
+T11	Voice_choice 373 402	are trained adequately enough	
+#11	AnnotatorNotes T11	receive adequate training
+T13	Word_order 696 726	graduate students' preparation	
+#13	AnnotatorNotes T13	preparation of graduate students
+T14	Word_choice 734 743	the issue	
+A14	Delete T14
+T15	lex_item_choice 747 751	high	
+#15	AnnotatorNotes T15	vital
+T16	lex_item_choice 827 833	people	
+#16	AnnotatorNotes T16	population
+T9	lex_item_choice 617 627	presuppose
+#1	AnnotatorNotes T9	assume
+A4	Cause T1 Absence_of_Category_in_L1
+A5	Weight-language T1 Minor
+A6	Cause T2 Absence_of_Category_in_L1
+A7	Weight-language T2 Minor
+A9	Cause T3 Absence_of_Category_in_L1
+A11	Weight-language T3 Minor
+A12	Cause T4 Absence_of_Category_in_L1
+A13	Weight-language T4 Minor
+A15	Weight-language T5 Minor
+A16	Cause T6 L1_interference
+A17	Weight-language T6 Major
+A18	Cause T7 L1_interference
+A19	Weight-language T7 Major
+A20	Cause T8 Absence_of_Category_in_L1
+A21	Weight-language T8 Minor
+A22	Cause T10 Absence_of_Category_in_L1
+A23	Weight-language T10 Minor
+A24	Weight-language T11 Minor
+A27	Cause T9 L1_interference
+A28	Weight-language T9 Minor
+A29	Weight-language T13 Minor
+A30	Cause T14 L1_interference
+A31	Weight-language T14 Minor
+A32	Cause T15 L1_interference
+A33	Weight-language T15 Minor
+A34	Weight-language T16 Minor
+T17	pos_﻿ 0 1	﻿
+#17	AnnotatorNotes T17	lemma = '﻿'
+T18	pos_NP 1 4	The
+#18	AnnotatorNotes T18	lemma = 'the'
+T19	pos_JJ 5 16	significant
+#19	AnnotatorNotes T19	lemma = 'significant'
+T20	pos_NN 17 21	size
+#20	AnnotatorNotes T20	lemma = 'size'
+T21	pos_IN 22 24	of
+#21	AnnotatorNotes T21	lemma = 'of'
+T22	pos_DT 25 28	the
+#22	AnnotatorNotes T22	lemma = 'the'
+T23	pos_NP 29 33	LGBT
+#23	AnnotatorNotes T23	lemma = 'lgbt'
+T24	pos_NN 34 44	population
+#24	AnnotatorNotes T24	lemma = 'population'
+T25	pos_IN 45 47	as
+#25	AnnotatorNotes T25	lemma = 'as'
+T26	pos_DT 48 51	the
+#26	AnnotatorNotes T26	lemma = 'the'
+T27	pos_JJ 52 61	potential
+#27	AnnotatorNotes T27	lemma = 'potential'
+T28	pos_NNS 62 72	recipients
+#28	AnnotatorNotes T28	lemma = 'recipient'
+T29	pos_IN 73 75	of
+#29	AnnotatorNotes T29	lemma = 'of'
+T30	pos_DT 76 79	the
+#30	AnnotatorNotes T30	lemma = 'the'
+T31	pos_JJ 80 93	psychological
+#31	AnnotatorNotes T31	lemma = 'psychological'
+T32	pos_NN 94 98	help
+#32	AnnotatorNotes T32	lemma = 'help'
+T33	pos_VBZ 99 104	calls
+#33	AnnotatorNotes T33	lemma = 'call'
+T34	pos_IN 105 108	for
+#34	AnnotatorNotes T34	lemma = 'for'
+T35	pos_DT 109 113	both
+#35	AnnotatorNotes T35	lemma = 'both'
+T36	pos_NN 114 132	non-discrimination
+#36	AnnotatorNotes T36	lemma = 'non-discrimination'
+T37	pos_NNS 133 141	policies
+#37	AnnotatorNotes T37	lemma = 'policy'
+T38	pos_CC 142 145	and
+#38	AnnotatorNotes T38	lemma = 'and'
+T39	pos_NP 146 150	LGBT
+#39	AnnotatorNotes T39	lemma = 'lgbt'
+T40	pos_JJ 151 162	affirmative
+#40	AnnotatorNotes T40	lemma = 'affirmative'
+T41	pos_VBG 163 173	counseling
+#41	AnnotatorNotes T41	lemma = 'counsel'
+T42	pos_NNS 174 183	practices
+#42	AnnotatorNotes T42	lemma = 'practice'
+T43	pos_Fp 183 184	.
+#43	AnnotatorNotes T43	lemma = '.'
+T44	pos_IN 185 192	Despite
+#44	AnnotatorNotes T44	lemma = 'despite'
+T45	pos_DT 193 197	this
+#45	AnnotatorNotes T45	lemma = 'this'
+T46	pos_Fc 197 198	,
+#46	AnnotatorNotes T46	lemma = ','
+T47	pos_VBG 199 209	counseling
+#47	AnnotatorNotes T47	lemma = 'counsel'
+T48	pos_NNS 210 223	psychologists
+#48	AnnotatorNotes T48	lemma = 'psychologist'
+T49	pos_VBP 224 227	are
+#49	AnnotatorNotes T49	lemma = 'be'
+T50	pos_RB 228 233	still
+#50	AnnotatorNotes T50	lemma = 'still'
+T51	pos_VBG 234 242	avoiding
+#51	AnnotatorNotes T51	lemma = 'avoid'
+T52	pos_NN 243 247	work
+#52	AnnotatorNotes T52	lemma = 'work'
+T53	pos_IN 248 252	with
+#53	AnnotatorNotes T53	lemma = 'with'
+T54	pos_NNS 253 268	representatives
+#54	AnnotatorNotes T54	lemma = 'representative'
+T55	pos_IN 269 271	of
+#55	AnnotatorNotes T55	lemma = 'of'
+T56	pos_DT 272 275	the
+#56	AnnotatorNotes T56	lemma = 'the'
+T57	pos_JJ 276 282	sexual
+#57	AnnotatorNotes T57	lemma = 'sexual'
+T58	pos_NNS 283 293	minorities
+#58	AnnotatorNotes T58	lemma = 'minority'
+T59	pos_Fx 293 294	;
+#59	AnnotatorNotes T59	lemma = ';'
+T60	pos_RB 295 303	moreover
+#60	AnnotatorNotes T60	lemma = 'moreover'
+T61	pos_Fc 303 304	,
+#61	AnnotatorNotes T61	lemma = ','
+T62	pos_DT 305 308	the
+#62	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NN 309 317	research
+#63	AnnotatorNotes T63	lemma = 'research'
+T64	pos_VBZ 318 323	shows
+#64	AnnotatorNotes T64	lemma = 'show'
+T65	pos_IN 324 328	that
+#65	AnnotatorNotes T65	lemma = 'that'
+T66	pos_RB 329 333	very
+#66	AnnotatorNotes T66	lemma = 'very'
+T67	pos_DT 334 337	few
+#67	AnnotatorNotes T67	lemma = 'few'
+T68	pos_IN 338 340	of
+#68	AnnotatorNotes T68	lemma = 'of'
+T69	pos_DT 341 344	the
+#69	AnnotatorNotes T69	lemma = 'the'
+T70	pos_JJ 345 351	recent
+#70	AnnotatorNotes T70	lemma = 'recent'
+T71	pos_NN 352 362	psychology
+#71	AnnotatorNotes T71	lemma = 'psychology'
+T72	pos_NNS 363 372	graduates
+#72	AnnotatorNotes T72	lemma = 'graduate'
+T73	pos_VBP 373 376	are
+#73	AnnotatorNotes T73	lemma = 'be'
+T74	pos_VBN 377 384	trained
+#74	AnnotatorNotes T74	lemma = 'train'
+T75	pos_RB 385 395	adequately
+#75	AnnotatorNotes T75	lemma = 'adequately'
+T76	pos_JJ 396 402	enough
+#76	AnnotatorNotes T76	lemma = 'enough'
+T77	pos_TO 403 405	to
+#77	AnnotatorNotes T77	lemma = 'to'
+T78	pos_VB 406 413	counsel
+#78	AnnotatorNotes T78	lemma = 'counsel'
+T79	pos_DT 414 419	those
+#79	AnnotatorNotes T79	lemma = 'those'
+T80	pos_WP 420 423	who
+#80	AnnotatorNotes T80	lemma = 'who'
+T81	pos_VBP 424 430	belong
+#81	AnnotatorNotes T81	lemma = 'belong'
+T82	pos_TO 431 433	to
+#82	AnnotatorNotes T82	lemma = 'to'
+T83	pos_JJ 434 441	various
+#83	AnnotatorNotes T83	lemma = 'various'
+T84	pos_JJ 442 448	sexual
+#84	AnnotatorNotes T84	lemma = 'sexual'
+T85	pos_NNS 449 459	minorities
+#85	AnnotatorNotes T85	lemma = 'minority'
+T86	pos_Fp 459 460	.
+#86	AnnotatorNotes T86	lemma = '.'
+T87	pos_JJ 462 471	four-item
+#87	AnnotatorNotes T87	lemma = 'four-item'
+T88	pos_NN 472 485	questionnaire
+#88	AnnotatorNotes T88	lemma = 'questionnaire'
+T89	pos_VBD 486 489	was
+#89	AnnotatorNotes T89	lemma = 'be'
+T90	pos_VBN 490 494	sent
+#90	AnnotatorNotes T90	lemma = 'send'
+T91	pos_TO 495 497	to
+#91	AnnotatorNotes T91	lemma = 'to'
+T92	pos_Z 498 500	14
+#92	AnnotatorNotes T92	lemma = '14'
+T93	pos_NP 501 509	Canadian
+#93	AnnotatorNotes T93	lemma = 'canadian'
+T94	pos_NNS 510 522	universities
+#94	AnnotatorNotes T94	lemma = 'university'
+T95	pos_Fpa 523 524	(
+#95	AnnotatorNotes T95	lemma = '('
+T96	pos_NN 524 530	taking
+#96	AnnotatorNotes T96	lemma = 'taking'
+T97	pos_IN 531 535	into
+#97	AnnotatorNotes T97	lemma = 'into'
+T98	pos_NN 536 543	account
+#98	AnnotatorNotes T98	lemma = 'account'
+T99	pos_DT 544 548	both
+#99	AnnotatorNotes T99	lemma = 'both'
+T100	pos_NN 549 555	master
+#100	AnnotatorNotes T100	lemma = 'master'
+T101	pos_CC 556 559	and
+#101	AnnotatorNotes T101	lemma = 'and'
+T102	pos_JJ 560 568	doctoral
+#102	AnnotatorNotes T102	lemma = 'doctoral'
+T103	pos_NNS 569 577	programs
+#103	AnnotatorNotes T103	lemma = 'program'
+T104	pos_Fpt 577 578	)
+#104	AnnotatorNotes T104	lemma = ')'
+T105	pos_CC 579 582	and
+#105	AnnotatorNotes T105	lemma = 'and'
+T106	pos_Fc 582 583	,
+#106	AnnotatorNotes T106	lemma = ','
+T107	pos_IN 584 596	according to
+#107	AnnotatorNotes T107	lemma = 'according_to'
+T108	pos_PRP2 597 600	its
+#108	AnnotatorNotes T108	lemma = 'its'
+T109	pos_NNS 601 608	results
+#109	AnnotatorNotes T109	lemma = 'result'
+T110	pos_Fc 608 609	,
+#110	AnnotatorNotes T110	lemma = ','
+T111	pos_PRP 610 612	we
+#111	AnnotatorNotes T111	lemma = 'we'
+T112	pos_MD 613 616	can
+#112	AnnotatorNotes T112	lemma = 'can'
+T113	pos_VB 617 627	presuppose
+#113	AnnotatorNotes T113	lemma = 'presuppose'
+T114	pos_Fc 627 628	,
+#114	AnnotatorNotes T114	lemma = ','
+T115	pos_IN 629 633	that
+#115	AnnotatorNotes T115	lemma = 'that'
+T116	pos_JJ 634 637	gay
+#116	AnnotatorNotes T116	lemma = 'gay'
+T117	pos_CC 638 641	and
+#117	AnnotatorNotes T117	lemma = 'and'
+T118	pos_JJ 642 649	lesbian
+#118	AnnotatorNotes T118	lemma = 'lesbian'
+T119	pos_NN 650 660	psychology
+#119	AnnotatorNotes T119	lemma = 'psychology'
+T120	pos_VBZ 661 663	is
+#120	AnnotatorNotes T120	lemma = 'be'
+T121	pos_VBN 664 673	neglected
+#121	AnnotatorNotes T121	lemma = 'neglect'
+T122	pos_IN 674 680	during
+#122	AnnotatorNotes T122	lemma = 'during'
+T123	pos_DT 681 684	the
+#123	AnnotatorNotes T123	lemma = 'the'
+T124	pos_VBG 685 695	counseling
+#124	AnnotatorNotes T124	lemma = 'counsel'
+T125	pos_NN 696 704	graduate
+#125	AnnotatorNotes T125	lemma = 'graduate'
+T126	pos_NNS 705 713	students
+#126	AnnotatorNotes T126	lemma = 'student'
+T127	pos_Fw 713 714	'
+#127	AnnotatorNotes T127	lemma = '''
+T128	pos_NN 715 726	preparation
+#128	AnnotatorNotes T128	lemma = 'preparation'
+T129	pos_Fp 726 727	.
+#129	AnnotatorNotes T129	lemma = '.'
+T130	pos_PRP 728 730	It
+#130	AnnotatorNotes T130	lemma = 'it'
+T131	pos_VBZ 731 733	is
+#131	AnnotatorNotes T131	lemma = 'be'
+T132	pos_DT 734 737	the
+#132	AnnotatorNotes T132	lemma = 'the'
+T133	pos_NN 738 743	issue
+#133	AnnotatorNotes T133	lemma = 'issue'
+T134	pos_IN 744 746	of
+#134	AnnotatorNotes T134	lemma = 'of'
+T135	pos_JJ 747 751	high
+#135	AnnotatorNotes T135	lemma = 'high'
+T136	pos_NN 752 762	importance
+#136	AnnotatorNotes T136	lemma = 'importance'
+T137	pos_IN 763 767	that
+#137	AnnotatorNotes T137	lemma = 'that'
+T138	pos_JJ 768 774	future
+#138	AnnotatorNotes T138	lemma = 'future'
+T139	pos_NN 775 785	counseling
+#139	AnnotatorNotes T139	lemma = 'counseling'
+T140	pos_NNS 786 799	psychologists
+#140	AnnotatorNotes T140	lemma = 'psychologist'
+T141	pos_VBP 800 804	know
+#141	AnnotatorNotes T141	lemma = 'know'
+T142	pos_WRB 805 808	how
+#142	AnnotatorNotes T142	lemma = 'how'
+T143	pos_TO 809 811	to
+#143	AnnotatorNotes T143	lemma = 'to'
+T144	pos_VB 812 816	work
+#144	AnnotatorNotes T144	lemma = 'work'
+T145	pos_IN 817 821	with
+#145	AnnotatorNotes T145	lemma = 'with'
+T146	pos_NP 822 826	LGBT
+#146	AnnotatorNotes T146	lemma = 'lgbt'
+T147	pos_NNS 827 833	people
+#147	AnnotatorNotes T147	lemma = 'people'
+T148	pos_CC 834 837	and
+#148	AnnotatorNotes T148	lemma = 'and'
+T149	pos_NN 838 841	how
+#149	AnnotatorNotes T149	lemma = 'how'
+T150	pos_TO 842 844	to
+#150	AnnotatorNotes T150	lemma = 'to'
+T151	pos_VB 845 849	help
+#151	AnnotatorNotes T151	lemma = 'help'
+T152	pos_PRP 850 854	them
+#152	AnnotatorNotes T152	lemma = 'them'
+T153	pos_Fp 854 855	.
+#153	AnnotatorNotes T153	lemma = '.'
+T154	pos_RB 856 861	Hence
+#154	AnnotatorNotes T154	lemma = 'hence'
+T155	pos_Fc 861 862	,
+#155	AnnotatorNotes T155	lemma = ','
+T156	pos_DT 863 864	a
+#156	AnnotatorNotes T156	lemma = 'a'
+T157	pos_JJ 865 878	comprehensive
+#157	AnnotatorNotes T157	lemma = 'comprehensive'
+T158	pos_CC 879 882	and
+#158	AnnotatorNotes T158	lemma = 'and'
+T159	pos_JJ 883 891	flexible
+#159	AnnotatorNotes T159	lemma = 'flexible'
+T160	pos_NN 892 902	curriculum
+#160	AnnotatorNotes T160	lemma = 'curriculum'
+T161	pos_IN 903 906	for
+#161	AnnotatorNotes T161	lemma = 'for'
+T162	pos_DT 907 910	the
+#162	AnnotatorNotes T162	lemma = 'the'
+T163	pos_VBG 911 921	counseling
+#163	AnnotatorNotes T163	lemma = 'counsel'
+T164	pos_NN 922 932	psychology
+#164	AnnotatorNotes T164	lemma = 'psychology'
+T165	pos_NNS 933 941	trainees
+#165	AnnotatorNotes T165	lemma = 'trainee'
+T166	pos_VBZ 942 944	is
+#166	AnnotatorNotes T166	lemma = 'be'
+T167	pos_VBN 945 952	offered
+#167	AnnotatorNotes T167	lemma = 'offer'
+T168	pos_IN 953 955	in
+#168	AnnotatorNotes T168	lemma = 'in'
+T169	pos_DT 956 960	this
+#169	AnnotatorNotes T169	lemma = 'this'
+T170	pos_NN 961 968	article
+#170	AnnotatorNotes T170	lemma = 'article'
+T171	pos_Fp 968 969	.
+#171	AnnotatorNotes T171	lemma = '.'
+T172	pos_PRP 970 972	It
+#172	AnnotatorNotes T172	lemma = 'it'
+T173	pos_VBZ 973 981	conforms
+#173	AnnotatorNotes T173	lemma = 'conform'
+T174	pos_TO 982 984	to
+#174	AnnotatorNotes T174	lemma = 'to'
+T175	pos_DT 985 988	the
+#175	AnnotatorNotes T175	lemma = 'the'
+T176	pos_JJ 989 1002	international
+#176	AnnotatorNotes T176	lemma = 'international'
+T177	pos_NNS 1003 1015	requirements
+#177	AnnotatorNotes T177	lemma = 'requirement'
+T178	pos_VBG 1016 1026	concerning
+#178	AnnotatorNotes T178	lemma = 'concern'
+T179	pos_JJ 1027 1030	gay
+#179	AnnotatorNotes T179	lemma = 'gay'
+T180	pos_CC 1031 1034	and
+#180	AnnotatorNotes T180	lemma = 'and'
+T181	pos_JJ 1035 1042	lesbian
+#181	AnnotatorNotes T181	lemma = 'lesbian'
+T182	pos_NN 1043 1053	counseling
+#182	AnnotatorNotes T182	lemma = 'counseling'
+T183	pos_NNS 1054 1063	practices
+#183	AnnotatorNotes T183	lemma = 'practice'
+T184	pos_VBG 1064 1073	regarding
+#184	AnnotatorNotes T184	lemma = 'regard'
+T185	pos_NN 1074 1090	multiculturalism
+#185	AnnotatorNotes T185	lemma = 'multiculturalism'
+T186	pos_Fc 1090 1091	,
+#186	AnnotatorNotes T186	lemma = ','
+T187	pos_NN 1092 1101	diversity
+#187	AnnotatorNotes T187	lemma = 'diversity'
+T188	pos_CC 1102 1105	and
+#188	AnnotatorNotes T188	lemma = 'and'
+T189	pos_NP 1106 1126	LGBT-affirmativeness
+#189	AnnotatorNotes T189	lemma = 'lgbt-affirmativeness'
+T190	pos_Fp 1126 1127	.
+#190	AnnotatorNotes T190	lemma = '.'
+T12	Art_form 462 471	four-item
+#2	AnnotatorNotes T12	A

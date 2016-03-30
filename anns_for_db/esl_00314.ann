@@ -1,0 +1,289 @@
+T1	Word_order 280 313	Conceptualization of the emotions
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Major
+#1	AnnotatorNotes T1	Emotion conceptualization
+T3	suggestion 335 343	cultural
+A4	Delete T3
+#2	AnnotatorNotes T3	their
+T4	Word_order 335 373	cultural different and common features
+A6	Cause T4 L1_interference
+A7	Weight-language T4 Critical
+#4	AnnotatorNotes T4	their different and common cultural features
+T2	Discourse 451 471	the exact emotion is
+A3	Cause T2 L1_interference
+A5	Weight-language T2 Major
+#3	AnnotatorNotes T2	different emotion types are 
+T5	Prepositions 487 497	throughout
+A8	Cause T5 Other
+A9	Weight-language T5 Critical
+#5	AnnotatorNotes T5	across
+T6	Articles 498 501	the
+A10	Cause T6 Absence_of_Category_in_L1
+A11	Weight-language T6 Critical
+A12	Delete T6
+T7	Articles 529 532	the
+A13	Cause T7 Absence_of_Category_in_L1
+A14	Weight-language T7 Critical
+#6	AnnotatorNotes T7	a
+T8	Articles 553 564	description
+A15	Cause T8 Absence_of_Category_in_L1
+A16	Weight-language T8 Critical
+#7	AnnotatorNotes T8	the description
+T9	Articles 568 571	the
+A17	Cause T9 Absence_of_Category_in_L1
+A18	Weight-language T9 Critical
+A19	Delete T9
+T10	pos_NN 0 8	Language
+#8	AnnotatorNotes T10	lemma = 'language'
+T11	pos_VBZ 9 11	is
+#9	AnnotatorNotes T11	lemma = 'be'
+T12	pos_NN 12 15	one
+#10	AnnotatorNotes T12	lemma = 'one'
+T13	pos_IN 16 18	of
+#11	AnnotatorNotes T13	lemma = 'of'
+T14	pos_DT 19 22	the
+#12	AnnotatorNotes T14	lemma = 'the'
+T15	pos_NNS 23 28	means
+#13	AnnotatorNotes T15	lemma = 'mean'
+T16	pos_IN 29 31	of
+#14	AnnotatorNotes T16	lemma = 'of'
+T17	pos_VBG 32 41	conveying
+#15	AnnotatorNotes T17	lemma = 'convey'
+T18	pos_PRP2 42 45	our
+#16	AnnotatorNotes T18	lemma = 'our'
+T19	pos_NNS 46 54	emotions
+#17	AnnotatorNotes T19	lemma = 'emotion'
+T20	pos_Fp 54 55	.
+#18	AnnotatorNotes T20	lemma = '.'
+T21	pos_DT 56 61	Every
+#19	AnnotatorNotes T21	lemma = 'every'
+T22	pos_NN 62 70	language
+#20	AnnotatorNotes T22	lemma = 'language'
+T23	pos_VBZ 71 74	has
+#21	AnnotatorNotes T23	lemma = 'have'
+T24	pos_PRP2 75 78	its
+#22	AnnotatorNotes T24	lemma = 'its'
+T25	pos_JJ 79 82	own
+#23	AnnotatorNotes T25	lemma = 'own'
+T26	pos_JJ 83 89	unique
+#24	AnnotatorNotes T26	lemma = 'unique'
+T27	pos_NN 90 95	world
+#25	AnnotatorNotes T27	lemma = 'world'
+T28	pos_IN 96 98	of
+#26	AnnotatorNotes T28	lemma = 'of'
+T29	pos_NN 99 106	emotion
+#27	AnnotatorNotes T29	lemma = 'emotion'
+T30	pos_NNS 107 115	concepts
+#28	AnnotatorNotes T30	lemma = 'concept'
+T31	pos_Fp 115 116	.
+#29	AnnotatorNotes T31	lemma = '.'
+T32	pos_IN 117 123	Across
+#30	AnnotatorNotes T32	lemma = 'across'
+T33	pos_DT 124 127	the
+#31	AnnotatorNotes T33	lemma = 'the'
+T34	pos_JJ 128 138	linguistic
+#32	AnnotatorNotes T34	lemma = 'linguistic'
+T35	pos_Fe 139 140	"
+#33	AnnotatorNotes T35	lemma = '"'
+T36	pos_NN 140 143	map
+#34	AnnotatorNotes T36	lemma = 'map'
+T37	pos_Fe 143 144	"
+#35	AnnotatorNotes T37	lemma = '"'
+T38	pos_IN 145 147	of
+#36	AnnotatorNotes T38	lemma = 'of'
+T39	pos_NNS 148 156	emotions
+#37	AnnotatorNotes T39	lemma = 'emotion'
+T40	pos_PRP 157 159	it
+#38	AnnotatorNotes T40	lemma = 'it'
+T41	pos_MD 160 163	may
+#39	AnnotatorNotes T41	lemma = 'may'
+T42	pos_VB 164 166	be
+#40	AnnotatorNotes T42	lemma = 'be'
+T43	pos_VBN 167 174	noticed
+#41	AnnotatorNotes T43	lemma = 'notice'
+T44	pos_IN 175 179	that
+#42	AnnotatorNotes T44	lemma = 'that'
+T45	pos_DT 180 184	some
+#43	AnnotatorNotes T45	lemma = 'some'
+T46	pos_IN 185 187	of
+#44	AnnotatorNotes T46	lemma = 'of'
+T47	pos_PRP 188 192	them
+#45	AnnotatorNotes T47	lemma = 'them'
+T48	pos_VBP 193 196	are
+#46	AnnotatorNotes T48	lemma = 'be'
+T49	pos_NN 197 206	universal
+#47	AnnotatorNotes T49	lemma = 'universal'
+T50	pos_Fp 206 207	.
+#48	AnnotatorNotes T50	lemma = '.'
+T51	pos_RB 208 215	However
+#49	AnnotatorNotes T51	lemma = 'however'
+T52	pos_Fc 215 216	,
+#50	AnnotatorNotes T52	lemma = ','
+T53	pos_EX 217 222	there
+#51	AnnotatorNotes T53	lemma = 'there'
+T54	pos_VBP 223 226	are
+#52	AnnotatorNotes T54	lemma = 'be'
+T55	pos_NN 227 234	emotion
+#53	AnnotatorNotes T55	lemma = 'emotion'
+T56	pos_NNS 235 243	subtypes
+#54	AnnotatorNotes T56	lemma = 'subtype'
+T57	pos_VBG 244 257	demonstrating
+#55	AnnotatorNotes T57	lemma = 'demonstrate'
+T58	pos_JJ 258 266	cultural
+#56	AnnotatorNotes T58	lemma = 'cultural'
+T59	pos_NNS 267 278	differences
+#57	AnnotatorNotes T59	lemma = 'difference'
+T60	pos_Fp 278 279	.
+#58	AnnotatorNotes T60	lemma = '.'
+T61	pos_NN 280 297	Conceptualization
+#59	AnnotatorNotes T61	lemma = 'conceptualization'
+T62	pos_IN 298 300	of
+#60	AnnotatorNotes T62	lemma = 'of'
+T63	pos_DT 301 304	the
+#61	AnnotatorNotes T63	lemma = 'the'
+T64	pos_NNS 305 313	emotions
+#62	AnnotatorNotes T64	lemma = 'emotion'
+T65	pos_VBZ 314 319	gives
+#63	AnnotatorNotes T65	lemma = 'give'
+T66	pos_PRP 320 322	us
+#64	AnnotatorNotes T66	lemma = 'us'
+T67	pos_DT 323 326	the
+#65	AnnotatorNotes T67	lemma = 'the'
+T68	pos_NN 327 331	idea
+#66	AnnotatorNotes T68	lemma = 'idea'
+T69	pos_IN 332 334	of
+#67	AnnotatorNotes T69	lemma = 'of'
+T70	pos_JJ 335 343	cultural
+#68	AnnotatorNotes T70	lemma = 'cultural'
+T71	pos_JJ 344 353	different
+#69	AnnotatorNotes T71	lemma = 'different'
+T72	pos_CC 354 357	and
+#70	AnnotatorNotes T72	lemma = 'and'
+T73	pos_JJ 358 364	common
+#71	AnnotatorNotes T73	lemma = 'common'
+T74	pos_NNS 365 373	features
+#72	AnnotatorNotes T74	lemma = 'feature'
+T75	pos_Fp 373 374	.
+#73	AnnotatorNotes T75	lemma = '.'
+T76	pos_DT 376 379	The
+#74	AnnotatorNotes T76	lemma = 'the'
+T77	pos_JJ 380 384	main
+#75	AnnotatorNotes T77	lemma = 'main'
+T78	pos_NN 385 388	aim
+#76	AnnotatorNotes T78	lemma = 'aim'
+T79	pos_IN 389 391	of
+#77	AnnotatorNotes T79	lemma = 'of'
+T80	pos_DT 392 396	this
+#78	AnnotatorNotes T80	lemma = 'this'
+T81	pos_NN 397 403	course
+#79	AnnotatorNotes T81	lemma = 'course'
+T82	pos_NN 404 411	project
+#80	AnnotatorNotes T82	lemma = 'project'
+T83	pos_VBZ 412 414	is
+#81	AnnotatorNotes T83	lemma = 'be'
+T84	pos_TO 415 417	to
+#82	AnnotatorNotes T84	lemma = 'to'
+T85	pos_VB 418 424	create
+#83	AnnotatorNotes T85	lemma = 'create'
+T86	pos_DT 425 426	a
+#84	AnnotatorNotes T86	lemma = 'a'
+T87	pos_NN 427 435	database
+#85	AnnotatorNotes T87	lemma = 'database'
+T88	pos_WDT 436 440	that
+#86	AnnotatorNotes T88	lemma = 'that'
+T89	pos_VBZ 441 446	shows
+#87	AnnotatorNotes T89	lemma = 'show'
+T90	pos_WRB 447 450	how
+#88	AnnotatorNotes T90	lemma = 'how'
+T91	pos_DT 451 454	the
+#89	AnnotatorNotes T91	lemma = 'the'
+T92	pos_JJ 455 460	exact
+#90	AnnotatorNotes T92	lemma = 'exact'
+T93	pos_NN 461 468	emotion
+#91	AnnotatorNotes T93	lemma = 'emotion'
+T94	pos_VBZ 469 471	is
+#92	AnnotatorNotes T94	lemma = 'be'
+T95	pos_VBN 472 486	conceptualized
+#93	AnnotatorNotes T95	lemma = 'conceptualize'
+T96	pos_IN 487 497	throughout
+#94	AnnotatorNotes T96	lemma = 'throughout'
+T97	pos_DT 498 501	the
+#95	AnnotatorNotes T97	lemma = 'the'
+T98	pos_NNS 502 511	languages
+#96	AnnotatorNotes T98	lemma = 'language'
+T99	pos_Fp 511 512	.
+#97	AnnotatorNotes T99	lemma = '.'
+T100	pos_PRP 513 515	We
+#98	AnnotatorNotes T100	lemma = 'we'
+T101	pos_VBP 516 520	have
+#99	AnnotatorNotes T101	lemma = 'have'
+T102	pos_TO 521 523	to
+#100	AnnotatorNotes T102	lemma = 'to'
+T103	pos_VB 524 528	find
+#101	AnnotatorNotes T103	lemma = 'find'
+T104	pos_DT 529 532	the
+#102	AnnotatorNotes T104	lemma = 'the'
+T105	pos_JJ 533 540	general
+#103	AnnotatorNotes T105	lemma = 'general'
+T106	pos_NN 541 549	approach
+#104	AnnotatorNotes T106	lemma = 'approach'
+T107	pos_TO 550 552	to
+#105	AnnotatorNotes T107	lemma = 'to'
+T108	pos_NN 553 564	description
+#106	AnnotatorNotes T108	lemma = 'description'
+T109	pos_IN 565 567	of
+#107	AnnotatorNotes T109	lemma = 'of'
+T110	pos_DT 568 571	the
+#108	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NN 572 579	emotion
+#109	AnnotatorNotes T111	lemma = 'emotion'
+T112	pos_NNS 580 585	types
+#110	AnnotatorNotes T112	lemma = 'type'
+T113	pos_CC 586 589	and
+#111	AnnotatorNotes T113	lemma = 'and'
+T114	pos_PRP2 590 595	their
+#112	AnnotatorNotes T114	lemma = 'their'
+T115	pos_NNS 596 604	subtypes
+#113	AnnotatorNotes T115	lemma = 'subtype'
+T116	pos_Fp 604 605	.
+#114	AnnotatorNotes T116	lemma = '.'
+T117	pos_PRP 606 608	It
+#115	AnnotatorNotes T117	lemma = 'it'
+T118	pos_MD 609 614	would
+#116	AnnotatorNotes T118	lemma = 'would'
+T119	pos_VB 615 619	help
+#117	AnnotatorNotes T119	lemma = 'help'
+T120	pos_PRP 620 622	us
+#118	AnnotatorNotes T120	lemma = 'us'
+T121	pos_TO 623 625	to
+#119	AnnotatorNotes T121	lemma = 'to'
+T122	pos_VB 626 633	compare
+#120	AnnotatorNotes T122	lemma = 'compare'
+T123	pos_IN 634 636	as
+#121	AnnotatorNotes T123	lemma = 'as'
+T124	pos_PRP 637 641	many
+#122	AnnotatorNotes T124	lemma = 'many'
+T125	pos_NNS 642 651	languages
+#123	AnnotatorNotes T125	lemma = 'language'
+T126	pos_IN 652 654	as
+#124	AnnotatorNotes T126	lemma = 'as'
+T127	pos_NN 655 663	possible
+#125	AnnotatorNotes T127	lemma = 'possible'
+T128	pos_CC 664 667	and
+#126	AnnotatorNotes T128	lemma = 'and'
+T129	pos_VB 668 675	compose
+#127	AnnotatorNotes T129	lemma = 'compose'
+T130	pos_JJ 676 686	linguistic
+#128	AnnotatorNotes T130	lemma = 'linguistic'
+T131	pos_Fe 687 688	"
+#129	AnnotatorNotes T131	lemma = '"'
+T132	pos_NN 688 691	map
+#130	AnnotatorNotes T132	lemma = 'map'
+T133	pos_Fe 691 692	"
+#131	AnnotatorNotes T133	lemma = '"'
+T134	pos_IN 693 695	of
+#132	AnnotatorNotes T134	lemma = 'of'
+T135	pos_NNS 696 704	emotions
+#133	AnnotatorNotes T135	lemma = 'emotion'
+T136	pos_Fp 704 705	.
+#134	AnnotatorNotes T136	lemma = '.'

@@ -1,0 +1,346 @@
+T1	Redundant_comp 18 28	until now,
+A1	Delete T1
+T2	Tense_choice 35 37	is
+#1	AnnotatorNotes T2	has been
+T3	Prepositions 57 60	for
+#2	AnnotatorNotes T3	to
+T4	Lack_par_constr 73 84	development
+#3	AnnotatorNotes T4	developing
+T5	Choice_synonyms 85 97	capabilities
+#4	AnnotatorNotes T5	abilities
+T6	Redundant_comp 177 180	own
+A2	Delete T6
+T7	suggestion 230 242	capabilities
+#5	AnnotatorNotes T7	??
+T8	Tense 603 610	forming
+#6	AnnotatorNotes T8	form
+T9	Tense_form 656 664	consider
+#7	AnnotatorNotes T9	considers
+T10	Redundant_comp 665 671	decide
+A3	Delete T10
+#8	AnnotatorNotes T10	?
+T11	Word_choice 677 682	tasks
+#9	AnnotatorNotes T11	questions/problems
+T12	suggestion 656 682	consider decide next tasks
+#10	AnnotatorNotes T12	is aimed at 
+T13	Word_choice 8 17	antiquity
+A4	Cause T13 Other
+A5	Weight-language T13 Major
+A6	Weight-understanding T13 Critical
+#11	AnnotatorNotes T13	ancient times
+T14	Attr_participial 47 56	attention
+#12	AnnotatorNotes T14	attention paid
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+T15	Redundant_comp 98 102	pose
+A10	Cause T15 Other
+A11	Weight-language T15 Critical
+A12	Weight-understanding T15 Critical
+A13	Delete T15
+T16	Category_confusion 103 113	particular
+A14	Cause T16 Other
+A15	Weight-language T16 Major
+A16	Weight-understanding T16 Critical
+#13	AnnotatorNotes T16	particularly 
+T17	Number 663 664	r
+T18	pos_﻿ 0 1	﻿
+#14	AnnotatorNotes T18	lemma = '﻿'
+T19	pos_NP 2 7	Since
+#15	AnnotatorNotes T19	lemma = 'since'
+T20	pos_NN 8 17	antiquity
+#16	AnnotatorNotes T20	lemma = 'antiquity'
+T21	pos_IN 18 23	until
+#17	AnnotatorNotes T21	lemma = 'until'
+T22	pos_RB 24 27	now
+#18	AnnotatorNotes T22	lemma = 'now'
+T23	pos_Fc 27 28	,
+#19	AnnotatorNotes T23	lemma = ','
+T24	pos_EX 29 34	there
+#20	AnnotatorNotes T24	lemma = 'there'
+T25	pos_VBZ 35 37	is
+#21	AnnotatorNotes T25	lemma = 'be'
+T26	pos_DT 38 46	a lot of
+#22	AnnotatorNotes T26	lemma = 'a_lot_of'
+T27	pos_NN 47 56	attention
+#23	AnnotatorNotes T27	lemma = 'attention'
+T28	pos_IN 57 60	for
+#24	AnnotatorNotes T28	lemma = 'for'
+T29	pos_VBG 61 68	forming
+#25	AnnotatorNotes T29	lemma = 'form'
+T30	pos_CC 69 72	and
+#26	AnnotatorNotes T30	lemma = 'and'
+T31	pos_NN 73 84	development
+#27	AnnotatorNotes T31	lemma = 'development'
+T32	pos_NNS 85 97	capabilities
+#28	AnnotatorNotes T32	lemma = 'capability'
+T33	pos_VBP 98 102	pose
+#29	AnnotatorNotes T33	lemma = 'pose'
+T34	pos_JJ 103 113	particular
+#30	AnnotatorNotes T34	lemma = 'particular'
+T35	pos_VBG 114 125	interesting
+#31	AnnotatorNotes T35	lemma = 'interest'
+T36	pos_IN 126 129	for
+#32	AnnotatorNotes T36	lemma = 'for'
+T37	pos_NN 130 138	learning
+#33	AnnotatorNotes T37	lemma = 'learning'
+T38	pos_Fp 138 139	.
+#34	AnnotatorNotes T38	lemma = '.'
+T39	pos_RB 141 152	For example
+#35	AnnotatorNotes T39	lemma = 'for_example'
+T40	pos_Fc 152 153	,
+#36	AnnotatorNotes T40	lemma = ','
+T41	pos_NP 154 163	Aristotel
+#37	AnnotatorNotes T41	lemma = 'aristotel'
+T42	pos_VBZ 164 169	shows
+#38	AnnotatorNotes T42	lemma = 'show'
+T43	pos_IN 170 172	in
+#39	AnnotatorNotes T43	lemma = 'in'
+T44	pos_PRP2 173 176	his
+#40	AnnotatorNotes T44	lemma = 'his'
+T45	pos_JJ 177 180	own
+#41	AnnotatorNotes T45	lemma = 'own'
+T46	pos_NNS 181 186	works
+#42	AnnotatorNotes T46	lemma = 'work'
+T47	pos_NN 188 199	correlation
+#43	AnnotatorNotes T47	lemma = 'correlation'
+T48	pos_IN 200 207	between
+#44	AnnotatorNotes T48	lemma = 'between'
+T49	pos_JJ 208 215	general
+#45	AnnotatorNotes T49	lemma = 'general'
+T50	pos_CC 216 219	and
+#46	AnnotatorNotes T50	lemma = 'and'
+T51	pos_JJ 220 229	spiritual
+#47	AnnotatorNotes T51	lemma = 'spiritual'
+T52	pos_NNS 230 242	capabilities
+#48	AnnotatorNotes T52	lemma = 'capability'
+T53	pos_Fc 242 243	,
+#49	AnnotatorNotes T53	lemma = ','
+T54	pos_CC 244 247	and
+#50	AnnotatorNotes T54	lemma = 'and'
+T55	pos_NN 249 258	influence
+#51	AnnotatorNotes T55	lemma = 'influence'
+T56	pos_IN 259 261	of
+#52	AnnotatorNotes T56	lemma = 'of'
+T57	pos_PRP 262 264	it
+#53	AnnotatorNotes T57	lemma = 'it'
+T58	pos_IN 265 267	on
+#54	AnnotatorNotes T58	lemma = 'on'
+T59	pos_NN 269 275	person
+#55	AnnotatorNotes T59	lemma = 'person'
+T60	pos_POS 275 277	's
+#56	AnnotatorNotes T60	lemma = ''s'
+T61	pos_NN 278 286	activity
+#57	AnnotatorNotes T61	lemma = 'activity'
+T62	pos_Fp 286 287	.
+#58	AnnotatorNotes T62	lemma = '.'
+T63	pos_NP 288 296	Buttoday
+#59	AnnotatorNotes T63	lemma = 'buttoday'
+T64	pos_Fc 296 297	,
+#60	AnnotatorNotes T64	lemma = ','
+T65	pos_JJ 298 304	modern
+#61	AnnotatorNotes T65	lemma = 'modern'
+T66	pos_NN 305 312	society
+#62	AnnotatorNotes T66	lemma = 'society'
+T67	pos_NN 313 318	focus
+#63	AnnotatorNotes T67	lemma = 'focus'
+T68	pos_IN 319 321	on
+#64	AnnotatorNotes T68	lemma = 'on'
+T69	pos_JJ 322 328	social
+#65	AnnotatorNotes T69	lemma = 'social'
+T70	pos_NNS 329 341	achievements
+#66	AnnotatorNotes T70	lemma = 'achievement'
+T71	pos_IN 342 344	in
+#67	AnnotatorNotes T71	lemma = 'in'
+T72	pos_NN 347 356	exclusion
+#68	AnnotatorNotes T72	lemma = 'exclusion'
+T73	pos_IN 357 359	of
+#69	AnnotatorNotes T73	lemma = 'of'
+T74	pos_NN 360 371	development
+#70	AnnotatorNotes T74	lemma = 'development'
+T75	pos_IN 372 374	of
+#71	AnnotatorNotes T75	lemma = 'of'
+T76	pos_JJ 375 384	spiritual
+#72	AnnotatorNotes T76	lemma = 'spiritual'
+T77	pos_NNS 385 397	capabilities
+#73	AnnotatorNotes T77	lemma = 'capability'
+T78	pos_Fc 397 398	,
+#74	AnnotatorNotes T78	lemma = ','
+T79	pos_RB 399 412	in particular
+#75	AnnotatorNotes T79	lemma = 'in_particular'
+T80	pos_Fc 412 413	,
+#76	AnnotatorNotes T80	lemma = ','
+T81	pos_DT 414 417	the
+#77	AnnotatorNotes T81	lemma = 'the'
+T82	pos_NN 418 428	capability
+#78	AnnotatorNotes T82	lemma = 'capability'
+T83	pos_IN 429 431	of
+#79	AnnotatorNotes T83	lemma = 'of'
+T84	pos_JJ 432 436	good
+#80	AnnotatorNotes T84	lemma = 'good'
+T85	pos_NNS 437 442	deeds
+#81	AnnotatorNotes T85	lemma = 'deed'
+T86	pos_Fp 442 443	.
+#82	AnnotatorNotes T86	lemma = '.'
+T87	pos_DT 444 448	This
+#83	AnnotatorNotes T87	lemma = 'this'
+T88	pos_NN 449 454	focus
+#84	AnnotatorNotes T88	lemma = 'focus'
+T89	pos_MD 455 458	can
+#85	AnnotatorNotes T89	lemma = 'can'
+T90	pos_VB 459 463	lead
+#86	AnnotatorNotes T90	lemma = 'lead'
+T91	pos_TO 464 466	to
+#87	AnnotatorNotes T91	lemma = 'to'
+T92	pos_JJ 467 474	serious
+#88	AnnotatorNotes T92	lemma = 'serious'
+T93	pos_NN 475 482	deficit
+#89	AnnotatorNotes T93	lemma = 'deficit'
+T94	pos_IN 483 485	in
+#90	AnnotatorNotes T94	lemma = 'in'
+T95	pos_JJ 486 494	personal
+#91	AnnotatorNotes T95	lemma = 'personal'
+T96	pos_JJ 495 504	spiritual
+#92	AnnotatorNotes T96	lemma = 'spiritual'
+T97	pos_NN 505 516	development
+#93	AnnotatorNotes T97	lemma = 'development'
+T98	pos_Fp 516 517	.
+#94	AnnotatorNotes T98	lemma = '.'
+T99	pos_CC 518 529	In order to
+#95	AnnotatorNotes T99	lemma = 'in_order_to'
+T100	pos_VB 530 539	encourage
+#96	AnnotatorNotes T100	lemma = 'encourage'
+T101	pos_JJ 540 549	spiritual
+#97	AnnotatorNotes T101	lemma = 'spiritual'
+T102	pos_NNS 550 562	capabilities
+#98	AnnotatorNotes T102	lemma = 'capability'
+T103	pos_Fc 562 563	,
+#99	AnnotatorNotes T103	lemma = ','
+T104	pos_PRP 564 566	it
+#100	AnnotatorNotes T104	lemma = 'it'
+T105	pos_VBZ 567 569	is
+#101	AnnotatorNotes T105	lemma = 'be'
+T106	pos_JJ 570 579	important
+#102	AnnotatorNotes T106	lemma = 'important'
+T107	pos_TO 580 582	to
+#103	AnnotatorNotes T107	lemma = 'to'
+T108	pos_VB 583 593	understand
+#104	AnnotatorNotes T108	lemma = 'understand'
+T109	pos_WRB 594 597	how
+#105	AnnotatorNotes T109	lemma = 'how'
+T110	pos_PRP 598 602	they
+#106	AnnotatorNotes T110	lemma = 'they'
+T111	pos_VBG 603 610	forming
+#107	AnnotatorNotes T111	lemma = 'form'
+T112	pos_CC 611 614	and
+#108	AnnotatorNotes T112	lemma = 'and'
+T113	pos_JJ 615 621	mature
+#109	AnnotatorNotes T113	lemma = 'mature'
+T114	pos_IN 622 624	in
+#110	AnnotatorNotes T114	lemma = 'in'
+T115	pos_DT 625 626	a
+#111	AnnotatorNotes T115	lemma = 'a'
+T116	pos_NN 627 633	person
+#112	AnnotatorNotes T116	lemma = 'person'
+T117	pos_Fp 633 634	.
+#113	AnnotatorNotes T117	lemma = '.'
+T118	pos_RB 635 644	Therefore
+#114	AnnotatorNotes T118	lemma = 'therefore'
+T119	pos_Fc 644 645	,
+#115	AnnotatorNotes T119	lemma = ','
+T120	pos_DT 646 650	this
+#116	AnnotatorNotes T120	lemma = 'this'
+T121	pos_NN 651 655	work
+#117	AnnotatorNotes T121	lemma = 'work'
+T122	pos_VB 656 664	consider
+#118	AnnotatorNotes T122	lemma = 'consider'
+T123	pos_VB 665 671	decide
+#119	AnnotatorNotes T123	lemma = 'decide'
+T124	pos_JJ 672 676	next
+#120	AnnotatorNotes T124	lemma = 'next'
+T125	pos_NNS 677 682	tasks
+#121	AnnotatorNotes T125	lemma = 'task'
+T126	pos_Fd 682 683	:
+#122	AnnotatorNotes T126	lemma = ':'
+T127	pos_VB 685 691	review
+#123	AnnotatorNotes T127	lemma = 'review'
+T128	pos_JJ 694 698	main
+#124	AnnotatorNotes T128	lemma = 'main'
+T129	pos_JJ 699 706	foreign
+#125	AnnotatorNotes T129	lemma = 'foreign'
+T130	pos_CC 707 710	and
+#126	AnnotatorNotes T130	lemma = 'and'
+T131	pos_JJ 711 719	domestic
+#127	AnnotatorNotes T131	lemma = 'domestic'
+T132	pos_NNS 720 728	theories
+#128	AnnotatorNotes T132	lemma = 'theory'
+T133	pos_IN 729 731	of
+#129	AnnotatorNotes T133	lemma = 'of'
+T134	pos_NN 734 740	person
+#130	AnnotatorNotes T134	lemma = 'person'
+T135	pos_POS 740 742	's
+#131	AnnotatorNotes T135	lemma = ''s'
+T136	pos_NNS 743 755	capabilities
+#132	AnnotatorNotes T136	lemma = 'capability'
+T137	pos_Fx 755 756	;
+#133	AnnotatorNotes T137	lemma = ';'
+T138	pos_VB 758 764	define
+#134	AnnotatorNotes T138	lemma = 'define'
+T139	pos_NN 765 770	place
+#135	AnnotatorNotes T139	lemma = 'place'
+T140	pos_IN 771 773	of
+#136	AnnotatorNotes T140	lemma = 'of'
+T141	pos_JJ 774 783	spiritual
+#137	AnnotatorNotes T141	lemma = 'spiritual'
+T142	pos_NNS 784 796	capabilities
+#138	AnnotatorNotes T142	lemma = 'capability'
+T143	pos_IN 797 799	in
+#139	AnnotatorNotes T143	lemma = 'in'
+T144	pos_DT 800 803	the
+#140	AnnotatorNotes T144	lemma = 'the'
+T145	pos_NN 804 810	theory
+#141	AnnotatorNotes T145	lemma = 'theory'
+T146	pos_IN 811 813	of
+#142	AnnotatorNotes T146	lemma = 'of'
+T147	pos_NP 814 828	V.D. Shadrikov
+#143	AnnotatorNotes T147	lemma = 'v.d._shadrikov'
+T148	pos_Fx 828 829	;
+#144	AnnotatorNotes T148	lemma = ';'
+T149	pos_VB 831 839	allocate
+#145	AnnotatorNotes T149	lemma = 'allocate'
+T150	pos_NNS 842 849	factors
+#146	AnnotatorNotes T150	lemma = 'factor'
+T151	pos_IN 850 852	of
+#147	AnnotatorNotes T151	lemma = 'of'
+T152	pos_NN 853 863	maturation
+#148	AnnotatorNotes T152	lemma = 'maturation'
+T153	pos_IN 864 866	of
+#149	AnnotatorNotes T153	lemma = 'of'
+T154	pos_JJ 867 876	spiritual
+#150	AnnotatorNotes T154	lemma = 'spiritual'
+T155	pos_NNS 877 889	capabilities
+#151	AnnotatorNotes T155	lemma = 'capability'
+T156	pos_Fx 889 890	;
+#152	AnnotatorNotes T156	lemma = ';'
+T157	pos_VB 892 903	defineplace
+#153	AnnotatorNotes T157	lemma = 'defineplace'
+T158	pos_CC 904 907	and
+#154	AnnotatorNotes T158	lemma = 'and'
+T159	pos_NN 908 913	sense
+#155	AnnotatorNotes T159	lemma = 'sense'
+T160	pos_IN 914 916	of
+#156	AnnotatorNotes T160	lemma = 'of'
+T161	pos_JJ 917 926	spiritual
+#157	AnnotatorNotes T161	lemma = 'spiritual'
+T162	pos_NNS 927 939	capabilities
+#158	AnnotatorNotes T162	lemma = 'capability'
+T163	pos_IN 940 942	in
+#159	AnnotatorNotes T163	lemma = 'in'
+T164	pos_NN 944 950	person
+#160	AnnotatorNotes T164	lemma = 'person'
+T165	pos_POS 950 952	's
+#161	AnnotatorNotes T165	lemma = ''s'
+T166	pos_NN 953 957	life
+#162	AnnotatorNotes T166	lemma = 'life'
+T167	pos_Fp 957 958	.
+#163	AnnotatorNotes T167	lemma = '.'

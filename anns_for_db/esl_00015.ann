@@ -1,0 +1,371 @@
+T1	Tense 76 86	discovered	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+#1	AnnotatorNotes T1	have been discovered
+T3	lex_part_choice 466 471	to be	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+#3	AnnotatorNotes T3	to be taken care of
+T4	Conjunctions 552 574	several big industrial
+#4	AnnotatorNotes T4	when several big industrial 
+T6	Tense_choice 839 844	found
+#6	AnnotatorNotes T6	has been found 
+T7	lex_part_choice 869 871	is
+#7	AnnotatorNotes T7	is expected
+T2	suggestion 207 208	,
+A1	Delete T2
+T8	Absence_explanation 828 844	no way out found
+A2	Cause T8 Other
+A3	Weight-language T8 Major
+A4	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	no way has been found so far
+T10	pos_NN 0 3	Oil
+#9	AnnotatorNotes T10	lemma = 'oil'
+T11	pos_CC 4 7	and
+#10	AnnotatorNotes T11	lemma = 'and'
+T12	pos_JJ 8 15	natural
+#11	AnnotatorNotes T12	lemma = 'natural'
+T13	pos_NN 16 19	gas
+#12	AnnotatorNotes T13	lemma = 'gas'
+T14	pos_VBP 20 23	are
+#13	AnnotatorNotes T14	lemma = 'be'
+T15	pos_VBN 24 32	produced
+#14	AnnotatorNotes T15	lemma = 'produce'
+T16	pos_IN 33 35	in
+#15	AnnotatorNotes T16	lemma = 'in'
+T17	pos_DT 36 39	the
+#16	AnnotatorNotes T17	lemma = 'the'
+T18	pos_JJ 40 44	east
+#17	AnnotatorNotes T18	lemma = 'east'
+T19	pos_IN 45 47	of
+#18	AnnotatorNotes T19	lemma = 'of'
+T20	pos_NP 48 54	Russia
+#19	AnnotatorNotes T20	lemma = 'russia'
+T21	pos_Fp 54 55	.
+#20	AnnotatorNotes T21	lemma = '.'
+T22	pos_DT 56 64	A lot of
+#21	AnnotatorNotes T22	lemma = 'a_lot_of'
+T23	pos_NNS 65 74	oilfields
+#22	AnnotatorNotes T23	lemma = 'oilfield'
+T24	pos_VBN 76 86	discovered
+#23	AnnotatorNotes T24	lemma = 'discover'
+T25	pos_IN 87 89	in
+#24	AnnotatorNotes T25	lemma = 'in'
+T26	pos_NP 90 97	Siberia
+#25	AnnotatorNotes T26	lemma = 'siberia'
+T27	pos_CC 98 101	and
+#26	AnnotatorNotes T27	lemma = 'and'
+T28	pos_IN 102 104	in
+#27	AnnotatorNotes T28	lemma = 'in'
+T29	pos_DT 105 108	the
+#28	AnnotatorNotes T29	lemma = 'the'
+T30	pos_NP 109 117	Far East
+#29	AnnotatorNotes T30	lemma = 'far_east'
+T31	pos_Fp 117 118	.
+#30	AnnotatorNotes T31	lemma = '.'
+T32	pos_NP 119 126	Siberia
+#31	AnnotatorNotes T32	lemma = 'siberia'
+T33	pos_VBZ 127 129	is
+#32	AnnotatorNotes T33	lemma = 'be'
+T34	pos_RB 130 134	also
+#33	AnnotatorNotes T34	lemma = 'also'
+T35	pos_JJ 135 139	rich
+#34	AnnotatorNotes T35	lemma = 'rich'
+T36	pos_IN 140 142	in
+#35	AnnotatorNotes T36	lemma = 'in'
+T37	pos_JJ 143 154	non-ferrous
+#36	AnnotatorNotes T37	lemma = 'non-ferrous'
+T38	pos_NNS 155 161	metals
+#37	AnnotatorNotes T38	lemma = 'metal'
+T39	pos_Fc 161 162	,
+#38	AnnotatorNotes T39	lemma = ','
+T40	pos_CC 163 166	and
+#39	AnnotatorNotes T40	lemma = 'and'
+T41	pos_NN 167 171	lead
+#40	AnnotatorNotes T41	lemma = 'lead'
+T42	pos_Fc 171 172	,
+#41	AnnotatorNotes T42	lemma = ','
+T43	pos_NN 173 179	silver
+#42	AnnotatorNotes T43	lemma = 'silver'
+T44	pos_CC 180 183	and
+#43	AnnotatorNotes T44	lemma = 'and'
+T45	pos_NN 184 188	gold
+#44	AnnotatorNotes T45	lemma = 'gold'
+T46	pos_VBP 189 192	are
+#45	AnnotatorNotes T46	lemma = 'be'
+T47	pos_VBN 193 201	produced
+#46	AnnotatorNotes T47	lemma = 'produce'
+T48	pos_RB 202 207	there
+#47	AnnotatorNotes T48	lemma = 'there'
+T49	pos_Fc 207 208	,
+#48	AnnotatorNotes T49	lemma = ','
+T50	pos_Fp 209 210	.
+#49	AnnotatorNotes T50	lemma = '.'
+T51	pos_IN 212 214	In
+#50	AnnotatorNotes T51	lemma = 'in'
+T52	pos_DT 215 218	the
+#51	AnnotatorNotes T52	lemma = 'the'
+T53	pos_JJ 219 223	last
+#52	AnnotatorNotes T53	lemma = 'last'
+T54	pos_NN 224 231	century
+#53	AnnotatorNotes T54	lemma = 'century'
+T55	pos_DT 232 236	this
+#54	AnnotatorNotes T55	lemma = 'this'
+T56	pos_NN 237 243	region
+#55	AnnotatorNotes T56	lemma = 'region'
+T57	pos_VBD 244 247	was
+#56	AnnotatorNotes T57	lemma = 'be'
+T58	pos_RB 248 252	also
+#57	AnnotatorNotes T58	lemma = 'also'
+T59	pos_JJ 253 257	rich
+#58	AnnotatorNotes T59	lemma = 'rich'
+T60	pos_IN 258 260	in
+#59	AnnotatorNotes T60	lemma = 'in'
+T61	pos_NN 261 265	wood
+#60	AnnotatorNotes T61	lemma = 'wood'
+T62	pos_Fc 265 266	,
+#61	AnnotatorNotes T62	lemma = ','
+T63	pos_CC 267 270	but
+#62	AnnotatorNotes T63	lemma = 'but'
+T64	pos_IN 271 273	in
+#63	AnnotatorNotes T64	lemma = 'in'
+T65	pos_DT 274 277	the
+#64	AnnotatorNotes T65	lemma = 'the'
+T66	pos_NP 278 290	Soviet Union
+#65	AnnotatorNotes T66	lemma = 'soviet_union'
+T67	pos_NNS 291 296	times
+#66	AnnotatorNotes T67	lemma = 'time'
+T68	pos_DT 297 300	the
+#67	AnnotatorNotes T68	lemma = 'the'
+T69	pos_NNS 301 308	forests
+#68	AnnotatorNotes T69	lemma = 'forest'
+T70	pos_VBD 309 313	were
+#69	AnnotatorNotes T70	lemma = 'be'
+T71	pos_VBN 314 317	cut
+#70	AnnotatorNotes T71	lemma = 'cut'
+T72	pos_RP 318 322	down
+#71	AnnotatorNotes T72	lemma = 'down'
+T73	pos_RB 323 334	extensively
+#72	AnnotatorNotes T73	lemma = 'extensively'
+T74	pos_Fc 334 335	,
+#73	AnnotatorNotes T74	lemma = ','
+T75	pos_CC 336 339	and
+#74	AnnotatorNotes T75	lemma = 'and'
+T76	pos_Fc 339 340	,
+#75	AnnotatorNotes T76	lemma = ','
+T77	pos_IN 341 349	although
+#76	AnnotatorNotes T77	lemma = 'although'
+T78	pos_DT 350 354	this
+#77	AnnotatorNotes T78	lemma = 'this'
+T79	pos_NN 355 361	region
+#78	AnnotatorNotes T79	lemma = 'region'
+T80	pos_VBZ 362 364	is
+#79	AnnotatorNotes T80	lemma = 'be'
+T81	pos_RB 365 370	still
+#80	AnnotatorNotes T81	lemma = 'still'
+T82	pos_VBN 371 381	considered
+#81	AnnotatorNotes T82	lemma = 'consider'
+T83	pos_TO 382 384	to
+#82	AnnotatorNotes T83	lemma = 'to'
+T84	pos_VB 385 387	be
+#83	AnnotatorNotes T84	lemma = 'be'
+T85	pos_NN 388 391	one
+#84	AnnotatorNotes T85	lemma = 'one'
+T86	pos_IN 392 394	of
+#85	AnnotatorNotes T86	lemma = 'of'
+T87	pos_DT 395 398	the
+#86	AnnotatorNotes T87	lemma = 'the'
+T88	pos_RBS 399 403	most
+#87	AnnotatorNotes T88	lemma = 'many'
+T89	pos_JJ 404 409	woody
+#88	AnnotatorNotes T89	lemma = 'woody'
+T90	pos_NNS 410 416	places
+#89	AnnotatorNotes T90	lemma = 'place'
+T91	pos_IN 417 419	in
+#90	AnnotatorNotes T91	lemma = 'in'
+T92	pos_DT 420 423	the
+#91	AnnotatorNotes T92	lemma = 'the'
+T93	pos_NN 424 429	world
+#92	AnnotatorNotes T93	lemma = 'world'
+T94	pos_Fc 429 430	,
+#93	AnnotatorNotes T94	lemma = ','
+T95	pos_RB 431 439	nowadays
+#94	AnnotatorNotes T95	lemma = 'nowadays'
+T96	pos_DT 440 443	the
+#95	AnnotatorNotes T96	lemma = 'the'
+T97	pos_NP 444 452	Siberian
+#96	AnnotatorNotes T97	lemma = 'siberian'
+T98	pos_NNS 453 460	forests
+#97	AnnotatorNotes T98	lemma = 'forest'
+T99	pos_VBP 461 465	need
+#98	AnnotatorNotes T99	lemma = 'need'
+T100	pos_TO 466 468	to
+#99	AnnotatorNotes T100	lemma = 'to'
+T101	pos_VB 469 471	be
+#100	AnnotatorNotes T101	lemma = 'be'
+T102	pos_Fc 473 474	,
+#101	AnnotatorNotes T102	lemma = ','
+T103	pos_IN 475 480	while
+#102	AnnotatorNotes T103	lemma = 'while'
+T104	pos_PRP 481 485	they
+#103	AnnotatorNotes T104	lemma = 'they'
+T105	pos_VBP 486 489	are
+#104	AnnotatorNotes T105	lemma = 'be'
+T106	pos_RB 490 495	still
+#105	AnnotatorNotes T106	lemma = 'still'
+T107	pos_VBG 496 501	being
+#106	AnnotatorNotes T107	lemma = 'be'
+T108	pos_VBN 502 508	felled
+#107	AnnotatorNotes T108	lemma = 'fell'
+T109	pos_Fp 508 509	.
+#108	AnnotatorNotes T109	lemma = '.'
+T110	pos_DT 511 514	The
+#109	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NN 515 522	ecology
+#110	AnnotatorNotes T111	lemma = 'ecology'
+T112	pos_IN 523 525	of
+#111	AnnotatorNotes T112	lemma = 'of'
+T113	pos_DT 526 529	the
+#112	AnnotatorNotes T113	lemma = 'the'
+T114	pos_NN 530 534	area
+#113	AnnotatorNotes T114	lemma = 'area'
+T115	pos_VBD 535 538	was
+#114	AnnotatorNotes T115	lemma = 'be'
+T116	pos_RB 539 543	also
+#115	AnnotatorNotes T116	lemma = 'also'
+T117	pos_VBN 544 551	damaged
+#116	AnnotatorNotes T117	lemma = 'damage'
+T118	pos_JJ 552 559	several
+#117	AnnotatorNotes T118	lemma = 'several'
+T119	pos_JJ 560 563	big
+#118	AnnotatorNotes T119	lemma = 'big'
+T120	pos_JJ 564 574	industrial
+#119	AnnotatorNotes T120	lemma = 'industrial'
+T121	pos_NNS 575 581	cities
+#120	AnnotatorNotes T121	lemma = 'city'
+T122	pos_VBN 583 590	founded
+#121	AnnotatorNotes T122	lemma = 'found'
+T123	pos_RB 591 596	there
+#122	AnnotatorNotes T123	lemma = 'there'
+T124	pos_Fp 596 597	.
+#123	AnnotatorNotes T124	lemma = '.'
+T125	pos_RB 598 610	For instance
+#124	AnnotatorNotes T125	lemma = 'for_instance'
+T126	pos_Fc 610 611	,
+#125	AnnotatorNotes T126	lemma = ','
+T127	pos_NP 612 619	Norilsk
+#126	AnnotatorNotes T127	lemma = 'norilsk'
+T128	pos_VBZ 620 622	is
+#127	AnnotatorNotes T128	lemma = 'be'
+T129	pos_VBD 623 627	said
+#128	AnnotatorNotes T129	lemma = 'say'
+T130	pos_TO 628 630	to
+#129	AnnotatorNotes T130	lemma = 'to'
+T131	pos_VB 631 633	be
+#130	AnnotatorNotes T131	lemma = 'be'
+T132	pos_NN 634 637	one
+#131	AnnotatorNotes T132	lemma = 'one'
+T133	pos_IN 638 640	of
+#132	AnnotatorNotes T133	lemma = 'of'
+T134	pos_DT 641 644	the
+#133	AnnotatorNotes T134	lemma = 'the'
+T135	pos_RBS 645 649	most
+#134	AnnotatorNotes T135	lemma = 'many'
+T136	pos_VBN 650 658	polluted
+#135	AnnotatorNotes T136	lemma = 'pollute'
+T137	pos_NNS 659 665	cities
+#136	AnnotatorNotes T137	lemma = 'city'
+T138	pos_IN 666 668	in
+#137	AnnotatorNotes T138	lemma = 'in'
+T139	pos_NP 669 675	Russia
+#138	AnnotatorNotes T139	lemma = 'russia'
+T140	pos_Fp 675 676	.
+#139	AnnotatorNotes T140	lemma = '.'
+T141	pos_DT 677 678	A
+#140	AnnotatorNotes T141	lemma = 'a'
+T142	pos_JJ 679 682	big
+#141	AnnotatorNotes T142	lemma = 'big'
+T143	pos_NN 683 689	amount
+#142	AnnotatorNotes T143	lemma = 'amount'
+T144	pos_IN 690 692	of
+#143	AnnotatorNotes T144	lemma = 'of'
+T145	pos_JJ 693 700	harmful
+#144	AnnotatorNotes T145	lemma = 'harmful'
+T146	pos_NNS 701 711	substances
+#145	AnnotatorNotes T146	lemma = 'substance'
+T147	pos_VBP 712 715	are
+#146	AnnotatorNotes T147	lemma = 'be'
+T148	pos_VBN 716 724	released
+#147	AnnotatorNotes T148	lemma = 'release'
+T149	pos_IN 725 727	in
+#148	AnnotatorNotes T149	lemma = 'in'
+T150	pos_DT 728 731	the
+#149	AnnotatorNotes T150	lemma = 'the'
+T151	pos_NN 732 735	air
+#150	AnnotatorNotes T151	lemma = 'air'
+T152	pos_IN 736 738	by
+#151	AnnotatorNotes T152	lemma = 'by'
+T153	pos_DT 739 742	the
+#152	AnnotatorNotes T153	lemma = 'the'
+T154	pos_NNS 743 752	factories
+#153	AnnotatorNotes T154	lemma = 'factory'
+T155	pos_Fp 752 753	.
+#154	AnnotatorNotes T155	lemma = '.'
+T156	pos_DT 754 758	This
+#155	AnnotatorNotes T156	lemma = 'this'
+T157	pos_NN 759 766	problem
+#156	AnnotatorNotes T157	lemma = 'problem'
+T158	pos_MD 767 771	must
+#157	AnnotatorNotes T158	lemma = 'must'
+T159	pos_VB 772 774	be
+#158	AnnotatorNotes T159	lemma = 'be'
+T160	pos_VBN 775 781	sorted
+#159	AnnotatorNotes T160	lemma = 'sort'
+T161	pos_RP 782 785	out
+#160	AnnotatorNotes T161	lemma = 'out'
+T162	pos_RB 786 805	as soon as possible
+#161	AnnotatorNotes T162	lemma = 'as_soon_as_possible'
+T163	pos_Fc 805 806	,
+#162	AnnotatorNotes T163	lemma = ','
+T164	pos_CC 807 810	but
+#163	AnnotatorNotes T164	lemma = 'but'
+T165	pos_Fc 810 811	,
+#164	AnnotatorNotes T165	lemma = ','
+T166	pos_RB 812 825	unfortunately
+#165	AnnotatorNotes T166	lemma = 'unfortunately'
+T167	pos_Fc 825 826	,
+#166	AnnotatorNotes T167	lemma = ','
+T168	pos_DT 828 830	no
+#167	AnnotatorNotes T168	lemma = 'no'
+T169	pos_NN 831 834	way
+#168	AnnotatorNotes T169	lemma = 'way'
+T170	pos_IN 835 838	out
+#169	AnnotatorNotes T170	lemma = 'out'
+T171	pos_VBN 839 844	found
+#170	AnnotatorNotes T171	lemma = 'find'
+T172	pos_Fp 844 845	.
+#171	AnnotatorNotes T172	lemma = '.'
+T173	pos_RB 846 853	However
+#172	AnnotatorNotes T173	lemma = 'however'
+T174	pos_Fc 853 854	,
+#173	AnnotatorNotes T174	lemma = ','
+T175	pos_DT 855 858	the
+#174	AnnotatorNotes T175	lemma = 'the'
+T176	pos_NN 859 868	situation
+#175	AnnotatorNotes T176	lemma = 'situation'
+T177	pos_VBZ 869 871	is
+#176	AnnotatorNotes T177	lemma = 'be'
+T178	pos_TO 873 875	to
+#177	AnnotatorNotes T178	lemma = 'to'
+T179	pos_VB 876 882	change
+#178	AnnotatorNotes T179	lemma = 'change'
+T180	pos_DT 884 887	the
+#179	AnnotatorNotes T180	lemma = 'the'
+T181	pos_JJR 888 894	better
+#180	AnnotatorNotes T181	lemma = 'good'
+T182	pos_IN 895 897	in
+#181	AnnotatorNotes T182	lemma = 'in'
+T183	pos_DT 898 901	the
+#182	AnnotatorNotes T183	lemma = 'the'
+T184	pos_NN 902 908	future
+#183	AnnotatorNotes T184	lemma = 'future'
+T185	pos_Fp 908 909	.
+#184	AnnotatorNotes T185	lemma = '.'
+T5	Voice_choice 839 844	found
+#2	AnnotatorNotes T5	has been found 

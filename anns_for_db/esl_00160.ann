@@ -1,0 +1,230 @@
+T1	lex_item_choice 10 39	wide practical circulation of	
+#1	AnnotatorNotes T1	the relevance of
+T2	Art_choice 40 41	a	
+#2	AnnotatorNotes T2	the
+T3	lex_part_choice 79 91	small number	
+#3	AnnotatorNotes T3	limited amount
+T4	Countable_uncountable 95 109	the researches	
+#4	AnnotatorNotes T4	research
+T5	Verb_Gerund 152 172	suggests to consider	
+#5	AnnotatorNotes T5	suggests considering
+T6	lex_item_choice 175 183	concrete	
+#6	AnnotatorNotes T6	specific
+T7	Art_choice 286 289	the	
+A7	Delete T7
+T8	Art_form 404 410	change
+#8	AnnotatorNotes T8	the
+T9	Art_form 445 451	change
+#9	AnnotatorNotes T9	the
+T10	Art_form 502 508	change
+#10	AnnotatorNotes T10	the
+A1	Cause T6 L1_interference
+A2	Weight-language T6 Minor
+A3	Weight-language T1 Major
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Minor
+A6	Weight-language T3 Minor
+A8	Weight-language T4 Minor
+A9	Weight-language T5 Minor
+A10	Cause T7 Absence_of_Category_in_L1
+A11	Weight-language T7 Minor
+A12	Cause T8 Absence_of_Category_in_L1
+A13	Weight-language T8 Minor
+A14	Cause T9 Absence_of_Category_in_L1
+A15	Weight-language T9 Minor
+A16	Cause T10 Absence_of_Category_in_L1
+A17	Weight-language T10 Minor
+T11	pos_﻿ 0 1	﻿
+#11	AnnotatorNotes T11	lemma = '﻿'
+T12	pos_NP 1 8	Despite
+#12	AnnotatorNotes T12	lemma = 'despite'
+T13	pos_JJ 10 14	wide
+#13	AnnotatorNotes T13	lemma = 'wide'
+T14	pos_JJ 15 24	practical
+#14	AnnotatorNotes T14	lemma = 'practical'
+T15	pos_NN 25 36	circulation
+#15	AnnotatorNotes T15	lemma = 'circulation'
+T16	pos_IN 37 39	of
+#16	AnnotatorNotes T16	lemma = 'of'
+T17	pos_DT 40 41	a
+#17	AnnotatorNotes T17	lemma = 'a'
+T18	pos_NN 42 49	problem
+#18	AnnotatorNotes T18	lemma = 'problem'
+T19	pos_IN 50 52	of
+#19	AnnotatorNotes T19	lemma = 'of'
+T20	pos_NN 53 57	love
+#20	AnnotatorNotes T20	lemma = 'love'
+T21	pos_NN 58 67	addiction
+#21	AnnotatorNotes T21	lemma = 'addiction'
+T22	pos_EX 68 73	there
+#22	AnnotatorNotes T22	lemma = 'there'
+T23	pos_VBZ 74 76	is
+#23	AnnotatorNotes T23	lemma = 'be'
+T24	pos_DT 77 78	a
+#24	AnnotatorNotes T24	lemma = 'a'
+T25	pos_JJ 79 84	small
+#25	AnnotatorNotes T25	lemma = 'small'
+T26	pos_NN 85 91	number
+#26	AnnotatorNotes T26	lemma = 'number'
+T27	pos_IN 92 94	of
+#27	AnnotatorNotes T27	lemma = 'of'
+T28	pos_DT 95 98	the
+#28	AnnotatorNotes T28	lemma = 'the'
+T29	pos_JJ 99 116	researchesdevoted
+#29	AnnotatorNotes T29	lemma = 'researchesdevoted'
+T30	pos_TO 117 119	to
+#30	AnnotatorNotes T30	lemma = 'to'
+T31	pos_DT 120 124	this
+#31	AnnotatorNotes T31	lemma = 'this'
+T32	pos_NN 125 132	subject
+#32	AnnotatorNotes T32	lemma = 'subject'
+T33	pos_Fp 132 133	.
+#33	AnnotatorNotes T33	lemma = '.'
+T34	pos_DT 134 137	The
+#34	AnnotatorNotes T34	lemma = 'the'
+T35	pos_JJ 138 145	current
+#35	AnnotatorNotes T35	lemma = 'current'
+T36	pos_NN 146 151	paper
+#36	AnnotatorNotes T36	lemma = 'paper'
+T37	pos_VBZ 152 160	suggests
+#37	AnnotatorNotes T37	lemma = 'suggest'
+T38	pos_TO 161 163	to
+#38	AnnotatorNotes T38	lemma = 'to'
+T39	pos_VB 164 172	consider
+#39	AnnotatorNotes T39	lemma = 'consider'
+T40	pos_DT 173 174	a
+#40	AnnotatorNotes T40	lemma = 'a'
+T41	pos_JJ 175 183	concrete
+#41	AnnotatorNotes T41	lemma = 'concrete'
+T42	pos_NN 184 188	case
+#42	AnnotatorNotes T42	lemma = 'case'
+T43	pos_IN 189 193	from
+#43	AnnotatorNotes T43	lemma = 'from'
+T44	pos_JJ 194 205	therapeutic
+#44	AnnotatorNotes T44	lemma = 'therapeutic'
+T45	pos_NN 206 214	practice
+#45	AnnotatorNotes T45	lemma = 'practice'
+T46	pos_IN 215 219	from
+#46	AnnotatorNotes T46	lemma = 'from'
+T47	pos_DT 220 223	the
+#47	AnnotatorNotes T47	lemma = 'the'
+T48	pos_NN 224 229	point
+#48	AnnotatorNotes T48	lemma = 'point'
+T49	pos_IN 230 232	of
+#49	AnnotatorNotes T49	lemma = 'of'
+T50	pos_NN 233 237	view
+#50	AnnotatorNotes T50	lemma = 'view'
+T51	pos_IN 238 240	of
+#51	AnnotatorNotes T51	lemma = 'of'
+T52	pos_NN 241 247	system
+#52	AnnotatorNotes T52	lemma = 'system'
+T53	pos_NN 248 254	family
+#53	AnnotatorNotes T53	lemma = 'family'
+T54	pos_NN 255 262	therapy
+#54	AnnotatorNotes T54	lemma = 'therapy'
+T55	pos_WDT 263 268	which
+#55	AnnotatorNotes T55	lemma = 'which'
+T56	pos_VBZ 269 271	is
+#56	AnnotatorNotes T56	lemma = 'be'
+T57	pos_VBN 272 281	connected
+#57	AnnotatorNotes T57	lemma = 'connect'
+T58	pos_JJ 282 289	withthe
+#58	AnnotatorNotes T58	lemma = 'withthe'
+T59	pos_JJ 290 299	obsessive
+#59	AnnotatorNotes T59	lemma = 'obsessive'
+T60	pos_NNS 300 309	relations
+#60	AnnotatorNotes T60	lemma = 'relation'
+T61	pos_Fp 309 310	.
+#61	AnnotatorNotes T61	lemma = '.'
+T62	pos_DT 311 314	The
+#62	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NN 315 323	analysis
+#63	AnnotatorNotes T63	lemma = 'analysis'
+T64	pos_IN 324 326	of
+#64	AnnotatorNotes T64	lemma = 'of'
+T65	pos_DT 327 331	this
+#65	AnnotatorNotes T65	lemma = 'this'
+T66	pos_NN 332 336	case
+#66	AnnotatorNotes T66	lemma = 'case'
+T67	pos_VBZ 337 343	proves
+#67	AnnotatorNotes T67	lemma = 'prove'
+T68	pos_IN 344 348	that
+#68	AnnotatorNotes T68	lemma = 'that'
+T69	pos_DT 349 352	the
+#69	AnnotatorNotes T69	lemma = 'the'
+T70	pos_NN 353 361	solution
+#70	AnnotatorNotes T70	lemma = 'solution'
+T71	pos_IN 362 364	of
+#71	AnnotatorNotes T71	lemma = 'of'
+T72	pos_DT 365 368	the
+#72	AnnotatorNotes T72	lemma = 'the'
+T73	pos_NN 369 376	problem
+#73	AnnotatorNotes T73	lemma = 'problem'
+T74	pos_IN 377 379	of
+#74	AnnotatorNotes T74	lemma = 'of'
+T75	pos_NN 380 384	love
+#75	AnnotatorNotes T75	lemma = 'love'
+T76	pos_NN 385 394	addiction
+#76	AnnotatorNotes T76	lemma = 'addiction'
+T77	pos_VBZ 395 399	lies
+#77	AnnotatorNotes T77	lemma = 'lie'
+T78	pos_IN 400 402	in
+#78	AnnotatorNotes T78	lemma = 'in'
+T79	pos_NN 404 410	change
+#79	AnnotatorNotes T79	lemma = 'change'
+T80	pos_IN 411 413	of
+#80	AnnotatorNotes T80	lemma = 'of'
+T81	pos_DT 414 417	the
+#81	AnnotatorNotes T81	lemma = 'the'
+T82	pos_NNS 418 427	relations
+#82	AnnotatorNotes T82	lemma = 'relation'
+T83	pos_IN 428 430	in
+#83	AnnotatorNotes T83	lemma = 'in'
+T84	pos_DT 431 432	a
+#84	AnnotatorNotes T84	lemma = 'a'
+T85	pos_NN 433 439	family
+#85	AnnotatorNotes T85	lemma = 'family'
+T86	pos_Fc 439 440	,
+#86	AnnotatorNotes T86	lemma = ','
+T87	pos_IN 441 443	in
+#87	AnnotatorNotes T87	lemma = 'in'
+T88	pos_NN 445 451	change
+#88	AnnotatorNotes T88	lemma = 'change'
+T89	pos_IN 452 454	of
+#89	AnnotatorNotes T89	lemma = 'of'
+T90	pos_DT 455 458	the
+#90	AnnotatorNotes T90	lemma = 'the'
+T91	pos_JJ 459 463	main
+#91	AnnotatorNotes T91	lemma = 'main'
+T92	pos_NNS 464 472	patterns
+#92	AnnotatorNotes T92	lemma = 'pattern'
+T93	pos_IN 473 475	of
+#93	AnnotatorNotes T93	lemma = 'of'
+T94	pos_JJ 476 484	parental
+#94	AnnotatorNotes T94	lemma = 'parental'
+T95	pos_NN 485 493	behavior
+#95	AnnotatorNotes T95	lemma = 'behavior'
+T96	pos_CC 494 497	and
+#96	AnnotatorNotes T96	lemma = 'and'
+T97	pos_IN 498 500	in
+#97	AnnotatorNotes T97	lemma = 'in'
+T98	pos_NN 502 508	change
+#98	AnnotatorNotes T98	lemma = 'change'
+T99	pos_IN 509 511	of
+#99	AnnotatorNotes T99	lemma = 'of'
+T100	pos_DT 512 516	some
+#100	AnnotatorNotes T100	lemma = 'some'
+T101	pos_NNS 517 532	representations
+#101	AnnotatorNotes T101	lemma = 'representation'
+T102	pos_CC 533 536	and
+#102	AnnotatorNotes T102	lemma = 'and'
+T103	pos_NNS 537 549	expectations
+#103	AnnotatorNotes T103	lemma = 'expectation'
+T104	pos_IN 550 555	about
+#104	AnnotatorNotes T104	lemma = 'about'
+T105	pos_NN 556 562	family
+#105	AnnotatorNotes T105	lemma = 'family'
+T106	pos_NN 563 567	life
+#106	AnnotatorNotes T106	lemma = 'life'
+T107	pos_Fp 567 568	.
+#107	AnnotatorNotes T107	lemma = '.'

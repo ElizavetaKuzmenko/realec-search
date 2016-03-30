@@ -1,0 +1,232 @@
+T1	Discourse 4 11	project
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+#1	AnnotatorNotes T1	objective of the course project 
+T2	Discourse 70 86	recently created
+A3	Cause T2 Other
+A4	Weight-language T2 Minor
+A5	Delete T2
+T3	pos_DT 0 3	The
+#2	AnnotatorNotes T3	lemma = 'the'
+T4	pos_NN 4 11	project
+#3	AnnotatorNotes T4	lemma = 'project'
+T5	pos_VBZ 12 14	is
+#4	AnnotatorNotes T5	lemma = 'be'
+T6	pos_TO 15 17	to
+#5	AnnotatorNotes T6	lemma = 'to'
+T7	pos_VB 18 24	create
+#6	AnnotatorNotes T7	lemma = 'create'
+T8	pos_DT 25 27	an
+#7	AnnotatorNotes T8	lemma = 'a'
+T9	pos_VBN 28 37	automated
+#8	AnnotatorNotes T9	lemma = 'automate'
+T10	pos_VBG 38 53	verb-collecting
+#9	AnnotatorNotes T10	lemma = 'verb-collecting'
+T11	pos_NN 54 61	program
+#10	AnnotatorNotes T11	lemma = 'program'
+T12	pos_IN 62 65	for
+#11	AnnotatorNotes T12	lemma = 'for'
+T13	pos_DT 66 69	the
+#12	AnnotatorNotes T13	lemma = 'the'
+T14	pos_RB 70 78	recently
+#13	AnnotatorNotes T14	lemma = 'recently'
+T15	pos_VBN 79 86	created
+#14	AnnotatorNotes T15	lemma = 'create'
+T16	pos_NP 87 109	Corpus of Modern Greek
+#15	AnnotatorNotes T16	lemma = 'corpus_of_modern_greek'
+T17	pos_Fp 109 110	.
+#16	AnnotatorNotes T17	lemma = '.'
+T18	pos_PRP2 111 114	Its
+#17	AnnotatorNotes T18	lemma = 'its'
+T19	pos_JJ 115 119	main
+#18	AnnotatorNotes T19	lemma = 'main'
+T20	pos_NN 120 128	function
+#19	AnnotatorNotes T20	lemma = 'function'
+T21	pos_VBZ 129 131	is
+#20	AnnotatorNotes T21	lemma = 'be'
+T22	pos_VBG 132 141	providing
+#21	AnnotatorNotes T22	lemma = 'provide'
+T23	pos_JJ 142 148	proper
+#22	AnnotatorNotes T23	lemma = 'proper'
+T24	pos_NN 149 156	marking
+#23	AnnotatorNotes T24	lemma = 'marking'
+T25	pos_IN 157 159	of
+#24	AnnotatorNotes T25	lemma = 'of'
+T26	pos_NNS 160 165	verbs
+#25	AnnotatorNotes T26	lemma = 'verb'
+T27	pos_IN 166 168	by
+#26	AnnotatorNotes T27	lemma = 'by'
+T28	pos_DT 169 170	a
+#27	AnnotatorNotes T28	lemma = 'a'
+T29	pos_Fpt 170 171	)
+#28	AnnotatorNotes T29	lemma = ')'
+T30	pos_VBG 172 183	recognizing
+#29	AnnotatorNotes T30	lemma = 'recognize'
+T31	pos_PDT 184 187	all
+#30	AnnotatorNotes T31	lemma = 'all'
+T32	pos_DT 188 191	the
+#31	AnnotatorNotes T32	lemma = 'the'
+T33	pos_NNS 192 197	verbs
+#32	AnnotatorNotes T33	lemma = 'verb'
+T34	pos_IN 198 200	in
+#33	AnnotatorNotes T34	lemma = 'in'
+T35	pos_DT 201 204	the
+#34	AnnotatorNotes T35	lemma = 'the'
+T36	pos_NNS 205 210	texts
+#35	AnnotatorNotes T36	lemma = 'text'
+T37	pos_Fx 210 211	;
+#36	AnnotatorNotes T37	lemma = ';'
+T38	pos_NN 212 213	b
+#37	AnnotatorNotes T38	lemma = 'b'
+T39	pos_Fpt 213 214	)
+#38	AnnotatorNotes T39	lemma = ')'
+T40	pos_VBG 215 226	determining
+#39	AnnotatorNotes T40	lemma = 'determine'
+T41	pos_Fc 226 227	,
+#40	AnnotatorNotes T41	lemma = ','
+T42	pos_WDT 228 233	which
+#41	AnnotatorNotes T42	lemma = 'which'
+T43	pos_NN 234 245	conjugation
+#42	AnnotatorNotes T43	lemma = 'conjugation'
+T44	pos_DT 246 249	the
+#43	AnnotatorNotes T44	lemma = 'the'
+T45	pos_NN 250 254	verb
+#44	AnnotatorNotes T45	lemma = 'verb'
+T46	pos_VBZ 255 262	belongs
+#45	AnnotatorNotes T46	lemma = 'belong'
+T47	pos_TO 263 265	to
+#46	AnnotatorNotes T47	lemma = 'to'
+T48	pos_Fx 265 266	;
+#47	AnnotatorNotes T48	lemma = ';'
+T49	pos_JJ 267 268	c
+#48	AnnotatorNotes T49	lemma = 'c'
+T50	pos_Fpt 268 269	)
+#49	AnnotatorNotes T50	lemma = ')'
+T51	pos_VBG 270 284	reconstructing
+#50	AnnotatorNotes T51	lemma = 'reconstruct'
+T52	pos_DT 285 288	the
+#51	AnnotatorNotes T52	lemma = 'the'
+T53	pos_JJ 289 296	initial
+#52	AnnotatorNotes T53	lemma = 'initial'
+T54	pos_NNS 297 302	forms
+#53	AnnotatorNotes T54	lemma = 'form'
+T55	pos_IN 303 305	of
+#54	AnnotatorNotes T55	lemma = 'of'
+T56	pos_DT 306 309	the
+#55	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NNS 310 315	verbs
+#56	AnnotatorNotes T57	lemma = 'verb'
+T58	pos_Fp 315 316	.
+#57	AnnotatorNotes T58	lemma = '.'
+T59	pos_DT 317 320	The
+#58	AnnotatorNotes T59	lemma = 'the'
+T60	pos_NN 321 328	program
+#59	AnnotatorNotes T60	lemma = 'program'
+T61	pos_VBZ 329 334	takes
+#60	AnnotatorNotes T61	lemma = 'take'
+T62	pos_IN 335 339	into
+#61	AnnotatorNotes T62	lemma = 'into'
+T63	pos_NN 340 347	account
+#62	AnnotatorNotes T63	lemma = 'account'
+T64	pos_DT 348 351	all
+#63	AnnotatorNotes T64	lemma = 'all'
+T65	pos_JJ 352 360	possible
+#64	AnnotatorNotes T65	lemma = 'possible'
+T66	pos_VB 361 365	stem
+#65	AnnotatorNotes T66	lemma = 'stem'
+T67	pos_Fc 365 366	,
+#66	AnnotatorNotes T67	lemma = ','
+T68	pos_VB 367 373	prefix
+#67	AnnotatorNotes T68	lemma = 'prefix'
+T69	pos_CC 374 377	and
+#68	AnnotatorNotes T69	lemma = 'and'
+T70	pos_VB 378 384	suffix
+#69	AnnotatorNotes T70	lemma = 'suffix'
+T71	pos_NNS 385 392	changes
+#70	AnnotatorNotes T71	lemma = 'change'
+T72	pos_IN 393 395	of
+#71	AnnotatorNotes T72	lemma = 'of'
+T73	pos_DT 396 399	the
+#72	AnnotatorNotes T73	lemma = 'the'
+T74	pos_NP 400 412	Modern Greek
+#73	AnnotatorNotes T74	lemma = 'modern_greek'
+T75	pos_NNS 413 418	verbs
+#74	AnnotatorNotes T75	lemma = 'verb'
+T76	pos_CC 419 422	and
+#75	AnnotatorNotes T76	lemma = 'and'
+T77	pos_VBZ 423 431	contains
+#76	AnnotatorNotes T77	lemma = 'contain'
+T78	pos_DT 432 433	a
+#77	AnnotatorNotes T78	lemma = 'a'
+T79	pos_JJ 434 446	considerable
+#78	AnnotatorNotes T79	lemma = 'considerable'
+T80	pos_NN 447 453	amount
+#79	AnnotatorNotes T80	lemma = 'amount'
+T81	pos_IN 454 456	of
+#80	AnnotatorNotes T81	lemma = 'of'
+T82	pos_JJ 457 466	irregular
+#81	AnnotatorNotes T82	lemma = 'irregular'
+T83	pos_NNS 467 472	verbs
+#82	AnnotatorNotes T83	lemma = 'verb'
+T84	pos_Fp 472 473	.
+#83	AnnotatorNotes T84	lemma = '.'
+T85	pos_PDT 474 478	Such
+#84	AnnotatorNotes T85	lemma = 'such'
+T86	pos_DT 479 480	a
+#85	AnnotatorNotes T86	lemma = 'a'
+T87	pos_NN 481 488	program
+#86	AnnotatorNotes T87	lemma = 'program'
+T88	pos_VBZ 489 495	allows
+#87	AnnotatorNotes T88	lemma = 'allow'
+T89	pos_NN 496 499	one
+#88	AnnotatorNotes T89	lemma = 'one'
+T90	pos_TO 500 502	to
+#89	AnnotatorNotes T90	lemma = 'to'
+T91	pos_VB 503 507	mark
+#90	AnnotatorNotes T91	lemma = 'mark'
+T92	pos_RB 508 514	almost
+#91	AnnotatorNotes T92	lemma = 'almost'
+T93	pos_PDT 515 518	all
+#92	AnnotatorNotes T93	lemma = 'all'
+T94	pos_DT 519 522	the
+#93	AnnotatorNotes T94	lemma = 'the'
+T95	pos_NNS 523 528	verbs
+#94	AnnotatorNotes T95	lemma = 'verb'
+T96	pos_IN 529 531	in
+#95	AnnotatorNotes T96	lemma = 'in'
+T97	pos_DT 532 535	the
+#96	AnnotatorNotes T97	lemma = 'the'
+T98	pos_NP 536 548	Greek Corpus
+#97	AnnotatorNotes T98	lemma = 'greek_corpus'
+T99	pos_RB 550 563	automatically
+#98	AnnotatorNotes T99	lemma = 'automatically'
+T100	pos_Fc 563 564	,
+#99	AnnotatorNotes T100	lemma = ','
+T101	pos_RB 565 572	thereby
+#100	AnnotatorNotes T101	lemma = 'thereby'
+T102	pos_VBG 573 581	speeding
+#101	AnnotatorNotes T102	lemma = 'speed'
+T103	pos_RP 582 584	up
+#102	AnnotatorNotes T103	lemma = 'up'
+T104	pos_DT 585 588	the
+#103	AnnotatorNotes T104	lemma = 'the'
+T105	pos_NN 589 596	process
+#104	AnnotatorNotes T105	lemma = 'process'
+T106	pos_IN 597 599	of
+#105	AnnotatorNotes T106	lemma = 'of'
+T107	pos_VBG 600 607	marking
+#106	AnnotatorNotes T107	lemma = 'mark'
+T108	pos_CC 608 611	and
+#107	AnnotatorNotes T108	lemma = 'and'
+T109	pos_VBG 612 622	decreasing
+#108	AnnotatorNotes T109	lemma = 'decrease'
+T110	pos_DT 623 626	the
+#109	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NN 627 633	number
+#110	AnnotatorNotes T111	lemma = 'number'
+T112	pos_IN 634 636	of
+#111	AnnotatorNotes T112	lemma = 'of'
+T113	pos_NNS 637 645	mistakes
+#112	AnnotatorNotes T113	lemma = 'mistake'
+T114	pos_Fp 645 646	.
+#113	AnnotatorNotes T114	lemma = '.'

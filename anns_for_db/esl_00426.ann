@@ -1,0 +1,345 @@
+T1	lex_item_choice 55 61	actual
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+#1	AnnotatorNotes T1	modern
+T2	Discourse 238 259	"оканье" and "аканье"
+A3	Weight-language T2 Major
+#2	AnnotatorNotes T2	phonetic variants / accents / accent differences in vowels in Russian language
+T3	lex_item_choice 460 470	researches
+A4	Cause T3 Other
+A5	Weight-language T3 Major
+#3	AnnotatorNotes T3	studies
+T4	pos_DT 0 4	This
+#4	AnnotatorNotes T4	lemma = 'this'
+T5	pos_NN 5 11	course
+#5	AnnotatorNotes T5	lemma = 'course'
+T6	pos_NN 12 17	paper
+#6	AnnotatorNotes T6	lemma = 'paper'
+T7	pos_VBZ 18 26	explores
+#7	AnnotatorNotes T7	lemma = 'explore'
+T8	pos_RB 27 32	quite
+#8	AnnotatorNotes T8	lemma = 'quite'
+T9	pos_DT 33 34	a
+#9	AnnotatorNotes T9	lemma = 'a'
+T10	pos_JJ 35 43	relevant
+#10	AnnotatorNotes T10	lemma = 'relevant'
+T11	pos_NN 44 51	subject
+#11	AnnotatorNotes T11	lemma = 'subject'
+T12	pos_IN 52 54	of
+#12	AnnotatorNotes T12	lemma = 'of'
+T13	pos_JJ 55 61	actual
+#13	AnnotatorNotes T13	lemma = 'actual'
+T14	pos_NNS 62 78	sociolinguistics
+#14	AnnotatorNotes T14	lemma = 'sociolinguistics'
+T15	pos_PDT 79 83	such
+#15	AnnotatorNotes T15	lemma = 'such'
+T16	pos_IN 84 86	as
+#16	AnnotatorNotes T16	lemma = 'as'
+T17	pos_NN 87 98	interaction
+#17	AnnotatorNotes T17	lemma = 'interaction'
+T18	pos_IN 99 106	between
+#18	AnnotatorNotes T18	lemma = 'between'
+T19	pos_NN 107 114	dialect
+#19	AnnotatorNotes T19	lemma = 'dialect'
+T20	pos_CC 115 118	and
+#20	AnnotatorNotes T20	lemma = 'and'
+T21	pos_JJ 119 127	standard
+#21	AnnotatorNotes T21	lemma = 'standard'
+T22	pos_NN 128 136	language
+#22	AnnotatorNotes T22	lemma = 'language'
+T23	pos_Fp 136 137	.
+#23	AnnotatorNotes T23	lemma = '.'
+T24	pos_RB 138 151	In particular
+#24	AnnotatorNotes T24	lemma = 'in_particular'
+T25	pos_Fc 151 152	,
+#25	AnnotatorNotes T25	lemma = ','
+T26	pos_DT 153 157	this
+#26	AnnotatorNotes T26	lemma = 'this'
+T27	pos_NN 158 167	variation
+#27	AnnotatorNotes T27	lemma = 'variation'
+T28	pos_IN 168 175	between
+#28	AnnotatorNotes T28	lemma = 'between'
+T29	pos_NN 176 183	dialect
+#29	AnnotatorNotes T29	lemma = 'dialect'
+T30	pos_NNS 184 193	phenomena
+#30	AnnotatorNotes T30	lemma = 'phenomenon'
+T31	pos_CC 194 197	and
+#31	AnnotatorNotes T31	lemma = 'and'
+T32	pos_NNS 198 202	ones
+#32	AnnotatorNotes T32	lemma = 'one'
+T33	pos_IN 203 205	of
+#33	AnnotatorNotes T33	lemma = 'of'
+T34	pos_JJ 206 214	standard
+#34	AnnotatorNotes T34	lemma = 'standard'
+T35	pos_NN 215 223	language
+#35	AnnotatorNotes T35	lemma = 'language'
+T36	pos_Fpa 224 225	(
+#36	AnnotatorNotes T36	lemma = '('
+T37	pos_RB 225 236	for example
+#37	AnnotatorNotes T37	lemma = 'for_example'
+T38	pos_Fc 236 237	,
+#38	AnnotatorNotes T38	lemma = ','
+T39	pos_Fe 238 239	"
+#39	AnnotatorNotes T39	lemma = '"'
+T40	pos_JJ 239 245	оканье
+#40	AnnotatorNotes T40	lemma = 'оканье'
+T41	pos_Fe 245 246	"
+#41	AnnotatorNotes T41	lemma = '"'
+T42	pos_CC 247 250	and
+#42	AnnotatorNotes T42	lemma = 'and'
+T43	pos_Fe 251 252	"
+#43	AnnotatorNotes T43	lemma = '"'
+T44	pos_JJ 252 258	аканье
+#44	AnnotatorNotes T44	lemma = 'аканье'
+T45	pos_Fe 258 259	"
+#45	AnnotatorNotes T45	lemma = '"'
+T46	pos_Fpt 259 260	)
+#46	AnnotatorNotes T46	lemma = ')'
+T47	pos_VBZ 261 263	is
+#47	AnnotatorNotes T47	lemma = 'be'
+T48	pos_RB 264 274	distinctly
+#48	AnnotatorNotes T48	lemma = 'distinctly'
+T49	pos_VBN 275 283	observed
+#49	AnnotatorNotes T49	lemma = 'observe'
+T50	pos_IN 284 286	in
+#50	AnnotatorNotes T50	lemma = 'in'
+T51	pos_DT 287 290	the
+#51	AnnotatorNotes T51	lemma = 'the'
+T52	pos_NN 291 297	speech
+#52	AnnotatorNotes T52	lemma = 'speech'
+T53	pos_IN 298 300	of
+#53	AnnotatorNotes T53	lemma = 'of'
+T54	pos_DT 301 302	a
+#54	AnnotatorNotes T54	lemma = 'a'
+T55	pos_NN 303 307	city
+#55	AnnotatorNotes T55	lemma = 'city'
+T56	pos_Fp 307 308	.
+#56	AnnotatorNotes T56	lemma = '.'
+T57	pos_IN 309 311	In
+#57	AnnotatorNotes T57	lemma = 'in'
+T58	pos_DT 312 316	this
+#58	AnnotatorNotes T58	lemma = 'this'
+T59	pos_NN 317 323	course
+#59	AnnotatorNotes T59	lemma = 'course'
+T60	pos_NN 324 329	paper
+#60	AnnotatorNotes T60	lemma = 'paper'
+T61	pos_PRP 330 332	we
+#61	AnnotatorNotes T61	lemma = 'we'
+T62	pos_VBP 333 344	investigate
+#62	AnnotatorNotes T62	lemma = 'investigate'
+T63	pos_DT 345 348	the
+#63	AnnotatorNotes T63	lemma = 'the'
+T64	pos_NN 349 358	variation
+#64	AnnotatorNotes T64	lemma = 'variation'
+T65	pos_IN 359 366	between
+#65	AnnotatorNotes T65	lemma = 'between'
+T66	pos_NN 367 376	fricative
+#66	AnnotatorNotes T66	lemma = 'fricative'
+T67	pos_CC 377 380	and
+#67	AnnotatorNotes T67	lemma = 'and'
+T68	pos_JJ 381 390	explosive
+#68	AnnotatorNotes T68	lemma = 'explosive'
+T69	pos_NN 391 396	sound
+#69	AnnotatorNotes T69	lemma = 'sound'
+T70	pos_Fca 397 398	[
+#70	AnnotatorNotes T70	lemma = '['
+T71	pos_NN 398 399	g
+#71	AnnotatorNotes T71	lemma = 'g'
+T72	pos_Fct 399 400	]
+#72	AnnotatorNotes T72	lemma = ']'
+T73	pos_IN 401 403	in
+#73	AnnotatorNotes T73	lemma = 'in'
+T74	pos_DT 404 407	the
+#74	AnnotatorNotes T74	lemma = 'the'
+T75	pos_NN 408 414	speech
+#75	AnnotatorNotes T75	lemma = 'speech'
+T76	pos_IN 415 417	of
+#76	AnnotatorNotes T76	lemma = 'of'
+T77	pos_JJ 418 423	urban
+#77	AnnotatorNotes T77	lemma = 'urban'
+T78	pos_NN 424 434	population
+#78	AnnotatorNotes T78	lemma = 'population'
+T79	pos_IN 435 437	of
+#79	AnnotatorNotes T79	lemma = 'of'
+T80	pos_NP 438 442	Tula
+#80	AnnotatorNotes T80	lemma = 'tula'
+T81	pos_Fp 442 443	.
+#81	AnnotatorNotes T81	lemma = '.'
+T82	pos_IN 444 446	As
+#82	AnnotatorNotes T82	lemma = 'as'
+T83	pos_DT 447 450	all
+#83	AnnotatorNotes T83	lemma = 'all'
+T84	pos_JJ 451 459	previous
+#84	AnnotatorNotes T84	lemma = 'previous'
+T85	pos_VBZ 460 470	researches
+#85	AnnotatorNotes T85	lemma = 'research'
+T86	pos_VBD 471 475	were
+#86	AnnotatorNotes T86	lemma = 'be'
+T87	pos_VBN 476 483	carried
+#87	AnnotatorNotes T87	lemma = 'carry'
+T88	pos_RP 484 487	out
+#88	AnnotatorNotes T88	lemma = 'out'
+T89	pos_IN 488 490	in
+#89	AnnotatorNotes T89	lemma = 'in'
+T90	pos_DT 491 492	a
+#90	AnnotatorNotes T90	lemma = 'a'
+T91	pos_JJ 493 498	whole
+#91	AnnotatorNotes T91	lemma = 'whole'
+T92	pos_NN 499 505	region
+#92	AnnotatorNotes T92	lemma = 'region'
+T93	pos_CC 506 509	and
+#93	AnnotatorNotes T93	lemma = 'and'
+T94	pos_VBD 510 519	described
+#94	AnnotatorNotes T94	lemma = 'describe'
+T95	pos_DT 520 528	a lot of
+#95	AnnotatorNotes T95	lemma = 'a_lot_of'
+T96	pos_NNS 529 538	phenomena
+#96	AnnotatorNotes T96	lemma = 'phenomenon'
+T97	pos_Fc 538 539	,
+#97	AnnotatorNotes T97	lemma = ','
+T98	pos_IN 540 542	in
+#98	AnnotatorNotes T98	lemma = 'in'
+T99	pos_DT 543 547	this
+#99	AnnotatorNotes T99	lemma = 'this'
+T100	pos_NN 548 556	analysis
+#100	AnnotatorNotes T100	lemma = 'analysis'
+T101	pos_PRP 557 559	we
+#101	AnnotatorNotes T101	lemma = 'we'
+T102	pos_VBD 560 565	aimed
+#102	AnnotatorNotes T102	lemma = 'aim'
+T103	pos_TO 566 568	to
+#103	AnnotatorNotes T103	lemma = 'to'
+T104	pos_VB 569 574	focus
+#104	AnnotatorNotes T104	lemma = 'focus'
+T105	pos_IN 575 577	on
+#105	AnnotatorNotes T105	lemma = 'on'
+T106	pos_DT 578 581	the
+#106	AnnotatorNotes T106	lemma = 'the'
+T107	pos_NN 582 594	distribution
+#107	AnnotatorNotes T107	lemma = 'distribution'
+T108	pos_IN 595 597	of
+#108	AnnotatorNotes T108	lemma = 'of'
+T109	pos_DT 598 601	one
+#109	AnnotatorNotes T109	lemma = 'one'
+T110	pos_JJ 602 610	specific
+#110	AnnotatorNotes T110	lemma = 'specific'
+T111	pos_NN 611 621	phenomenon
+#111	AnnotatorNotes T111	lemma = 'phenomenon'
+T112	pos_IN 622 624	in
+#112	AnnotatorNotes T112	lemma = 'in'
+T113	pos_DT 625 626	a
+#113	AnnotatorNotes T113	lemma = 'a'
+T114	pos_NN 627 631	city
+#114	AnnotatorNotes T114	lemma = 'city'
+T115	pos_Fp 631 632	.
+#115	AnnotatorNotes T115	lemma = '.'
+T116	pos_Z 633 636	Two
+#116	AnnotatorNotes T116	lemma = '2'
+T117	pos_NNS 637 647	objectives
+#117	AnnotatorNotes T117	lemma = 'objective'
+T118	pos_WDT 648 653	which
+#118	AnnotatorNotes T118	lemma = 'which'
+T119	pos_PRP 654 656	we
+#119	AnnotatorNotes T119	lemma = 'we'
+T120	pos_VBD 657 664	aspired
+#120	AnnotatorNotes T120	lemma = 'aspire'
+T121	pos_TO 665 667	to
+#121	AnnotatorNotes T121	lemma = 'to'
+T122	pos_VB 668 675	achieve
+#122	AnnotatorNotes T122	lemma = 'achieve'
+T123	pos_VBD 676 680	were
+#123	AnnotatorNotes T123	lemma = 'be'
+T124	pos_TO 681 683	to
+#124	AnnotatorNotes T124	lemma = 'to'
+T125	pos_VB 684 693	establish
+#125	AnnotatorNotes T125	lemma = 'establish'
+T126	pos_DT 694 697	the
+#126	AnnotatorNotes T126	lemma = 'the'
+T127	pos_NN 698 704	extent
+#127	AnnotatorNotes T127	lemma = 'extent'
+T128	pos_IN 705 707	of
+#128	AnnotatorNotes T128	lemma = 'of'
+T129	pos_NN 708 716	presence
+#129	AnnotatorNotes T129	lemma = 'presence'
+T130	pos_IN 717 719	of
+#130	AnnotatorNotes T130	lemma = 'of'
+T131	pos_DT 720 723	the
+#131	AnnotatorNotes T131	lemma = 'the'
+T132	pos_NN 724 733	fricative
+#132	AnnotatorNotes T132	lemma = 'fricative'
+T133	pos_NN 734 739	sound
+#133	AnnotatorNotes T133	lemma = 'sound'
+T134	pos_Fca 740 741	[
+#134	AnnotatorNotes T134	lemma = '['
+T135	pos_NN 741 742	g
+#135	AnnotatorNotes T135	lemma = 'g'
+T136	pos_Fct 742 743	]
+#136	AnnotatorNotes T136	lemma = ']'
+T137	pos_IN 744 746	in
+#137	AnnotatorNotes T137	lemma = 'in'
+T138	pos_DT 747 750	the
+#138	AnnotatorNotes T138	lemma = 'the'
+T139	pos_NN 751 757	speech
+#139	AnnotatorNotes T139	lemma = 'speech'
+T140	pos_IN 758 760	of
+#140	AnnotatorNotes T140	lemma = 'of'
+T141	pos_DT 761 764	the
+#141	AnnotatorNotes T141	lemma = 'the'
+T142	pos_NN 765 769	city
+#142	AnnotatorNotes T142	lemma = 'city'
+T143	pos_Fpa 770 771	(
+#143	AnnotatorNotes T143	lemma = '('
+T144	pos_VBG 771 776	doing
+#144	AnnotatorNotes T144	lemma = 'do'
+T145	pos_NN 777 784	percent
+#145	AnnotatorNotes T145	lemma = 'percent'
+T146	pos_NN 785 796	calculation
+#146	AnnotatorNotes T146	lemma = 'calculation'
+T147	pos_Fpt 796 797	)
+#147	AnnotatorNotes T147	lemma = ')'
+T148	pos_Fx 797 798	;
+#148	AnnotatorNotes T148	lemma = ';'
+T149	pos_CC 799 802	and
+#149	AnnotatorNotes T149	lemma = 'and'
+T150	pos_TO 803 805	to
+#150	AnnotatorNotes T150	lemma = 'to'
+T151	pos_VB 806 813	analyze
+#151	AnnotatorNotes T151	lemma = 'analyze'
+T152	pos_NNS 814 821	factors
+#152	AnnotatorNotes T152	lemma = 'factor'
+T153	pos_WDT 822 827	which
+#153	AnnotatorNotes T153	lemma = 'which'
+T154	pos_MD 828 831	can
+#154	AnnotatorNotes T154	lemma = 'can'
+T155	pos_VB 832 841	influence
+#155	AnnotatorNotes T155	lemma = 'influence'
+T156	pos_DT 842 845	the
+#156	AnnotatorNotes T156	lemma = 'the'
+T157	pos_NN 846 852	speech
+#157	AnnotatorNotes T157	lemma = 'speech'
+T158	pos_Fc 852 853	,
+#158	AnnotatorNotes T158	lemma = ','
+T159	pos_PDT 854 858	such
+#159	AnnotatorNotes T159	lemma = 'such'
+T160	pos_IN 859 861	as
+#160	AnnotatorNotes T160	lemma = 'as'
+T161	pos_JJ 862 868	social
+#161	AnnotatorNotes T161	lemma = 'social'
+T162	pos_NN 869 874	class
+#162	AnnotatorNotes T162	lemma = 'class'
+T163	pos_Fc 874 875	,
+#163	AnnotatorNotes T163	lemma = ','
+T164	pos_NN 876 885	education
+#164	AnnotatorNotes T164	lemma = 'education'
+T165	pos_Fc 885 886	,
+#165	AnnotatorNotes T165	lemma = ','
+T166	pos_NN 887 892	place
+#166	AnnotatorNotes T166	lemma = 'place'
+T167	pos_IN 893 895	of
+#167	AnnotatorNotes T167	lemma = 'of'
+T168	pos_NN 896 901	birth
+#168	AnnotatorNotes T168	lemma = 'birth'
+T169	pos_NN 902 905	etc
+#169	AnnotatorNotes T169	lemma = 'etc'
+T170	pos_Fp 905 906	.
+#170	AnnotatorNotes T170	lemma = '.'

@@ -1,0 +1,850 @@
+T1	suggestion 414 425	than it was
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+A4	Delete T1
+T2	Attributes 651 666	everything that
+A5	Cause T2 Other
+A6	Weight-language T2 Minor
+A7	Weight-understanding T2 Minor
+#1	AnnotatorNotes T2	what
+T3	Punctuation 946 947	r
+A8	Cause T3 Typo
+A9	Weight-language T3 Minor
+A10	Weight-understanding T3 Minor
+#2	AnnotatorNotes T3	,
+T4	lex_item_choice 1346 1351	girls
+A11	Cause T4 Other
+A12	Weight-language T4 Minor
+A13	Weight-understanding T4 Minor
+#3	AnnotatorNotes T4	women
+T5	Voice_form 1352 1354	is
+A14	Cause T5 Other
+A15	Weight-language T5 Critical
+A16	Weight-understanding T5 Minor
+#4	AnnotatorNotes T5	are
+T6	Nouns 1379 1386	schools
+A17	Cause T6 Other
+A18	Weight-language T6 Minor
+A19	Weight-understanding T6 Minor
+#5	AnnotatorNotes T6	school
+T7	Punctuation 1508 1509	,
+A20	Cause T7 Other
+A21	Weight-language T7 Minor
+A22	Weight-understanding T7 Minor
+A23	Delete T7
+T8	Prepositional_noun 1539 1549	privileges
+A24	Cause T8 Other
+A25	Weight-language T8 Minor
+A26	Weight-understanding T8 Minor
+#6	AnnotatorNotes T8	privileges of
+T9	note 1519 1534	is not striving
+A27	Cause T9 Other
+A28	Weight-language T9 Minor
+A29	Weight-understanding T9 Minor
+#7	AnnotatorNotes T9	Continious?
+T10	Punctuation 1744 1745	r
+A30	Cause T10 Typo
+A31	Weight-language T10 Minor
+A32	Weight-understanding T10 Minor
+#8	AnnotatorNotes T10	,
+T11	Defining 1782 1787	which
+A33	Cause T11 Other
+A34	Weight-language T11 Minor
+A35	Weight-understanding T11 Minor
+#9	AnnotatorNotes T11	who
+T12	Punctuation 1823 1824	,
+A36	Cause T12 L1_interference
+A37	Weight-language T12 Minor
+A38	Weight-understanding T12 Minor
+A39	Delete T12
+T13	Word_choice 1889 1907	work on scientific
+A40	Cause T13 Other
+A41	Weight-language T13 Minor
+A42	Weight-understanding T13 Minor
+#10	AnnotatorNotes T13	do research
+T14	pos_JJ 0 8	Feminist
+#11	AnnotatorNotes T14	lemma = 'feminist'
+T15	pos_NN 9 17	movement
+#12	AnnotatorNotes T15	lemma = 'movement'
+T16	pos_DT 18 21	The
+#13	AnnotatorNotes T16	lemma = 'the'
+T17	pos_NN 22 30	ideology
+#14	AnnotatorNotes T17	lemma = 'ideology'
+T18	pos_IN 31 36	about
+#15	AnnotatorNotes T18	lemma = 'about'
+T19	pos_NN 37 47	inequality
+#16	AnnotatorNotes T19	lemma = 'inequality'
+T20	pos_IN 48 50	of
+#17	AnnotatorNotes T20	lemma = 'of'
+T21	pos_NNS 51 57	rights
+#18	AnnotatorNotes T21	lemma = 'right'
+T22	pos_IN 58 65	between
+#19	AnnotatorNotes T22	lemma = 'between'
+T23	pos_NNS 66 69	men
+#20	AnnotatorNotes T23	lemma = 'man'
+T24	pos_CC 70 73	and
+#21	AnnotatorNotes T24	lemma = 'and'
+T25	pos_NNS 74 79	women
+#22	AnnotatorNotes T25	lemma = 'woman'
+T26	pos_VBD 80 83	was
+#23	AnnotatorNotes T26	lemma = 'be'
+T27	pos_VBN 84 88	born
+#24	AnnotatorNotes T27	lemma = 'bear'
+T28	pos_IN 89 91	in
+#25	AnnotatorNotes T28	lemma = 'in'
+T29	pos_DT 92 95	the
+#26	AnnotatorNotes T29	lemma = 'the'
+T30	pos_JJ 96 100	18th
+#27	AnnotatorNotes T30	lemma = '18'
+T31	pos_NN 101 108	century
+#28	AnnotatorNotes T31	lemma = 'century'
+T32	pos_IN 109 111	in
+#29	AnnotatorNotes T32	lemma = 'in'
+T33	pos_NP 112 118	France
+#30	AnnotatorNotes T33	lemma = 'france'
+T34	pos_Fp 118 119	.
+#31	AnnotatorNotes T34	lemma = '.'
+T35	pos_IN 121 126	Since
+#32	AnnotatorNotes T35	lemma = 'since'
+T36	pos_RB 127 131	then
+#33	AnnotatorNotes T36	lemma = 'then'
+T37	pos_DT 132 135	the
+#34	AnnotatorNotes T37	lemma = 'the'
+T38	pos_NN 136 142	debate
+#35	AnnotatorNotes T38	lemma = 'debate'
+T39	pos_IN 143 148	about
+#36	AnnotatorNotes T39	lemma = 'about'
+T40	pos_DT 149 153	this
+#37	AnnotatorNotes T40	lemma = 'this'
+T41	pos_VBZ 154 157	has
+#38	AnnotatorNotes T41	lemma = 'have'
+T42	pos_RB 158 161	not
+#39	AnnotatorNotes T42	lemma = 'not'
+T43	pos_VBN 162 169	stopped
+#40	AnnotatorNotes T43	lemma = 'stop'
+T44	pos_Fp 169 170	.
+#41	AnnotatorNotes T44	lemma = '.'
+T45	pos_NNS 171 186	Representatives
+#42	AnnotatorNotes T45	lemma = 'representative'
+T46	pos_IN 187 189	of
+#43	AnnotatorNotes T46	lemma = 'of'
+T47	pos_NN 190 198	feminism
+#44	AnnotatorNotes T47	lemma = 'feminism'
+T48	pos_NN 199 204	claim
+#45	AnnotatorNotes T48	lemma = 'claim'
+T49	pos_IN 205 209	that
+#46	AnnotatorNotes T49	lemma = 'that'
+T50	pos_NNS 210 215	women
+#47	AnnotatorNotes T50	lemma = 'woman'
+T51	pos_VBP 216 220	have
+#48	AnnotatorNotes T51	lemma = 'have'
+T52	pos_DT 221 224	all
+#49	AnnotatorNotes T52	lemma = 'all'
+T53	pos_NNS 225 231	rights
+#50	AnnotatorNotes T53	lemma = 'right'
+T54	pos_RB 232 238	in all
+#51	AnnotatorNotes T54	lemma = 'in_all'
+T55	pos_NNS 239 246	spheres
+#52	AnnotatorNotes T55	lemma = 'sphere'
+T56	pos_IN 247 249	of
+#53	AnnotatorNotes T56	lemma = 'of'
+T57	pos_NN 250 257	society
+#54	AnnotatorNotes T57	lemma = 'society'
+T58	pos_IN 258 262	like
+#55	AnnotatorNotes T58	lemma = 'like'
+T59	pos_NNS 263 266	men
+#56	AnnotatorNotes T59	lemma = 'man'
+T60	pos_Fp 266 267	.
+#57	AnnotatorNotes T60	lemma = '.'
+T61	pos_EX 268 273	There
+#58	AnnotatorNotes T61	lemma = 'there'
+T62	pos_VBP 274 277	are
+#59	AnnotatorNotes T62	lemma = 'be'
+T63	pos_DT 278 286	a lot of
+#60	AnnotatorNotes T63	lemma = 'a_lot_of'
+T64	pos_JJ 287 296	different
+#61	AnnotatorNotes T64	lemma = 'different'
+T65	pos_NNS 297 306	varieties
+#62	AnnotatorNotes T65	lemma = 'variety'
+T66	pos_IN 307 309	in
+#63	AnnotatorNotes T66	lemma = 'in'
+T67	pos_DT 310 314	this
+#64	AnnotatorNotes T67	lemma = 'this'
+T68	pos_NN 315 323	movement
+#65	AnnotatorNotes T68	lemma = 'movement'
+T69	pos_CC 324 327	and
+#66	AnnotatorNotes T69	lemma = 'and'
+T70	pos_DT 328 332	each
+#67	AnnotatorNotes T70	lemma = 'each'
+T71	pos_NN 333 339	course
+#68	AnnotatorNotes T71	lemma = 'course'
+T72	pos_MD 340 343	may
+#69	AnnotatorNotes T72	lemma = 'may'
+T73	pos_VB 344 348	have
+#70	AnnotatorNotes T73	lemma = 'have'
+T74	pos_JJ 349 352	own
+#71	AnnotatorNotes T74	lemma = 'own'
+T75	pos_NNS 353 362	functions
+#72	AnnotatorNotes T75	lemma = 'function'
+T76	pos_Fp 362 363	.
+#73	AnnotatorNotes T76	lemma = '.'
+T77	pos_IN 364 366	At
+#74	AnnotatorNotes T77	lemma = 'at'
+T78	pos_DT 367 370	the
+#75	AnnotatorNotes T78	lemma = 'the'
+T79	pos_NN 371 374	end
+#76	AnnotatorNotes T79	lemma = 'end'
+T80	pos_IN 375 377	of
+#77	AnnotatorNotes T80	lemma = 'of'
+T81	pos_Z 378 384	70-ies
+#78	AnnotatorNotes T81	lemma = '70-ies'
+T82	pos_NN 385 393	feminism
+#79	AnnotatorNotes T82	lemma = 'feminism'
+T83	pos_VBD 394 400	became
+#80	AnnotatorNotes T83	lemma = 'become'
+T84	pos_RBR 401 405	more
+#81	AnnotatorNotes T84	lemma = 'many'
+T85	pos_JJ 406 413	popular
+#82	AnnotatorNotes T85	lemma = 'popular'
+T86	pos_IN 414 418	than
+#83	AnnotatorNotes T86	lemma = 'than'
+T87	pos_PRP 419 421	it
+#84	AnnotatorNotes T87	lemma = 'it'
+T88	pos_VBD 422 425	was
+#85	AnnotatorNotes T88	lemma = 'be'
+T89	pos_Fc 425 426	,
+#86	AnnotatorNotes T89	lemma = ','
+T90	pos_CC 427 430	and
+#87	AnnotatorNotes T90	lemma = 'and'
+T91	pos_PRP 431 435	many
+#88	AnnotatorNotes T91	lemma = 'many'
+T92	pos_VBZ 436 445	stampedes
+#89	AnnotatorNotes T92	lemma = 'stampede'
+T93	pos_VBD 446 450	were
+#90	AnnotatorNotes T93	lemma = 'be'
+T94	pos_VBN 451 455	held
+#91	AnnotatorNotes T94	lemma = 'hold'
+T95	pos_Fp 455 456	.
+#92	AnnotatorNotes T95	lemma = '.'
+T96	pos_PRP 457 461	Many
+#93	AnnotatorNotes T96	lemma = 'many'
+T97	pos_NNS 462 468	people
+#94	AnnotatorNotes T97	lemma = 'people'
+T98	pos_VBP 469 476	believe
+#95	AnnotatorNotes T98	lemma = 'believe'
+T99	pos_IN 477 481	that
+#96	AnnotatorNotes T99	lemma = 'that'
+T100	pos_DT 482 485	all
+#97	AnnotatorNotes T100	lemma = 'all'
+T101	pos_NNS 486 495	feminists
+#98	AnnotatorNotes T101	lemma = 'feminist'
+T102	pos_VBP 496 499	are
+#99	AnnotatorNotes T102	lemma = 'be'
+T103	pos_JJ 500 507	radical
+#100	AnnotatorNotes T103	lemma = 'radical'
+T104	pos_NNS 508 513	women
+#101	AnnotatorNotes T104	lemma = 'woman'
+T105	pos_WP 514 517	who
+#102	AnnotatorNotes T105	lemma = 'who'
+T106	pos_VBP 518 522	hate
+#103	AnnotatorNotes T106	lemma = 'hate'
+T107	pos_NNS 523 526	men
+#104	AnnotatorNotes T107	lemma = 'man'
+T108	pos_Fc 526 527	,
+#105	AnnotatorNotes T108	lemma = ','
+T109	pos_NNS 528 536	families
+#106	AnnotatorNotes T109	lemma = 'family'
+T110	pos_Fc 536 537	,
+#107	AnnotatorNotes T110	lemma = ','
+T111	pos_NNS 538 546	children
+#108	AnnotatorNotes T111	lemma = 'child'
+T112	pos_CC 547 550	and
+#109	AnnotatorNotes T112	lemma = 'and'
+T113	pos_NN 551 558	society
+#110	AnnotatorNotes T113	lemma = 'society'
+T114	pos_IN 559 561	in
+#111	AnnotatorNotes T114	lemma = 'in'
+T115	pos_JJ 562 569	general
+#112	AnnotatorNotes T115	lemma = 'general'
+T116	pos_Fp 569 570	.
+#113	AnnotatorNotes T116	lemma = '.'
+T117	pos_DT 571 575	This
+#114	AnnotatorNotes T117	lemma = 'this'
+T118	pos_NN 576 587	perspective
+#115	AnnotatorNotes T118	lemma = 'perspective'
+T119	pos_VBZ 588 590	is
+#116	AnnotatorNotes T119	lemma = 'be'
+T120	pos_VBN 591 597	seemed
+#117	AnnotatorNotes T120	lemma = 'seem'
+T121	pos_TO 598 600	to
+#118	AnnotatorNotes T121	lemma = 'to'
+T122	pos_VB 601 603	be
+#119	AnnotatorNotes T122	lemma = 'be'
+T123	pos_RB 604 607	far
+#120	AnnotatorNotes T123	lemma = 'far'
+T124	pos_IN 608 612	from
+#121	AnnotatorNotes T124	lemma = 'from'
+T125	pos_DT 613 616	the
+#122	AnnotatorNotes T125	lemma = 'the'
+T126	pos_NN 617 622	truth
+#123	AnnotatorNotes T126	lemma = 'truth'
+T127	pos_Fp 622 623	.
+#124	AnnotatorNotes T127	lemma = '.'
+T128	pos_JJ 624 629	Equal
+#125	AnnotatorNotes T128	lemma = 'equal'
+T129	pos_NNS 630 636	rights
+#126	AnnotatorNotes T129	lemma = 'right'
+T130	pos_IN 637 640	for
+#127	AnnotatorNotes T130	lemma = 'for'
+T131	pos_NNS 641 646	women
+#128	AnnotatorNotes T131	lemma = 'woman'
+T132	pos_VBP 647 650	are
+#129	AnnotatorNotes T132	lemma = 'be'
+T133	pos_PRP 651 661	everything
+#130	AnnotatorNotes T133	lemma = 'everything'
+T134	pos_IN 662 666	that
+#131	AnnotatorNotes T134	lemma = 'that'
+T135	pos_JJ 667 675	feminist
+#132	AnnotatorNotes T135	lemma = 'feminist'
+T136	pos_NN 676 684	movement
+#133	AnnotatorNotes T136	lemma = 'movement'
+T137	pos_NNS 685 692	demands
+#134	AnnotatorNotes T137	lemma = 'demand'
+T138	pos_Fp 692 693	.
+#135	AnnotatorNotes T138	lemma = '.'
+T139	pos_PRP 694 696	We
+#136	AnnotatorNotes T139	lemma = 'we'
+T140	pos_MD 697 700	can
+#137	AnnotatorNotes T140	lemma = 'can'
+T141	pos_VB 701 707	define
+#138	AnnotatorNotes T141	lemma = 'define'
+T142	pos_NN 708 716	feminism
+#139	AnnotatorNotes T142	lemma = 'feminism'
+T143	pos_IN 717 719	in
+#140	AnnotatorNotes T143	lemma = 'in'
+T144	pos_JJ 720 729	different
+#141	AnnotatorNotes T144	lemma = 'different'
+T145	pos_NNS 730 734	ways
+#142	AnnotatorNotes T145	lemma = 'way'
+T146	pos_Fc 734 735	,
+#143	AnnotatorNotes T146	lemma = ','
+T147	pos_CC 736 739	but
+#144	AnnotatorNotes T147	lemma = 'but'
+T148	pos_IN 740 742	in
+#145	AnnotatorNotes T148	lemma = 'in'
+T149	pos_NN 743 747	fact
+#146	AnnotatorNotes T149	lemma = 'fact'
+T150	pos_Fc 747 748	,
+#147	AnnotatorNotes T150	lemma = ','
+T151	pos_PRP 749 751	it
+#148	AnnotatorNotes T151	lemma = 'it'
+T152	pos_VBZ 752 754	is
+#149	AnnotatorNotes T152	lemma = 'be'
+T153	pos_NN 755 760	fight
+#150	AnnotatorNotes T153	lemma = 'fight'
+T154	pos_IN 761 764	for
+#151	AnnotatorNotes T154	lemma = 'for'
+T155	pos_DT 765 768	the
+#152	AnnotatorNotes T155	lemma = 'the'
+T156	pos_NN 769 777	equality
+#153	AnnotatorNotes T156	lemma = 'equality'
+T157	pos_Fc 777 778	,
+#154	AnnotatorNotes T157	lemma = ','
+T158	pos_RB 779 782	now
+#155	AnnotatorNotes T158	lemma = 'now'
+T159	pos_PRP 783 785	we
+#156	AnnotatorNotes T159	lemma = 'we'
+T160	pos_VBP 786 791	don't
+#157	AnnotatorNotes T160	lemma = 'do'
+T161	pos_RB 786 791	don't
+#158	AnnotatorNotes T161	lemma = 'not'
+T162	pos_VB 792 796	need
+#159	AnnotatorNotes T162	lemma = 'need'
+T163	pos_TO 797 799	to
+#160	AnnotatorNotes T163	lemma = 'to'
+T164	pos_VB 800 807	explain
+#161	AnnotatorNotes T164	lemma = 'explain'
+T165	pos_WP 808 812	what
+#162	AnnotatorNotes T165	lemma = 'what'
+T166	pos_PRP 813 815	it
+#163	AnnotatorNotes T166	lemma = 'it'
+T167	pos_RB 816 822	really
+#164	AnnotatorNotes T167	lemma = 'really'
+T168	pos_VBZ 823 828	means
+#165	AnnotatorNotes T168	lemma = 'mean'
+T169	pos_Fc 828 829	,
+#166	AnnotatorNotes T169	lemma = ','
+T170	pos_NN 830 838	everyone
+#167	AnnotatorNotes T170	lemma = 'everyone'
+T171	pos_VBZ 839 850	understands
+#168	AnnotatorNotes T171	lemma = 'understand'
+T172	pos_PRP 851 853	it
+#169	AnnotatorNotes T172	lemma = 'it'
+T173	pos_Fp 853 854	.
+#170	AnnotatorNotes T173	lemma = '.'
+T174	pos_PRP 855 859	Many
+#171	AnnotatorNotes T174	lemma = 'many'
+T175	pos_NNS 860 866	people
+#172	AnnotatorNotes T175	lemma = 'people'
+T176	pos_VBP 867 874	believe
+#173	AnnotatorNotes T176	lemma = 'believe'
+T177	pos_DT 875 879	that
+#174	AnnotatorNotes T177	lemma = 'that'
+T178	pos_NN 880 888	feminism
+#175	AnnotatorNotes T178	lemma = 'feminism'
+T179	pos_VBZ 889 892	has
+#176	AnnotatorNotes T179	lemma = 'have'
+T180	pos_VBN 893 897	lost
+#177	AnnotatorNotes T180	lemma = 'lose'
+T181	pos_DT 898 901	the
+#178	AnnotatorNotes T181	lemma = 'the'
+T182	pos_NN 902 911	relevance
+#179	AnnotatorNotes T182	lemma = 'relevance'
+T183	pos_CC 912 915	and
+#180	AnnotatorNotes T183	lemma = 'and'
+T184	pos_PRP 916 918	it
+#181	AnnotatorNotes T184	lemma = 'it'
+T185	pos_VBZ 919 921	is
+#182	AnnotatorNotes T185	lemma = 'be'
+T186	pos_RB 922 926	just
+#183	AnnotatorNotes T186	lemma = 'just'
+T187	pos_IN 927 929	in
+#184	AnnotatorNotes T187	lemma = 'in'
+T188	pos_DT 930 933	the
+#185	AnnotatorNotes T188	lemma = 'the'
+T189	pos_NN 934 938	past
+#186	AnnotatorNotes T189	lemma = 'past'
+T190	pos_Fp 938 939	.
+#187	AnnotatorNotes T190	lemma = '.'
+T191	pos_RB 940 947	However
+#188	AnnotatorNotes T191	lemma = 'however'
+T192	pos_EX 948 953	there
+#189	AnnotatorNotes T192	lemma = 'there'
+T193	pos_VBP 954 957	are
+#190	AnnotatorNotes T193	lemma = 'be'
+T194	pos_DT 958 966	a lot of
+#191	AnnotatorNotes T194	lemma = 'a_lot_of'
+T195	pos_NNS 967 976	incidents
+#192	AnnotatorNotes T195	lemma = 'incident'
+T196	pos_WRB 977 981	when
+#193	AnnotatorNotes T196	lemma = 'when'
+T197	pos_NNS 982 987	women
+#194	AnnotatorNotes T197	lemma = 'woman'
+T198	pos_VBP 988 992	feel
+#195	AnnotatorNotes T198	lemma = 'feel'
+T199	pos_DT 993 996	the
+#196	AnnotatorNotes T199	lemma = 'the'
+T200	pos_NN 997 1007	impediment
+#197	AnnotatorNotes T200	lemma = 'impediment'
+T201	pos_IN 1008 1010	in
+#198	AnnotatorNotes T201	lemma = 'in'
+T202	pos_DT 1011 1014	the
+#199	AnnotatorNotes T202	lemma = 'the'
+T203	pos_NN 1015 1021	career
+#200	AnnotatorNotes T203	lemma = 'career'
+T204	pos_NN 1022 1028	growth
+#201	AnnotatorNotes T204	lemma = 'growth'
+T205	pos_Fp 1028 1029	.
+#202	AnnotatorNotes T205	lemma = '.'
+T206	pos_PRP 1030 1034	Many
+#203	AnnotatorNotes T206	lemma = 'many'
+T207	pos_NNS 1035 1044	feminists
+#204	AnnotatorNotes T207	lemma = 'feminist'
+T208	pos_VBP 1045 1053	consider
+#205	AnnotatorNotes T208	lemma = 'consider'
+T209	pos_DT 1054 1058	that
+#206	AnnotatorNotes T209	lemma = 'that'
+T210	pos_NN 1059 1073	discrimination
+#207	AnnotatorNotes T210	lemma = 'discrimination'
+T211	pos_IN 1074 1081	against
+#208	AnnotatorNotes T211	lemma = 'against'
+T212	pos_NNS 1082 1087	women
+#209	AnnotatorNotes T212	lemma = 'woman'
+T213	pos_RB 1088 1093	still
+#210	AnnotatorNotes T213	lemma = 'still'
+T214	pos_VBZ 1094 1100	exists
+#211	AnnotatorNotes T214	lemma = 'exist'
+T215	pos_IN 1101 1103	in
+#212	AnnotatorNotes T215	lemma = 'in'
+T216	pos_DT 1104 1107	the
+#213	AnnotatorNotes T216	lemma = 'the'
+T217	pos_NNS 1108 1117	countries
+#214	AnnotatorNotes T217	lemma = 'country'
+T218	pos_IN 1118 1120	of
+#215	AnnotatorNotes T218	lemma = 'of'
+T219	pos_NP 1121 1127	Europe
+#216	AnnotatorNotes T219	lemma = 'europe'
+T220	pos_CC 1128 1131	and
+#217	AnnotatorNotes T220	lemma = 'and'
+T221	pos_NP 1132 1145	North America
+#218	AnnotatorNotes T221	lemma = 'north_america'
+T222	pos_Fc 1145 1146	,
+#219	AnnotatorNotes T222	lemma = ','
+T223	pos_RB 1147 1154	as well
+#220	AnnotatorNotes T223	lemma = 'as_well'
+T224	pos_IN 1155 1157	as
+#221	AnnotatorNotes T224	lemma = 'as'
+T225	pos_RB 1158 1164	in all
+#222	AnnotatorNotes T225	lemma = 'in_all'
+T226	pos_JJ 1165 1170	other
+#223	AnnotatorNotes T226	lemma = 'other'
+T227	pos_NNS 1171 1180	countries
+#224	AnnotatorNotes T227	lemma = 'country'
+T228	pos_IN 1181 1183	of
+#225	AnnotatorNotes T228	lemma = 'of'
+T229	pos_DT 1184 1187	the
+#226	AnnotatorNotes T229	lemma = 'the'
+T230	pos_NN 1188 1193	world
+#227	AnnotatorNotes T230	lemma = 'world'
+T231	pos_Fp 1193 1194	.
+#228	AnnotatorNotes T231	lemma = '.'
+T232	pos_CC 1195 1198	But
+#229	AnnotatorNotes T232	lemma = 'but'
+T233	pos_NN 1199 1207	feminism
+#230	AnnotatorNotes T233	lemma = 'feminism'
+T234	pos_IN 1208 1210	as
+#231	AnnotatorNotes T234	lemma = 'as'
+T235	pos_DT 1211 1212	a
+#232	AnnotatorNotes T235	lemma = 'a'
+T236	pos_NN 1213 1221	movement
+#233	AnnotatorNotes T236	lemma = 'movement'
+T237	pos_VBZ 1222 1225	has
+#234	AnnotatorNotes T237	lemma = 'have'
+T238	pos_RB 1226 1233	already
+#235	AnnotatorNotes T238	lemma = 'already'
+T239	pos_VBN 1234 1238	lost
+#236	AnnotatorNotes T239	lemma = 'lose'
+T240	pos_PRP2 1239 1242	its
+#237	AnnotatorNotes T240	lemma = 'its'
+T241	pos_NN 1243 1248	speed
+#238	AnnotatorNotes T241	lemma = 'speed'
+T242	pos_Fp 1248 1249	.
+#239	AnnotatorNotes T242	lemma = '.'
+T243	pos_RB 1250 1258	Nowadays
+#240	AnnotatorNotes T243	lemma = 'nowadays'
+T244	pos_Fc 1258 1259	,
+#241	AnnotatorNotes T244	lemma = ','
+T245	pos_DT 1260 1264	this
+#242	AnnotatorNotes T245	lemma = 'this'
+T246	pos_NN 1265 1273	movement
+#243	AnnotatorNotes T246	lemma = 'movement'
+T247	pos_VBZ 1274 1279	plays
+#244	AnnotatorNotes T247	lemma = 'play'
+T248	pos_DT 1280 1282	an
+#245	AnnotatorNotes T248	lemma = 'a'
+T249	pos_JJ 1283 1292	important
+#246	AnnotatorNotes T249	lemma = 'important'
+T250	pos_NN 1293 1297	role
+#247	AnnotatorNotes T250	lemma = 'role'
+T251	pos_IN 1298 1300	in
+#248	AnnotatorNotes T251	lemma = 'in'
+T252	pos_PRP2 1301 1304	our
+#249	AnnotatorNotes T252	lemma = 'our'
+T253	pos_NNS 1305 1310	lives
+#250	AnnotatorNotes T253	lemma = 'life'
+T254	pos_Fp 1310 1311	.
+#251	AnnotatorNotes T254	lemma = '.'
+T255	pos_MD 1312 1315	Can
+#252	AnnotatorNotes T255	lemma = 'can'
+T256	pos_PRP 1316 1319	you
+#253	AnnotatorNotes T256	lemma = 'you'
+T257	pos_VB 1320 1327	imagine
+#254	AnnotatorNotes T257	lemma = 'imagine'
+T258	pos_IN 1328 1332	that
+#255	AnnotatorNotes T258	lemma = 'that'
+T259	pos_IN 1333 1335	in
+#256	AnnotatorNotes T259	lemma = 'in'
+T260	pos_PRP2 1336 1339	our
+#257	AnnotatorNotes T260	lemma = 'our'
+T261	pos_NN 1340 1345	world
+#258	AnnotatorNotes T261	lemma = 'world'
+T262	pos_NNS 1346 1351	girls
+#259	AnnotatorNotes T262	lemma = 'girl'
+T263	pos_VBZ 1352 1354	is
+#260	AnnotatorNotes T263	lemma = 'be'
+T264	pos_RB 1355 1358	not
+#261	AnnotatorNotes T264	lemma = 'not'
+T265	pos_VBN 1359 1366	allowed
+#262	AnnotatorNotes T265	lemma = 'allow'
+T266	pos_TO 1367 1369	to
+#263	AnnotatorNotes T266	lemma = 'to'
+T267	pos_VB 1370 1375	study
+#264	AnnotatorNotes T267	lemma = 'study'
+T268	pos_IN 1376 1378	at
+#265	AnnotatorNotes T268	lemma = 'at'
+T269	pos_NNS 1379 1386	schools
+#266	AnnotatorNotes T269	lemma = 'school'
+T270	pos_Fc 1386 1387	,
+#267	AnnotatorNotes T270	lemma = ','
+T271	pos_NNS 1388 1393	women
+#268	AnnotatorNotes T271	lemma = 'woman'
+T272	pos_MD 1394 1399	can't
+#269	AnnotatorNotes T272	lemma = 'can'
+T273	pos_RB 1394 1399	can't
+#270	AnnotatorNotes T273	lemma = 'not'
+T274	pos_VB 1400 1403	get
+#271	AnnotatorNotes T274	lemma = 'get'
+T275	pos_DT 1404 1405	a
+#272	AnnotatorNotes T275	lemma = 'a'
+T276	pos_JJ 1406 1415	well-paid
+#273	AnnotatorNotes T276	lemma = 'well-paid'
+T277	pos_NN 1416 1419	job
+#274	AnnotatorNotes T277	lemma = 'job'
+T278	pos_CC 1420 1423	and
+#275	AnnotatorNotes T278	lemma = 'and'
+T279	pos_VBP 1424 1429	don't
+#276	AnnotatorNotes T279	lemma = 'do'
+T280	pos_RB 1424 1429	don't
+#277	AnnotatorNotes T280	lemma = 'not'
+T281	pos_VB 1430 1434	have
+#278	AnnotatorNotes T281	lemma = 'have'
+T282	pos_DT 1435 1438	the
+#279	AnnotatorNotes T282	lemma = 'the'
+T283	pos_NN 1439 1444	right
+#280	AnnotatorNotes T283	lemma = 'right'
+T284	pos_TO 1445 1447	to
+#281	AnnotatorNotes T284	lemma = 'to'
+T285	pos_VB 1448 1452	vote
+#282	AnnotatorNotes T285	lemma = 'vote'
+T286	pos_Fit 1452 1453	?
+#283	AnnotatorNotes T286	lemma = '?'
+T287	pos_PRP 1454 1456	It
+#284	AnnotatorNotes T287	lemma = 'it'
+T288	pos_VBZ 1457 1459	is
+#285	AnnotatorNotes T288	lemma = 'be'
+T289	pos_JJ 1460 1470	impossible
+#286	AnnotatorNotes T289	lemma = 'impossible'
+T290	pos_Fat 1470 1471	!
+#287	AnnotatorNotes T290	lemma = '!'
+T291	pos_PRP 1472 1474	We
+#288	AnnotatorNotes T291	lemma = 'we'
+T292	pos_RB 1475 1478	all
+#289	AnnotatorNotes T292	lemma = 'all'
+T293	pos_VBP 1479 1483	have
+#290	AnnotatorNotes T293	lemma = 'have'
+T294	pos_DT 1484 1487	the
+#291	AnnotatorNotes T294	lemma = 'the'
+T295	pos_JJ 1488 1492	same
+#292	AnnotatorNotes T295	lemma = 'same'
+T296	pos_NNS 1493 1499	rights
+#293	AnnotatorNotes T296	lemma = 'right'
+T297	pos_Fp 1499 1500	.
+#294	AnnotatorNotes T297	lemma = '.'
+T298	pos_IN 1502 1505	For
+#295	AnnotatorNotes T298	lemma = 'for'
+T299	pos_PRP 1506 1508	me
+#296	AnnotatorNotes T299	lemma = 'me'
+T300	pos_Fc 1508 1509	,
+#297	AnnotatorNotes T300	lemma = ','
+T301	pos_NN 1510 1518	feminism
+#298	AnnotatorNotes T301	lemma = 'feminism'
+T302	pos_VBZ 1519 1521	is
+#299	AnnotatorNotes T302	lemma = 'be'
+T303	pos_RB 1522 1525	not
+#300	AnnotatorNotes T303	lemma = 'not'
+T304	pos_VBG 1526 1534	striving
+#301	AnnotatorNotes T304	lemma = 'strive'
+T305	pos_IN 1535 1538	for
+#302	AnnotatorNotes T305	lemma = 'for'
+T306	pos_NNS 1539 1549	privileges
+#303	AnnotatorNotes T306	lemma = 'privilege'
+T307	pos_NNS 1550 1555	women
+#304	AnnotatorNotes T307	lemma = 'woman'
+T308	pos_Fp 1555 1556	.
+#305	AnnotatorNotes T308	lemma = '.'
+T309	pos_PRP 1557 1559	It
+#306	AnnotatorNotes T309	lemma = 'it'
+T310	pos_VBZ 1560 1562	is
+#307	AnnotatorNotes T310	lemma = 'be'
+T311	pos_DT 1563 1566	the
+#308	AnnotatorNotes T311	lemma = 'the'
+T312	pos_NN 1567 1572	right
+#309	AnnotatorNotes T312	lemma = 'right'
+T313	pos_IN 1573 1575	of
+#310	AnnotatorNotes T313	lemma = 'of'
+T314	pos_DT 1576 1581	every
+#311	AnnotatorNotes T314	lemma = 'every'
+T315	pos_JJ 1582 1592	individual
+#312	AnnotatorNotes T315	lemma = 'individual'
+T316	pos_TO 1593 1595	to
+#313	AnnotatorNotes T316	lemma = 'to'
+T317	pos_VB 1596 1605	determine
+#314	AnnotatorNotes T317	lemma = 'determine'
+T318	pos_PRP2 1606 1611	their
+#315	AnnotatorNotes T318	lemma = 'their'
+T319	pos_JJ 1612 1615	own
+#316	AnnotatorNotes T319	lemma = 'own'
+T320	pos_NN 1616 1620	path
+#317	AnnotatorNotes T320	lemma = 'path'
+T321	pos_Fp 1620 1621	.
+#318	AnnotatorNotes T321	lemma = '.'
+T322	pos_RB 1622 1633	For example
+#319	AnnotatorNotes T322	lemma = 'for_example'
+T323	pos_Fc 1633 1634	,
+#320	AnnotatorNotes T323	lemma = ','
+T324	pos_DT 1635 1639	some
+#321	AnnotatorNotes T324	lemma = 'some'
+T325	pos_NNS 1640 1646	people
+#322	AnnotatorNotes T325	lemma = 'people'
+T326	pos_VBP 1647 1652	think
+#323	AnnotatorNotes T326	lemma = 'think'
+T327	pos_IN 1653 1657	that
+#324	AnnotatorNotes T327	lemma = 'that'
+T328	pos_JJ 1658 1662	only
+#325	AnnotatorNotes T328	lemma = 'only'
+T329	pos_NNS 1663 1666	men
+#326	AnnotatorNotes T329	lemma = 'man'
+T330	pos_VBP 1667 1671	have
+#327	AnnotatorNotes T330	lemma = 'have'
+T331	pos_DT 1672 1675	the
+#328	AnnotatorNotes T331	lemma = 'the'
+T332	pos_NN 1676 1683	ability
+#329	AnnotatorNotes T332	lemma = 'ability'
+T333	pos_IN 1684 1686	in
+#330	AnnotatorNotes T333	lemma = 'in'
+T334	pos_NNS 1687 1698	mathematics
+#331	AnnotatorNotes T334	lemma = 'mathematics'
+T335	pos_CC 1699 1702	and
+#332	AnnotatorNotes T335	lemma = 'and'
+T336	pos_JJ 1703 1707	only
+#333	AnnotatorNotes T336	lemma = 'only'
+T337	pos_PRP 1708 1712	they
+#334	AnnotatorNotes T337	lemma = 'they'
+T338	pos_MD 1713 1716	can
+#335	AnnotatorNotes T338	lemma = 'can'
+T339	pos_VB 1717 1724	develop
+#336	AnnotatorNotes T339	lemma = 'develop'
+T340	pos_DT 1725 1728	the
+#337	AnnotatorNotes T340	lemma = 'the'
+T341	pos_NN 1729 1736	science
+#338	AnnotatorNotes T341	lemma = 'science'
+T342	pos_Fx 1736 1737	;
+#339	AnnotatorNotes T342	lemma = ';'
+T343	pos_RB 1738 1745	however
+#340	AnnotatorNotes T343	lemma = 'however'
+T344	pos_EX 1746 1751	there
+#341	AnnotatorNotes T344	lemma = 'there'
+T345	pos_VBZ 1752 1754	is
+#342	AnnotatorNotes T345	lemma = 'be'
+T346	pos_RB 1755 1761	always
+#343	AnnotatorNotes T346	lemma = 'always'
+T347	pos_DT 1762 1763	a
+#344	AnnotatorNotes T347	lemma = 'a'
+T348	pos_JJ 1764 1774	particular
+#345	AnnotatorNotes T348	lemma = 'particular'
+T349	pos_NN 1775 1780	woman
+#346	AnnotatorNotes T349	lemma = 'woman'
+T350	pos_Fc 1780 1781	,
+#347	AnnotatorNotes T350	lemma = ','
+T351	pos_WDT 1782 1787	which
+#348	AnnotatorNotes T351	lemma = 'which'
+T352	pos_MD 1788 1792	will
+#349	AnnotatorNotes T352	lemma = 'will'
+T353	pos_VB 1793 1795	be
+#350	AnnotatorNotes T353	lemma = 'be'
+T354	pos_RBR 1796 1800	more
+#351	AnnotatorNotes T354	lemma = 'many'
+T355	pos_JJ 1801 1808	capable
+#352	AnnotatorNotes T355	lemma = 'capable'
+T356	pos_IN 1809 1811	of
+#353	AnnotatorNotes T356	lemma = 'of'
+T357	pos_NN 1812 1823	mathematics
+#354	AnnotatorNotes T357	lemma = 'mathematics'
+T358	pos_Fc 1823 1824	,
+#355	AnnotatorNotes T358	lemma = ','
+T359	pos_IN 1825 1829	than
+#356	AnnotatorNotes T359	lemma = 'than'
+T360	pos_RBS 1830 1834	most
+#357	AnnotatorNotes T360	lemma = 'many'
+T361	pos_NNS 1835 1838	men
+#358	AnnotatorNotes T361	lemma = 'man'
+T362	pos_Fp 1838 1839	.
+#359	AnnotatorNotes T362	lemma = '.'
+T363	pos_CC 1840 1843	And
+#360	AnnotatorNotes T363	lemma = 'and'
+T364	pos_PRP 1844 1846	it
+#361	AnnotatorNotes T364	lemma = 'it'
+T365	pos_MD 1847 1851	will
+#362	AnnotatorNotes T365	lemma = 'will'
+T366	pos_VB 1852 1854	be
+#363	AnnotatorNotes T366	lemma = 'be'
+T367	pos_JJ 1855 1861	unfair
+#364	AnnotatorNotes T367	lemma = 'unfair'
+T368	pos_IN 1862 1864	if
+#365	AnnotatorNotes T368	lemma = 'if'
+T369	pos_DT 1865 1868	the
+#366	AnnotatorNotes T369	lemma = 'the'
+T370	pos_NN 1869 1874	woman
+#367	AnnotatorNotes T370	lemma = 'woman'
+T371	pos_VBZ 1875 1877	is
+#368	AnnotatorNotes T371	lemma = 'be'
+T372	pos_VBN 1878 1885	refused
+#369	AnnotatorNotes T372	lemma = 'refuse'
+T373	pos_TO 1886 1888	to
+#370	AnnotatorNotes T373	lemma = 'to'
+T374	pos_VB 1889 1893	work
+#371	AnnotatorNotes T374	lemma = 'work'
+T375	pos_IN 1894 1896	on
+#372	AnnotatorNotes T375	lemma = 'on'
+T376	pos_JJ 1897 1907	scientific
+#373	AnnotatorNotes T376	lemma = 'scientific'
+T377	pos_Fc 1907 1908	,
+#374	AnnotatorNotes T377	lemma = ','
+T378	pos_IN 1909 1916	because
+#375	AnnotatorNotes T378	lemma = 'because'
+T379	pos_PRP 1917 1922	she's
+#376	AnnotatorNotes T379	lemma = 'she'
+T380	pos_VBZ 1917 1922	she's
+#377	AnnotatorNotes T380	lemma = 'be'
+T381	pos_RB 1923 1926	not
+#378	AnnotatorNotes T381	lemma = 'not'
+T382	pos_DT 1927 1928	a
+#379	AnnotatorNotes T382	lemma = 'a'
+T383	pos_NN 1929 1932	man
+#380	AnnotatorNotes T383	lemma = 'man'
+T384	pos_Fp 1932 1933	.
+#381	AnnotatorNotes T384	lemma = '.'
+T385	pos_IN 1934 1936	In
+#382	AnnotatorNotes T385	lemma = 'in'
+T386	pos_NN 1937 1947	conclusion
+#383	AnnotatorNotes T386	lemma = 'conclusion'
+T387	pos_Fc 1947 1948	,
+#384	AnnotatorNotes T387	lemma = ','
+T388	pos_PRP 1949 1950	I
+#385	AnnotatorNotes T388	lemma = 'i'
+T389	pos_MD 1951 1956	would
+#386	AnnotatorNotes T389	lemma = 'would'
+T390	pos_VB 1957 1961	like
+#387	AnnotatorNotes T390	lemma = 'like'
+T391	pos_TO 1962 1964	to
+#388	AnnotatorNotes T391	lemma = 'to'
+T392	pos_VB 1965 1968	say
+#389	AnnotatorNotes T392	lemma = 'say'
+T393	pos_IN 1969 1973	that
+#390	AnnotatorNotes T393	lemma = 'that'
+T394	pos_RB 1974 1978	soon
+#391	AnnotatorNotes T394	lemma = 'soon'
+T395	pos_PRP 1979 1981	we
+#392	AnnotatorNotes T395	lemma = 'we'
+T396	pos_MD 1982 1986	will
+#393	AnnotatorNotes T396	lemma = 'will'
+T397	pos_VB 1987 1993	forget
+#394	AnnotatorNotes T397	lemma = 'forget'
+T398	pos_IN 1994 1999	about
+#395	AnnotatorNotes T398	lemma = 'about'
+T399	pos_DT 2000 2004	this
+#396	AnnotatorNotes T399	lemma = 'this'
+T400	pos_NN 2005 2012	problem
+#397	AnnotatorNotes T400	lemma = 'problem'
+T401	pos_IN 2013 2023	because of
+#398	AnnotatorNotes T401	lemma = 'because_of'
+T402	pos_PRP2 2024 2027	its
+#399	AnnotatorNotes T402	lemma = 'its'
+T403	pos_NN 2028 2039	irrelevance
+#400	AnnotatorNotes T403	lemma = 'irrelevance'
+T404	pos_Fp 2039 2040	.
+#401	AnnotatorNotes T404	lemma = '.'
+T405	Punctuation 1780 1781	,
+A43	Cause T405 L1_interference
+A44	Delete T405

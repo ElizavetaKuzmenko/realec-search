@@ -1,0 +1,450 @@
+T1	Art_form 59 65	highly
+#1	AnnotatorNotes T1	a highly
+T2	Art_form 106 120	effective tool
+#2	AnnotatorNotes T2	an effective tool
+T3	Art_choice 124 131	a fight	
+#3	AnnotatorNotes T3	the fight
+T4	Art_choice 136 137	a	
+A4	Delete T4
+T5	Absence_comp_colloc 337 345	managers
+#5	AnnotatorNotes T5	company managers
+T6	Word_choice 346 358	of companies	
+A6	Delete T6
+T8	Word_choice 729 754	There are huge numbers of	
+#8	AnnotatorNotes T8	is a large body of
+T9	Word_choice 756 776	marketing researches	
+#9	AnnotatorNotes T9	psychological research
+T10	Prepositions 777 779	of	
+#10	AnnotatorNotes T10	on OR into
+T11	Spelling 797 812	insufficientlcy	
+#11	AnnotatorNotes T11	insufficiency
+T12	Spelling 845 848	've	
+#12	AnnotatorNotes T12	have
+T14	Category_confusion 994 1004	to analyze	
+#14	AnnotatorNotes T14	in analyzing
+T13	Word_choice 927 963	brand equity from psychological side
+#4	AnnotatorNotes T13	the  psychological side of brand equity characteristics
+A1	Cause T10 L1_interference
+A2	Weight-language T10 Major
+A3	Weight-understanding T10 Minor
+T7	Abs_comp_clause 414 574	While wise business leaders have realized that the brand personality is a valuable asset, which can be controlled and in which they should successfully applied.
+T15	pos_Fe 0 1	"
+#15	AnnotatorNotes T15	lemma = '"'
+T16	pos_JJ 1 14	Psychological
+#16	AnnotatorNotes T16	lemma = 'psychological'
+T17	pos_NNS 15 30	characteristics
+#17	AnnotatorNotes T17	lemma = 'characteristic'
+T18	pos_IN 31 33	of
+#18	AnnotatorNotes T18	lemma = 'of'
+T19	pos_NN 34 39	brand
+#19	AnnotatorNotes T19	lemma = 'brand'
+T20	pos_NN 40 46	equity
+#20	AnnotatorNotes T20	lemma = 'equity'
+T21	pos_Fe 46 47	"
+#21	AnnotatorNotes T21	lemma = '"'
+T22	pos_NN 48 53	Today
+#22	AnnotatorNotes T22	lemma = 'today'
+T23	pos_Fc 53 54	,
+#23	AnnotatorNotes T23	lemma = ','
+T24	pos_IN 55 57	in
+#24	AnnotatorNotes T24	lemma = 'in'
+T25	pos_RB 59 65	highly
+#25	AnnotatorNotes T25	lemma = 'highly'
+T26	pos_JJ 66 77	competitive
+#26	AnnotatorNotes T26	lemma = 'competitive'
+T27	pos_NN 78 89	environment
+#27	AnnotatorNotes T27	lemma = 'environment'
+T28	pos_Fc 89 90	,
+#28	AnnotatorNotes T28	lemma = ','
+T29	pos_NN 91 96	brand
+#29	AnnotatorNotes T29	lemma = 'brand'
+T30	pos_VBZ 97 104	becomes
+#30	AnnotatorNotes T30	lemma = 'become'
+T31	pos_JJ 106 115	effective
+#31	AnnotatorNotes T31	lemma = 'effective'
+T32	pos_NN 116 120	tool
+#32	AnnotatorNotes T32	lemma = 'tool'
+T33	pos_IN 121 123	in
+#33	AnnotatorNotes T33	lemma = 'in'
+T34	pos_DT 124 125	a
+#34	AnnotatorNotes T34	lemma = 'a'
+T35	pos_NN 126 131	fight
+#35	AnnotatorNotes T35	lemma = 'fight'
+T36	pos_IN 132 135	for
+#36	AnnotatorNotes T36	lemma = 'for'
+T37	pos_DT 136 137	a
+#37	AnnotatorNotes T37	lemma = 'a'
+T38	pos_NN 138 148	uniqueness
+#38	AnnotatorNotes T38	lemma = 'uniqueness'
+T39	pos_IN 149 151	in
+#39	AnnotatorNotes T39	lemma = 'in'
+T40	pos_VBG 152 160	offering
+#40	AnnotatorNotes T40	lemma = 'offer'
+T41	pos_NNS 161 166	goods
+#41	AnnotatorNotes T41	lemma = 'good'
+T42	pos_CC 167 170	and
+#42	AnnotatorNotes T42	lemma = 'and'
+T43	pos_NNS 171 179	services
+#43	AnnotatorNotes T43	lemma = 'service'
+T44	pos_Fp 179 180	.
+#44	AnnotatorNotes T44	lemma = '.'
+T45	pos_IN 181 188	Besides
+#45	AnnotatorNotes T45	lemma = 'besides'
+T46	pos_Fc 188 189	,
+#46	AnnotatorNotes T46	lemma = ','
+T47	pos_JJ 190 194	only
+#47	AnnotatorNotes T47	lemma = 'only'
+T48	pos_DT 195 198	the
+#48	AnnotatorNotes T48	lemma = 'the'
+T49	pos_JJS 199 208	strongest
+#49	AnnotatorNotes T49	lemma = 'strong'
+T50	pos_NNS 209 215	brands
+#50	AnnotatorNotes T50	lemma = 'brand'
+T51	pos_Fc 215 216	,
+#51	AnnotatorNotes T51	lemma = ','
+T52	pos_WDT 217 222	which
+#52	AnnotatorNotes T52	lemma = 'which'
+T53	pos_VBP 223 227	have
+#53	AnnotatorNotes T53	lemma = 'have'
+T54	pos_JJ 228 234	strong
+#54	AnnotatorNotes T54	lemma = 'strong'
+T55	pos_NN 235 240	brand
+#55	AnnotatorNotes T55	lemma = 'brand'
+T56	pos_NN 241 247	equity
+#56	AnnotatorNotes T56	lemma = 'equity'
+T57	pos_Fc 247 248	,
+#57	AnnotatorNotes T57	lemma = ','
+T58	pos_VBP 249 252	are
+#58	AnnotatorNotes T58	lemma = 'be'
+T59	pos_JJ 253 257	able
+#59	AnnotatorNotes T59	lemma = 'able'
+T60	pos_TO 258 260	to
+#60	AnnotatorNotes T60	lemma = 'to'
+T61	pos_VB 261 267	create
+#61	AnnotatorNotes T61	lemma = 'create'
+T62	pos_JJ 268 278	additional
+#62	AnnotatorNotes T62	lemma = 'additional'
+T63	pos_NNS 279 287	benefits
+#63	AnnotatorNotes T63	lemma = 'benefit'
+T64	pos_IN 288 291	for
+#64	AnnotatorNotes T64	lemma = 'for'
+T65	pos_PRP2 292 297	their
+#65	AnnotatorNotes T65	lemma = 'their'
+T66	pos_NN 298 306	business
+#66	AnnotatorNotes T66	lemma = 'business'
+T67	pos_Fp 306 307	.
+#67	AnnotatorNotes T67	lemma = '.'
+T68	pos_DT 308 311	The
+#68	AnnotatorNotes T68	lemma = 'the'
+T69	pos_NN 312 319	problem
+#69	AnnotatorNotes T69	lemma = 'problem'
+T70	pos_VBZ 320 322	is
+#70	AnnotatorNotes T70	lemma = 'be'
+T71	pos_IN 323 327	that
+#71	AnnotatorNotes T71	lemma = 'that'
+T72	pos_RB 328 331	not
+#72	AnnotatorNotes T72	lemma = 'not'
+T73	pos_DT 332 335	all
+#73	AnnotatorNotes T73	lemma = 'all'
+T74	pos_NNS 337 345	managers
+#74	AnnotatorNotes T74	lemma = 'manager'
+T75	pos_IN 346 348	of
+#75	AnnotatorNotes T75	lemma = 'of'
+T76	pos_VB 349 362	companiesknow
+#76	AnnotatorNotes T76	lemma = 'companiesknow'
+T77	pos_IN 363 367	that
+#77	AnnotatorNotes T77	lemma = 'that'
+T78	pos_PRP 368 372	they
+#78	AnnotatorNotes T78	lemma = 'they'
+T79	pos_MD 373 376	can
+#79	AnnotatorNotes T79	lemma = 'can'
+T80	pos_VB 377 380	use
+#80	AnnotatorNotes T80	lemma = 'use'
+T81	pos_NN 381 386	brand
+#81	AnnotatorNotes T81	lemma = 'brand'
+T82	pos_NN 387 393	equity
+#82	AnnotatorNotes T82	lemma = 'equity'
+T83	pos_IN 394 396	as
+#83	AnnotatorNotes T83	lemma = 'as'
+T84	pos_DT 397 399	an
+#84	AnnotatorNotes T84	lemma = 'a'
+T85	pos_JJ 400 406	active
+#85	AnnotatorNotes T85	lemma = 'active'
+T86	pos_NN 407 412	asset
+#86	AnnotatorNotes T86	lemma = 'asset'
+T87	pos_Fp 412 413	.
+#87	AnnotatorNotes T87	lemma = '.'
+T88	pos_IN 414 419	While
+#88	AnnotatorNotes T88	lemma = 'while'
+T89	pos_JJ 420 424	wise
+#89	AnnotatorNotes T89	lemma = 'wise'
+T90	pos_NN 425 433	business
+#90	AnnotatorNotes T90	lemma = 'business'
+T91	pos_NNS 434 441	leaders
+#91	AnnotatorNotes T91	lemma = 'leader'
+T92	pos_VBP 442 446	have
+#92	AnnotatorNotes T92	lemma = 'have'
+T93	pos_VBN 447 455	realized
+#93	AnnotatorNotes T93	lemma = 'realize'
+T94	pos_IN 456 460	that
+#94	AnnotatorNotes T94	lemma = 'that'
+T95	pos_DT 461 464	the
+#95	AnnotatorNotes T95	lemma = 'the'
+T96	pos_NN 465 470	brand
+#96	AnnotatorNotes T96	lemma = 'brand'
+T97	pos_NN 471 482	personality
+#97	AnnotatorNotes T97	lemma = 'personality'
+T98	pos_VBZ 483 485	is
+#98	AnnotatorNotes T98	lemma = 'be'
+T99	pos_DT 486 487	a
+#99	AnnotatorNotes T99	lemma = 'a'
+T100	pos_JJ 488 496	valuable
+#100	AnnotatorNotes T100	lemma = 'valuable'
+T101	pos_NN 497 502	asset
+#101	AnnotatorNotes T101	lemma = 'asset'
+T102	pos_Fc 502 503	,
+#102	AnnotatorNotes T102	lemma = ','
+T103	pos_WDT 504 509	which
+#103	AnnotatorNotes T103	lemma = 'which'
+T104	pos_MD 510 513	can
+#104	AnnotatorNotes T104	lemma = 'can'
+T105	pos_VB 514 516	be
+#105	AnnotatorNotes T105	lemma = 'be'
+T106	pos_VBN 517 527	controlled
+#106	AnnotatorNotes T106	lemma = 'control'
+T107	pos_CC 528 531	and
+#107	AnnotatorNotes T107	lemma = 'and'
+T108	pos_IN 532 534	in
+#108	AnnotatorNotes T108	lemma = 'in'
+T109	pos_WDT 535 540	which
+#109	AnnotatorNotes T109	lemma = 'which'
+T110	pos_PRP 541 545	they
+#110	AnnotatorNotes T110	lemma = 'they'
+T111	pos_MD 546 552	should
+#111	AnnotatorNotes T111	lemma = 'should'
+T112	pos_RB 553 565	successfully
+#112	AnnotatorNotes T112	lemma = 'successfully'
+T113	pos_VBN 566 573	applied
+#113	AnnotatorNotes T113	lemma = 'apply'
+T114	pos_Fp 573 574	.
+#114	AnnotatorNotes T114	lemma = '.'
+T115	pos_NN 575 580	Brand
+#115	AnnotatorNotes T115	lemma = 'brand'
+T116	pos_NN 581 587	equity
+#116	AnnotatorNotes T116	lemma = 'equity'
+T117	pos_VBZ 588 590	is
+#117	AnnotatorNotes T117	lemma = 'be'
+T118	pos_DT 591 594	the
+#118	AnnotatorNotes T118	lemma = 'the'
+T119	pos_NN 595 598	sum
+#119	AnnotatorNotes T119	lemma = 'sum'
+T120	pos_IN 599 601	of
+#120	AnnotatorNotes T120	lemma = 'of'
+T121	pos_PDT 602 605	all
+#121	AnnotatorNotes T121	lemma = 'all'
+T122	pos_DT 606 609	the
+#122	AnnotatorNotes T122	lemma = 'the'
+T123	pos_JJ 610 621	distinctive
+#123	AnnotatorNotes T123	lemma = 'distinctive'
+T124	pos_NNS 622 630	features
+#124	AnnotatorNotes T124	lemma = 'feature'
+T125	pos_IN 631 633	of
+#125	AnnotatorNotes T125	lemma = 'of'
+T126	pos_DT 634 637	the
+#126	AnnotatorNotes T126	lemma = 'the'
+T127	pos_NN 638 643	brand
+#127	AnnotatorNotes T127	lemma = 'brand'
+T128	pos_Fc 643 644	,
+#128	AnnotatorNotes T128	lemma = ','
+T129	pos_WDT 645 650	which
+#129	AnnotatorNotes T129	lemma = 'which'
+T130	pos_VBZ 651 659	triggers
+#130	AnnotatorNotes T130	lemma = 'trigger'
+T131	pos_DT 660 661	a
+#131	AnnotatorNotes T131	lemma = 'a'
+T132	pos_JJ 662 668	steady
+#132	AnnotatorNotes T132	lemma = 'steady'
+T133	pos_NN 669 675	demand
+#133	AnnotatorNotes T133	lemma = 'demand'
+T134	pos_IN 676 679	for
+#134	AnnotatorNotes T134	lemma = 'for'
+T135	pos_PRP 680 682	it
+#135	AnnotatorNotes T135	lemma = 'it'
+T136	pos_CC 683 686	and
+#136	AnnotatorNotes T136	lemma = 'and'
+T137	pos_VBZ 687 695	sustains
+#137	AnnotatorNotes T137	lemma = 'sustain'
+T138	pos_NN 696 704	customer
+#138	AnnotatorNotes T138	lemma = 'customer'
+T139	pos_NN 705 712	loyalty
+#139	AnnotatorNotes T139	lemma = 'loyalty'
+T140	pos_TO 713 715	to
+#140	AnnotatorNotes T140	lemma = 'to'
+T141	pos_DT 716 720	that
+#141	AnnotatorNotes T141	lemma = 'that'
+T142	pos_NN 721 726	brand
+#142	AnnotatorNotes T142	lemma = 'brand'
+T143	pos_Fp 726 727	.
+#143	AnnotatorNotes T143	lemma = '.'
+T144	pos_EX 729 734	There
+#144	AnnotatorNotes T144	lemma = 'there'
+T145	pos_VBP 735 738	are
+#145	AnnotatorNotes T145	lemma = 'be'
+T146	pos_JJ 739 743	huge
+#146	AnnotatorNotes T146	lemma = 'huge'
+T147	pos_NNS 744 751	numbers
+#147	AnnotatorNotes T147	lemma = 'number'
+T148	pos_IN 752 754	of
+#148	AnnotatorNotes T148	lemma = 'of'
+T149	pos_VBG 756 765	marketing
+#149	AnnotatorNotes T149	lemma = 'market'
+T150	pos_VBZ 766 776	researches
+#150	AnnotatorNotes T150	lemma = 'research'
+T151	pos_IN 777 779	of
+#151	AnnotatorNotes T151	lemma = 'of'
+T152	pos_NN 780 785	brand
+#152	AnnotatorNotes T152	lemma = 'brand'
+T153	pos_NN 786 792	equity
+#153	AnnotatorNotes T153	lemma = 'equity'
+T154	pos_CC 793 796	and
+#154	AnnotatorNotes T154	lemma = 'and'
+T155	pos_NN 797 812	insufficientlcy
+#155	AnnotatorNotes T155	lemma = 'insufficientlcy'
+T156	pos_IN 813 815	in
+#156	AnnotatorNotes T156	lemma = 'in'
+T157	pos_NN 816 826	psychology
+#157	AnnotatorNotes T157	lemma = 'psychology'
+T158	pos_Fp 826 827	.
+#158	AnnotatorNotes T158	lemma = '.'
+T159	pos_IN 828 831	For
+#159	AnnotatorNotes T159	lemma = 'for'
+T160	pos_DT 832 836	this
+#160	AnnotatorNotes T160	lemma = 'this'
+T161	pos_NN 837 843	reason
+#161	AnnotatorNotes T161	lemma = 'reason'
+T162	pos_PRP 844 845	I
+#162	AnnotatorNotes T162	lemma = 'i'
+T163	pos_VBP 845 848	've
+#163	AnnotatorNotes T163	lemma = 'have'
+T164	pos_VBN 849 855	chosen
+#164	AnnotatorNotes T164	lemma = 'choose'
+T165	pos_DT 856 860	this
+#165	AnnotatorNotes T165	lemma = 'this'
+T166	pos_NN 861 866	topic
+#166	AnnotatorNotes T166	lemma = 'topic'
+T167	pos_IN 867 870	for
+#167	AnnotatorNotes T167	lemma = 'for'
+T168	pos_PRP2 871 873	my
+#168	AnnotatorNotes T168	lemma = 'my'
+T169	pos_NN 874 882	research
+#169	AnnotatorNotes T169	lemma = 'research'
+T170	pos_Fc 882 883	,
+#170	AnnotatorNotes T170	lemma = ','
+T171	pos_IN 884 886	as
+#171	AnnotatorNotes T171	lemma = 'as'
+T172	pos_PRP 887 888	I
+#172	AnnotatorNotes T172	lemma = 'i'
+T173	pos_MD 889 894	would
+#173	AnnotatorNotes T173	lemma = 'would'
+T174	pos_VB 895 899	like
+#174	AnnotatorNotes T174	lemma = 'like'
+T175	pos_TO 900 902	to
+#175	AnnotatorNotes T175	lemma = 'to'
+T176	pos_VB 903 907	know
+#176	AnnotatorNotes T176	lemma = 'know'
+T177	pos_RBR 908 912	more
+#177	AnnotatorNotes T177	lemma = 'many'
+T178	pos_RB 913 918	about
+#178	AnnotatorNotes T178	lemma = 'about'
+T179	pos_IN 920 922	of
+#179	AnnotatorNotes T179	lemma = 'of'
+T180	pos_DT 923 926	the
+#180	AnnotatorNotes T180	lemma = 'the'
+T181	pos_NN 927 932	brand
+#181	AnnotatorNotes T181	lemma = 'brand'
+T182	pos_NN 933 939	equity
+#182	AnnotatorNotes T182	lemma = 'equity'
+T183	pos_IN 940 944	from
+#183	AnnotatorNotes T183	lemma = 'from'
+T184	pos_JJ 945 958	psychological
+#184	AnnotatorNotes T184	lemma = 'psychological'
+T185	pos_NN 959 963	side
+#185	AnnotatorNotes T185	lemma = 'side'
+T186	pos_Fp 963 964	.
+#186	AnnotatorNotes T186	lemma = '.'
+T187	pos_DT 965 968	The
+#187	AnnotatorNotes T187	lemma = 'the'
+T188	pos_JJ 969 972	key
+#188	AnnotatorNotes T188	lemma = 'key'
+T189	pos_JJ 973 986	psychological
+#189	AnnotatorNotes T189	lemma = 'psychological'
+T190	pos_NN 987 993	aspect
+#190	AnnotatorNotes T190	lemma = 'aspect'
+T191	pos_TO 994 996	to
+#191	AnnotatorNotes T191	lemma = 'to'
+T192	pos_VB 997 1004	analyze
+#192	AnnotatorNotes T192	lemma = 'analyze'
+T193	pos_DT 1005 1008	the
+#193	AnnotatorNotes T193	lemma = 'the'
+T194	pos_NN 1009 1016	concept
+#194	AnnotatorNotes T194	lemma = 'concept'
+T195	pos_IN 1017 1019	of
+#195	AnnotatorNotes T195	lemma = 'of'
+T196	pos_NN 1020 1025	brand
+#196	AnnotatorNotes T196	lemma = 'brand'
+T197	pos_VBZ 1026 1028	is
+#197	AnnotatorNotes T197	lemma = 'be'
+T198	pos_DT 1029 1032	the
+#198	AnnotatorNotes T198	lemma = 'the'
+T199	pos_NN 1033 1038	theme
+#199	AnnotatorNotes T199	lemma = 'theme'
+T200	pos_IN 1039 1041	of
+#200	AnnotatorNotes T200	lemma = 'of'
+T201	pos_NN 1042 1052	perception
+#201	AnnotatorNotes T201	lemma = 'perception'
+T202	pos_NN 1053 1063	psychology
+#202	AnnotatorNotes T202	lemma = 'psychology'
+T203	pos_Fc 1063 1064	,
+#203	AnnotatorNotes T203	lemma = ','
+T204	pos_IN 1065 1072	because
+#204	AnnotatorNotes T204	lemma = 'because'
+T205	pos_DT 1073 1076	the
+#205	AnnotatorNotes T205	lemma = 'the'
+T206	pos_NN 1077 1082	brand
+#206	AnnotatorNotes T206	lemma = 'brand'
+T207	pos_VBZ 1083 1085	is
+#207	AnnotatorNotes T207	lemma = 'be'
+T208	pos_RB 1086 1095	primarily
+#208	AnnotatorNotes T208	lemma = 'primarily'
+T209	pos_DT 1096 1097	a
+#209	AnnotatorNotes T209	lemma = 'a'
+T210	pos_NN 1098 1106	consumer
+#210	AnnotatorNotes T210	lemma = 'consumer'
+T211	pos_NN 1107 1117	perception
+#211	AnnotatorNotes T211	lemma = 'perception'
+T212	pos_IN 1118 1120	of
+#212	AnnotatorNotes T212	lemma = 'of'
+T213	pos_JJ 1121 1128	certain
+#213	AnnotatorNotes T213	lemma = 'certain'
+T214	pos_NNS 1129 1144	characteristics
+#214	AnnotatorNotes T214	lemma = 'characteristic'
+T215	pos_IN 1145 1147	of
+#215	AnnotatorNotes T215	lemma = 'of'
+T216	pos_DT 1148 1151	the
+#216	AnnotatorNotes T216	lemma = 'the'
+T217	pos_NN 1152 1159	product
+#217	AnnotatorNotes T217	lemma = 'product'
+T218	pos_CC 1160 1163	and
+#218	AnnotatorNotes T218	lemma = 'and'
+T219	pos_DT 1164 1167	the
+#219	AnnotatorNotes T219	lemma = 'the'
+T220	pos_NN 1168 1175	company
+#220	AnnotatorNotes T220	lemma = 'company'
+T221	pos_IN 1176 1178	as
+#221	AnnotatorNotes T221	lemma = 'as'
+T222	pos_DT 1179 1180	a
+#222	AnnotatorNotes T222	lemma = 'a'
+T223	pos_NN 1181 1186	whole
+#223	AnnotatorNotes T223	lemma = 'whole'
+T224	pos_Fp 1186 1187	.
+#224	AnnotatorNotes T224	lemma = '.'

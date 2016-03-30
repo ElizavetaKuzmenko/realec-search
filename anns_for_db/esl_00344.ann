@@ -1,0 +1,246 @@
+T1	lex_item_choice 229 234	watch
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Major
+#1	AnnotatorNotes T1	observe, study, investigate
+T2	lex_item_choice 293 310	goals of the work
+A3	Cause T2 L1_interference
+A4	Weight-language T2 Major
+#2	AnnotatorNotes T2	objectives
+T3	pos_DT 0 4	This
+#3	AnnotatorNotes T3	lemma = 'this'
+T4	pos_NN 5 11	course
+#4	AnnotatorNotes T4	lemma = 'course'
+T5	pos_NN 12 17	paper
+#5	AnnotatorNotes T5	lemma = 'paper'
+T6	pos_MD 18 21	can
+#6	AnnotatorNotes T6	lemma = 'can'
+T7	pos_VB 22 26	help
+#7	AnnotatorNotes T7	lemma = 'help'
+T8	pos_TO 27 29	to
+#8	AnnotatorNotes T8	lemma = 'to'
+T9	pos_VB 30 40	understand
+#9	AnnotatorNotes T9	lemma = 'understand'
+T10	pos_JJR 41 47	better
+#10	AnnotatorNotes T10	lemma = 'good'
+T11	pos_NN 48 51	why
+#11	AnnotatorNotes T11	lemma = 'why'
+T12	pos_EX 52 57	there
+#12	AnnotatorNotes T12	lemma = 'there'
+T13	pos_VBP 58 61	are
+#13	AnnotatorNotes T13	lemma = 'be'
+T14	pos_JJ 62 68	dative
+#14	AnnotatorNotes T14	lemma = 'dative'
+T15	pos_NNS 69 77	subjects
+#15	AnnotatorNotes T15	lemma = 'subject'
+T16	pos_IN 78 80	in
+#16	AnnotatorNotes T16	lemma = 'in'
+T17	pos_DT 81 85	some
+#17	AnnotatorNotes T17	lemma = 'some'
+T18	pos_NNS 86 99	constructions
+#18	AnnotatorNotes T18	lemma = 'construction'
+T19	pos_CC 100 103	and
+#19	AnnotatorNotes T19	lemma = 'and'
+T20	pos_DT 104 107	the
+#20	AnnotatorNotes T20	lemma = 'the'
+T21	pos_NN 108 118	connection
+#21	AnnotatorNotes T21	lemma = 'connection'
+T22	pos_IN 119 126	between
+#22	AnnotatorNotes T22	lemma = 'between'
+T23	pos_NNS 127 132	verbs
+#23	AnnotatorNotes T23	lemma = 'verb'
+T24	pos_CC 133 136	and
+#24	AnnotatorNotes T24	lemma = 'and'
+T25	pos_JJ 137 142	other
+#25	AnnotatorNotes T25	lemma = 'other'
+T26	pos_NNS 143 150	members
+#26	AnnotatorNotes T26	lemma = 'member'
+T27	pos_IN 151 153	of
+#27	AnnotatorNotes T27	lemma = 'of'
+T28	pos_NNS 154 163	sentences
+#28	AnnotatorNotes T28	lemma = 'sentence'
+T29	pos_Fp 163 164	.
+#29	AnnotatorNotes T29	lemma = '.'
+T30	pos_DT 165 168	The
+#30	AnnotatorNotes T30	lemma = 'the'
+T31	pos_NN 169 173	work
+#31	AnnotatorNotes T31	lemma = 'work'
+T32	pos_MD 174 178	will
+#32	AnnotatorNotes T32	lemma = 'will'
+T33	pos_VB 179 181	be
+#33	AnnotatorNotes T33	lemma = 'be'
+T34	pos_VBN 182 186	done
+#34	AnnotatorNotes T34	lemma = 'do'
+T35	pos_IN 187 189	on
+#35	AnnotatorNotes T35	lemma = 'on'
+T36	pos_DT 190 193	the
+#36	AnnotatorNotes T36	lemma = 'the'
+T37	pos_NN 194 199	basis
+#37	AnnotatorNotes T37	lemma = 'basis'
+T38	pos_IN 200 202	of
+#38	AnnotatorNotes T38	lemma = 'of'
+T39	pos_NP 203 218	Russian Corpora
+#39	AnnotatorNotes T39	lemma = 'russian_corpora'
+T40	pos_Fp 219 220	.
+#40	AnnotatorNotes T40	lemma = '.'
+T41	pos_PRP 221 223	We
+#41	AnnotatorNotes T41	lemma = 'we'
+T42	pos_MD 224 228	will
+#42	AnnotatorNotes T42	lemma = 'will'
+T43	pos_VB 229 234	watch
+#43	AnnotatorNotes T43	lemma = 'watch'
+T44	pos_NNS 235 240	verbs
+#44	AnnotatorNotes T44	lemma = 'verb'
+T45	pos_Fw 241 242	'
+#45	AnnotatorNotes T45	lemma = '''
+T46	pos_NN 242 248	хотеть
+#46	AnnotatorNotes T46	lemma = 'хотеть'
+T47	pos_Fw 248 249	'
+#47	AnnotatorNotes T47	lemma = '''
+T48	pos_Fc 249 250	,
+#48	AnnotatorNotes T48	lemma = ','
+T49	pos_Fw 251 252	'
+#49	AnnotatorNotes T49	lemma = '''
+T50	pos_JJ 252 260	хотеться
+#50	AnnotatorNotes T50	lemma = 'хотеться'
+T51	pos_Fw 260 261	'
+#51	AnnotatorNotes T51	lemma = '''
+T52	pos_CC 262 265	and
+#52	AnnotatorNotes T52	lemma = 'and'
+T53	pos_Fw 266 267	'
+#53	AnnotatorNotes T53	lemma = '''
+T54	pos_NN 267 273	любить
+#54	AnnotatorNotes T54	lemma = 'любить'
+T55	pos_Fw 273 274	'
+#55	AnnotatorNotes T55	lemma = '''
+T56	pos_Fc 274 275	,
+#56	AnnotatorNotes T56	lemma = ','
+T57	pos_Fw 276 277	'
+#57	AnnotatorNotes T57	lemma = '''
+T58	pos_NN 277 286	нравиться
+#58	AnnotatorNotes T58	lemma = 'нравиться'
+T59	pos_Fw 286 287	'
+#59	AnnotatorNotes T59	lemma = '''
+T60	pos_Fp 287 288	.
+#60	AnnotatorNotes T60	lemma = '.'
+T61	pos_DT 289 292	The
+#61	AnnotatorNotes T61	lemma = 'the'
+T62	pos_NNS 293 298	goals
+#62	AnnotatorNotes T62	lemma = 'goal'
+T63	pos_IN 299 301	of
+#63	AnnotatorNotes T63	lemma = 'of'
+T64	pos_DT 302 305	the
+#64	AnnotatorNotes T64	lemma = 'the'
+T65	pos_NN 306 310	work
+#65	AnnotatorNotes T65	lemma = 'work'
+T66	pos_VBP 311 314	are
+#66	AnnotatorNotes T66	lemma = 'be'
+T67	pos_TO 315 317	to
+#67	AnnotatorNotes T67	lemma = 'to'
+T68	pos_VB 318 322	make
+#68	AnnotatorNotes T68	lemma = 'make'
+T69	pos_NN 323 330	percent
+#69	AnnotatorNotes T69	lemma = 'percent'
+T70	pos_NNS 331 342	differences
+#70	AnnotatorNotes T70	lemma = 'difference'
+T71	pos_IN 343 347	with
+#71	AnnotatorNotes T71	lemma = 'with'
+T72	pos_NNS 348 361	constructions
+#72	AnnotatorNotes T72	lemma = 'construction'
+T73	pos_PDT 362 366	such
+#73	AnnotatorNotes T73	lemma = 'such'
+T74	pos_IN 367 369	as
+#74	AnnotatorNotes T74	lemma = 'as'
+T75	pos_Fd 370 371	:
+#75	AnnotatorNotes T75	lemma = ':'
+T76	pos_Fw 372 373	'
+#76	AnnotatorNotes T76	lemma = '''
+T77	pos_JJ 373 377	хочу
+#77	AnnotatorNotes T77	lemma = 'хочу'
+T78	pos_NNS 378 382	воды
+#78	AnnotatorNotes T78	lemma = 'воды'
+T79	pos_Fg 382 383	-
+#79	AnnotatorNotes T79	lemma = '-'
+T80	pos_JJ 384 388	хочу
+#80	AnnotatorNotes T80	lemma = 'хочу'
+T81	pos_NNS 389 393	пить
+#81	AnnotatorNotes T81	lemma = 'пить'
+T82	pos_Fg 393 394	-
+#82	AnnotatorNotes T82	lemma = '-'
+T83	pos_NNS 395 399	хочу
+#83	AnnotatorNotes T83	lemma = 'хочу'
+T84	pos_Fc 399 400	,
+#84	AnnotatorNotes T84	lemma = ','
+T85	pos_JJ 401 406	чтобы
+#85	AnnotatorNotes T85	lemma = 'чтобы'
+T86	pos_Fw 406 407	'
+#86	AnnotatorNotes T86	lemma = '''
+T87	pos_CC 408 411	and
+#87	AnnotatorNotes T87	lemma = 'and'
+T88	pos_Fw 412 413	'
+#88	AnnotatorNotes T88	lemma = '''
+T89	pos_JJ 413 414	я
+#89	AnnotatorNotes T89	lemma = 'я'
+T90	pos_NN 415 420	люблю
+#90	AnnotatorNotes T90	lemma = 'люблю'
+T91	pos_Fg 420 421	-
+#91	AnnotatorNotes T91	lemma = '-'
+T92	pos_RB 422 425	мне
+#92	AnnotatorNotes T92	lemma = 'мне'
+T93	pos_JJ 426 434	нравится
+#93	AnnotatorNotes T93	lemma = 'нравится'
+T94	pos_Fw 434 435	'
+#94	AnnotatorNotes T94	lemma = '''
+T95	pos_CC 436 439	and
+#95	AnnotatorNotes T95	lemma = 'and'
+T96	pos_TO 440 442	to
+#96	AnnotatorNotes T96	lemma = 'to'
+T97	pos_VB 443 447	make
+#97	AnnotatorNotes T97	lemma = 'make'
+T98	pos_DT 448 452	some
+#98	AnnotatorNotes T98	lemma = 'some'
+T99	pos_NN 453 464	explanation
+#99	AnnotatorNotes T99	lemma = 'explanation'
+T100	pos_IN 465 467	of
+#100	AnnotatorNotes T100	lemma = 'of'
+T101	pos_DT 468 473	these
+#101	AnnotatorNotes T101	lemma = 'these'
+T102	pos_NNS 474 485	differences
+#102	AnnotatorNotes T102	lemma = 'difference'
+T103	pos_Fp 485 486	.
+#103	AnnotatorNotes T103	lemma = '.'
+T104	pos_RB 487 491	Also
+#104	AnnotatorNotes T104	lemma = 'also'
+T105	pos_PRP 492 494	we
+#105	AnnotatorNotes T105	lemma = 'we'
+T106	pos_MD 495 499	will
+#106	AnnotatorNotes T106	lemma = 'will'
+T107	pos_VB 500 507	compare
+#107	AnnotatorNotes T107	lemma = 'compare'
+T108	pos_NNS 508 520	combinations
+#108	AnnotatorNotes T108	lemma = 'combination'
+T109	pos_IN 521 523	of
+#109	AnnotatorNotes T109	lemma = 'of'
+T110	pos_NNS 524 529	verbs
+#110	AnnotatorNotes T110	lemma = 'verb'
+T111	pos_IN 530 534	with
+#111	AnnotatorNotes T111	lemma = 'with'
+T112	pos_IN 535 537	in
+#112	AnnotatorNotes T112	lemma = 'in'
+T113	pos_/ 537 538	/
+#113	AnnotatorNotes T113	lemma = '/'
+T114	pos_VBN 538 546	animated
+#114	AnnotatorNotes T114	lemma = 'animate'
+T115	pos_NNS 547 552	nouns
+#115	AnnotatorNotes T115	lemma = 'noun'
+T116	pos_CC 553 556	and
+#116	AnnotatorNotes T116	lemma = 'and'
+T117	pos_DT 557 560	the
+#117	AnnotatorNotes T117	lemma = 'the'
+T118	pos_JJ 561 569	negative
+#118	AnnotatorNotes T118	lemma = 'negative'
+T119	pos_NNS 570 575	forms
+#119	AnnotatorNotes T119	lemma = 'form'
+T120	pos_IN 576 578	of
+#120	AnnotatorNotes T120	lemma = 'of'
+T121	pos_NNS 579 584	verbs
+#121	AnnotatorNotes T121	lemma = 'verb'

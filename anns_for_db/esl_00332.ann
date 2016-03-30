@@ -1,0 +1,471 @@
+T1	Formational_affixes 20 30	phonetical
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Major
+#1	AnnotatorNotes T1	phonetic
+T2	note 60 136	the only discovered and proved purpose of which is making speech more fluent
+#2	AnnotatorNotes T2	Syntactic calque from Russian
+T3	suggestion 381 394	establishment
+A3	Delete T3
+T4	Discourse 359 380	behind coarticulation
+A4	Weight-language T4 Major
+#3	AnnotatorNotes T4	behind the phenomenon of coarticulation  
+T5	Spelling 738 742	benn
+A5	Cause T5 Typo
+#4	AnnotatorNotes T5	been
+T6	Spelling 1005 1013	programm
+A6	Weight-language T6 Minor
+#5	AnnotatorNotes T6	program
+T7	pos_NP 0 14	Coarticulation
+#6	AnnotatorNotes T7	lemma = 'coarticulation'
+T8	pos_VBZ 15 17	is
+#7	AnnotatorNotes T8	lemma = 'be'
+T9	pos_DT 18 19	a
+#8	AnnotatorNotes T9	lemma = 'a'
+T10	pos_JJ 20 30	phonetical
+#9	AnnotatorNotes T10	lemma = 'phonetical'
+T11	pos_NN 31 38	process
+#10	AnnotatorNotes T11	lemma = 'process'
+T12	pos_IN 39 41	of
+#11	AnnotatorNotes T12	lemma = 'of'
+T13	pos_JJ 42 47	sound
+#12	AnnotatorNotes T13	lemma = 'sound'
+T14	pos_NN 48 58	alteration
+#13	AnnotatorNotes T14	lemma = 'alteration'
+T15	pos_Fc 58 59	,
+#14	AnnotatorNotes T15	lemma = ','
+T16	pos_DT 60 63	the
+#15	AnnotatorNotes T16	lemma = 'the'
+T17	pos_JJ 64 68	only
+#16	AnnotatorNotes T17	lemma = 'only'
+T18	pos_VBN 69 79	discovered
+#17	AnnotatorNotes T18	lemma = 'discover'
+T19	pos_CC 80 83	and
+#18	AnnotatorNotes T19	lemma = 'and'
+T20	pos_VBN 84 90	proved
+#19	AnnotatorNotes T20	lemma = 'prove'
+T21	pos_NN 91 98	purpose
+#20	AnnotatorNotes T21	lemma = 'purpose'
+T22	pos_IN 99 101	of
+#21	AnnotatorNotes T22	lemma = 'of'
+T23	pos_WDT 102 107	which
+#22	AnnotatorNotes T23	lemma = 'which'
+T24	pos_VBZ 108 110	is
+#23	AnnotatorNotes T24	lemma = 'be'
+T25	pos_VBG 111 117	making
+#24	AnnotatorNotes T25	lemma = 'make'
+T26	pos_NN 118 124	speech
+#25	AnnotatorNotes T26	lemma = 'speech'
+T27	pos_RBR 125 129	more
+#26	AnnotatorNotes T27	lemma = 'many'
+T28	pos_JJ 130 136	fluent
+#27	AnnotatorNotes T28	lemma = 'fluent'
+T29	pos_Fp 136 137	.
+#28	AnnotatorNotes T29	lemma = '.'
+T30	pos_DT 138 141	The
+#29	AnnotatorNotes T30	lemma = 'the'
+T31	pos_NN 142 146	goal
+#30	AnnotatorNotes T31	lemma = 'goal'
+T32	pos_IN 147 149	of
+#31	AnnotatorNotes T32	lemma = 'of'
+T33	pos_DT 150 154	this
+#32	AnnotatorNotes T33	lemma = 'this'
+T34	pos_NN 155 162	project
+#33	AnnotatorNotes T34	lemma = 'project'
+T35	pos_VBZ 163 165	is
+#34	AnnotatorNotes T35	lemma = 'be'
+T36	pos_TO 166 168	to
+#35	AnnotatorNotes T36	lemma = 'to'
+T37	pos_VB 169 176	collect
+#36	AnnotatorNotes T37	lemma = 'collect'
+T38	pos_RBR 177 181	more
+#37	AnnotatorNotes T38	lemma = 'many'
+T39	pos_NN 182 193	information
+#38	AnnotatorNotes T39	lemma = 'information'
+T40	pos_VBG 194 203	regarding
+#39	AnnotatorNotes T40	lemma = 'regard'
+T41	pos_DT 204 207	the
+#40	AnnotatorNotes T41	lemma = 'the'
+T42	pos_NN 208 218	phenomenon
+#41	AnnotatorNotes T42	lemma = 'phenomenon'
+T43	pos_Fp 218 219	.
+#42	AnnotatorNotes T43	lemma = '.'
+T44	pos_IN 220 225	Since
+#43	AnnotatorNotes T44	lemma = 'since'
+T45	pos_DT 226 229	the
+#44	AnnotatorNotes T45	lemma = 'the'
+T46	pos_NN 230 241	combination
+#45	AnnotatorNotes T46	lemma = 'combination'
+T47	pos_IN 242 244	of
+#46	AnnotatorNotes T47	lemma = 'of'
+T48	pos_Fca 245 246	[
+#47	AnnotatorNotes T48	lemma = '['
+T49	pos_NN 246 247	ш
+#48	AnnotatorNotes T49	lemma = 'ш'
+T50	pos_Fct 247 248	]
+#49	AnnotatorNotes T50	lemma = ']'
+T51	pos_CC 249 252	and
+#50	AnnotatorNotes T51	lemma = 'and'
+T52	pos_Fca 253 254	[
+#51	AnnotatorNotes T52	lemma = '['
+T53	pos_NN 254 255	р
+#52	AnnotatorNotes T53	lemma = 'р'
+T54	pos_Fct 255 256	]
+#53	AnnotatorNotes T54	lemma = ']'
+T55	pos_IN 257 259	in
+#54	AnnotatorNotes T55	lemma = 'in'
+T56	pos_NP 260 267	Russian
+#55	AnnotatorNotes T56	lemma = 'russian'
+T57	pos_VBZ 268 270	is
+#56	AnnotatorNotes T57	lemma = 'be'
+T58	pos_JJ 271 275	rare
+#57	AnnotatorNotes T58	lemma = 'rare'
+T59	pos_Fc 275 276	,
+#58	AnnotatorNotes T59	lemma = ','
+T60	pos_PRP 277 279	it
+#59	AnnotatorNotes T60	lemma = 'it'
+T61	pos_VBZ 279 281	's
+#60	AnnotatorNotes T61	lemma = 'be'
+T62	pos_NN 282 296	coarticulation
+#61	AnnotatorNotes T62	lemma = 'coarticulation'
+T63	pos_VBZ 297 299	is
+#62	AnnotatorNotes T63	lemma = 'be'
+T64	pos_JJ 300 313	unpredictable
+#63	AnnotatorNotes T64	lemma = 'unpredictable'
+T65	pos_Fp 313 314	.
+#64	AnnotatorNotes T65	lemma = '.'
+T66	pos_IN 315 317	As
+#65	AnnotatorNotes T66	lemma = 'as'
+T67	pos_DT 318 322	this
+#66	AnnotatorNotes T67	lemma = 'this'
+T68	pos_MD 323 326	may
+#67	AnnotatorNotes T68	lemma = 'may'
+T69	pos_VB 327 331	lead
+#68	AnnotatorNotes T69	lemma = 'lead'
+T70	pos_TO 332 334	to
+#69	AnnotatorNotes T70	lemma = 'to'
+T71	pos_NN 335 348	understanding
+#70	AnnotatorNotes T71	lemma = 'understanding'
+T72	pos_IN 349 351	of
+#71	AnnotatorNotes T72	lemma = 'of'
+T73	pos_NN 352 358	reason
+#72	AnnotatorNotes T73	lemma = 'reason'
+T74	pos_IN 359 365	behind
+#73	AnnotatorNotes T74	lemma = 'behind'
+T75	pos_NN 366 380	coarticulation
+#74	AnnotatorNotes T75	lemma = 'coarticulation'
+T76	pos_NN 381 394	establishment
+#75	AnnotatorNotes T76	lemma = 'establishment'
+T77	pos_Fc 394 395	,
+#76	AnnotatorNotes T77	lemma = ','
+T78	pos_DT 396 400	this
+#77	AnnotatorNotes T78	lemma = 'this'
+T79	pos_JJ 401 406	exact
+#78	AnnotatorNotes T79	lemma = 'exact'
+T80	pos_JJ 407 416	consonant
+#79	AnnotatorNotes T80	lemma = 'consonant'
+T81	pos_NN 417 428	combination
+#80	AnnotatorNotes T81	lemma = 'combination'
+T82	pos_VBZ 429 432	has
+#81	AnnotatorNotes T82	lemma = 'have'
+T83	pos_VBN 433 437	been
+#82	AnnotatorNotes T83	lemma = 'be'
+T84	pos_VBN 438 444	chosen
+#83	AnnotatorNotes T84	lemma = 'choose'
+T85	pos_IN 445 448	for
+#84	AnnotatorNotes T85	lemma = 'for'
+T86	pos_DT 449 452	the
+#85	AnnotatorNotes T86	lemma = 'the'
+T87	pos_NN 453 461	research
+#86	AnnotatorNotes T87	lemma = 'research'
+T88	pos_Fp 461 462	.
+#87	AnnotatorNotes T88	lemma = '.'
+T89	pos_DT 463 464	A
+#88	AnnotatorNotes T89	lemma = 'a'
+T90	pos_JJ 465 473	specific
+#89	AnnotatorNotes T90	lemma = 'specific'
+T91	pos_NN 474 478	text
+#90	AnnotatorNotes T91	lemma = 'text'
+T92	pos_VBD 479 482	was
+#91	AnnotatorNotes T92	lemma = 'be'
+T93	pos_VBN 483 491	composed
+#92	AnnotatorNotes T93	lemma = 'compose'
+T94	pos_Fc 491 492	,
+#93	AnnotatorNotes T94	lemma = ','
+T95	pos_RB 493 497	then
+#94	AnnotatorNotes T95	lemma = 'then'
+T96	pos_VBN 498 507	vocalised
+#95	AnnotatorNotes T96	lemma = 'vocalise'
+T97	pos_CC 508 511	and
+#96	AnnotatorNotes T97	lemma = 'and'
+T98	pos_VBN 512 520	recorded
+#97	AnnotatorNotes T98	lemma = 'record'
+T99	pos_IN 521 524	for
+#98	AnnotatorNotes T99	lemma = 'for'
+T100	pos_DT 525 528	the
+#99	AnnotatorNotes T100	lemma = 'the'
+T101	pos_NN 529 537	research
+#100	AnnotatorNotes T101	lemma = 'research'
+T102	pos_NNS 538 546	purposes
+#101	AnnotatorNotes T102	lemma = 'purpose'
+T103	pos_Fp 546 547	.
+#102	AnnotatorNotes T103	lemma = '.'
+T104	pos_NP 548 560	Oscilogramms
+#103	AnnotatorNotes T104	lemma = 'oscilogramms'
+T105	pos_IN 561 563	of
+#104	AnnotatorNotes T105	lemma = 'of'
+T106	pos_DT 564 567	the
+#105	AnnotatorNotes T106	lemma = 'the'
+T107	pos_VBN 568 576	recorded
+#106	AnnotatorNotes T107	lemma = 'record'
+T108	pos_NNS 577 582	files
+#107	AnnotatorNotes T108	lemma = 'file'
+T109	pos_VBD 583 587	were
+#108	AnnotatorNotes T109	lemma = 'be'
+T110	pos_RB 588 592	then
+#109	AnnotatorNotes T110	lemma = 'then'
+T111	pos_VBN 593 601	produced
+#110	AnnotatorNotes T111	lemma = 'produce'
+T112	pos_IN 602 605	via
+#111	AnnotatorNotes T112	lemma = 'via'
+T113	pos_DT 606 609	the
+#112	AnnotatorNotes T113	lemma = 'the'
+T114	pos_NP 610 625	Speech Analyzer
+#113	AnnotatorNotes T114	lemma = 'speech_analyzer'
+T115	pos_NN 626 634	programm
+#114	AnnotatorNotes T115	lemma = 'programm'
+T116	pos_Fp 634 635	.
+#115	AnnotatorNotes T116	lemma = '.'
+T117	pos_DT 636 641	These
+#116	AnnotatorNotes T117	lemma = 'these'
+T118	pos_NNS 642 654	oscilogramms
+#117	AnnotatorNotes T118	lemma = 'oscilogramms'
+T119	pos_VBD 655 664	indicated
+#118	AnnotatorNotes T119	lemma = 'indicate'
+T120	pos_PDT 665 668	all
+#119	AnnotatorNotes T120	lemma = 'all'
+T121	pos_DT 669 672	the
+#120	AnnotatorNotes T121	lemma = 'the'
+T122	pos_NNS 673 682	processes
+#121	AnnotatorNotes T122	lemma = 'process'
+T123	pos_Fc 682 683	,
+#122	AnnotatorNotes T123	lemma = ','
+T124	pos_WDT 684 688	that
+#123	AnnotatorNotes T124	lemma = 'that'
+T125	pos_VBD 689 697	occurred
+#124	AnnotatorNotes T125	lemma = 'occur'
+T126	pos_IN 698 700	in
+#125	AnnotatorNotes T126	lemma = 'in'
+T127	pos_DT 701 704	the
+#126	AnnotatorNotes T127	lemma = 'the'
+T128	pos_NN 705 711	speech
+#127	AnnotatorNotes T128	lemma = 'speech'
+T129	pos_Fp 711 712	.
+#128	AnnotatorNotes T129	lemma = '.'
+T130	pos_IN 713 715	On
+#129	AnnotatorNotes T130	lemma = 'on'
+T131	pos_DT 716 719	the
+#130	AnnotatorNotes T131	lemma = 'the'
+T132	pos_NN 720 725	basis
+#131	AnnotatorNotes T132	lemma = 'basis'
+T133	pos_IN 726 728	of
+#132	AnnotatorNotes T133	lemma = 'of'
+T134	pos_WP 729 733	what
+#133	AnnotatorNotes T134	lemma = 'what'
+T135	pos_VBZ 734 737	has
+#134	AnnotatorNotes T135	lemma = 'have'
+T136	pos_VBN 738 742	benn
+#135	AnnotatorNotes T136	lemma = 'benn'
+T137	pos_VBN 743 749	traced
+#136	AnnotatorNotes T137	lemma = 'trace'
+T138	pos_IN 750 752	on
+#137	AnnotatorNotes T138	lemma = 'on'
+T139	pos_DT 753 756	the
+#138	AnnotatorNotes T139	lemma = 'the'
+T140	pos_NNS 757 769	oscilogramms
+#139	AnnotatorNotes T140	lemma = 'oscilogramms'
+T141	pos_JJ 770 777	several
+#140	AnnotatorNotes T141	lemma = 'several'
+T142	pos_NNS 778 789	assumptions
+#141	AnnotatorNotes T142	lemma = 'assumption'
+T143	pos_VBD 790 794	were
+#142	AnnotatorNotes T143	lemma = 'be'
+T144	pos_VBN 795 799	made
+#143	AnnotatorNotes T144	lemma = 'make'
+T145	pos_Fpa 800 801	(
+#144	AnnotatorNotes T145	lemma = '('
+T146	pos_VB 801 804	see
+#145	AnnotatorNotes T146	lemma = 'see'
+T147	pos_DT 805 808	the
+#146	AnnotatorNotes T147	lemma = 'the'
+T148	pos_NN 809 815	course
+#147	AnnotatorNotes T148	lemma = 'course'
+T149	pos_NN 816 823	project
+#148	AnnotatorNotes T149	lemma = 'project'
+T150	pos_IN 824 827	for
+#149	AnnotatorNotes T150	lemma = 'for'
+T151	pos_NNS 828 835	details
+#150	AnnotatorNotes T151	lemma = 'detail'
+T152	pos_Fpt 835 836	)
+#151	AnnotatorNotes T152	lemma = ')'
+T153	pos_Fp 836 837	.
+#152	AnnotatorNotes T153	lemma = '.'
+T154	pos_DT 838 843	These
+#153	AnnotatorNotes T154	lemma = 'these'
+T155	pos_NNS 844 855	assumptions
+#154	AnnotatorNotes T155	lemma = 'assumption'
+T156	pos_MD 856 862	should
+#155	AnnotatorNotes T156	lemma = 'should'
+T157	pos_VB 863 867	lead
+#156	AnnotatorNotes T157	lemma = 'lead'
+T158	pos_TO 868 870	to
+#157	AnnotatorNotes T158	lemma = 'to'
+T159	pos_JJ 871 878	further
+#158	AnnotatorNotes T159	lemma = 'further'
+T160	pos_NN 879 892	investigation
+#159	AnnotatorNotes T160	lemma = 'investigation'
+T161	pos_IN 893 895	of
+#160	AnnotatorNotes T161	lemma = 'of'
+T162	pos_NN 896 910	coarticulation
+#161	AnnotatorNotes T162	lemma = 'coarticulation'
+T163	pos_Fp 910 911	.
+#162	AnnotatorNotes T163	lemma = '.'
+T164	pos_PRP 912 916	They
+#163	AnnotatorNotes T164	lemma = 'they'
+T165	pos_MD 917 920	may
+#164	AnnotatorNotes T165	lemma = 'may'
+T166	pos_RB 921 925	also
+#165	AnnotatorNotes T166	lemma = 'also'
+T167	pos_VB 926 930	have
+#166	AnnotatorNotes T167	lemma = 'have'
+T168	pos_JJ 931 940	practical
+#167	AnnotatorNotes T168	lemma = 'practical'
+T169	pos_NN 941 946	value
+#168	AnnotatorNotes T169	lemma = 'value'
+T170	pos_Fc 946 947	,
+#169	AnnotatorNotes T170	lemma = ','
+T171	pos_RB 948 952	e.g.
+#170	AnnotatorNotes T171	lemma = 'e.g.'
+T172	pos_DT 953 954	a
+#171	AnnotatorNotes T172	lemma = 'a'
+T173	pos_JJ 955 960	fresh
+#172	AnnotatorNotes T173	lemma = 'fresh'
+T174	pos_NN 961 968	outlook
+#173	AnnotatorNotes T174	lemma = 'outlook'
+T175	pos_IN 969 971	on
+#174	AnnotatorNotes T175	lemma = 'on'
+T176	pos_DT 972 975	the
+#175	AnnotatorNotes T176	lemma = 'the'
+T177	pos_NN 976 982	script
+#176	AnnotatorNotes T177	lemma = 'script'
+T178	pos_IN 983 985	of
+#177	AnnotatorNotes T178	lemma = 'of'
+T179	pos_DT 986 987	a
+#178	AnnotatorNotes T179	lemma = 'a'
+T180	pos_VBG 988 1004	speech-producing
+#179	AnnotatorNotes T180	lemma = 'speech-producing'
+T181	pos_NN 1005 1013	programm
+#180	AnnotatorNotes T181	lemma = 'programm'
+T182	pos_Fp 1013 1014	.
+#181	AnnotatorNotes T182	lemma = '.'
+T183	pos_NN 1015 1027	Bibliography
+#182	AnnotatorNotes T183	lemma = 'bibliography'
+T184	pos_Z 1028 1029	1
+#183	AnnotatorNotes T184	lemma = '1'
+T185	pos_Fp 1029 1030	.
+#184	AnnotatorNotes T185	lemma = '.'
+T186	pos_NP 1031 1047	W. J. Hardcastle
+#185	AnnotatorNotes T186	lemma = 'w._j._hardcastle'
+T187	pos_Fc 1047 1048	,
+#186	AnnotatorNotes T187	lemma = ','
+T188	pos_NP 1049 1059	N. Hewlett
+#187	AnnotatorNotes T188	lemma = 'n._hewlett'
+T189	pos_Fc 1059 1060	,
+#188	AnnotatorNotes T189	lemma = ','
+T190	pos_Fe 1061 1062	"
+#189	AnnotatorNotes T190	lemma = '"'
+T191	pos_NP 1062 1076	Coarticulation
+#190	AnnotatorNotes T191	lemma = 'coarticulation'
+T192	pos_Fd 1076 1077	:
+#191	AnnotatorNotes T192	lemma = ':'
+T193	pos_NN 1078 1084	Theory
+#192	AnnotatorNotes T193	lemma = 'theory'
+T194	pos_Fc 1084 1085	,
+#193	AnnotatorNotes T194	lemma = ','
+T195	pos_NP 1086 1090	Data
+#194	AnnotatorNotes T195	lemma = 'data'
+T196	pos_Fc 1090 1091	,
+#195	AnnotatorNotes T196	lemma = ','
+T197	pos_NP 1092 1102	Techniques
+#196	AnnotatorNotes T197	lemma = 'techniques'
+T198	pos_Fe 1102 1103	"
+#197	AnnotatorNotes T198	lemma = '"'
+T199	pos_Fc 1103 1104	,
+#198	AnnotatorNotes T199	lemma = ','
+T200	pos_NP 1105 1131	Cambridge University Press
+#199	AnnotatorNotes T200	lemma = 'cambridge_university_press'
+T201	pos_Fc 1131 1132	,
+#200	AnnotatorNotes T201	lemma = ','
+T202	pos_Z 1133 1137	2006
+#201	AnnotatorNotes T202	lemma = '2006'
+T203	pos_Fp 1137 1138	.
+#202	AnnotatorNotes T203	lemma = '.'
+T204	pos_Z 1139 1140	2
+#203	AnnotatorNotes T204	lemma = '2'
+T205	pos_Fp 1140 1141	.
+#204	AnnotatorNotes T205	lemma = '.'
+T206	pos_NP 1142 1155	S. V. Knyazev
+#205	AnnotatorNotes T206	lemma = 's._v._knyazev'
+T207	pos_Fc 1155 1156	,
+#206	AnnotatorNotes T207	lemma = ','
+T208	pos_NP 1157 1175	S. K. Pozharizkaya
+#207	AnnotatorNotes T208	lemma = 's._k._pozharizkaya'
+T209	pos_Fc 1175 1176	,
+#208	AnnotatorNotes T209	lemma = ','
+T210	pos_Fe 1177 1178	"
+#209	AnnotatorNotes T210	lemma = '"'
+T211	pos_JJ 1178 1184	Modern
+#210	AnnotatorNotes T211	lemma = 'modern'
+T212	pos_NP 1185 1201	Russian Language
+#211	AnnotatorNotes T212	lemma = 'russian_language'
+T213	pos_Fe 1201 1202	"
+#212	AnnotatorNotes T213	lemma = '"'
+T214	pos_Fc 1202 1203	,
+#213	AnnotatorNotes T214	lemma = ','
+T215	pos_NP 1204 1207	MSU
+#214	AnnotatorNotes T215	lemma = 'msu'
+T216	pos_Fc 1207 1208	,
+#215	AnnotatorNotes T216	lemma = ','
+T217	pos_Z 1209 1213	2005
+#216	AnnotatorNotes T217	lemma = '2005'
+T218	pos_Fp 1213 1214	.
+#217	AnnotatorNotes T218	lemma = '.'
+T219	pos_Z 1215 1216	3
+#218	AnnotatorNotes T219	lemma = '3'
+T220	pos_Fp 1216 1217	.
+#219	AnnotatorNotes T220	lemma = '.'
+T221	pos_NP 1218 1232	S. V. Kodzasov
+#220	AnnotatorNotes T221	lemma = 's._v._kodzasov'
+T222	pos_Fc 1232 1233	,
+#221	AnnotatorNotes T222	lemma = ','
+T223	pos_NP 1234 1248	O. V. Krivnova
+#222	AnnotatorNotes T223	lemma = 'o._v._krivnova'
+T224	pos_Fc 1248 1249	,
+#223	AnnotatorNotes T224	lemma = ','
+T225	pos_Fe 1250 1251	"
+#224	AnnotatorNotes T225	lemma = '"'
+T226	pos_JJ 1251 1258	General
+#225	AnnotatorNotes T226	lemma = 'general'
+T227	pos_NP 1259 1268	Phonetics
+#226	AnnotatorNotes T227	lemma = 'phonetics'
+T228	pos_Fe 1268 1269	"
+#227	AnnotatorNotes T228	lemma = '"'
+T229	pos_Fc 1269 1270	,
+#228	AnnotatorNotes T229	lemma = ','
+T230	pos_NP 1271 1275	RSUH
+#229	AnnotatorNotes T230	lemma = 'rsuh'
+T231	pos_Fc 1275 1276	,
+#230	AnnotatorNotes T231	lemma = ','
+T232	pos_Z 1277 1281	2001
+#231	AnnotatorNotes T232	lemma = '2001'
+T233	pos_Fp 1281 1282	.
+#232	AnnotatorNotes T233	lemma = '.'

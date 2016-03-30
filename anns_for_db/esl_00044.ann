@@ -1,0 +1,478 @@
+T1	Art_choice 75 84	Emergence	
+#1	AnnotatorNotes T1	The emergence
+T3	Det_form 155 157	it	
+#3	AnnotatorNotes T3	its
+T6	Contrast 426 429	But	
+#6	AnnotatorNotes T6	However
+T7	Spelling 465 475	diminution	
+#7	AnnotatorNotes T7	dimension
+T8	Prepositions 481 483	in	
+#8	AnnotatorNotes T8	into
+T9	Art_choice 507 514	concept
+#9	AnnotatorNotes T9	the concept
+T10	Redundant_comp 572 579	such us	
+A10	Delete T10
+T12	lex_item_choice 886 893	support	
+#12	AnnotatorNotes T12	motivation
+A1	Cause T1 Absence_of_Category_in_L1
+A2	Weight-language T1 Critical
+A6	Weight-language T3 Major
+A8	Weight-language T6 Minor
+A9	Weight-language T8 Critical
+A11	Weight-language T9 Critical
+A12	Weight-language T12 Minor
+T13	Art_form 801 813	relationship
+A16	Weight-language T13 Critical
+#4	AnnotatorNotes T13	a relationship
+T2	Absence_comp_sent 75 84	Emergence
+A3	Addition T2
+A5	Cause T2 Other
+A17	Weight-language T2 Major
+A18	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	Emergence of
+T4	Punctuation 190 201	, nowadays,
+#10	AnnotatorNotes T4	nowadays
+T14	Standard 233 309	of, predominant in psychotherapy, medical and mechanical models of knowledge
+#11	AnnotatorNotes T14	of medical and mechanical models of knowledge predominant in psychotherapy
+T5	Negation 369 382	are not allow
+#5	AnnotatorNotes T5	do not allow
+T15	Prepositions 580 582	by
+#13	AnnotatorNotes T15	through
+T16	Voice_choice 664 674	associates
+#14	AnnotatorNotes T16	is associated
+T17	Lack_of_connective 659 686	soul associates with depth,
+#15	AnnotatorNotes T17	soul is associated with depth, and
+T18	Punctuation 151 154	and
+#16	AnnotatorNotes T18	, and
+T19	Transitive 783 800	cultivate through
+#17	AnnotatorNotes T19	cultivate
+T11	Category_confusion 837 846	attentive
+#18	AnnotatorNotes T11	attention
+T20	Category_confusion 848 854	caring
+#19	AnnotatorNotes T20	care
+T21	lex_item_choice 1039 1041	is
+#20	AnnotatorNotes T21	implies
+T22	Lack_par_constr 1251 1254	and
+#21	AnnotatorNotes T22	and from
+T23	pos_﻿ 0 1	﻿
+#22	AnnotatorNotes T23	lemma = '﻿'
+T24	pos_NP 1 15	Common Factors
+#23	AnnotatorNotes T24	lemma = 'common_factors'
+T25	pos_Fd 15 16	:
+#24	AnnotatorNotes T25	lemma = ':'
+T26	pos_WRB 17 22	Where
+#25	AnnotatorNotes T26	lemma = 'where'
+T27	pos_DT 23 26	the
+#26	AnnotatorNotes T27	lemma = 'the'
+T28	pos_NP 27 45	Soul of Counseling
+#27	AnnotatorNotes T28	lemma = 'soul_of_counseling'
+T29	pos_CC 46 49	and
+#28	AnnotatorNotes T29	lemma = 'and'
+T30	pos_NP 50 71	Psychotherapy Resides
+#29	AnnotatorNotes T30	lemma = 'psychotherapy_resides'
+T31	pos_Fp 71 72	.
+#30	AnnotatorNotes T31	lemma = '.'
+T32	pos_NN 75 84	Emergence
+#31	AnnotatorNotes T32	lemma = 'emergence'
+T33	pos_DT 86 87	a
+#32	AnnotatorNotes T33	lemma = 'a'
+T34	pos_JJ 88 92	huge
+#33	AnnotatorNotes T34	lemma = 'huge'
+T35	pos_NN 93 99	amount
+#34	AnnotatorNotes T35	lemma = 'amount'
+T36	pos_IN 100 102	of
+#35	AnnotatorNotes T36	lemma = 'of'
+T37	pos_NN 103 113	literature
+#36	AnnotatorNotes T37	lemma = 'literature'
+T38	pos_VBG 114 124	concerning
+#37	AnnotatorNotes T38	lemma = 'concern'
+T39	pos_NN 125 133	religion
+#38	AnnotatorNotes T39	lemma = 'religion'
+T40	pos_CC 134 137	and
+#39	AnnotatorNotes T40	lemma = 'and'
+T41	pos_NN 138 150	spirituality
+#40	AnnotatorNotes T41	lemma = 'spirituality'
+T42	pos_CC 151 154	and
+#41	AnnotatorNotes T42	lemma = 'and'
+T43	pos_PRP 155 157	it
+#42	AnnotatorNotes T43	lemma = 'it'
+T44	pos_NN 158 171	incorporation
+#43	AnnotatorNotes T44	lemma = 'incorporation'
+T45	pos_IN 172 176	into
+#44	AnnotatorNotes T45	lemma = 'into'
+T46	pos_NN 177 190	psychotherapy
+#45	AnnotatorNotes T46	lemma = 'psychotherapy'
+T47	pos_Fc 190 191	,
+#46	AnnotatorNotes T47	lemma = ','
+T48	pos_RB 192 200	nowadays
+#47	AnnotatorNotes T48	lemma = 'nowadays'
+T49	pos_Fc 200 201	,
+#48	AnnotatorNotes T49	lemma = ','
+T50	pos_VBZ 202 204	is
+#49	AnnotatorNotes T50	lemma = 'be'
+T51	pos_VBN 205 214	connected
+#50	AnnotatorNotes T51	lemma = 'connect'
+T52	pos_IN 215 219	with
+#51	AnnotatorNotes T52	lemma = 'with'
+T53	pos_DT 220 221	a
+#52	AnnotatorNotes T53	lemma = 'a'
+T54	pos_JJ 222 226	weak
+#53	AnnotatorNotes T54	lemma = 'weak'
+T55	pos_NN 227 232	point
+#54	AnnotatorNotes T55	lemma = 'point'
+T56	pos_IN 233 235	of
+#55	AnnotatorNotes T56	lemma = 'of'
+T57	pos_Fc 235 236	,
+#56	AnnotatorNotes T57	lemma = ','
+T58	pos_JJ 237 248	predominant
+#57	AnnotatorNotes T58	lemma = 'predominant'
+T59	pos_IN 249 251	in
+#58	AnnotatorNotes T59	lemma = 'in'
+T60	pos_NN 252 265	psychotherapy
+#59	AnnotatorNotes T60	lemma = 'psychotherapy'
+T61	pos_Fc 265 266	,
+#60	AnnotatorNotes T61	lemma = ','
+T62	pos_JJ 267 274	medical
+#61	AnnotatorNotes T62	lemma = 'medical'
+T63	pos_CC 275 278	and
+#62	AnnotatorNotes T63	lemma = 'and'
+T64	pos_JJ 279 289	mechanical
+#63	AnnotatorNotes T64	lemma = 'mechanical'
+T65	pos_NNS 290 296	models
+#64	AnnotatorNotes T65	lemma = 'model'
+T66	pos_IN 297 299	of
+#65	AnnotatorNotes T66	lemma = 'of'
+T67	pos_NN 300 309	knowledge
+#66	AnnotatorNotes T67	lemma = 'knowledge'
+T68	pos_Fp 309 310	.
+#67	AnnotatorNotes T68	lemma = '.'
+T69	pos_JJ 311 318	Medical
+#68	AnnotatorNotes T69	lemma = 'medical'
+T70	pos_CC 319 322	and
+#69	AnnotatorNotes T70	lemma = 'and'
+T71	pos_JJ 323 333	mechanical
+#70	AnnotatorNotes T71	lemma = 'mechanical'
+T72	pos_NNS 334 340	models
+#71	AnnotatorNotes T72	lemma = 'model'
+T73	pos_Fc 340 341	,
+#72	AnnotatorNotes T73	lemma = ','
+T74	pos_NN 342 352	technology
+#73	AnnotatorNotes T74	lemma = 'technology'
+T75	pos_CC 353 356	and
+#74	AnnotatorNotes T75	lemma = 'and'
+T76	pos_NN 357 368	rationality
+#75	AnnotatorNotes T76	lemma = 'rationality'
+T77	pos_VBP 369 372	are
+#76	AnnotatorNotes T77	lemma = 'be'
+T78	pos_RB 373 376	not
+#77	AnnotatorNotes T78	lemma = 'not'
+T79	pos_VB 377 382	allow
+#78	AnnotatorNotes T79	lemma = 'allow'
+T80	pos_JJ 383 392	authentic
+#79	AnnotatorNotes T80	lemma = 'authentic'
+T81	pos_JJ 393 402	spiritual
+#80	AnnotatorNotes T81	lemma = 'spiritual'
+T82	pos_NN 403 407	work
+#81	AnnotatorNotes T82	lemma = 'work'
+T83	pos_IN 408 410	in
+#82	AnnotatorNotes T83	lemma = 'in'
+T84	pos_NN 411 424	psychotherapy
+#83	AnnotatorNotes T84	lemma = 'psychotherapy'
+T85	pos_Fp 424 425	.
+#84	AnnotatorNotes T85	lemma = '.'
+T86	pos_CC 426 429	But
+#85	AnnotatorNotes T86	lemma = 'but'
+T87	pos_Fc 429 430	,
+#86	AnnotatorNotes T87	lemma = ','
+T88	pos_PRP 431 433	it
+#87	AnnotatorNotes T88	lemma = 'it'
+T89	pos_VBZ 434 436	is
+#88	AnnotatorNotes T89	lemma = 'be'
+T90	pos_JJ 437 445	possible
+#89	AnnotatorNotes T90	lemma = 'possible'
+T91	pos_TO 446 448	to
+#90	AnnotatorNotes T91	lemma = 'to'
+T92	pos_VB 449 454	bring
+#91	AnnotatorNotes T92	lemma = 'bring'
+T93	pos_JJ 455 464	spiritual
+#92	AnnotatorNotes T93	lemma = 'spiritual'
+T94	pos_NN 465 475	diminution
+#93	AnnotatorNotes T94	lemma = 'diminution'
+T95	pos_RB 476 480	back
+#94	AnnotatorNotes T95	lemma = 'back'
+T96	pos_IN 481 483	in
+#95	AnnotatorNotes T96	lemma = 'in'
+T97	pos_NN 484 497	psychotherapy
+#96	AnnotatorNotes T97	lemma = 'psychotherapy'
+T98	pos_IN 498 505	through
+#97	AnnotatorNotes T98	lemma = 'through'
+T99	pos_NN 507 514	concept
+#98	AnnotatorNotes T99	lemma = 'concept'
+T100	pos_IN 515 517	of
+#99	AnnotatorNotes T100	lemma = 'of'
+T101	pos_NN 518 522	soul
+#100	AnnotatorNotes T101	lemma = 'soul'
+T102	pos_Fp 522 523	.
+#101	AnnotatorNotes T102	lemma = '.'
+T103	pos_NN 524 528	Soul
+#102	AnnotatorNotes T103	lemma = 'soul'
+T104	pos_VBZ 529 531	is
+#103	AnnotatorNotes T104	lemma = 'be'
+T105	pos_VBN 532 542	understood
+#104	AnnotatorNotes T105	lemma = 'understand'
+T106	pos_IN 543 547	from
+#105	AnnotatorNotes T106	lemma = 'from'
+T107	pos_JJ 548 559	qualitative
+#106	AnnotatorNotes T107	lemma = 'qualitative'
+T108	pos_NN 560 571	perspective
+#107	AnnotatorNotes T108	lemma = 'perspective'
+T109	pos_PDT 572 576	such
+#108	AnnotatorNotes T109	lemma = 'such'
+T110	pos_PRP 577 579	us
+#109	AnnotatorNotes T110	lemma = 'us'
+T111	pos_IN 580 582	by
+#110	AnnotatorNotes T111	lemma = 'by'
+T112	pos_WP 583 587	what
+#111	AnnotatorNotes T112	lemma = 'what'
+T113	pos_PRP 588 590	it
+#112	AnnotatorNotes T113	lemma = 'it'
+T114	pos_VBZ 591 599	suggests
+#113	AnnotatorNotes T114	lemma = 'suggest'
+T115	pos_Fc 599 600	,
+#114	AnnotatorNotes T115	lemma = ','
+T116	pos_WRB 601 606	where
+#115	AnnotatorNotes T116	lemma = 'where'
+T117	pos_PRP 607 609	it
+#116	AnnotatorNotes T117	lemma = 'it'
+T118	pos_VBZ 610 617	resides
+#117	AnnotatorNotes T118	lemma = 'reside'
+T119	pos_Fc 617 618	,
+#118	AnnotatorNotes T119	lemma = ','
+T120	pos_CC 619 621	or
+#119	AnnotatorNotes T120	lemma = 'or'
+T121	pos_WRB 622 625	how
+#120	AnnotatorNotes T121	lemma = 'how'
+T122	pos_PRP 626 628	it
+#121	AnnotatorNotes T122	lemma = 'it'
+T123	pos_VBZ 629 631	is
+#122	AnnotatorNotes T123	lemma = 'be'
+T124	pos_VBN 632 643	experienced
+#123	AnnotatorNotes T124	lemma = 'experience'
+T125	pos_Fpa 644 645	(
+#124	AnnotatorNotes T125	lemma = '('
+T126	pos_RB 645 657	for instance
+#125	AnnotatorNotes T126	lemma = 'for_instance'
+T127	pos_Fc 657 658	,
+#126	AnnotatorNotes T127	lemma = ','
+T128	pos_NN 659 663	soul
+#127	AnnotatorNotes T128	lemma = 'soul'
+T129	pos_NNS 664 674	associates
+#128	AnnotatorNotes T129	lemma = 'associate'
+T130	pos_IN 675 679	with
+#129	AnnotatorNotes T130	lemma = 'with'
+T131	pos_NN 680 685	depth
+#130	AnnotatorNotes T131	lemma = 'depth'
+T132	pos_Fc 685 686	,
+#131	AnnotatorNotes T132	lemma = ','
+T133	pos_NNS 687 693	people
+#132	AnnotatorNotes T133	lemma = 'people'
+T134	pos_NN 694 704	experience
+#133	AnnotatorNotes T134	lemma = 'experience'
+T135	pos_NN 705 709	soul
+#134	AnnotatorNotes T135	lemma = 'soul'
+T136	pos_WRB 710 714	when
+#135	AnnotatorNotes T136	lemma = 'when'
+T137	pos_DT 715 718	the
+#136	AnnotatorNotes T137	lemma = 'the'
+T138	pos_NN 719 722	art
+#137	AnnotatorNotes T138	lemma = 'art'
+T139	pos_IN 723 725	of
+#138	AnnotatorNotes T139	lemma = 'of'
+T140	pos_NN 726 731	music
+#139	AnnotatorNotes T140	lemma = 'music'
+T141	pos_NNS 732 737	moves
+#140	AnnotatorNotes T141	lemma = 'move'
+T142	pos_PRP 738 742	them
+#141	AnnotatorNotes T142	lemma = 'them'
+T143	pos_RB 743 749	deeply
+#142	AnnotatorNotes T143	lemma = 'deeply'
+T144	pos_Fc 749 750	,
+#143	AnnotatorNotes T144	lemma = ','
+T145	pos_WRB 751 755	when
+#144	AnnotatorNotes T145	lemma = 'when'
+T146	pos_PRP 756 760	they
+#145	AnnotatorNotes T146	lemma = 'they'
+T147	pos_VBP 761 765	make
+#146	AnnotatorNotes T147	lemma = 'make'
+T148	pos_NN 766 770	life
+#147	AnnotatorNotes T148	lemma = 'life'
+T149	pos_NNS 771 778	choices
+#148	AnnotatorNotes T149	lemma = 'choice'
+T150	pos_CC 779 782	and
+#149	AnnotatorNotes T150	lemma = 'and'
+T151	pos_VB 783 792	cultivate
+#150	AnnotatorNotes T151	lemma = 'cultivate'
+T152	pos_IN 793 800	through
+#151	AnnotatorNotes T152	lemma = 'through'
+T153	pos_NN 801 813	relationship
+#152	AnnotatorNotes T153	lemma = 'relationship'
+T154	pos_VBN 814 827	characterized
+#153	AnnotatorNotes T154	lemma = 'characterize'
+T155	pos_IN 828 830	by
+#154	AnnotatorNotes T155	lemma = 'by'
+T156	pos_PRP2 831 836	their
+#155	AnnotatorNotes T156	lemma = 'their'
+T157	pos_JJ 837 846	attentive
+#156	AnnotatorNotes T157	lemma = 'attentive'
+T158	pos_Fc 846 847	,
+#157	AnnotatorNotes T158	lemma = ','
+T159	pos_VBG 848 854	caring
+#158	AnnotatorNotes T159	lemma = 'care'
+T160	pos_Fc 854 855	,
+#159	AnnotatorNotes T160	lemma = ','
+T161	pos_CC 856 859	and
+#160	AnnotatorNotes T161	lemma = 'and'
+T162	pos_VBG 860 869	nurturing
+#161	AnnotatorNotes T162	lemma = 'nurture'
+T163	pos_NNS 870 879	qualities
+#162	AnnotatorNotes T163	lemma = 'quality'
+T164	pos_Fpt 879 880	)
+#163	AnnotatorNotes T164	lemma = ')'
+T165	pos_Fp 880 881	.
+#164	AnnotatorNotes T165	lemma = '.'
+T166	pos_DT 882 885	The
+#165	AnnotatorNotes T166	lemma = 'the'
+T167	pos_NN 886 893	support
+#166	AnnotatorNotes T167	lemma = 'support'
+T168	pos_IN 894 896	of
+#167	AnnotatorNotes T168	lemma = 'of'
+T169	pos_VBG 897 905	bringing
+#168	AnnotatorNotes T169	lemma = 'bring'
+T170	pos_NN 906 913	concept
+#169	AnnotatorNotes T170	lemma = 'concept'
+T171	pos_IN 914 916	of
+#170	AnnotatorNotes T171	lemma = 'of'
+T172	pos_NN 917 921	soul
+#171	AnnotatorNotes T172	lemma = 'soul'
+T173	pos_RB 922 926	back
+#172	AnnotatorNotes T173	lemma = 'back'
+T174	pos_IN 927 929	in
+#173	AnnotatorNotes T174	lemma = 'in'
+T175	pos_NN 930 943	psychotherapy
+#174	AnnotatorNotes T175	lemma = 'psychotherapy'
+T176	pos_VBZ 944 946	is
+#175	AnnotatorNotes T176	lemma = 'be'
+T177	pos_IN 947 949	in
+#176	AnnotatorNotes T177	lemma = 'in'
+T178	pos_JJ 950 961	theoretical
+#177	AnnotatorNotes T178	lemma = 'theoretical'
+T179	pos_NNS 962 971	arguments
+#178	AnnotatorNotes T179	lemma = 'argument'
+T180	pos_CC 972 975	and
+#179	AnnotatorNotes T180	lemma = 'and'
+T181	pos_JJ 976 985	empirical
+#180	AnnotatorNotes T181	lemma = 'empirical'
+T182	pos_NNS 986 994	findings
+#181	AnnotatorNotes T182	lemma = 'finding'
+T183	pos_IN 995 999	from
+#182	AnnotatorNotes T183	lemma = 'from'
+T184	pos_JJ 1000 1006	common
+#183	AnnotatorNotes T184	lemma = 'common'
+T185	pos_NN 1007 1013	factor
+#184	AnnotatorNotes T185	lemma = 'factor'
+T186	pos_Fpa 1014 1015	(
+#185	AnnotatorNotes T186	lemma = '('
+T187	pos_JJ 1015 1021	Common
+#186	AnnotatorNotes T187	lemma = 'common'
+T188	pos_NNS 1022 1029	factors
+#187	AnnotatorNotes T188	lemma = 'factor'
+T189	pos_NN 1030 1038	approach
+#188	AnnotatorNotes T189	lemma = 'approach'
+T190	pos_VBZ 1039 1041	is
+#189	AnnotatorNotes T190	lemma = 'be'
+T191	pos_IN 1042 1046	that
+#190	AnnotatorNotes T191	lemma = 'that'
+T192	pos_DT 1047 1048	a
+#191	AnnotatorNotes T192	lemma = 'a'
+T193	pos_NN 1049 1052	set
+#192	AnnotatorNotes T193	lemma = 'set'
+T194	pos_IN 1053 1055	of
+#193	AnnotatorNotes T194	lemma = 'of'
+T195	pos_NNS 1056 1063	factors
+#194	AnnotatorNotes T195	lemma = 'factor'
+T196	pos_JJ 1064 1070	common
+#195	AnnotatorNotes T196	lemma = 'common'
+T197	pos_TO 1071 1073	to
+#196	AnnotatorNotes T197	lemma = 'to'
+T198	pos_DT 1074 1077	all
+#197	AnnotatorNotes T198	lemma = 'all'
+T199	pos_NNS 1078 1087	therapies
+#198	AnnotatorNotes T199	lemma = 'therapy'
+T200	pos_VBZ 1088 1090	is
+#199	AnnotatorNotes T200	lemma = 'be'
+T201	pos_JJ 1091 1102	responsible
+#200	AnnotatorNotes T201	lemma = 'responsible'
+T202	pos_IN 1103 1106	for
+#201	AnnotatorNotes T202	lemma = 'for'
+T203	pos_DT 1107 1110	the
+#202	AnnotatorNotes T203	lemma = 'the'
+T204	pos_NNS 1111 1119	benefits
+#203	AnnotatorNotes T204	lemma = 'benefit'
+T205	pos_IN 1120 1122	of
+#204	AnnotatorNotes T205	lemma = 'of'
+T206	pos_NN 1123 1136	psychotherapy
+#205	AnnotatorNotes T206	lemma = 'psychotherapy'
+T207	pos_Fc 1136 1137	,
+#206	AnnotatorNotes T207	lemma = ','
+T208	pos_PDT 1138 1142	such
+#207	AnnotatorNotes T208	lemma = 'such'
+T209	pos_IN 1143 1145	as
+#208	AnnotatorNotes T209	lemma = 'as'
+T210	pos_NN 1147 1153	client
+#209	AnnotatorNotes T210	lemma = 'client'
+T211	pos_/ 1153 1154	/
+#210	AnnotatorNotes T211	lemma = '/'
+T212	pos_JJ 1155 1160	extra
+#211	AnnotatorNotes T212	lemma = 'extra'
+T213	pos_JJ 1161 1172	therapeutic
+#212	AnnotatorNotes T213	lemma = 'therapeutic'
+T214	pos_NNS 1173 1180	factors
+#213	AnnotatorNotes T214	lemma = 'factor'
+T215	pos_Fc 1180 1181	,
+#214	AnnotatorNotes T215	lemma = ','
+T216	pos_NN 1182 1190	relation
+#215	AnnotatorNotes T216	lemma = 'relation'
+T217	pos_NN 1191 1197	factor
+#216	AnnotatorNotes T217	lemma = 'factor'
+T218	pos_Fc 1197 1198	,
+#217	AnnotatorNotes T218	lemma = ','
+T219	pos_NN 1199 1206	placebo
+#218	AnnotatorNotes T219	lemma = 'placebo'
+T220	pos_/ 1206 1207	/
+#219	AnnotatorNotes T220	lemma = '/'
+T221	pos_NN 1207 1211	hope
+#220	AnnotatorNotes T221	lemma = 'hope'
+T222	pos_CC 1212 1215	and
+#221	AnnotatorNotes T222	lemma = 'and'
+T223	pos_NN 1216 1226	expectancy
+#222	AnnotatorNotes T223	lemma = 'expectancy'
+T224	pos_Fc 1226 1227	,
+#223	AnnotatorNotes T224	lemma = ','
+T225	pos_NNS 1228 1234	models
+#224	AnnotatorNotes T225	lemma = 'model'
+T226	pos_CC 1235 1238	and
+#225	AnnotatorNotes T226	lemma = 'and'
+T227	pos_NNS 1239 1249	techniques
+#226	AnnotatorNotes T227	lemma = 'technique'
+T228	pos_Fpt 1249 1250	)
+#227	AnnotatorNotes T228	lemma = ')'
+T229	pos_CC 1251 1254	and
+#228	AnnotatorNotes T229	lemma = 'and'
+T230	pos_NN 1255 1268	psychotherapy
+#229	AnnotatorNotes T230	lemma = 'psychotherapy'
+T231	pos_NN 1269 1280	integration
+#230	AnnotatorNotes T231	lemma = 'integration'
+T232	pos_NN 1281 1291	literature
+#231	AnnotatorNotes T232	lemma = 'literature'
+T233	pos_Fp 1291 1292	.
+#232	AnnotatorNotes T233	lemma = '.'

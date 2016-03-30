@@ -1,0 +1,302 @@
+T1	Tense_choice 418 421	can
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Critical
+#1	AnnotatorNotes T1	could
+T2	Word_order 584 612	the students of linguistics'
+A3	Cause T2 L1_interference
+A4	Weight-language T2 Major
+#2	AnnotatorNotes T2	Linguistics students'
+T3	Articles 584 587	the
+A5	Cause T3 Absence_of_Category_in_L1
+A6	Weight-language T3 Critical
+A7	Delete T3
+T4	pos_NN 0 10	Plagiarism
+#3	AnnotatorNotes T4	lemma = 'plagiarism'
+T5	pos_NN 11 20	detection
+#4	AnnotatorNotes T5	lemma = 'detection'
+T6	pos_IN 21 23	in
+#5	AnnotatorNotes T6	lemma = 'in'
+T7	pos_NNS 24 32	students
+#6	AnnotatorNotes T7	lemma = 'student'
+T8	pos_Fe 32 33	'
+#7	AnnotatorNotes T8	lemma = '''
+T9	pos_VBG 34 45	programming
+#8	AnnotatorNotes T9	lemma = 'programme'
+T10	pos_NN 46 54	homework
+#9	AnnotatorNotes T10	lemma = 'homework'
+T11	pos_DT 55 58	The
+#10	AnnotatorNotes T11	lemma = 'the'
+T12	pos_NN 59 67	increase
+#11	AnnotatorNotes T12	lemma = 'increase'
+T13	pos_IN 68 70	in
+#12	AnnotatorNotes T13	lemma = 'in'
+T14	pos_DT 71 72	a
+#13	AnnotatorNotes T14	lemma = 'a'
+T15	pos_NN 73 79	number
+#14	AnnotatorNotes T15	lemma = 'number'
+T16	pos_IN 80 82	of
+#15	AnnotatorNotes T16	lemma = 'of'
+T17	pos_NNS 83 88	cases
+#16	AnnotatorNotes T17	lemma = 'case'
+T18	pos_IN 89 91	of
+#17	AnnotatorNotes T18	lemma = 'of'
+T19	pos_NN 92 102	plagiarism
+#18	AnnotatorNotes T19	lemma = 'plagiarism'
+T20	pos_VBN 103 107	made
+#19	AnnotatorNotes T20	lemma = 'make'
+T21	pos_NN 108 118	plagiarism
+#20	AnnotatorNotes T21	lemma = 'plagiarism'
+T22	pos_NN 119 128	detection
+#21	AnnotatorNotes T22	lemma = 'detection'
+T23	pos_RB 129 133	both
+#22	AnnotatorNotes T23	lemma = 'both'
+T24	pos_IN 134 136	in
+#23	AnnotatorNotes T24	lemma = 'in'
+T25	pos_JJ 137 144	natural
+#24	AnnotatorNotes T25	lemma = 'natural'
+T26	pos_CC 145 148	and
+#25	AnnotatorNotes T26	lemma = 'and'
+T27	pos_JJ 149 159	artificial
+#26	AnnotatorNotes T27	lemma = 'artificial'
+T28	pos_NN 160 168	language
+#27	AnnotatorNotes T28	lemma = 'language'
+T29	pos_DT 169 170	a
+#28	AnnotatorNotes T29	lemma = 'a'
+T30	pos_JJ 171 175	fast
+#29	AnnotatorNotes T30	lemma = 'fast'
+T31	pos_VBG 176 186	developing
+#30	AnnotatorNotes T31	lemma = 'develop'
+T32	pos_NN 187 192	field
+#31	AnnotatorNotes T32	lemma = 'field'
+T33	pos_Fp 192 193	.
+#32	AnnotatorNotes T33	lemma = '.'
+T34	pos_RB 194 201	However
+#33	AnnotatorNotes T34	lemma = 'however'
+T35	pos_Fc 201 202	,
+#34	AnnotatorNotes T35	lemma = ','
+T36	pos_DT 203 206	the
+#35	AnnotatorNotes T36	lemma = 'the'
+T37	pos_NN 207 211	area
+#36	AnnotatorNotes T37	lemma = 'area'
+T38	pos_VBZ 212 220	includes
+#37	AnnotatorNotes T38	lemma = 'include'
+T39	pos_DT 221 222	a
+#38	AnnotatorNotes T39	lemma = 'a'
+T40	pos_JJ 223 227	wide
+#39	AnnotatorNotes T40	lemma = 'wide'
+T41	pos_NN 228 233	range
+#40	AnnotatorNotes T41	lemma = 'range'
+T42	pos_IN 234 236	of
+#41	AnnotatorNotes T42	lemma = 'of'
+T43	pos_NNS 237 242	tasks
+#42	AnnotatorNotes T43	lemma = 'task'
+T44	pos_Fc 242 243	,
+#43	AnnotatorNotes T44	lemma = ','
+T45	pos_CC 244 247	and
+#44	AnnotatorNotes T45	lemma = 'and'
+T46	pos_DT 248 252	some
+#45	AnnotatorNotes T46	lemma = 'some'
+T47	pos_IN 253 255	of
+#46	AnnotatorNotes T47	lemma = 'of'
+T48	pos_PRP 256 260	them
+#47	AnnotatorNotes T48	lemma = 'them'
+T49	pos_RB 261 266	still
+#48	AnnotatorNotes T49	lemma = 'still'
+T50	pos_VBP 267 273	remain
+#49	AnnotatorNotes T50	lemma = 'remain'
+T51	pos_JJ 274 282	unsolved
+#50	AnnotatorNotes T51	lemma = 'unsolved'
+T52	pos_Fp 282 283	.
+#51	AnnotatorNotes T52	lemma = '.'
+T53	pos_RB 284 296	For instance
+#52	AnnotatorNotes T53	lemma = 'for_instance'
+T54	pos_Fc 296 297	,
+#53	AnnotatorNotes T54	lemma = ','
+T55	pos_IN 298 300	in
+#54	AnnotatorNotes T55	lemma = 'in'
+T56	pos_NN 301 306	spite
+#55	AnnotatorNotes T56	lemma = 'spite'
+T57	pos_IN 307 309	of
+#56	AnnotatorNotes T57	lemma = 'of'
+T58	pos_DT 310 313	the
+#57	AnnotatorNotes T58	lemma = 'the'
+T59	pos_NN 314 321	variety
+#58	AnnotatorNotes T59	lemma = 'variety'
+T60	pos_IN 322 324	of
+#59	AnnotatorNotes T60	lemma = 'of'
+T61	pos_NNS 325 332	systems
+#60	AnnotatorNotes T61	lemma = 'system'
+T62	pos_WDT 333 338	which
+#61	AnnotatorNotes T62	lemma = 'which'
+T63	pos_VBP 339 345	detect
+#62	AnnotatorNotes T63	lemma = 'detect'
+T64	pos_NNS 346 351	cases
+#63	AnnotatorNotes T64	lemma = 'case'
+T65	pos_IN 352 354	of
+#64	AnnotatorNotes T65	lemma = 'of'
+T66	pos_NN 355 365	plagiarism
+#65	AnnotatorNotes T66	lemma = 'plagiarism'
+T67	pos_IN 366 368	in
+#66	AnnotatorNotes T67	lemma = 'in'
+T68	pos_NN 369 378	program's
+#67	AnnotatorNotes T68	lemma = 'program'
+T69	pos_POS 369 378	program's
+#68	AnnotatorNotes T69	lemma = ''s'
+T70	pos_NN 379 385	source
+#69	AnnotatorNotes T70	lemma = 'source'
+T71	pos_NN 386 390	code
+#70	AnnotatorNotes T71	lemma = 'code'
+T72	pos_Fc 390 391	,
+#71	AnnotatorNotes T72	lemma = ','
+T73	pos_EX 392 397	there
+#72	AnnotatorNotes T73	lemma = 'there'
+T74	pos_VBZ 398 400	is
+#73	AnnotatorNotes T74	lemma = 'be'
+T75	pos_DT 401 403	no
+#74	AnnotatorNotes T75	lemma = 'no'
+T76	pos_NN 404 411	program
+#75	AnnotatorNotes T76	lemma = 'program'
+T77	pos_WDT 412 417	which
+#76	AnnotatorNotes T77	lemma = 'which'
+T78	pos_MD 418 421	can
+#77	AnnotatorNotes T78	lemma = 'can'
+T79	pos_VB 422 426	work
+#78	AnnotatorNotes T79	lemma = 'work'
+T80	pos_IN 427 431	with
+#79	AnnotatorNotes T80	lemma = 'with'
+T81	pos_JJ 432 437	short
+#80	AnnotatorNotes T81	lemma = 'short'
+T82	pos_NNS 438 444	pieces
+#81	AnnotatorNotes T82	lemma = 'piece'
+T83	pos_IN 445 447	of
+#82	AnnotatorNotes T83	lemma = 'of'
+T84	pos_NN 448 452	code
+#83	AnnotatorNotes T84	lemma = 'code'
+T85	pos_Fc 452 453	,
+#84	AnnotatorNotes T85	lemma = ','
+T86	pos_PDT 454 458	such
+#85	AnnotatorNotes T86	lemma = 'such'
+T87	pos_IN 459 461	as
+#86	AnnotatorNotes T87	lemma = 'as'
+T88	pos_JJ 462 473	basic-level
+#87	AnnotatorNotes T88	lemma = 'basic-level'
+T89	pos_VBG 474 485	programming
+#88	AnnotatorNotes T89	lemma = 'programme'
+T90	pos_NN 486 494	homework
+#89	AnnotatorNotes T90	lemma = 'homework'
+T91	pos_Fp 494 495	.
+#90	AnnotatorNotes T91	lemma = '.'
+T92	pos_DT 496 499	The
+#91	AnnotatorNotes T92	lemma = 'the'
+T93	pos_NN 500 504	goal
+#92	AnnotatorNotes T93	lemma = 'goal'
+T94	pos_IN 505 507	of
+#93	AnnotatorNotes T94	lemma = 'of'
+T95	pos_DT 508 512	this
+#94	AnnotatorNotes T95	lemma = 'this'
+T96	pos_NN 513 519	course
+#95	AnnotatorNotes T96	lemma = 'course'
+T97	pos_NN 520 525	paper
+#96	AnnotatorNotes T97	lemma = 'paper'
+T98	pos_VBZ 526 528	is
+#97	AnnotatorNotes T98	lemma = 'be'
+T99	pos_TO 529 531	to
+#98	AnnotatorNotes T99	lemma = 'to'
+T100	pos_VB 532 538	create
+#99	AnnotatorNotes T100	lemma = 'create'
+T101	pos_DT 539 540	a
+#100	AnnotatorNotes T101	lemma = 'a'
+T102	pos_NN 541 547	system
+#101	AnnotatorNotes T102	lemma = 'system'
+T103	pos_WDT 548 553	which
+#102	AnnotatorNotes T103	lemma = 'which'
+T104	pos_VBZ 554 556	is
+#103	AnnotatorNotes T104	lemma = 'be'
+T105	pos_JJ 557 561	able
+#104	AnnotatorNotes T105	lemma = 'able'
+T106	pos_TO 562 564	to
+#105	AnnotatorNotes T106	lemma = 'to'
+T107	pos_VB 565 569	find
+#106	AnnotatorNotes T107	lemma = 'find'
+T108	pos_NN 570 580	plagiarism
+#107	AnnotatorNotes T108	lemma = 'plagiarism'
+T109	pos_IN 581 583	in
+#108	AnnotatorNotes T109	lemma = 'in'
+T110	pos_DT 584 587	the
+#109	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NNS 588 596	students
+#110	AnnotatorNotes T111	lemma = 'student'
+T112	pos_IN 597 599	of
+#111	AnnotatorNotes T112	lemma = 'of'
+T113	pos_NNS 600 611	linguistics
+#112	AnnotatorNotes T113	lemma = 'linguistics'
+T114	pos_Fe 611 612	'
+#113	AnnotatorNotes T114	lemma = '''
+T115	pos_NN 613 621	homework
+#114	AnnotatorNotes T115	lemma = 'homework'
+T116	pos_Fp 621 622	.
+#115	AnnotatorNotes T116	lemma = '.'
+T117	pos_DT 623 626	The
+#116	AnnotatorNotes T117	lemma = 'the'
+T118	pos_NN 627 631	task
+#117	AnnotatorNotes T118	lemma = 'task'
+T119	pos_IN 632 634	of
+#118	AnnotatorNotes T119	lemma = 'of'
+T120	pos_DT 635 638	the
+#119	AnnotatorNotes T120	lemma = 'the'
+T121	pos_NN 639 644	paper
+#120	AnnotatorNotes T121	lemma = 'paper'
+T122	pos_VBZ 645 647	is
+#121	AnnotatorNotes T122	lemma = 'be'
+T123	pos_TO 648 650	to
+#122	AnnotatorNotes T123	lemma = 'to'
+T124	pos_VB 651 658	develop
+#123	AnnotatorNotes T124	lemma = 'develop'
+T125	pos_NNS 659 666	methods
+#124	AnnotatorNotes T125	lemma = 'method'
+T126	pos_IN 667 669	of
+#125	AnnotatorNotes T126	lemma = 'of'
+T127	pos_NN 670 680	plagiarism
+#126	AnnotatorNotes T127	lemma = 'plagiarism'
+T128	pos_NN 681 690	detection
+#127	AnnotatorNotes T128	lemma = 'detection'
+T129	pos_WDT 691 696	which
+#128	AnnotatorNotes T129	lemma = 'which'
+T130	pos_VBP 697 700	are
+#129	AnnotatorNotes T130	lemma = 'be'
+T131	pos_JJ 701 709	specific
+#130	AnnotatorNotes T131	lemma = 'specific'
+T132	pos_RB 710 719	for short
+#131	AnnotatorNotes T132	lemma = 'for_short'
+T133	pos_NNS 720 728	programs
+#132	AnnotatorNotes T133	lemma = 'program'
+T134	pos_VBG 729 739	fulfilling
+#133	AnnotatorNotes T134	lemma = 'fulfil'
+T135	pos_JJ 740 747	similar
+#134	AnnotatorNotes T135	lemma = 'similar'
+T136	pos_NNS 748 753	tasks
+#135	AnnotatorNotes T136	lemma = 'task'
+T137	pos_Fc 753 754	,
+#136	AnnotatorNotes T137	lemma = ','
+T138	pos_WDT 755 760	which
+#137	AnnotatorNotes T138	lemma = 'which'
+T139	pos_MD 761 764	can
+#138	AnnotatorNotes T139	lemma = 'can'
+T140	pos_RB 765 777	subsequently
+#139	AnnotatorNotes T140	lemma = 'subsequently'
+T141	pos_VB 778 780	be
+#140	AnnotatorNotes T141	lemma = 'be'
+T142	pos_DT 781 782	a
+#141	AnnotatorNotes T142	lemma = 'a'
+T143	pos_JJ 783 794	theoretical
+#142	AnnotatorNotes T143	lemma = 'theoretical'
+T144	pos_NN 795 800	basis
+#143	AnnotatorNotes T144	lemma = 'basis'
+T145	pos_IN 801 804	for
+#144	AnnotatorNotes T145	lemma = 'for'
+T146	pos_DT 805 808	the
+#145	AnnotatorNotes T146	lemma = 'the'
+T147	pos_NN 809 815	system
+#146	AnnotatorNotes T147	lemma = 'system'
+T148	pos_Fp 815 816	.
+#147	AnnotatorNotes T148	lemma = '.'

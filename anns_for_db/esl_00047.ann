@@ -1,0 +1,370 @@
+T1	Punctuation 119 130	John Shlien
+#1	AnnotatorNotes T1	John Shlien,
+T2	Art_form 132 139	student
+#2	AnnotatorNotes T2	a student
+A1	Weight-language T1 Minor
+A2	Cause T2 Absence_of_Category_in_L1
+A3	Weight-language T2 Critical
+T23	Redundant_comp 238 257	burning problem and	
+A5	Weight-language T23 Minor
+T7	Art_choice 446 449	the	
+A13	Cause T7 Absence_of_Category_in_L1
+A14	Weight-language T7 Critical
+#7	AnnotatorNotes T7	a
+T9	Modals_choice 460 472	may consider	
+A15	Weight-language T9 Minor
+#9	AnnotatorNotes T9	views
+T10	lex_item_choice 478 503	elationship and feelings 	
+A16	Weight-language T10 Minor
+#10	AnnotatorNotes T10	client's attitude
+T11	lex_item_choice 582 586	that	
+A17	Weight-language T11 Minor
+#11	AnnotatorNotes T11	the following: (1)
+T13	Word_order 651 675	forward therapy process,	
+A20	Weight-language T13 Minor
+#13	AnnotatorNotes T13	the therapy process forward
+T17	Choice_of_ref 786 788	he	
+#17	AnnotatorNotes T17	(s)he
+T18	Absence_comp_sent 819 826	in fact	
+#18	AnnotatorNotes T18	are in fact
+A23	Weight-language T18 Major
+A24	Weight-language T17 Minor
+T19	Choice_of_ref 828 831	his	
+A25	Weight-language T19 Minor
+#19	AnnotatorNotes T19	his/her
+T20	Choice_of_ref 860 867	himself	
+A26	Weight-language T20 Minor
+#20	AnnotatorNotes T20	himself/herself
+T21	Absence_explanation 719 730	safe enough
+#21	AnnotatorNotes T21	safe enough for him or her
+T15	Adjective_inf 724 747	enough that he realizes
+#15	AnnotatorNotes T15	enough for him or her to realize
+T8	Art_choice 320 327	problem
+A9	Cause T8 Absence_of_Category_in_L1
+A10	Weight-language T8 Major
+A22	Weight-understanding T8 Major
+#8	AnnotatorNotes T8	the problem
+T6	Punctuation 298 311	psychotherapy
+A12	Cause T6 Other
+A27	Weight-language T6 Major
+A28	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	psychotherapy,
+T4	Punctuation 312 318	namely
+A11	Cause T4 Other
+A29	Weight-language T4 Major
+A30	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	namely,
+T12	Art_choice 659 674	therapy process
+A18	Cause T12 Absence_of_Category_in_L1
+A19	Weight-language T12 Major
+A31	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	the therapy process
+T5	Attributes 259 285	controversial question for
+#5	AnnotatorNotes T5	a question controversial for
+T3	Art_form 273 281	question
+A4	Cause T3 Absence_of_Category_in_L1
+A7	Weight-language T3 Major
+A8	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	a question
+T14	Lack_par_constr 674 675	,
+#14	AnnotatorNotes T14	and (2)
+T30	pos_NN 132 139	student
+#28	AnnotatorNotes T30	lemma = 'student'
+T31	pos_CC 140 143	and
+#29	AnnotatorNotes T31	lemma = 'and'
+T32	pos_NN 144 153	colleague
+#30	AnnotatorNotes T32	lemma = 'colleague'
+T34	pos_NP 157 168	Carl Rogers
+#32	AnnotatorNotes T34	lemma = 'carl_rogers'
+T35	pos_Fc 168 169	,
+#33	AnnotatorNotes T35	lemma = ','
+T37	pos_NN 174 180	author
+#35	AnnotatorNotes T37	lemma = 'author'
+T38	pos_IN 154 156	of
+#36	AnnotatorNotes T38	lemma = 'of'
+T39	pos_DT 170 173	the
+#37	AnnotatorNotes T39	lemma = 'the'
+T40	pos_NN 188 195	article
+#38	AnnotatorNotes T40	lemma = 'article'
+T41	pos_Fe 196 197	"
+#39	AnnotatorNotes T41	lemma = '"'
+T43	pos_NP 199 212	Countertheory
+#41	AnnotatorNotes T43	lemma = 'countertheory'
+T44	pos_IN 181 183	of
+#42	AnnotatorNotes T44	lemma = 'of'
+T45	pos_NN 216 228	transference
+#43	AnnotatorNotes T45	lemma = 'transference'
+T46	pos_Fe 228 229	"
+#44	AnnotatorNotes T46	lemma = '"'
+T47	pos_Fc 229 230	,
+#45	AnnotatorNotes T47	lemma = ','
+T48	pos_VBD 231 237	raised
+#46	AnnotatorNotes T48	lemma = 'raise'
+T49	pos_VBG 238 245	burning
+#47	AnnotatorNotes T49	lemma = 'burn'
+T50	pos_NN 246 253	problem
+#48	AnnotatorNotes T50	lemma = 'problem'
+T51	pos_CC 254 257	and
+#49	AnnotatorNotes T51	lemma = 'and'
+T52	pos_JJ 259 272	controversial
+#50	AnnotatorNotes T52	lemma = 'controversial'
+T53	pos_NN 273 281	question
+#51	AnnotatorNotes T53	lemma = 'question'
+T55	pos_JJ 286 297	traditional
+#53	AnnotatorNotes T55	lemma = 'traditional'
+T56	pos_NN 298 311	psychotherapy
+#54	AnnotatorNotes T56	lemma = 'psychotherapy'
+T57	pos_RB 312 318	namely
+#55	AnnotatorNotes T57	lemma = 'namely'
+T58	pos_NN 320 327	problem
+#56	AnnotatorNotes T58	lemma = 'problem'
+T59	pos_IN 213 215	of
+#57	AnnotatorNotes T59	lemma = 'of'
+T60	pos_NN 331 343	transference
+#58	AnnotatorNotes T60	lemma = 'transference'
+T61	pos_CC 344 347	and
+#59	AnnotatorNotes T61	lemma = 'and'
+T62	pos_JJ 348 355	counter
+#60	AnnotatorNotes T62	lemma = 'counter'
+T63	pos_NN 356 368	transference
+#61	AnnotatorNotes T63	lemma = 'transference'
+T65	pos_DT 370 374	This
+#63	AnnotatorNotes T65	lemma = 'this'
+T66	pos_NN 375 382	article
+#64	AnnotatorNotes T66	lemma = 'article'
+T67	pos_VBZ 383 385	is
+#65	AnnotatorNotes T67	lemma = 'be'
+T69	pos_NN 388 398	commentary
+#67	AnnotatorNotes T69	lemma = 'commentary'
+T71	pos_DT 402 406	this
+#69	AnnotatorNotes T71	lemma = 'this'
+T72	pos_NN 407 411	work
+#70	AnnotatorNotes T72	lemma = 'work'
+T73	pos_Fp 368 369	.
+#71	AnnotatorNotes T73	lemma = '.'
+T74	pos_DT 413 416	The
+#72	AnnotatorNotes T74	lemma = 'the'
+T75	pos_JJ 417 424	present
+#73	AnnotatorNotes T75	lemma = 'present'
+T76	pos_NN 425 432	article
+#74	AnnotatorNotes T76	lemma = 'article'
+T77	pos_VBZ 433 441	examines
+#75	AnnotatorNotes T77	lemma = 'examine'
+T78	pos_WRB 442 445	how
+#76	AnnotatorNotes T78	lemma = 'how'
+T79	pos_DT 184 187	the
+#77	AnnotatorNotes T79	lemma = 'the'
+T80	pos_NN 450 459	therapist
+#78	AnnotatorNotes T80	lemma = 'therapist'
+T81	pos_MD 460 463	may
+#79	AnnotatorNotes T81	lemma = 'may'
+T82	pos_VB 464 472	consider
+#80	AnnotatorNotes T82	lemma = 'consider'
+T83	pos_DT 446 449	the
+#81	AnnotatorNotes T83	lemma = 'the'
+T84	pos_NN 477 489	relationship
+#82	AnnotatorNotes T84	lemma = 'relationship'
+T85	pos_CC 490 493	and
+#83	AnnotatorNotes T85	lemma = 'and'
+T86	pos_NNS 494 502	feelings
+#84	AnnotatorNotes T86	lemma = 'feeling'
+T87	pos_TO 503 505	to
+#85	AnnotatorNotes T87	lemma = 'to'
+T88	pos_PRP 506 513	herself
+#86	AnnotatorNotes T88	lemma = 'herself'
+T89	pos_CC 283 285	or
+#87	AnnotatorNotes T89	lemma = 'or'
+T90	pos_PRP 517 524	himself
+#88	AnnotatorNotes T90	lemma = 'himself'
+T91	pos_Fc 524 525	,
+#89	AnnotatorNotes T91	lemma = ','
+T92	pos_DT 473 476	the
+#90	AnnotatorNotes T92	lemma = 'the'
+T93	pos_JJ 530 539	so-called
+#91	AnnotatorNotes T93	lemma = 'so-called'
+T94	pos_Fe 540 541	"
+#92	AnnotatorNotes T94	lemma = '"'
+T95	pos_NN 541 553	transference
+#93	AnnotatorNotes T95	lemma = 'transference'
+T96	pos_Fp 411 412	.
+#94	AnnotatorNotes T96	lemma = '.'
+T97	pos_Fe 554 555	"
+#95	AnnotatorNotes T97	lemma = '"'
+T98	pos_DT 556 559	The
+#96	AnnotatorNotes T98	lemma = 'the'
+T99	pos_NN 560 568	analysis
+#97	AnnotatorNotes T99	lemma = 'analysis'
+T100	pos_VBZ 569 581	demonstrates
+#98	AnnotatorNotes T100	lemma = 'demonstrate'
+T101	pos_IN 582 586	that
+#99	AnnotatorNotes T101	lemma = 'that'
+T102	pos_DT 526 529	the
+#100	AnnotatorNotes T102	lemma = 'the'
+T103	pos_NN 592 600	presence
+#101	AnnotatorNotes T103	lemma = 'presence'
+T104	pos_IN 328 330	of
+#102	AnnotatorNotes T104	lemma = 'of'
+T105	pos_JJ 604 618	non-judgmental
+#103	AnnotatorNotes T105	lemma = 'non-judgmental'
+T106	pos_JJ 619 630	therapeutic
+#104	AnnotatorNotes T106	lemma = 'therapeutic'
+T107	pos_NN 631 643	relationship
+#105	AnnotatorNotes T107	lemma = 'relationship'
+T108	pos_VBZ 644 649	moves
+#106	AnnotatorNotes T108	lemma = 'move'
+T109	pos_RB 651 658	forward
+#107	AnnotatorNotes T109	lemma = 'forward'
+T110	pos_NN 659 666	therapy
+#108	AnnotatorNotes T110	lemma = 'therapy'
+T111	pos_NN 667 674	process
+#109	AnnotatorNotes T111	lemma = 'process'
+T112	pos_Fc 674 675	,
+#110	AnnotatorNotes T112	lemma = ','
+T113	pos_DT 588 591	the
+#111	AnnotatorNotes T113	lemma = 'the'
+T114	pos_NN 681 690	situation
+#112	AnnotatorNotes T114	lemma = 'situation'
+T115	pos_IN 691 694	for
+#113	AnnotatorNotes T115	lemma = 'for'
+T116	pos_DT 677 680	the
+#114	AnnotatorNotes T116	lemma = 'the'
+T117	pos_NN 699 705	client
+#115	AnnotatorNotes T117	lemma = 'client'
+T118	pos_POS 705 707	's
+#116	AnnotatorNotes T118	lemma = ''s'
+T119	pos_NN 708 715	therapy
+#117	AnnotatorNotes T119	lemma = 'therapy'
+T120	pos_VBZ 716 718	is
+#118	AnnotatorNotes T120	lemma = 'be'
+T121	pos_JJ 719 723	safe
+#119	AnnotatorNotes T121	lemma = 'safe'
+T122	pos_JJ 724 730	enough
+#120	AnnotatorNotes T122	lemma = 'enough'
+T123	pos_IN 731 735	that
+#121	AnnotatorNotes T123	lemma = 'that'
+T124	pos_PRP 696 698	he
+#122	AnnotatorNotes T124	lemma = 'he'
+T125	pos_VBZ 739 747	realizes
+#123	AnnotatorNotes T125	lemma = 'realize'
+T126	pos_IN 748 752	that
+#124	AnnotatorNotes T126	lemma = 'that'
+T127	pos_DT 753 756	all
+#125	AnnotatorNotes T127	lemma = 'all'
+T128	pos_NNS 757 765	thoughts
+#126	AnnotatorNotes T128	lemma = 'thought'
+T129	pos_CC 766 769	and
+#127	AnnotatorNotes T129	lemma = 'and'
+T130	pos_NNS 770 778	feelings
+#128	AnnotatorNotes T130	lemma = 'feeling'
+T131	pos_Fc 778 779	,
+#129	AnnotatorNotes T131	lemma = ','
+T132	pos_WDT 780 785	which
+#130	AnnotatorNotes T132	lemma = 'which'
+T133	pos_PRP 736 738	he
+#131	AnnotatorNotes T133	lemma = 'he'
+T134	pos_VBZ 789 797	projects
+#132	AnnotatorNotes T134	lemma = 'project'
+T135	pos_IN 798 802	onto
+#133	AnnotatorNotes T135	lemma = 'onto'
+T136	pos_DT 803 806	the
+#134	AnnotatorNotes T136	lemma = 'the'
+T137	pos_NN 807 816	therapist
+#135	AnnotatorNotes T137	lemma = 'therapist'
+T138	pos_Fc 816 817	,
+#136	AnnotatorNotes T138	lemma = ','
+T139	pos_IN 819 821	in
+#137	AnnotatorNotes T139	lemma = 'in'
+T140	pos_NN 822 826	fact
+#138	AnnotatorNotes T140	lemma = 'fact'
+T141	pos_Fc 826 827	,
+#139	AnnotatorNotes T141	lemma = ','
+T142	pos_PRP2 828 831	his
+#140	AnnotatorNotes T142	lemma = 'his'
+T143	pos_NNS 832 840	thoughts
+#141	AnnotatorNotes T143	lemma = 'thought'
+T144	pos_CC 841 844	and
+#142	AnnotatorNotes T144	lemma = 'and'
+T145	pos_NNS 845 853	feelings
+#143	AnnotatorNotes T145	lemma = 'feeling'
+T146	pos_IN 854 859	about
+#144	AnnotatorNotes T146	lemma = 'about'
+T147	pos_PRP 860 867	himself
+#145	AnnotatorNotes T147	lemma = 'himself'
+T148	pos_Fp 553 554	.
+#146	AnnotatorNotes T148	lemma = '.'
+T149	pos_DT 869 872	The
+#147	AnnotatorNotes T149	lemma = 'the'
+T150	pos_NNS 873 881	outcomes
+#148	AnnotatorNotes T150	lemma = 'outcome'
+T151	pos_IN 601 603	of
+#149	AnnotatorNotes T151	lemma = 'of'
+T152	pos_DT 885 889	this
+#150	AnnotatorNotes T152	lemma = 'this'
+T153	pos_NN 890 898	research
+#151	AnnotatorNotes T153	lemma = 'research'
+T154	pos_VB 899 906	confirm
+#152	AnnotatorNotes T154	lemma = 'confirm'
+T155	pos_DT 907 910	the
+#153	AnnotatorNotes T155	lemma = 'the'
+T156	pos_NN 911 921	importance
+#154	AnnotatorNotes T156	lemma = 'importance'
+T157	pos_IN 882 884	of
+#155	AnnotatorNotes T157	lemma = 'of'
+T158	pos_DT 925 928	the
+#156	AnnotatorNotes T158	lemma = 'the'
+T159	pos_JJ 929 933	safe
+#157	AnnotatorNotes T159	lemma = 'safe'
+T160	pos_NN 934 946	relationship
+#158	AnnotatorNotes T160	lemma = 'relationship'
+T161	pos_IN 947 949	in
+#159	AnnotatorNotes T161	lemma = 'in'
+T162	pos_WDT 950 955	which
+#160	AnnotatorNotes T162	lemma = 'which'
+T163	pos_DT 956 959	the
+#161	AnnotatorNotes T163	lemma = 'the'
+T164	pos_NN 960 966	client
+#162	AnnotatorNotes T164	lemma = 'client'
+T165	pos_VBZ 967 971	does
+#163	AnnotatorNotes T165	lemma = 'do'
+T166	pos_RB 972 975	not
+#164	AnnotatorNotes T166	lemma = 'not'
+T167	pos_VB 976 980	need
+#165	AnnotatorNotes T167	lemma = 'need'
+T168	pos_TO 981 983	to
+#166	AnnotatorNotes T168	lemma = 'to'
+T169	pos_VB 984 992	confront
+#167	AnnotatorNotes T169	lemma = 'confront'
+T170	pos_DT 993 996	the
+#168	AnnotatorNotes T170	lemma = 'the'
+T171	pos_NN 997 1006	therapist
+#169	AnnotatorNotes T171	lemma = 'therapist'
+T172	pos_Fp 867 868	.
+#170	AnnotatorNotes T172	lemma = '.'
+T173	pos_RB 1008 1015	Thereby
+#171	AnnotatorNotes T173	lemma = 'thereby'
+T174	pos_DT 1016 1019	the
+#172	AnnotatorNotes T174	lemma = 'the'
+T175	pos_NN 1020 1026	client
+#173	AnnotatorNotes T175	lemma = 'client'
+T176	pos_VBZ 1027 1034	becomes
+#174	AnnotatorNotes T176	lemma = 'become'
+T177	pos_RBR 1035 1039	more
+#175	AnnotatorNotes T177	lemma = 'many'
+T178	pos_JJ 1040 1051	independent
+#176	AnnotatorNotes T178	lemma = 'independent'
+T179	pos_Fc 1051 1052	,
+#177	AnnotatorNotes T179	lemma = ','
+T180	pos_CC 1053 1056	and
+#178	AnnotatorNotes T180	lemma = 'and'
+T181	pos_DT 1057 1060	the
+#179	AnnotatorNotes T181	lemma = 'the'
+T182	pos_NN 1061 1071	efficiency
+#180	AnnotatorNotes T182	lemma = 'efficiency'
+T183	pos_IN 922 924	of
+#181	AnnotatorNotes T183	lemma = 'of'
+T184	pos_NN 1075 1082	therapy
+#182	AnnotatorNotes T184	lemma = 'therapy'
+T185	pos_NNS 1083 1092	increases
+#183	AnnotatorNotes T185	lemma = 'increase'
+T186	pos_Fp 1006 1007	.
+#184	AnnotatorNotes T186	lemma = '.'

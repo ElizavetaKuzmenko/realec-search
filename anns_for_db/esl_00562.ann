@@ -1,0 +1,423 @@
+T1	Articles 250 259	situation
+A1	Cause T1 Absence_of_Category_in_L1
+A2	Weight-language T1 Critical
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	the situation
+T2	Articles 673 676	age
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	the age
+T3	Attributes 83 99	differently aged
+A7	Weight-language T3 Minor
+A8	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	different age groups of
+T4	Prepositions 260 263	for
+A9	Weight-language T4 Minor
+A10	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	with
+T6	Nouns 436 443	figures
+A13	Weight-language T6 Minor
+A14	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	figure
+T7	Verbs 487 490	are
+A15	Weight-language T7 Minor
+A16	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	is
+T8	Quantifiers 494 503	just over
+A17	Weight-language T8 Minor
+A18	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	about
+T9	Tense_choice 523 525	is
+A19	Weight-language T9 Minor
+A20	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	was
+T10	lex_item_choice 653 659	amount
+A21	Weight-language T10 Minor
+A22	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	percentage
+T11	suggestion 677 683	ranged
+A23	Weight-language T11 Minor
+A24	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	range
+T12	lex_part_choice 699 747	in both graphs are nearly equaled in percentages
+A25	Weight-language T12 Major
+A26	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	is nearly the same in both graphs
+T13	note 639 748	a significant amount of people in age ranged  from 20 to 39 in both graphs are nearly equaled in percentages.
+#13	AnnotatorNotes T13	Does it show anything important?
+T14	Abs_comp_clause 783 787	that
+A27	Addition T14
+A28	Weight-language T14 Critical
+A29	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	is that
+T15	lex_part_choice 788 805	previously people
+A30	Weight-language T15 Major
+A31	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	people back in 1950
+T16	lex_part_choice 806 815	stayed in
+A32	Weight-language T16 Minor
+A33	Weight-understanding T16 Minor
+#16	AnnotatorNotes T16	kept up their
+T17	Discourse 829 850	during the whole life
+A34	Delete T17
+T18	lex_part_choice 918 922	away
+A35	Weight-language T18 Major
+A36	Weight-understanding T18 Minor
+A37	Delete T18
+T19	pos_DT 0 3	The
+#17	AnnotatorNotes T19	lemma = 'the'
+T20	pos_VBG 4 13	following
+#18	AnnotatorNotes T20	lemma = 'follow'
+T21	pos_NN 14 17	bar
+#19	AnnotatorNotes T21	lemma = 'bar'
+T22	pos_NNS 18 24	charts
+#20	AnnotatorNotes T22	lemma = 'chart'
+T23	pos_VBP 25 29	show
+#21	AnnotatorNotes T23	lemma = 'show'
+T24	pos_DT 30 33	the
+#22	AnnotatorNotes T24	lemma = 'the'
+T25	pos_NN 34 44	percentage
+#23	AnnotatorNotes T25	lemma = 'percentage'
+T26	pos_NNS 45 52	figures
+#24	AnnotatorNotes T26	lemma = 'figure'
+T27	pos_IN 53 55	of
+#25	AnnotatorNotes T27	lemma = 'of'
+T28	pos_Z 56 60	four
+#26	AnnotatorNotes T28	lemma = '4'
+T29	pos_NN 61 67	weight
+#27	AnnotatorNotes T29	lemma = 'weight'
+T30	pos_NNS 68 78	categories
+#28	AnnotatorNotes T30	lemma = 'category'
+T31	pos_IN 79 82	for
+#29	AnnotatorNotes T31	lemma = 'for'
+T32	pos_RB 83 94	differently
+#30	AnnotatorNotes T32	lemma = 'differently'
+T33	pos_VBN 95 99	aged
+#31	AnnotatorNotes T33	lemma = 'age'
+T34	pos_NNS 100 111	inhabitants
+#32	AnnotatorNotes T34	lemma = 'inhabitant'
+T35	pos_IN 112 114	of
+#33	AnnotatorNotes T35	lemma = 'of'
+T36	pos_NP 115 122	Newtown
+#34	AnnotatorNotes T36	lemma = 'newtown'
+T37	pos_IN 123 125	in
+#35	AnnotatorNotes T37	lemma = 'in'
+T38	pos_W 126 130	1950
+#36	AnnotatorNotes T38	lemma = '[??:??/??/1950:??.??:??]'
+T39	pos_CC 131 134	and
+#37	AnnotatorNotes T39	lemma = 'and'
+T40	pos_Z 135 139	2010
+#38	AnnotatorNotes T40	lemma = '2010'
+T41	pos_Fp 139 140	.
+#39	AnnotatorNotes T41	lemma = '.'
+T42	pos_PRP 142 144	It
+#40	AnnotatorNotes T42	lemma = 'it'
+T43	pos_VBZ 145 147	is
+#41	AnnotatorNotes T43	lemma = 'be'
+T44	pos_JJ 148 153	clear
+#42	AnnotatorNotes T44	lemma = 'clear'
+T45	pos_IN 154 158	that
+#43	AnnotatorNotes T45	lemma = 'that'
+T46	pos_RB 159 172	approximately
+#44	AnnotatorNotes T46	lemma = 'approximately'
+T47	pos_Zp 173 176	70%
+#45	AnnotatorNotes T47	lemma = '70/100'
+T48	pos_IN 177 179	of
+#46	AnnotatorNotes T48	lemma = 'of'
+T49	pos_JJ 180 185	young
+#47	AnnotatorNotes T49	lemma = 'young'
+T50	pos_NNS 186 192	people
+#48	AnnotatorNotes T50	lemma = 'people'
+T51	pos_IN 193 200	between
+#49	AnnotatorNotes T51	lemma = 'between'
+T52	pos_Z 201 206	20-29
+#50	AnnotatorNotes T52	lemma = '20-29'
+T53	pos_VB 207 211	have
+#51	AnnotatorNotes T53	lemma = 'have'
+T54	pos_JJ 212 217	ideal
+#52	AnnotatorNotes T54	lemma = 'ideal'
+T55	pos_NN 218 224	weight
+#53	AnnotatorNotes T55	lemma = 'weight'
+T56	pos_IN 225 227	in
+#54	AnnotatorNotes T56	lemma = 'in'
+T57	pos_DT 228 232	both
+#55	AnnotatorNotes T57	lemma = 'both'
+T58	pos_NNS 233 239	charts
+#56	AnnotatorNotes T58	lemma = 'chart'
+T59	pos_Fc 239 240	,
+#57	AnnotatorNotes T59	lemma = ','
+T60	pos_RB 241 248	however
+#58	AnnotatorNotes T60	lemma = 'however'
+T61	pos_Fc 248 249	,
+#59	AnnotatorNotes T61	lemma = ','
+T62	pos_NN 250 259	situation
+#60	AnnotatorNotes T62	lemma = 'situation'
+T63	pos_IN 260 263	for
+#61	AnnotatorNotes T63	lemma = 'for'
+T64	pos_DT 264 269	those
+#62	AnnotatorNotes T64	lemma = 'those'
+T65	pos_WP 270 273	who
+#63	AnnotatorNotes T65	lemma = 'who'
+T66	pos_VBP 274 277	are
+#64	AnnotatorNotes T66	lemma = 'be'
+T67	pos_IN 278 280	in
+#65	AnnotatorNotes T67	lemma = 'in'
+T68	pos_Z 281 286	60-69
+#66	AnnotatorNotes T68	lemma = '60-69'
+T69	pos_NN 287 290	age
+#67	AnnotatorNotes T69	lemma = 'age'
+T70	pos_NN 291 296	group
+#68	AnnotatorNotes T70	lemma = 'group'
+T71	pos_VBZ 297 299	is
+#69	AnnotatorNotes T71	lemma = 'be'
+T72	pos_RB 300 310	completely
+#70	AnnotatorNotes T72	lemma = 'completely'
+T73	pos_JJ 311 320	different
+#71	AnnotatorNotes T73	lemma = 'different'
+T74	pos_Fc 321 322	,
+#72	AnnotatorNotes T74	lemma = ','
+T75	pos_IN 323 327	with
+#73	AnnotatorNotes T75	lemma = 'with'
+T76	pos_RBR 328 332	more
+#74	AnnotatorNotes T76	lemma = 'many'
+T77	pos_IN 333 337	than
+#75	AnnotatorNotes T77	lemma = 'than'
+T78	pos_Zp 338 344	a half
+#76	AnnotatorNotes T78	lemma = '1/2'
+T79	pos_NNS 345 351	people
+#77	AnnotatorNotes T79	lemma = 'people'
+T80	pos_IN 352 354	in
+#78	AnnotatorNotes T80	lemma = 'in'
+T81	pos_W 355 359	2010
+#79	AnnotatorNotes T81	lemma = '[??:??/??/2010:??.??:??]'
+T82	pos_VBG 360 369	suffering
+#80	AnnotatorNotes T82	lemma = 'suffer'
+T83	pos_IN 370 374	with
+#81	AnnotatorNotes T83	lemma = 'with'
+T84	pos_NN 375 382	obesity
+#82	AnnotatorNotes T84	lemma = 'obesity'
+T85	pos_Fp 382 383	.
+#83	AnnotatorNotes T85	lemma = '.'
+T86	pos_DT 384 385	A
+#84	AnnotatorNotes T86	lemma = 'a'
+T87	pos_RBR 386 390	more
+#85	AnnotatorNotes T87	lemma = 'many'
+T88	pos_JJ 391 399	thorough
+#86	AnnotatorNotes T88	lemma = 'thorough'
+T89	pos_NN 400 404	look
+#87	AnnotatorNotes T89	lemma = 'look'
+T90	pos_IN 405 407	at
+#88	AnnotatorNotes T90	lemma = 'at'
+T91	pos_DT 408 411	the
+#89	AnnotatorNotes T91	lemma = 'the'
+T92	pos_NNS 412 418	graphs
+#90	AnnotatorNotes T92	lemma = 'graph'
+T93	pos_VBZ 419 426	reveals
+#91	AnnotatorNotes T93	lemma = 'reveal'
+T94	pos_IN 427 431	that
+#92	AnnotatorNotes T94	lemma = 'that'
+T95	pos_DT 432 435	the
+#93	AnnotatorNotes T95	lemma = 'the'
+T96	pos_NNS 436 443	figures
+#94	AnnotatorNotes T96	lemma = 'figure'
+T97	pos_IN 444 447	for
+#95	AnnotatorNotes T97	lemma = 'for'
+T98	pos_NN 448 459	underweight
+#96	AnnotatorNotes T98	lemma = 'underweight'
+T99	pos_NNS 460 466	people
+#97	AnnotatorNotes T99	lemma = 'people'
+T100	pos_IN 467 472	under
+#98	AnnotatorNotes T100	lemma = 'under'
+T101	pos_Z 473 478	40-49
+#99	AnnotatorNotes T101	lemma = '40-49'
+T102	pos_IN 479 481	in
+#100	AnnotatorNotes T102	lemma = 'in'
+T103	pos_W 482 486	1950
+#101	AnnotatorNotes T103	lemma = '[??:??/??/1950:??.??:??]'
+T104	pos_VBP 487 490	are
+#102	AnnotatorNotes T104	lemma = 'be'
+T105	pos_IN 491 493	by
+#103	AnnotatorNotes T105	lemma = 'by'
+T106	pos_RB 494 498	just
+#104	AnnotatorNotes T106	lemma = 'just'
+T107	pos_IN 499 503	over
+#105	AnnotatorNotes T107	lemma = 'over'
+T108	pos_Zp 504 507	18%
+#106	AnnotatorNotes T108	lemma = '18/100'
+T109	pos_JJR 508 514	higher
+#107	AnnotatorNotes T109	lemma = 'high'
+T110	pos_IN 515 519	than
+#108	AnnotatorNotes T110	lemma = 'than'
+T111	pos_PRP 520 522	it
+#109	AnnotatorNotes T111	lemma = 'it'
+T112	pos_VBZ 523 525	is
+#110	AnnotatorNotes T112	lemma = 'be'
+T113	pos_IN 526 528	in
+#111	AnnotatorNotes T113	lemma = 'in'
+T114	pos_W 529 533	2010
+#112	AnnotatorNotes T114	lemma = '[??:??/??/2010:??.??:??]'
+T115	pos_Fp 533 534	.
+#113	AnnotatorNotes T115	lemma = '.'
+T116	pos_DT 535 538	The
+#114	AnnotatorNotes T116	lemma = 'the'
+T117	pos_NN 539 545	number
+#115	AnnotatorNotes T117	lemma = 'number'
+T118	pos_IN 546 548	of
+#116	AnnotatorNotes T118	lemma = 'of'
+T119	pos_JJ 549 559	overweight
+#117	AnnotatorNotes T119	lemma = 'overweight'
+T120	pos_NNS 560 571	inhabitants
+#118	AnnotatorNotes T120	lemma = 'inhabitant'
+T121	pos_VBG 572 581	belonging
+#119	AnnotatorNotes T121	lemma = 'belong'
+T122	pos_TO 582 584	to
+#120	AnnotatorNotes T122	lemma = 'to'
+T123	pos_Z 585 590	50-59
+#121	AnnotatorNotes T123	lemma = '50-59'
+T124	pos_NN 591 594	age
+#122	AnnotatorNotes T124	lemma = 'age'
+T125	pos_NNS 595 601	groups
+#123	AnnotatorNotes T125	lemma = 'group'
+T126	pos_VBD 602 605	saw
+#124	AnnotatorNotes T126	lemma = 'saw'
+T127	pos_DT 606 607	a
+#125	AnnotatorNotes T127	lemma = 'a'
+T128	pos_JJ 608 619	significant
+#126	AnnotatorNotes T128	lemma = 'significant'
+T129	pos_NN 620 624	rise
+#127	AnnotatorNotes T129	lemma = 'rise'
+T130	pos_IN 625 627	in
+#128	AnnotatorNotes T130	lemma = 'in'
+T131	pos_W 628 632	2010
+#129	AnnotatorNotes T131	lemma = '[??:??/??/2010:??.??:??]'
+T132	pos_Fp 632 633	.
+#130	AnnotatorNotes T132	lemma = '.'
+T133	pos_RB 634 638	Also
+#131	AnnotatorNotes T133	lemma = 'also'
+T134	pos_DT 639 640	a
+#132	AnnotatorNotes T134	lemma = 'a'
+T135	pos_JJ 641 652	significant
+#133	AnnotatorNotes T135	lemma = 'significant'
+T136	pos_NN 653 659	amount
+#134	AnnotatorNotes T136	lemma = 'amount'
+T137	pos_IN 660 662	of
+#135	AnnotatorNotes T137	lemma = 'of'
+T138	pos_NNS 663 669	people
+#136	AnnotatorNotes T138	lemma = 'people'
+T139	pos_IN 670 672	in
+#137	AnnotatorNotes T139	lemma = 'in'
+T140	pos_NN 673 676	age
+#138	AnnotatorNotes T140	lemma = 'age'
+T141	pos_VBN 677 683	ranged
+#139	AnnotatorNotes T141	lemma = 'range'
+T142	pos_IN 685 689	from
+#140	AnnotatorNotes T142	lemma = 'from'
+T143	pos_Z 690 692	20
+#141	AnnotatorNotes T143	lemma = '20'
+T144	pos_TO 693 695	to
+#142	AnnotatorNotes T144	lemma = 'to'
+T145	pos_Z 696 698	39
+#143	AnnotatorNotes T145	lemma = '39'
+T146	pos_IN 699 701	in
+#144	AnnotatorNotes T146	lemma = 'in'
+T147	pos_DT 702 706	both
+#145	AnnotatorNotes T147	lemma = 'both'
+T148	pos_NNS 707 713	graphs
+#146	AnnotatorNotes T148	lemma = 'graph'
+T149	pos_VBP 714 717	are
+#147	AnnotatorNotes T149	lemma = 'be'
+T150	pos_RB 718 724	nearly
+#148	AnnotatorNotes T150	lemma = 'nearly'
+T151	pos_VBN 725 732	equaled
+#149	AnnotatorNotes T151	lemma = 'equal'
+T152	pos_IN 733 735	in
+#150	AnnotatorNotes T152	lemma = 'in'
+T153	pos_NNS 736 747	percentages
+#151	AnnotatorNotes T153	lemma = 'percentage'
+T154	pos_Fp 747 748	.
+#152	AnnotatorNotes T154	lemma = '.'
+T155	pos_RB 749 756	Overall
+#153	AnnotatorNotes T155	lemma = 'overall'
+T156	pos_Fc 756 757	,
+#154	AnnotatorNotes T156	lemma = ','
+T157	pos_DT 758 761	the
+#155	AnnotatorNotes T157	lemma = 'the'
+T158	pos_RBS 762 766	most
+#156	AnnotatorNotes T158	lemma = 'many'
+T159	pos_JJ 767 777	noticeable
+#157	AnnotatorNotes T159	lemma = 'noticeable'
+T160	pos_NN 778 782	fact
+#158	AnnotatorNotes T160	lemma = 'fact'
+T161	pos_IN 783 787	that
+#159	AnnotatorNotes T161	lemma = 'that'
+T162	pos_RB 788 798	previously
+#160	AnnotatorNotes T162	lemma = 'previously'
+T163	pos_NNS 799 805	people
+#161	AnnotatorNotes T163	lemma = 'people'
+T164	pos_VBD 806 812	stayed
+#162	AnnotatorNotes T164	lemma = 'stay'
+T165	pos_IN 813 815	in
+#163	AnnotatorNotes T165	lemma = 'in'
+T166	pos_JJ 816 821	ideal
+#164	AnnotatorNotes T166	lemma = 'ideal'
+T167	pos_NN 822 828	weight
+#165	AnnotatorNotes T167	lemma = 'weight'
+T168	pos_IN 829 835	during
+#166	AnnotatorNotes T168	lemma = 'during'
+T169	pos_DT 836 839	the
+#167	AnnotatorNotes T169	lemma = 'the'
+T170	pos_JJ 840 845	whole
+#168	AnnotatorNotes T170	lemma = 'whole'
+T171	pos_NN 846 850	life
+#169	AnnotatorNotes T171	lemma = 'life'
+T172	pos_JJR 851 857	longer
+#170	AnnotatorNotes T172	lemma = 'long'
+T173	pos_IN 858 862	than
+#171	AnnotatorNotes T173	lemma = 'than'
+T174	pos_PRP 863 867	they
+#172	AnnotatorNotes T174	lemma = 'they'
+T175	pos_VBP 868 870	do
+#173	AnnotatorNotes T175	lemma = 'do'
+T176	pos_RB 871 874	now
+#174	AnnotatorNotes T176	lemma = 'now'
+T177	pos_Fp 874 875	.
+#175	AnnotatorNotes T177	lemma = '.'
+T178	pos_RB 876 889	Unfortunately
+#176	AnnotatorNotes T178	lemma = 'unfortunately'
+T179	pos_Fc 889 890	,
+#177	AnnotatorNotes T179	lemma = ','
+T180	pos_DT 891 894	the
+#178	AnnotatorNotes T180	lemma = 'the'
+T181	pos_JJ 895 902	present
+#179	AnnotatorNotes T181	lemma = 'present'
+T182	pos_NNS 903 909	trends
+#180	AnnotatorNotes T182	lemma = 'trend'
+T183	pos_VBP 910 913	are
+#181	AnnotatorNotes T183	lemma = 'be'
+T184	pos_RB 914 917	far
+#182	AnnotatorNotes T184	lemma = 'far'
+T185	pos_RB 918 922	away
+#183	AnnotatorNotes T185	lemma = 'away'
+T186	pos_IN 923 927	from
+#184	AnnotatorNotes T186	lemma = 'from'
+T187	pos_WP 928 932	what
+#185	AnnotatorNotes T187	lemma = 'what'
+T188	pos_VBZ 933 935	is
+#186	AnnotatorNotes T188	lemma = 'be'
+T189	pos_VBN 936 942	called
+#187	AnnotatorNotes T189	lemma = 'call'
+T190	pos_DT 943 944	a
+#188	AnnotatorNotes T190	lemma = 'a'
+T191	pos_JJ 945 952	healthy
+#189	AnnotatorNotes T191	lemma = 'healthy'
+T192	pos_NN 953 957	life
+#190	AnnotatorNotes T192	lemma = 'life'
+T193	pos_NN 958 963	style
+#191	AnnotatorNotes T193	lemma = 'style'
+T194	pos_Fp 963 964	.
+#192	AnnotatorNotes T194	lemma = '.'
+T5	Prepositional_verb 360 374	suffering with
+A11	Weight-language T5 Minor
+A12	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	suffering from

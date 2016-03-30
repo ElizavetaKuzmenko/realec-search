@@ -1,0 +1,549 @@
+T1	Concession 1 13	Despite that	
+#1	AnnotatorNotes T1	Although
+T2	Art_choice 14 17	the	
+T3	Art_form 58 65	hundred
+#3	AnnotatorNotes T3	a hundred
+T4	lex_item_choice 127 140	on the top of	
+#4	AnnotatorNotes T4	attracting
+T5	Absence_comp_sent 141 152	researchers	
+#5	AnnotatorNotes T5	researchers' attention
+T7	lex_item_choice 169 171	up	
+A1	Weight-language T1 Minor
+A2	Cause T2 Absence_of_Category_in_L1
+A3	Weight-language T2 Critical
+A4	Delete T2
+A5	Cause T3 Absence_of_Category_in_L1
+A6	Weight-language T3 Critical
+A7	Weight-language T4 Minor
+A10	Weight-language T7 Critical
+A11	Delete T7
+T9	Prepositions 482 484	to
+A12	Weight-language T9 Critical
+#8	AnnotatorNotes T9	toward
+T18	Prepositions 518 520	to
+A14	Weight-language T18 Critical
+#9	AnnotatorNotes T18	toward
+T19	Art_choice 534 548	a host society
+A15	Cause T19 Absence_of_Category_in_L1
+A16	Weight-language T19 Critical
+#10	AnnotatorNotes T19	the host society
+T11	Absence_explanation 1262 1267	clear	 	 	 	 	 	 	 	 	 	 	 	 	 
+A17	Weight-language T11 Minor
+#11	AnnotatorNotes T11	entirely clear
+T12	Tense_choice 1272 1275	was
+#12	AnnotatorNotes T12	has been
+T13	lex_item_choice 1276 1281	found
+#13	AnnotatorNotes T13	suggested
+T14	Standard 1287 1369	there is an influence of social and political context on the acculturation process
+#14	AnnotatorNotes T14	acculturation process is influenced by social and political context
+T15	Incoherent_intro_unit 1371 1380	Therefore
+A18	Weight-language T15 Minor
+A19	Delete T15
+T16	Prepositions 1382 1384	in
+A20	Delete T16
+T20	lex_item_choice 1413 1420	examine
+A23	Weight-language T20 Minor
+#15	AnnotatorNotes T20	consider
+T17	Redundant_ref 1405 1407	we
+A21	Cause T17 Other
+A22	Weight-language T17 Minor
+A24	Weight-understanding T17 Minor
+A25	Delete T17
+A26	Delete T19
+T6	Art_choice 161 178	growing up number
+#6	AnnotatorNotes T6	the growing number
+A8	Cause T6 Absence_of_Category_in_L1
+A9	Weight-language T6 Major
+A27	Weight-understanding T6 Major
+T8	Tautology 315 323	cultures
+A13	Delete T8
+T10	Spelling 422 426	J.W.
+A28	Delete T10
+T21	Word_choice 682 684	is
+#2	AnnotatorNotes T21	includes cases
+T22	Art_choice 709 727	the identification
+#7	AnnotatorNotes T22	identification
+T23	Art_choice 765 783	the identification
+#16	AnnotatorNotes T23	identification
+T24	Transitive 887 896	accept to
+#17	AnnotatorNotes T24	accept
+T25	Pronouns 915 920	there
+#18	AnnotatorNotes T25	it
+T26	Art_choice 960 973	the rejection
+#19	AnnotatorNotes T26	rejection
+T27	Category_confusion 1299 1308	influence
+#20	AnnotatorNotes T27	is influenced by
+T28	pos_﻿ 0 1	﻿
+#21	AnnotatorNotes T28	lemma = '﻿'
+T29	pos_NP 1 8	Despite
+#22	AnnotatorNotes T29	lemma = 'despite'
+T30	pos_IN 9 13	that
+#23	AnnotatorNotes T30	lemma = 'that'
+T31	pos_DT 14 17	the
+#24	AnnotatorNotes T31	lemma = 'the'
+T32	pos_NN 18 31	acculturation
+#25	AnnotatorNotes T32	lemma = 'acculturation'
+T33	pos_NNS 32 39	studies
+#26	AnnotatorNotes T33	lemma = 'study'
+T34	pos_VBP 40 44	have
+#27	AnnotatorNotes T34	lemma = 'have'
+T35	pos_VBN 45 50	begun
+#28	AnnotatorNotes T35	lemma = 'begin'
+T36	pos_IN 51 56	about
+#29	AnnotatorNotes T36	lemma = 'about'
+T37	pos_NN 58 65	hundred
+#30	AnnotatorNotes T37	lemma = 'hundred'
+T38	pos_NNS 66 71	years
+#31	AnnotatorNotes T38	lemma = 'year'
+T39	pos_RB 72 75	ago
+#32	AnnotatorNotes T39	lemma = 'ago'
+T40	pos_Fc 75 76	,
+#33	AnnotatorNotes T40	lemma = ','
+T41	pos_RB 77 85	nowadays
+#34	AnnotatorNotes T41	lemma = 'nowadays'
+T42	pos_DT 86 89	the
+#35	AnnotatorNotes T42	lemma = 'the'
+T43	pos_NN 90 100	psychology
+#36	AnnotatorNotes T43	lemma = 'psychology'
+T44	pos_IN 101 103	of
+#37	AnnotatorNotes T44	lemma = 'of'
+T45	pos_NN 104 117	acculturation
+#38	AnnotatorNotes T45	lemma = 'acculturation'
+T46	pos_VBZ 118 120	is
+#39	AnnotatorNotes T46	lemma = 'be'
+T47	pos_RB 121 126	still
+#40	AnnotatorNotes T47	lemma = 'still'
+T48	pos_IN 127 129	on
+#41	AnnotatorNotes T48	lemma = 'on'
+T49	pos_DT 130 133	the
+#42	AnnotatorNotes T49	lemma = 'the'
+T50	pos_NN 134 137	top
+#43	AnnotatorNotes T50	lemma = 'top'
+T51	pos_IN 138 140	of
+#44	AnnotatorNotes T51	lemma = 'of'
+T52	pos_NNS 141 152	researchers
+#45	AnnotatorNotes T52	lemma = 'researcher'
+T53	pos_JJ 153 156	due
+#46	AnnotatorNotes T53	lemma = 'due'
+T54	pos_TO 157 159	to
+#47	AnnotatorNotes T54	lemma = 'to'
+T55	pos_VBG 161 168	growing
+#48	AnnotatorNotes T55	lemma = 'grow'
+T56	pos_RP 169 171	up
+#49	AnnotatorNotes T56	lemma = 'up'
+T57	pos_NN 172 178	number
+#50	AnnotatorNotes T57	lemma = 'number'
+T58	pos_IN 179 181	of
+#51	AnnotatorNotes T58	lemma = 'of'
+T59	pos_NNS 182 192	immigrants
+#52	AnnotatorNotes T59	lemma = 'immigrant'
+T60	pos_IN 193 195	in
+#53	AnnotatorNotes T60	lemma = 'in'
+T61	pos_PRP 196 200	many
+#54	AnnotatorNotes T61	lemma = 'many'
+T62	pos_NNS 201 210	countries
+#55	AnnotatorNotes T62	lemma = 'country'
+T63	pos_Fp 210 211	.
+#56	AnnotatorNotes T63	lemma = '.'
+T64	pos_NN 213 226	Acculturation
+#57	AnnotatorNotes T64	lemma = 'acculturation'
+T65	pos_VBZ 227 229	is
+#58	AnnotatorNotes T65	lemma = 'be'
+T66	pos_DT 230 231	a
+#59	AnnotatorNotes T66	lemma = 'a'
+T67	pos_NN 232 238	result
+#60	AnnotatorNotes T67	lemma = 'result'
+T68	pos_IN 239 241	of
+#61	AnnotatorNotes T68	lemma = 'of'
+T69	pos_JJ 242 255	intercultural
+#62	AnnotatorNotes T69	lemma = 'intercultural'
+T70	pos_NN 256 263	contact
+#63	AnnotatorNotes T70	lemma = 'contact'
+T71	pos_Fp 263 264	.
+#64	AnnotatorNotes T71	lemma = '.'
+T72	pos_PRP 265 267	It
+#65	AnnotatorNotes T72	lemma = 'it'
+T73	pos_VBZ 268 270	is
+#66	AnnotatorNotes T73	lemma = 'be'
+T74	pos_VBN 271 281	associated
+#67	AnnotatorNotes T74	lemma = 'associate'
+T75	pos_IN 282 286	with
+#68	AnnotatorNotes T75	lemma = 'with'
+T76	pos_NNS 287 294	changes
+#69	AnnotatorNotes T76	lemma = 'change'
+T77	pos_IN 295 297	in
+#70	AnnotatorNotes T77	lemma = 'in'
+T78	pos_VBG 298 303	being
+#71	AnnotatorNotes T78	lemma = 'be'
+T79	pos_IN 304 306	in
+#72	AnnotatorNotes T79	lemma = 'in'
+T80	pos_NN 307 314	contact
+#73	AnnotatorNotes T80	lemma = 'contact'
+T81	pos_NNS 315 323	cultures
+#74	AnnotatorNotes T81	lemma = 'culture'
+T82	pos_IN 324 326	at
+#75	AnnotatorNotes T82	lemma = 'at'
+T83	pos_DT 327 330	the
+#76	AnnotatorNotes T83	lemma = 'the'
+T84	pos_JJ 331 339	cultural
+#77	AnnotatorNotes T84	lemma = 'cultural'
+T85	pos_NN 340 345	level
+#78	AnnotatorNotes T85	lemma = 'level'
+T86	pos_CC 346 349	and
+#79	AnnotatorNotes T86	lemma = 'and'
+T87	pos_IN 350 354	with
+#80	AnnotatorNotes T87	lemma = 'with'
+T88	pos_JJ 355 365	behavioral
+#81	AnnotatorNotes T88	lemma = 'behavioral'
+T89	pos_NNS 366 373	changes
+#82	AnnotatorNotes T89	lemma = 'change'
+T90	pos_IN 374 376	at
+#83	AnnotatorNotes T90	lemma = 'at'
+T91	pos_DT 377 380	the
+#84	AnnotatorNotes T91	lemma = 'the'
+T92	pos_JJ 381 391	individual
+#85	AnnotatorNotes T92	lemma = 'individual'
+T93	pos_NN 392 397	level
+#86	AnnotatorNotes T93	lemma = 'level'
+T94	pos_Fp 397 398	.
+#87	AnnotatorNotes T94	lemma = '.'
+T95	pos_JJ 400 408	Canadian
+#88	AnnotatorNotes T95	lemma = 'canadian'
+T96	pos_NN 409 421	psychologist
+#89	AnnotatorNotes T96	lemma = 'psychologist'
+T97	pos_NP 422 432	J.W. Berry
+#90	AnnotatorNotes T97	lemma = 'j.w._berry'
+T98	pos_VBN 433 441	proposed
+#91	AnnotatorNotes T98	lemma = 'propose'
+T99	pos_IN 442 446	that
+#92	AnnotatorNotes T99	lemma = 'that'
+T100	pos_JJ 447 455	positive
+#93	AnnotatorNotes T100	lemma = 'positive'
+T101	pos_CC 456 459	and
+#94	AnnotatorNotes T101	lemma = 'and'
+T102	pos_JJ 460 468	negative
+#95	AnnotatorNotes T102	lemma = 'negative'
+T103	pos_NNS 469 481	orientations
+#96	AnnotatorNotes T103	lemma = 'orientation'
+T104	pos_TO 482 484	to
+#97	AnnotatorNotes T104	lemma = 'to'
+T105	pos_VBG 485 496	maintaining
+#98	AnnotatorNotes T105	lemma = 'maintain'
+T106	pos_NN 497 505	heritage
+#99	AnnotatorNotes T106	lemma = 'heritage'
+T107	pos_NN 506 513	culture
+#100	AnnotatorNotes T107	lemma = 'culture'
+T108	pos_CC 514 517	and
+#101	AnnotatorNotes T108	lemma = 'and'
+T109	pos_TO 518 520	to
+#102	AnnotatorNotes T109	lemma = 'to'
+T110	pos_VB 521 528	contact
+#103	AnnotatorNotes T110	lemma = 'contact'
+T111	pos_IN 529 533	with
+#104	AnnotatorNotes T111	lemma = 'with'
+T112	pos_DT 534 535	a
+#105	AnnotatorNotes T112	lemma = 'a'
+T113	pos_NN 536 540	host
+#106	AnnotatorNotes T113	lemma = 'host'
+T114	pos_NN 541 548	society
+#107	AnnotatorNotes T114	lemma = 'society'
+T115	pos_MD 549 554	could
+#108	AnnotatorNotes T115	lemma = 'can'
+T116	pos_VB 555 557	be
+#109	AnnotatorNotes T116	lemma = 'be'
+T117	pos_VBN 558 566	combined
+#110	AnnotatorNotes T117	lemma = 'combine'
+T118	pos_IN 567 569	in
+#111	AnnotatorNotes T118	lemma = 'in'
+T119	pos_Z 570 574	four
+#112	AnnotatorNotes T119	lemma = '4'
+T120	pos_JJ 575 584	different
+#113	AnnotatorNotes T120	lemma = 'different'
+T121	pos_NN 585 598	acculturation
+#114	AnnotatorNotes T121	lemma = 'acculturation'
+T122	pos_NNS 599 609	strategies
+#115	AnnotatorNotes T122	lemma = 'strategy'
+T123	pos_Fd 609 610	:
+#116	AnnotatorNotes T123	lemma = ':'
+T124	pos_NN 611 622	integration
+#117	AnnotatorNotes T124	lemma = 'integration'
+T125	pos_Fc 622 623	,
+#118	AnnotatorNotes T125	lemma = ','
+T126	pos_NN 624 634	separation
+#119	AnnotatorNotes T126	lemma = 'separation'
+T127	pos_Fc 634 635	,
+#120	AnnotatorNotes T127	lemma = ','
+T128	pos_NN 636 648	assimilation
+#121	AnnotatorNotes T128	lemma = 'assimilation'
+T129	pos_CC 649 652	and
+#122	AnnotatorNotes T129	lemma = 'and'
+T130	pos_NN 653 668	marginalisation
+#123	AnnotatorNotes T130	lemma = 'marginalisation'
+T131	pos_Fp 668 669	.
+#124	AnnotatorNotes T131	lemma = '.'
+T132	pos_NN 670 681	Integration
+#125	AnnotatorNotes T132	lemma = 'integration'
+T133	pos_VBZ 682 684	is
+#126	AnnotatorNotes T133	lemma = 'be'
+T134	pos_WRB 685 689	when
+#127	AnnotatorNotes T134	lemma = 'when'
+T135	pos_NNS 690 701	individuals
+#128	AnnotatorNotes T135	lemma = 'individual'
+T136	pos_VBP 702 708	choose
+#129	AnnotatorNotes T136	lemma = 'choose'
+T137	pos_DT 709 712	the
+#130	AnnotatorNotes T137	lemma = 'the'
+T138	pos_NN 713 727	identification
+#131	AnnotatorNotes T138	lemma = 'identification'
+T139	pos_IN 728 732	with
+#132	AnnotatorNotes T139	lemma = 'with'
+T140	pos_DT 733 737	both
+#133	AnnotatorNotes T140	lemma = 'both'
+T141	pos_NNS 738 746	cultures
+#134	AnnotatorNotes T141	lemma = 'culture'
+T142	pos_Fp 746 747	.
+#135	AnnotatorNotes T142	lemma = '.'
+T143	pos_NN 748 758	Separation
+#136	AnnotatorNotes T143	lemma = 'separation'
+T144	pos_VBZ 759 764	means
+#137	AnnotatorNotes T144	lemma = 'mean'
+T145	pos_DT 765 768	the
+#138	AnnotatorNotes T145	lemma = 'the'
+T146	pos_NN 769 783	identification
+#139	AnnotatorNotes T146	lemma = 'identification'
+T147	pos_JJ 784 788	only
+#140	AnnotatorNotes T147	lemma = 'only'
+T148	pos_IN 789 793	with
+#141	AnnotatorNotes T148	lemma = 'with'
+T149	pos_NN 794 802	heritage
+#142	AnnotatorNotes T149	lemma = 'heritage'
+T150	pos_NN 803 810	country
+#143	AnnotatorNotes T150	lemma = 'country'
+T151	pos_POS 810 812	's
+#144	AnnotatorNotes T151	lemma = ''s'
+T152	pos_NN 813 820	culture
+#145	AnnotatorNotes T152	lemma = 'culture'
+T153	pos_Fp 820 821	.
+#146	AnnotatorNotes T153	lemma = '.'
+T154	pos_WRB 822 826	When
+#147	AnnotatorNotes T154	lemma = 'when'
+T155	pos_NNS 827 838	individuals
+#148	AnnotatorNotes T155	lemma = 'individual'
+T156	pos_VBP 839 847	identify
+#149	AnnotatorNotes T156	lemma = 'identify'
+T157	pos_IN 848 852	with
+#150	AnnotatorNotes T157	lemma = 'with'
+T158	pos_NN 853 857	host
+#151	AnnotatorNotes T158	lemma = 'host'
+T159	pos_NN 858 865	country
+#152	AnnotatorNotes T159	lemma = 'country'
+T160	pos_POS 865 867	's
+#153	AnnotatorNotes T160	lemma = ''s'
+T161	pos_NN 868 875	culture
+#154	AnnotatorNotes T161	lemma = 'culture'
+T162	pos_CC 876 879	and
+#155	AnnotatorNotes T162	lemma = 'and'
+T163	pos_VBP 880 882	do
+#156	AnnotatorNotes T163	lemma = 'do'
+T164	pos_RB 883 886	not
+#157	AnnotatorNotes T164	lemma = 'not'
+T165	pos_VB 887 893	accept
+#158	AnnotatorNotes T165	lemma = 'accept'
+T166	pos_TO 894 896	to
+#159	AnnotatorNotes T166	lemma = 'to'
+T167	pos_NN 897 905	heritage
+#160	AnnotatorNotes T167	lemma = 'heritage'
+T168	pos_NN 906 913	culture
+#161	AnnotatorNotes T168	lemma = 'culture'
+T169	pos_Fc 913 914	,
+#162	AnnotatorNotes T169	lemma = ','
+T170	pos_EX 915 920	there
+#163	AnnotatorNotes T170	lemma = 'there'
+T171	pos_VBZ 921 923	is
+#164	AnnotatorNotes T171	lemma = 'be'
+T172	pos_NN 924 936	assimilation
+#165	AnnotatorNotes T172	lemma = 'assimilation'
+T173	pos_Fp 936 937	.
+#166	AnnotatorNotes T173	lemma = '.'
+T174	pos_NN 938 953	Marginalisation
+#167	AnnotatorNotes T174	lemma = 'marginalisation'
+T175	pos_VBZ 954 959	means
+#168	AnnotatorNotes T175	lemma = 'mean'
+T176	pos_DT 960 963	the
+#169	AnnotatorNotes T176	lemma = 'the'
+T177	pos_NN 964 973	rejection
+#170	AnnotatorNotes T177	lemma = 'rejection'
+T178	pos_IN 974 976	of
+#171	AnnotatorNotes T178	lemma = 'of'
+T179	pos_DT 977 981	both
+#172	AnnotatorNotes T179	lemma = 'both'
+T180	pos_NNS 982 990	cultures
+#173	AnnotatorNotes T180	lemma = 'culture'
+T181	pos_Fp 990 991	.
+#174	AnnotatorNotes T181	lemma = '.'
+T182	pos_DT 992 997	These
+#175	AnnotatorNotes T182	lemma = 'these'
+T183	pos_Z 998 1002	four
+#176	AnnotatorNotes T183	lemma = '4'
+T184	pos_NNS 1003 1013	strategies
+#177	AnnotatorNotes T184	lemma = 'strategy'
+T185	pos_VB 1014 1018	lead
+#178	AnnotatorNotes T185	lemma = 'lead'
+T186	pos_TO 1019 1021	to
+#179	AnnotatorNotes T186	lemma = 'to'
+T187	pos_JJ 1022 1031	different
+#180	AnnotatorNotes T187	lemma = 'different'
+T188	pos_JJ 1032 1045	psychological
+#181	AnnotatorNotes T188	lemma = 'psychological'
+T189	pos_NNS 1046 1058	consequences
+#182	AnnotatorNotes T189	lemma = 'consequence'
+T190	pos_Fp 1058 1059	.
+#183	AnnotatorNotes T190	lemma = '.'
+T191	pos_NN 1060 1071	Integration
+#184	AnnotatorNotes T191	lemma = 'integration'
+T192	pos_VBZ 1072 1074	is
+#185	AnnotatorNotes T192	lemma = 'be'
+T193	pos_DT 1075 1078	the
+#186	AnnotatorNotes T193	lemma = 'the'
+T194	pos_RBS 1079 1083	most
+#187	AnnotatorNotes T194	lemma = 'many'
+T195	pos_JJ 1084 1094	preferable
+#188	AnnotatorNotes T195	lemma = 'preferable'
+T196	pos_NN 1095 1103	strategy
+#189	AnnotatorNotes T196	lemma = 'strategy'
+T197	pos_IN 1104 1106	of
+#190	AnnotatorNotes T197	lemma = 'of'
+T198	pos_NN 1107 1120	acculturation
+#191	AnnotatorNotes T198	lemma = 'acculturation'
+T199	pos_Fc 1120 1121	,
+#192	AnnotatorNotes T199	lemma = ','
+T200	pos_NN 1122 1137	marginalisation
+#193	AnnotatorNotes T200	lemma = 'marginalisation'
+T201	pos_VBZ 1138 1140	is
+#194	AnnotatorNotes T201	lemma = 'be'
+T202	pos_DT 1141 1144	the
+#195	AnnotatorNotes T202	lemma = 'the'
+T203	pos_JJS 1145 1150	least
+#196	AnnotatorNotes T203	lemma = 'little'
+T204	pos_JJ 1151 1161	preferable
+#197	AnnotatorNotes T204	lemma = 'preferable'
+T205	pos_Fp 1161 1162	.
+#198	AnnotatorNotes T205	lemma = '.'
+T206	pos_RB 1163 1170	However
+#199	AnnotatorNotes T206	lemma = 'however'
+T207	pos_Fc 1170 1171	,
+#200	AnnotatorNotes T207	lemma = ','
+T208	pos_IN 1172 1177	under
+#201	AnnotatorNotes T208	lemma = 'under'
+T209	pos_WP 1178 1182	what
+#202	AnnotatorNotes T209	lemma = 'what'
+T210	pos_NNS 1183 1196	circumstances
+#203	AnnotatorNotes T210	lemma = 'circumstance'
+T211	pos_NNS 1197 1208	individuals
+#204	AnnotatorNotes T211	lemma = 'individual'
+T212	pos_VBP 1209 1215	prefer
+#205	AnnotatorNotes T212	lemma = 'prefer'
+T213	pos_NN 1216 1219	one
+#206	AnnotatorNotes T213	lemma = 'one'
+T214	pos_CC 1220 1222	or
+#207	AnnotatorNotes T214	lemma = 'or'
+T215	pos_DT 1223 1230	another
+#208	AnnotatorNotes T215	lemma = 'another'
+T216	pos_NN 1231 1244	acculturation
+#209	AnnotatorNotes T216	lemma = 'acculturation'
+T217	pos_NN 1245 1253	strategy
+#210	AnnotatorNotes T217	lemma = 'strategy'
+T218	pos_VBZ 1254 1256	is
+#211	AnnotatorNotes T218	lemma = 'be'
+T219	pos_RB 1257 1260	not
+#212	AnnotatorNotes T219	lemma = 'not'
+T220	pos_JJ 1262 1267	clear
+#213	AnnotatorNotes T220	lemma = 'clear'
+T221	pos_Fp 1267 1268	.
+#214	AnnotatorNotes T221	lemma = '.'
+T222	pos_PRP 1269 1271	It
+#215	AnnotatorNotes T222	lemma = 'it'
+T223	pos_VBD 1272 1275	was
+#216	AnnotatorNotes T223	lemma = 'be'
+T224	pos_VBN 1276 1281	found
+#217	AnnotatorNotes T224	lemma = 'find'
+T225	pos_IN 1282 1286	that
+#218	AnnotatorNotes T225	lemma = 'that'
+T226	pos_EX 1287 1292	there
+#219	AnnotatorNotes T226	lemma = 'there'
+T227	pos_VBZ 1293 1295	is
+#220	AnnotatorNotes T227	lemma = 'be'
+T228	pos_DT 1296 1298	an
+#221	AnnotatorNotes T228	lemma = 'a'
+T229	pos_NN 1299 1308	influence
+#222	AnnotatorNotes T229	lemma = 'influence'
+T230	pos_IN 1309 1311	of
+#223	AnnotatorNotes T230	lemma = 'of'
+T231	pos_JJ 1312 1318	social
+#224	AnnotatorNotes T231	lemma = 'social'
+T232	pos_CC 1319 1322	and
+#225	AnnotatorNotes T232	lemma = 'and'
+T233	pos_JJ 1323 1332	political
+#226	AnnotatorNotes T233	lemma = 'political'
+T234	pos_NN 1333 1340	context
+#227	AnnotatorNotes T234	lemma = 'context'
+T235	pos_IN 1341 1343	on
+#228	AnnotatorNotes T235	lemma = 'on'
+T236	pos_DT 1344 1347	the
+#229	AnnotatorNotes T236	lemma = 'the'
+T237	pos_NN 1348 1361	acculturation
+#230	AnnotatorNotes T237	lemma = 'acculturation'
+T238	pos_NN 1362 1369	process
+#231	AnnotatorNotes T238	lemma = 'process'
+T239	pos_Fp 1369 1370	.
+#232	AnnotatorNotes T239	lemma = '.'
+T240	pos_RB 1371 1380	Therefore
+#233	AnnotatorNotes T240	lemma = 'therefore'
+T241	pos_Fc 1380 1381	,
+#234	AnnotatorNotes T241	lemma = ','
+T242	pos_IN 1382 1384	in
+#235	AnnotatorNotes T242	lemma = 'in'
+T243	pos_DT 1385 1388	the
+#236	AnnotatorNotes T243	lemma = 'the'
+T244	pos_JJ 1389 1395	future
+#237	AnnotatorNotes T244	lemma = 'future'
+T245	pos_NN 1396 1404	research
+#238	AnnotatorNotes T245	lemma = 'research'
+T246	pos_PRP 1405 1407	we
+#239	AnnotatorNotes T246	lemma = 'we'
+T247	pos_MD 1408 1412	will
+#240	AnnotatorNotes T247	lemma = 'will'
+T248	pos_VB 1413 1420	examine
+#241	AnnotatorNotes T248	lemma = 'examine'
+T249	pos_DT 1421 1422	a
+#242	AnnotatorNotes T249	lemma = 'a'
+T250	pos_NN 1423 1433	hypothesis
+#243	AnnotatorNotes T250	lemma = 'hypothesis'
+T251	pos_IN 1434 1436	of
+#244	AnnotatorNotes T251	lemma = 'of'
+T252	pos_DT 1437 1440	the
+#245	AnnotatorNotes T252	lemma = 'the'
+T253	pos_NN 1441 1447	impact
+#246	AnnotatorNotes T253	lemma = 'impact'
+T254	pos_IN 1448 1450	of
+#247	AnnotatorNotes T254	lemma = 'of'
+T255	pos_JJ 1451 1460	different
+#248	AnnotatorNotes T255	lemma = 'different'
+T256	pos_JJ 1461 1472	educational
+#249	AnnotatorNotes T256	lemma = 'educational'
+T257	pos_NNS 1473 1485	institutions
+#250	AnnotatorNotes T257	lemma = 'institution'
+T258	pos_TO 1486 1488	to
+#251	AnnotatorNotes T258	lemma = 'to'
+T259	pos_DT 1489 1492	the
+#252	AnnotatorNotes T259	lemma = 'the'
+T260	pos_NN 1493 1506	acculturation
+#253	AnnotatorNotes T260	lemma = 'acculturation'
+T261	pos_NN 1507 1514	process
+#254	AnnotatorNotes T261	lemma = 'process'
+T262	pos_IN 1515 1517	of
+#255	AnnotatorNotes T262	lemma = 'of'
+T263	pos_NNS 1518 1528	immigrants
+#256	AnnotatorNotes T263	lemma = 'immigrant'
+T264	pos_Fp 1528 1529	.
+#257	AnnotatorNotes T264	lemma = '.'

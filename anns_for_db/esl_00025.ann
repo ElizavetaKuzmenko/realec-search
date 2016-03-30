@@ -1,0 +1,702 @@
+T2	lex_item_choice 255 278	go for one more payment	
+#2	AnnotatorNotes T2	go for another award
+T6	Art_choice 524 529	money
+#6	AnnotatorNotes T6	the money
+T8	Absence_comp_sent 532 534	we
+#8	AnnotatorNotes T8	we outlined
+T9	Pronouns 555 559	it's	
+#9	AnnotatorNotes T9	its
+T11	Word_choice 581 596	"point overall"	
+#11	AnnotatorNotes T11	pointed out
+T12	Lack_of_connective 597 602	is it	
+#12	AnnotatorNotes T12	that it was
+T13	Redundant_comp 617 622	whole	
+A13	Delete T13
+T14	Spelling 670 679	discussin	
+#14	AnnotatorNotes T14	discussion
+T16	lex_item_choice 926 933	between	
+#16	AnnotatorNotes T16	involving
+T17	Spelling 997 1005	programs	
+#17	AnnotatorNotes T17	programmes
+T1	lex_item_choice 85 101	academic payment
+A1	Weight-language T1 Minor
+#1	AnnotatorNotes T1	award
+A2	Weight-language T2 Minor
+A6	Cause T6 Absence_of_Category_in_L1
+A7	Weight-language T6 Minor
+A9	Weight-language T8 Minor
+A11	Weight-language T9 Major
+A12	Weight-language T11 Minor
+A14	Weight-language T12 Major
+A15	Weight-language T13 Minor
+A16	Cause T14 Typo
+A17	Weight-language T14 Minor
+A20	Weight-language T16 Major
+A21	Cause T17 L1_interference
+A22	Weight-language T17 Minor
+T19	Prepositions 1500 1504	from
+A25	Weight-language T19 Minor
+#10	AnnotatorNotes T19	by
+T20	Punctuation 370 382	'generation'
+#13	AnnotatorNotes T20	generations
+T21	Noun_number 371 381	generation
+#19	AnnotatorNotes T21	generations
+T3	Word_choice 428 450	providing with it only
+#3	AnnotatorNotes T3	using it only on
+T22	Word_choice 451 475	department-wise projects
+#20	AnnotatorNotes T22	projects within the department
+T4	Word_choice 477 484	the way
+#4	AnnotatorNotes T4	This was how
+T23	Art_choice 494 510	appropriate ways
+#21	AnnotatorNotes T23	the appropriate ways
+T5	Nouns 506 522	ways of spending
+#5	AnnotatorNotes T5	way to spend 
+T7	Standard 597 602	is it
+#7	AnnotatorNotes T7	it is
+T10	Word_choice 628 642	of the payment
+#22	AnnotatorNotes T10	the payment has to achieve
+T24	Redundant_comp 643 649	or not
+T15	Art_choice 685 694	following
+#15	AnnotatorNotes T15	the following
+T25	lex_item_choice 820 827	Dealing
+#23	AnnotatorNotes T25	Sharing
+T26	Prepositions 839 846	between
+#24	AnnotatorNotes T26	among
+T27	Word_choice 1018 1026	given by
+#25	AnnotatorNotes T27	as a part of student life in
+T28	Word_choice 1009 1017	Practice
+#26	AnnotatorNotes T28	Practical work
+T29	Art_form 1236 1247	pocket book
+#27	AnnotatorNotes T29	a laptop
+T30	Word_choice 1236 1247	pocket book
+#28	AnnotatorNotes T30	laptop
+T31	lex_item_choice 1287 1300	organisations
+#29	AnnotatorNotes T31	events
+T32	Word_choice 1344 1354	As  result
+#30	AnnotatorNotes T32	In the end,
+T18	Absence_comp_sent 1520 1523	and
+#18	AnnotatorNotes T18	and because
+T33	Tense 1533 1540	showing
+#31	AnnotatorNotes T33	show
+T34	Lack_of_ref_device 1558 1565	all the
+#32	AnnotatorNotes T34	all the points
+A3	Cause T26 Absence_of_Category_in_L1
+A4	Weight-language T26 Major
+A5	Weight-understanding T26 Minor
+T35	Seq_of_tenses 597 599	is
+A8	Cause T35 Absence_of_Category_in_L1
+A10	Weight-language T35 Major
+A18	Weight-understanding T35 Minor
+#33	AnnotatorNotes T35	was
+T36	pos_﻿ 0 1	﻿
+#34	AnnotatorNotes T36	lemma = '﻿'
+T37	pos_NP 1 7	Report
+#35	AnnotatorNotes T37	lemma = 'report'
+T38	pos_IN 8 10	on
+#36	AnnotatorNotes T38	lemma = 'on'
+T39	pos_DT 11 14	the
+#37	AnnotatorNotes T39	lemma = 'the'
+T40	pos_NP 15 25	Conference
+#38	AnnotatorNotes T40	lemma = 'conference'
+T41	pos_Z 29 38	5.12.2011
+#39	AnnotatorNotes T41	lemma = '5.12.2011'
+T42	pos_EX 39 44	there
+#40	AnnotatorNotes T42	lemma = 'there'
+T43	pos_VBD 45 48	was
+#41	AnnotatorNotes T43	lemma = 'be'
+T44	pos_DT 49 50	a
+#42	AnnotatorNotes T44	lemma = 'a'
+T45	pos_NN 51 61	conference
+#43	AnnotatorNotes T45	lemma = 'conference'
+T46	pos_VBG 62 71	regarding
+#44	AnnotatorNotes T46	lemma = 'regard'
+T47	pos_DT 72 75	the
+#45	AnnotatorNotes T47	lemma = 'the'
+T48	pos_JJ 76 84	incoming
+#46	AnnotatorNotes T48	lemma = 'incoming'
+T49	pos_JJ 85 93	academic
+#47	AnnotatorNotes T49	lemma = 'academic'
+T50	pos_NN 94 101	payment
+#48	AnnotatorNotes T50	lemma = 'payment'
+T51	pos_TO 102 104	to
+#49	AnnotatorNotes T51	lemma = 'to'
+T52	pos_PRP2 105 108	our
+#50	AnnotatorNotes T52	lemma = 'our'
+T53	pos_NN 109 119	department
+#51	AnnotatorNotes T53	lemma = 'department'
+T54	pos_Fp 119 120	.
+#52	AnnotatorNotes T54	lemma = '.'
+T55	pos_DT 121 124	The
+#53	AnnotatorNotes T55	lemma = 'the'
+T56	pos_NN 125 132	payment
+#54	AnnotatorNotes T56	lemma = 'payment'
+T57	pos_VBZ 133 141	consists
+#55	AnnotatorNotes T57	lemma = 'consist'
+T58	pos_IN 142 144	of
+#56	AnnotatorNotes T58	lemma = 'of'
+T59	pos_Z 145 156	one million
+#57	AnnotatorNotes T59	lemma = '1000000'
+T60	pos_NP 157 161	Euro
+#58	AnnotatorNotes T60	lemma = 'euro'
+T61	pos_Fc 161 162	,
+#59	AnnotatorNotes T61	lemma = ','
+T62	pos_CC 163 166	and
+#60	AnnotatorNotes T62	lemma = 'and'
+T63	pos_PRP 167 169	we
+#61	AnnotatorNotes T63	lemma = 'we'
+T64	pos_VBP 170 174	have
+#62	AnnotatorNotes T64	lemma = 'have'
+T65	pos_Z 175 178	two
+#63	AnnotatorNotes T65	lemma = '2'
+T66	pos_JJ 179 187	academic
+#64	AnnotatorNotes T66	lemma = 'academic'
+T67	pos_NNS 188 193	years
+#65	AnnotatorNotes T67	lemma = 'year'
+T68	pos_TO 194 196	to
+#66	AnnotatorNotes T68	lemma = 'to'
+T69	pos_VB 197 202	spend
+#67	AnnotatorNotes T69	lemma = 'spend'
+T70	pos_PRP 203 205	it
+#68	AnnotatorNotes T70	lemma = 'it'
+T71	pos_IN 16 18	on
+#69	AnnotatorNotes T71	lemma = 'on'
+T72	pos_PRP2 209 212	our
+#70	AnnotatorNotes T72	lemma = 'our'
+T73	pos_NNS 213 218	needs
+#71	AnnotatorNotes T73	lemma = 'need'
+T74	pos_Fp 218 219	.
+#72	AnnotatorNotes T74	lemma = '.'
+T75	pos_PRP 220 222	It
+#73	AnnotatorNotes T75	lemma = 'it'
+T76	pos_VBZ 223 226	has
+#74	AnnotatorNotes T76	lemma = 'have'
+T77	pos_VBN 227 231	been
+#75	AnnotatorNotes T77	lemma = 'be'
+T78	pos_VBN 232 239	decided
+#76	AnnotatorNotes T78	lemma = 'decide'
+T79	pos_IN 240 244	that
+#77	AnnotatorNotes T79	lemma = 'that'
+T80	pos_PRP 245 247	we
+#78	AnnotatorNotes T80	lemma = 'we'
+T81	pos_MD 248 254	should
+#79	AnnotatorNotes T81	lemma = 'should'
+T82	pos_VB 255 257	go
+#80	AnnotatorNotes T82	lemma = 'go'
+T83	pos_IN 258 261	for
+#81	AnnotatorNotes T83	lemma = 'for'
+T84	pos_DT 262 265	one
+#82	AnnotatorNotes T84	lemma = 'one'
+T85	pos_RBR 266 270	more
+#83	AnnotatorNotes T85	lemma = 'many'
+T86	pos_NN 271 278	payment
+#84	AnnotatorNotes T86	lemma = 'payment'
+T87	pos_IN 279 281	by
+#85	AnnotatorNotes T87	lemma = 'by'
+T88	pos_VBG 282 287	using
+#86	AnnotatorNotes T88	lemma = 'use'
+T89	pos_DT 288 291	the
+#87	AnnotatorNotes T89	lemma = 'the'
+T90	pos_JJ 292 299	current
+#88	AnnotatorNotes T90	lemma = 'current'
+T91	pos_NN 300 303	one
+#89	AnnotatorNotes T91	lemma = 'one'
+T92	pos_RB 304 307	not
+#90	AnnotatorNotes T92	lemma = 'not'
+T93	pos_JJ 308 312	only
+#91	AnnotatorNotes T93	lemma = 'only'
+T94	pos_IN 313 316	for
+#92	AnnotatorNotes T94	lemma = 'for'
+T95	pos_PRP2 317 320	our
+#93	AnnotatorNotes T95	lemma = 'our'
+T96	pos_NNS 321 326	needs
+#94	AnnotatorNotes T96	lemma = 'need'
+T97	pos_IN 327 329	as
+#95	AnnotatorNotes T97	lemma = 'as'
+T98	pos_JJ 330 337	current
+#96	AnnotatorNotes T98	lemma = 'current'
+T99	pos_NNS 338 346	freshmen
+#97	AnnotatorNotes T99	lemma = 'freshman'
+T100	pos_Fc 346 347	,
+#98	AnnotatorNotes T100	lemma = ','
+T101	pos_CC 348 351	but
+#99	AnnotatorNotes T101	lemma = 'but'
+T102	pos_RB 352 356	also
+#100	AnnotatorNotes T102	lemma = 'also'
+T103	pos_IN 357 360	for
+#101	AnnotatorNotes T103	lemma = 'for'
+T104	pos_DT 361 364	the
+#102	AnnotatorNotes T104	lemma = 'the'
+T105	pos_JJ 365 369	next
+#103	AnnotatorNotes T105	lemma = 'next'
+T106	pos_Fw 370 371	'
+#104	AnnotatorNotes T106	lemma = '''
+T107	pos_NN 371 381	generation
+#105	AnnotatorNotes T107	lemma = 'generation'
+T108	pos_Fw 381 382	'
+#106	AnnotatorNotes T108	lemma = '''
+T109	pos_Fp 382 383	.
+#107	AnnotatorNotes T109	lemma = '.'
+T110	pos_RB 384 388	Thus
+#108	AnnotatorNotes T110	lemma = 'thus'
+T111	pos_Fc 388 389	,
+#109	AnnotatorNotes T111	lemma = ','
+T112	pos_PRP 390 392	we
+#110	AnnotatorNotes T112	lemma = 'we'
+T113	pos_VBP 393 396	are
+#111	AnnotatorNotes T113	lemma = 'be'
+T114	pos_VBG 397 402	going
+#112	AnnotatorNotes T114	lemma = 'go'
+T115	pos_TO 403 405	to
+#113	AnnotatorNotes T115	lemma = 'to'
+T116	pos_VB 406 409	use
+#114	AnnotatorNotes T116	lemma = 'use'
+T117	pos_DT 410 413	the
+#115	AnnotatorNotes T117	lemma = 'the'
+T118	pos_NN 414 419	money
+#116	AnnotatorNotes T118	lemma = 'money'
+T119	pos_RB 420 426	wisely
+#117	AnnotatorNotes T119	lemma = 'wisely'
+T120	pos_Fc 426 427	,
+#118	AnnotatorNotes T120	lemma = ','
+T121	pos_VBG 428 437	providing
+#119	AnnotatorNotes T121	lemma = 'provide'
+T122	pos_IN 438 442	with
+#120	AnnotatorNotes T122	lemma = 'with'
+T123	pos_PRP 443 445	it
+#121	AnnotatorNotes T123	lemma = 'it'
+T124	pos_JJ 446 450	only
+#122	AnnotatorNotes T124	lemma = 'only'
+T125	pos_JJ 451 466	department-wise
+#123	AnnotatorNotes T125	lemma = 'department-wise'
+T126	pos_NNS 467 475	projects
+#124	AnnotatorNotes T126	lemma = 'project'
+T127	pos_Fp 475 476	.
+#125	AnnotatorNotes T127	lemma = '.'
+T128	pos_DT 477 480	the
+#126	AnnotatorNotes T128	lemma = 'the'
+T129	pos_NN 481 484	way
+#127	AnnotatorNotes T129	lemma = 'way'
+T130	pos_PRP 485 487	we
+#128	AnnotatorNotes T130	lemma = 'we'
+T131	pos_VBD 488 493	chose
+#129	AnnotatorNotes T131	lemma = 'choose'
+T132	pos_JJ 494 505	appropriate
+#130	AnnotatorNotes T132	lemma = 'appropriate'
+T133	pos_NNS 506 510	ways
+#131	AnnotatorNotes T133	lemma = 'way'
+T134	pos_IN 511 513	of
+#132	AnnotatorNotes T134	lemma = 'of'
+T135	pos_VBG 514 522	spending
+#133	AnnotatorNotes T135	lemma = 'spend'
+T136	pos_NN 524 529	money
+#134	AnnotatorNotes T136	lemma = 'money'
+T137	pos_Fd 530 531	:
+#135	AnnotatorNotes T137	lemma = ':'
+T138	pos_PRP 532 534	we
+#136	AnnotatorNotes T138	lemma = 'we'
+T139	pos_DT 536 538	an
+#137	AnnotatorNotes T139	lemma = 'a'
+T140	pos_NN 539 543	idea
+#138	AnnotatorNotes T140	lemma = 'idea'
+T141	pos_Fc 543 544	,
+#139	AnnotatorNotes T141	lemma = ','
+T142	pos_VBD 545 554	explained
+#140	AnnotatorNotes T142	lemma = 'explain'
+T143	pos_PRP 555 557	it
+#141	AnnotatorNotes T143	lemma = 'it'
+T144	pos_VBZ 557 559	's
+#142	AnnotatorNotes T144	lemma = 'be'
+T145	pos_NNS 560 566	pluses
+#143	AnnotatorNotes T145	lemma = 'plus'
+T146	pos_CC 567 570	and
+#144	AnnotatorNotes T146	lemma = 'and'
+T147	pos_NNS 571 578	minuses
+#145	AnnotatorNotes T147	lemma = 'minus'
+T148	pos_Fc 578 579	,
+#146	AnnotatorNotes T148	lemma = ','
+T149	pos_Fe 581 582	"
+#147	AnnotatorNotes T149	lemma = '"'
+T150	pos_NN 582 587	point
+#148	AnnotatorNotes T150	lemma = 'point'
+T151	pos_JJ 588 595	overall
+#149	AnnotatorNotes T151	lemma = 'overall'
+T152	pos_Fe 595 596	"
+#150	AnnotatorNotes T152	lemma = '"'
+T153	pos_VBZ 597 599	is
+#151	AnnotatorNotes T153	lemma = 'be'
+T154	pos_PRP 600 602	it
+#152	AnnotatorNotes T154	lemma = 'it'
+T155	pos_JJ 603 608	valid
+#153	AnnotatorNotes T155	lemma = 'valid'
+T156	pos_IN 609 612	for
+#154	AnnotatorNotes T156	lemma = 'for'
+T157	pos_DT 613 616	the
+#155	AnnotatorNotes T157	lemma = 'the'
+T158	pos_JJ 617 622	whole
+#156	AnnotatorNotes T158	lemma = 'whole'
+T159	pos_NN 623 627	goal
+#157	AnnotatorNotes T159	lemma = 'goal'
+T160	pos_IN 628 630	of
+#158	AnnotatorNotes T160	lemma = 'of'
+T161	pos_DT 631 634	the
+#159	AnnotatorNotes T161	lemma = 'the'
+T162	pos_NN 635 642	payment
+#160	AnnotatorNotes T162	lemma = 'payment'
+T163	pos_CC 643 645	or
+#161	AnnotatorNotes T163	lemma = 'or'
+T164	pos_RB 646 649	not
+#162	AnnotatorNotes T164	lemma = 'not'
+T165	pos_Fp 649 650	.
+#163	AnnotatorNotes T165	lemma = '.'
+T166	pos_DT 651 654	The
+#164	AnnotatorNotes T166	lemma = 'the'
+T167	pos_NNS 655 662	minutes
+#165	AnnotatorNotes T167	lemma = 'minute'
+T168	pos_IN 663 665	of
+#166	AnnotatorNotes T168	lemma = 'of'
+T169	pos_DT 666 669	the
+#167	AnnotatorNotes T169	lemma = 'the'
+T170	pos_NN 670 679	discussin
+#168	AnnotatorNotes T170	lemma = 'discussin'
+T171	pos_VBP 680 683	are
+#169	AnnotatorNotes T171	lemma = 'be'
+T172	pos_VBG 685 694	following
+#170	AnnotatorNotes T172	lemma = 'follow'
+T173	pos_Fd 694 695	:
+#171	AnnotatorNotes T173	lemma = ':'
+T174	pos_Z 696 697	1
+#172	AnnotatorNotes T174	lemma = '1'
+T175	pos_Fp 697 698	.
+#173	AnnotatorNotes T175	lemma = '.'
+T176	pos_VB 699 703	Help
+#174	AnnotatorNotes T176	lemma = 'help'
+T177	pos_RB 704 715	financially
+#175	AnnotatorNotes T177	lemma = 'financially'
+T178	pos_NNS 716 724	students
+#176	AnnotatorNotes T178	lemma = 'student'
+T179	pos_WP 725 728	who
+#177	AnnotatorNotes T179	lemma = 'who'
+T180	pos_VBP 729 734	carry
+#178	AnnotatorNotes T180	lemma = 'carry'
+T181	pos_RP 735 738	out
+#179	AnnotatorNotes T181	lemma = 'out'
+T182	pos_DT 739 743	some
+#180	AnnotatorNotes T182	lemma = 'some'
+T183	pos_VBZ 744 754	researches
+#181	AnnotatorNotes T183	lemma = 'research'
+T184	pos_Z 755 756	2
+#182	AnnotatorNotes T184	lemma = '2'
+T185	pos_Fp 756 757	.
+#183	AnnotatorNotes T185	lemma = '.'
+T186	pos_VB 758 764	Invite
+#184	AnnotatorNotes T186	lemma = 'invite'
+T187	pos_JJ 765 772	foreign
+#185	AnnotatorNotes T187	lemma = 'foreign'
+T188	pos_NNS 773 784	specialists
+#186	AnnotatorNotes T188	lemma = 'specialist'
+T189	pos_Fpa 785 786	(
+#187	AnnotatorNotes T189	lemma = '('
+T190	pos_JJ 786 789	new
+#188	AnnotatorNotes T190	lemma = 'new'
+T191	pos_NN 790 799	knowledge
+#189	AnnotatorNotes T191	lemma = 'knowledge'
+T192	pos_Fz 800 801	+
+#190	AnnotatorNotes T192	lemma = '+'
+T193	pos_NN 802 815	advertisement
+#191	AnnotatorNotes T193	lemma = 'advertisement'
+T194	pos_Fpt 815 816	)
+#192	AnnotatorNotes T194	lemma = ')'
+T195	pos_Z 817 818	3
+#193	AnnotatorNotes T195	lemma = '3'
+T196	pos_Fp 818 819	.
+#194	AnnotatorNotes T196	lemma = '.'
+T197	pos_VBG 820 827	Dealing
+#195	AnnotatorNotes T197	lemma = 'deal'
+T198	pos_NN 828 838	experience
+#196	AnnotatorNotes T198	lemma = 'experience'
+T199	pos_IN 839 846	between
+#197	AnnotatorNotes T199	lemma = 'between'
+T200	pos_NNS 847 855	students
+#198	AnnotatorNotes T200	lemma = 'student'
+T201	pos_IN 856 860	from
+#199	AnnotatorNotes T201	lemma = 'from'
+T202	pos_JJ 861 870	different
+#200	AnnotatorNotes T202	lemma = 'different'
+T203	pos_NNS 871 882	departments
+#201	AnnotatorNotes T203	lemma = 'department'
+T204	pos_Fpa 883 884	(
+#202	AnnotatorNotes T204	lemma = '('
+T205	pos_NN 884 889	place
+#203	AnnotatorNotes T205	lemma = 'place'
+T206	pos_Fc 889 890	,
+#204	AnnotatorNotes T206	lemma = ','
+T207	pos_NNS 891 900	materials
+#205	AnnotatorNotes T207	lemma = 'material'
+T208	pos_Fc 900 901	,
+#206	AnnotatorNotes T208	lemma = ','
+T209	pos_NNS 902 912	organizers
+#207	AnnotatorNotes T209	lemma = 'organizer'
+T210	pos_Fpt 912 913	)
+#208	AnnotatorNotes T210	lemma = ')'
+T211	pos_Z 914 915	4
+#209	AnnotatorNotes T211	lemma = '4'
+T212	pos_Fp 915 916	.
+#210	AnnotatorNotes T212	lemma = '.'
+T213	pos_NNS 917 925	Projects
+#211	AnnotatorNotes T213	lemma = 'project'
+T214	pos_IN 926 933	between
+#212	AnnotatorNotes T214	lemma = 'between'
+T215	pos_JJ 934 943	different
+#213	AnnotatorNotes T215	lemma = 'different'
+T216	pos_JJ 944 951	foreign
+#214	AnnotatorNotes T216	lemma = 'foreign'
+T217	pos_NP 952 964	Universities
+#215	AnnotatorNotes T217	lemma = 'universities'
+T218	pos_Fpa 965 966	(
+#216	AnnotatorNotes T218	lemma = '('
+T219	pos_NN 966 974	language
+#217	AnnotatorNotes T219	lemma = 'language'
+T220	pos_NN 975 983	practice
+#218	AnnotatorNotes T220	lemma = 'practice'
+T221	pos_Fpt 983 984	)
+#219	AnnotatorNotes T221	lemma = ')'
+T222	pos_Z 985 986	5
+#220	AnnotatorNotes T222	lemma = '5'
+T223	pos_Fp 986 987	.
+#221	AnnotatorNotes T223	lemma = '.'
+T224	pos_NN 988 996	Exchange
+#222	AnnotatorNotes T224	lemma = 'exchange'
+T225	pos_NNS 997 1005	programs
+#223	AnnotatorNotes T225	lemma = 'program'
+T226	pos_Z 1006 1007	6
+#224	AnnotatorNotes T226	lemma = '6'
+T227	pos_Fp 1007 1008	.
+#225	AnnotatorNotes T227	lemma = '.'
+T228	pos_NN 1009 1017	Practice
+#226	AnnotatorNotes T228	lemma = 'practice'
+T229	pos_VBN 1018 1023	given
+#227	AnnotatorNotes T229	lemma = 'give'
+T230	pos_IN 1024 1026	by
+#228	AnnotatorNotes T230	lemma = 'by'
+T231	pos_PRP2 1027 1030	our
+#229	AnnotatorNotes T231	lemma = 'our'
+T232	pos_NP 1031 1041	University
+#230	AnnotatorNotes T232	lemma = 'university'
+T233	pos_Fpa 1042 1043	(
+#231	AnnotatorNotes T233	lemma = '('
+T234	pos_NN 1043 1047	e.g.
+#232	AnnotatorNotes T234	lemma = 'e.g.'
+T235	pos_NN 1048 1053	field
+#233	AnnotatorNotes T235	lemma = 'field'
+T236	pos_NNS 1054 1065	linguistics
+#234	AnnotatorNotes T236	lemma = 'linguistics'
+T237	pos_Fpt 1065 1066	)
+#235	AnnotatorNotes T237	lemma = ')'
+T238	pos_Z 1067 1068	7
+#236	AnnotatorNotes T238	lemma = '7'
+T239	pos_Fp 1068 1069	.
+#237	AnnotatorNotes T239	lemma = '.'
+T240	pos_JJ 1070 1075	Extra
+#238	AnnotatorNotes T240	lemma = 'extra'
+T241	pos_NNS 1076 1083	classes
+#239	AnnotatorNotes T241	lemma = 'class'
+T242	pos_Fpa 1084 1085	(
+#240	AnnotatorNotes T242	lemma = '('
+T243	pos_NN 1085 1092	student
+#241	AnnotatorNotes T243	lemma = 'student'
+T244	pos_NN 1093 1097	help
+#242	AnnotatorNotes T244	lemma = 'help'
+T245	pos_NN 1098 1109	institution
+#243	AnnotatorNotes T245	lemma = 'institution'
+T246	pos_Fpt 1109 1110	)
+#244	AnnotatorNotes T246	lemma = ')'
+T247	pos_Z 1111 1112	8
+#245	AnnotatorNotes T247	lemma = '8'
+T248	pos_Fp 1112 1113	.
+#246	AnnotatorNotes T248	lemma = '.'
+T249	pos_DT 1114 1115	A
+#247	AnnotatorNotes T249	lemma = 'a'
+T250	pos_NN 1116 1119	job
+#248	AnnotatorNotes T250	lemma = 'job'
+T251	pos_JJ 1120 1124	fair
+#249	AnnotatorNotes T251	lemma = 'fair'
+T252	pos_Fpa 1125 1126	(
+#250	AnnotatorNotes T252	lemma = '('
+T253	pos_VBG 1126 1133	finding
+#251	AnnotatorNotes T253	lemma = 'find'
+T254	pos_RP 1134 1137	out
+#252	AnnotatorNotes T254	lemma = 'out'
+T255	pos_NN 1138 1149	information
+#253	AnnotatorNotes T255	lemma = 'information'
+T256	pos_IN 1150 1155	about
+#254	AnnotatorNotes T256	lemma = 'about'
+T257	pos_NN 1156 1162	career
+#255	AnnotatorNotes T257	lemma = 'career'
+T258	pos_NNS 1163 1176	opportunities
+#256	AnnotatorNotes T258	lemma = 'opportunity'
+T259	pos_Fpt 1176 1177	)
+#257	AnnotatorNotes T259	lemma = ')'
+T260	pos_Z 1178 1179	9
+#258	AnnotatorNotes T260	lemma = '9'
+T261	pos_Fp 1179 1180	.
+#259	AnnotatorNotes T261	lemma = '.'
+T262	pos_VBG 1181 1187	Buying
+#260	AnnotatorNotes T262	lemma = 'buy'
+T263	pos_NNS 1188 1193	books
+#261	AnnotatorNotes T263	lemma = 'book'
+T264	pos_IN 1194 1197	for
+#262	AnnotatorNotes T264	lemma = 'for'
+T265	pos_DT 1198 1201	the
+#263	AnnotatorNotes T265	lemma = 'the'
+T266	pos_NNS 1202 1209	studies
+#264	AnnotatorNotes T266	lemma = 'study'
+T267	pos_Z 1210 1212	10
+#265	AnnotatorNotes T267	lemma = '10'
+T268	pos_Fp 1212 1213	.
+#266	AnnotatorNotes T268	lemma = '.'
+T269	pos_VB 1214 1221	Provide
+#267	AnnotatorNotes T269	lemma = 'provide'
+T270	pos_NN 1222 1230	everyone
+#268	AnnotatorNotes T270	lemma = 'everyone'
+T271	pos_IN 1231 1235	with
+#269	AnnotatorNotes T271	lemma = 'with'
+T272	pos_NN 1236 1242	pocket
+#270	AnnotatorNotes T272	lemma = 'pocket'
+T273	pos_NN 1243 1247	book
+#271	AnnotatorNotes T273	lemma = 'book'
+T274	pos_Z 1248 1250	11
+#272	AnnotatorNotes T274	lemma = '11'
+T275	pos_Fp 1250 1251	.
+#273	AnnotatorNotes T275	lemma = '.'
+T276	pos_NN 1252 1256	Food
+#274	AnnotatorNotes T276	lemma = 'food'
+T277	pos_NN 1257 1263	supply
+#275	AnnotatorNotes T277	lemma = 'supply'
+T278	pos_Fx 1263 1264	;
+#276	AnnotatorNotes T278	lemma = ';'
+T279	pos_NN 1265 1273	restroom
+#277	AnnotatorNotes T279	lemma = 'restroom'
+T280	pos_Z 1274 1276	12
+#278	AnnotatorNotes T280	lemma = '12'
+T281	pos_Fp 1276 1277	.
+#279	AnnotatorNotes T281	lemma = '.'
+T282	pos_JJ 1278 1286	Cultural
+#280	AnnotatorNotes T282	lemma = 'cultural'
+T283	pos_NNS 1287 1300	organisations
+#281	AnnotatorNotes T283	lemma = 'organisation'
+T284	pos_Fpa 1301 1302	(
+#282	AnnotatorNotes T284	lemma = '('
+T285	pos_NN 1302 1309	theatre
+#283	AnnotatorNotes T285	lemma = 'theatre'
+T286	pos_Fc 1309 1310	,
+#284	AnnotatorNotes T286	lemma = ','
+T287	pos_NNS 1311 1319	concerts
+#285	AnnotatorNotes T287	lemma = 'concert'
+T288	pos_Fc 1319 1320	,
+#286	AnnotatorNotes T288	lemma = ','
+T289	pos_JJ 1321 1331	scientific
+#287	AnnotatorNotes T289	lemma = 'scientific'
+T290	pos_NNS 1332 1341	occasions
+#288	AnnotatorNotes T290	lemma = 'occasion'
+T291	pos_Fpt 1341 1342	)
+#289	AnnotatorNotes T291	lemma = ')'
+T292	pos_NP 1344 1346	As
+#290	AnnotatorNotes T292	lemma = 'as'
+T293	pos_NN 1348 1354	result
+#291	AnnotatorNotes T293	lemma = 'result'
+T294	pos_PRP 1355 1357	we
+#292	AnnotatorNotes T294	lemma = 'we'
+T295	pos_VBP 1358 1362	have
+#293	AnnotatorNotes T295	lemma = 'have'
+T296	pos_VBN 1363 1370	decided
+#294	AnnotatorNotes T296	lemma = 'decide'
+T297	pos_TO 1371 1373	to
+#295	AnnotatorNotes T297	lemma = 'to'
+T298	pos_VB 1374 1381	include
+#296	AnnotatorNotes T298	lemma = 'include'
+T299	pos_DT 1382 1385	the
+#297	AnnotatorNotes T299	lemma = 'the'
+T300	pos_VBG 1386 1395	following
+#298	AnnotatorNotes T300	lemma = 'follow'
+T301	pos_NNS 1396 1402	points
+#299	AnnotatorNotes T301	lemma = 'point'
+T302	pos_IN 1403 1407	into
+#300	AnnotatorNotes T302	lemma = 'into'
+T303	pos_PRP2 1408 1411	our
+#301	AnnotatorNotes T303	lemma = 'our'
+T304	pos_NN 1412 1416	plan
+#302	AnnotatorNotes T304	lemma = 'plan'
+T305	pos_Fd 1416 1417	:
+#303	AnnotatorNotes T305	lemma = ':'
+T306	pos_Z 1418 1419	1
+#304	AnnotatorNotes T306	lemma = '1'
+T307	pos_Fc 1419 1420	,
+#305	AnnotatorNotes T307	lemma = ','
+T308	pos_Z 1421 1422	2
+#306	AnnotatorNotes T308	lemma = '2'
+T309	pos_Fc 1422 1423	,
+#307	AnnotatorNotes T309	lemma = ','
+T310	pos_Z 1424 1425	4
+#308	AnnotatorNotes T310	lemma = '4'
+T311	pos_Fc 1425 1426	,
+#309	AnnotatorNotes T311	lemma = ','
+T312	pos_Z 1427 1428	5
+#310	AnnotatorNotes T312	lemma = '5'
+T313	pos_Fc 1428 1429	,
+#311	AnnotatorNotes T313	lemma = ','
+T314	pos_Z 1430 1431	6
+#312	AnnotatorNotes T314	lemma = '6'
+T315	pos_Fc 1431 1432	,
+#313	AnnotatorNotes T315	lemma = ','
+T316	pos_Z 1433 1434	8
+#314	AnnotatorNotes T316	lemma = '8'
+T317	pos_Fc 1434 1435	,
+#315	AnnotatorNotes T317	lemma = ','
+T318	pos_Z 1436 1438	11
+#316	AnnotatorNotes T318	lemma = '11'
+T319	pos_Fp 1438 1439	.
+#317	AnnotatorNotes T319	lemma = '.'
+T320	pos_PDT 1440 1444	Such
+#318	AnnotatorNotes T320	lemma = 'such'
+T321	pos_NN 1445 1451	choice
+#319	AnnotatorNotes T321	lemma = 'choice'
+T322	pos_VBZ 1452 1455	has
+#320	AnnotatorNotes T322	lemma = 'have'
+T323	pos_VBN 1456 1460	been
+#321	AnnotatorNotes T323	lemma = 'be'
+T324	pos_VBN 1461 1465	made
+#322	AnnotatorNotes T324	lemma = 'make'
+T325	pos_IN 1466 1476	because of
+#323	AnnotatorNotes T325	lemma = 'because_of'
+T326	pos_NN 1477 1481	lack
+#324	AnnotatorNotes T326	lemma = 'lack'
+T327	pos_IN 1482 1484	of
+#325	AnnotatorNotes T327	lemma = 'of'
+T328	pos_NN 1485 1490	money
+#326	AnnotatorNotes T328	lemma = 'money'
+T329	pos_VBN 1491 1499	provided
+#327	AnnotatorNotes T329	lemma = 'provide'
+T330	pos_IN 1500 1504	from
+#328	AnnotatorNotes T330	lemma = 'from'
+T331	pos_DT 1505 1508	the
+#329	AnnotatorNotes T331	lemma = 'the'
+T332	pos_NN 1509 1519	university
+#330	AnnotatorNotes T332	lemma = 'university'
+T333	pos_CC 1520 1523	and
+#331	AnnotatorNotes T333	lemma = 'and'
+T334	pos_NNS 1524 1532	students
+#332	AnnotatorNotes T334	lemma = 'student'
+T335	pos_VBG 1533 1540	showing
+#333	AnnotatorNotes T335	lemma = 'show'
+T336	pos_JJ 1541 1545	high
+#334	AnnotatorNotes T336	lemma = 'high'
+T337	pos_NN 1546 1554	interest
+#335	AnnotatorNotes T337	lemma = 'interest'
+T338	pos_RB 1555 1561	in all
+#336	AnnotatorNotes T338	lemma = 'in_all'
+T339	pos_DT 1562 1565	the
+#337	AnnotatorNotes T339	lemma = 'the'
+T340	pos_VBN 1566 1571	named
+#338	AnnotatorNotes T340	lemma = 'name'
+T341	pos_Fp 1571 1572	.
+#339	AnnotatorNotes T341	lemma = '.'

@@ -1,0 +1,328 @@
+T1	Discourse 242 260	should have failed
+A1	Weight-language T1 Major
+#1	AnnotatorNotes T1	was bound to fail 
+T2	Modals 242 260	should have failed
+T3	Tense_form 283 289	shaved
+A2	Cause T3 Typo
+A3	Weight-language T3 Major
+#2	AnnotatorNotes T3	shaven
+T4	Articles 381 382	a
+A4	Cause T4 Absence_of_Category_in_L1
+A5	Weight-language T4 Critical
+#3	AnnotatorNotes T4	the
+T5	Causation 549 553	when
+A6	Cause T5 L1_interference
+A7	Weight-language T5 Critical
+#4	AnnotatorNotes T5	if
+T6	Discourse 554 559	being
+A8	Cause T6 L1_interference
+A9	Weight-language T6 Major
+#5	AnnotatorNotes T6	I look
+T7	Discourse 566 616	I mentioned the possibility of this happening, but
+A10	Delete T7
+T8	Verb_pattern 617 624	showing
+A11	Cause T8 Other
+A12	Weight-language T8 Major
+#6	AnnotatorNotes T8	I showed
+T9	Spelling 642 650	writinng
+A13	Cause T9 Typo
+A14	Weight-language T9 Minor
+#7	AnnotatorNotes T9	writing
+T10	pos_NN 0 5	Hello
+#8	AnnotatorNotes T10	lemma = 'hello'
+T11	pos_Fc 5 6	,
+#9	AnnotatorNotes T11	lemma = ','
+T12	pos_NP 7 10	Jim
+#10	AnnotatorNotes T12	lemma = 'jim'
+T13	pos_Fat 10 11	!
+#11	AnnotatorNotes T13	lemma = '!'
+T14	pos_VB 12 15	Let
+#12	AnnotatorNotes T14	lemma = 'let'
+T15	pos_PRP 16 18	me
+#13	AnnotatorNotes T15	lemma = 'me'
+T16	pos_VB 19 23	tell
+#14	AnnotatorNotes T16	lemma = 'tell'
+T17	pos_PRP 24 27	you
+#15	AnnotatorNotes T17	lemma = 'you'
+T18	pos_IN 28 33	about
+#16	AnnotatorNotes T18	lemma = 'about'
+T19	pos_DT 34 35	a
+#17	AnnotatorNotes T19	lemma = 'a'
+T20	pos_NN 36 48	conversation
+#18	AnnotatorNotes T20	lemma = 'conversation'
+T21	pos_PRP 49 50	I
+#19	AnnotatorNotes T21	lemma = 'i'
+T22	pos_VBD 51 54	had
+#20	AnnotatorNotes T22	lemma = 'have'
+T23	pos_RB 55 59	once
+#21	AnnotatorNotes T23	lemma = 'once'
+T24	pos_Fp 59 60	.
+#22	AnnotatorNotes T24	lemma = '.'
+T25	pos_PRP 61 63	It
+#23	AnnotatorNotes T25	lemma = 'it'
+T26	pos_VBD 64 67	was
+#24	AnnotatorNotes T26	lemma = 'be'
+T27	pos_IN 68 72	with
+#25	AnnotatorNotes T27	lemma = 'with'
+T28	pos_PRP2 73 75	my
+#26	AnnotatorNotes T28	lemma = 'my'
+T29	pos_NN 76 82	friend
+#27	AnnotatorNotes T29	lemma = 'friend'
+T30	pos_NP 83 86	Tom
+#28	AnnotatorNotes T30	lemma = 'tom'
+T31	pos_Fc 86 87	,
+#29	AnnotatorNotes T31	lemma = ','
+T32	pos_WP 88 91	who
+#30	AnnotatorNotes T32	lemma = 'who'
+T33	pos_VBD 92 98	showed
+#31	AnnotatorNotes T33	lemma = 'show'
+T34	pos_NN 99 107	interest
+#32	AnnotatorNotes T34	lemma = 'interest'
+T35	pos_IN 108 110	in
+#33	AnnotatorNotes T35	lemma = 'in'
+T36	pos_DT 111 114	the
+#34	AnnotatorNotes T36	lemma = 'the'
+T37	pos_NN 115 121	reason
+#35	AnnotatorNotes T37	lemma = 'reason'
+T38	pos_IN 122 124	of
+#36	AnnotatorNotes T38	lemma = 'of'
+T39	pos_PRP2 125 127	my
+#37	AnnotatorNotes T39	lemma = 'my'
+T40	pos_VBN 128 137	depressed
+#38	AnnotatorNotes T40	lemma = 'depress'
+T41	pos_NN 138 142	look
+#39	AnnotatorNotes T41	lemma = 'look'
+T42	pos_Fp 142 143	.
+#40	AnnotatorNotes T42	lemma = '.'
+T43	pos_PRP 144 145	I
+#41	AnnotatorNotes T43	lemma = 'i'
+T44	pos_VBD 146 155	explained
+#42	AnnotatorNotes T44	lemma = 'explain'
+T45	pos_PRP 156 158	it
+#43	AnnotatorNotes T45	lemma = 'it'
+T46	pos_IN 159 163	with
+#44	AnnotatorNotes T46	lemma = 'with'
+T47	pos_PRP2 164 166	my
+#45	AnnotatorNotes T47	lemma = 'my'
+T48	pos_VBN 167 173	failed
+#46	AnnotatorNotes T48	lemma = 'fail'
+T49	pos_NN 174 182	proposal
+#47	AnnotatorNotes T49	lemma = 'proposal'
+T50	pos_TO 183 185	to
+#48	AnnotatorNotes T50	lemma = 'to'
+T51	pos_DT 186 189	the
+#49	AnnotatorNotes T51	lemma = 'the'
+T52	pos_NN 190 194	girl
+#50	AnnotatorNotes T52	lemma = 'girl'
+T53	pos_VBN 195 200	named
+#51	AnnotatorNotes T53	lemma = 'name'
+T54	pos_NP 201 204	Ann
+#52	AnnotatorNotes T54	lemma = 'ann'
+T55	pos_DT 205 206	a
+#53	AnnotatorNotes T55	lemma = 'a'
+T56	pos_NN 207 210	day
+#54	AnnotatorNotes T56	lemma = 'day'
+T57	pos_IN 211 217	before
+#55	AnnotatorNotes T57	lemma = 'before'
+T58	pos_Fp 217 218	.
+#56	AnnotatorNotes T58	lemma = '.'
+T59	pos_PRP 219 221	He
+#57	AnnotatorNotes T59	lemma = 'he'
+T60	pos_VBD 222 229	pointed
+#58	AnnotatorNotes T60	lemma = 'point'
+T61	pos_RP 230 233	out
+#59	AnnotatorNotes T61	lemma = 'out'
+T62	pos_IN 234 238	that
+#60	AnnotatorNotes T62	lemma = 'that'
+T63	pos_PRP 239 241	it
+#61	AnnotatorNotes T63	lemma = 'it'
+T64	pos_MD 242 248	should
+#62	AnnotatorNotes T64	lemma = 'should'
+T65	pos_VB 249 253	have
+#63	AnnotatorNotes T65	lemma = 'have'
+T66	pos_VBN 254 260	failed
+#64	AnnotatorNotes T66	lemma = 'fail'
+T67	pos_IN 261 266	since
+#65	AnnotatorNotes T67	lemma = 'since'
+T68	pos_NP 267 270	Ann
+#66	AnnotatorNotes T68	lemma = 'ann'
+T69	pos_VBD 271 276	liked
+#67	AnnotatorNotes T69	lemma = 'like'
+T70	pos_VBD 277 289	clean-shaved
+#68	AnnotatorNotes T70	lemma = 'clean-shaved'
+T71	pos_NNS 290 293	men
+#69	AnnotatorNotes T71	lemma = 'man'
+T72	pos_Fp 293 294	.
+#70	AnnotatorNotes T72	lemma = '.'
+T73	pos_PRP 295 297	He
+#71	AnnotatorNotes T73	lemma = 'he'
+T74	pos_VBD 298 307	suggested
+#72	AnnotatorNotes T74	lemma = 'suggest'
+T75	pos_IN 308 312	that
+#73	AnnotatorNotes T75	lemma = 'that'
+T76	pos_PRP 313 314	I
+#74	AnnotatorNotes T76	lemma = 'i'
+T77	pos_MD 315 321	should
+#75	AnnotatorNotes T77	lemma = 'should'
+T78	pos_VB 322 325	cut
+#76	AnnotatorNotes T78	lemma = 'cut'
+T79	pos_RP 326 329	off
+#77	AnnotatorNotes T79	lemma = 'off'
+T80	pos_PRP2 330 332	my
+#78	AnnotatorNotes T80	lemma = 'my'
+T81	pos_NN 333 337	hair
+#79	AnnotatorNotes T81	lemma = 'hair'
+T82	pos_CC 338 341	and
+#80	AnnotatorNotes T82	lemma = 'and'
+T83	pos_NN 342 347	beard
+#81	AnnotatorNotes T83	lemma = 'beard'
+T84	pos_CC 348 351	and
+#82	AnnotatorNotes T84	lemma = 'and'
+T85	pos_VB 352 355	try
+#83	AnnotatorNotes T85	lemma = 'try'
+T86	pos_RB 356 361	again
+#84	AnnotatorNotes T86	lemma = 'again'
+T87	pos_Fp 361 362	.
+#85	AnnotatorNotes T87	lemma = '.'
+T88	pos_PRP 363 364	I
+#86	AnnotatorNotes T88	lemma = 'i'
+T89	pos_VBD 365 372	thanked
+#87	AnnotatorNotes T89	lemma = 'thank'
+T90	pos_PRP 373 376	him
+#88	AnnotatorNotes T90	lemma = 'him'
+T91	pos_IN 377 380	for
+#89	AnnotatorNotes T91	lemma = 'for'
+T92	pos_DT 381 382	a
+#90	AnnotatorNotes T92	lemma = 'a'
+T93	pos_NN 383 393	suggestion
+#91	AnnotatorNotes T93	lemma = 'suggestion'
+T94	pos_CC 394 397	but
+#92	AnnotatorNotes T94	lemma = 'but'
+T95	pos_VBD 398 405	refused
+#93	AnnotatorNotes T95	lemma = 'refuse'
+T96	pos_Fc 405 406	,
+#94	AnnotatorNotes T96	lemma = ','
+T97	pos_RB 407 414	because
+#95	AnnotatorNotes T97	lemma = 'because'
+T98	pos_IN 415 417	if
+#96	AnnotatorNotes T98	lemma = 'if'
+T99	pos_PRP 418 421	she
+#97	AnnotatorNotes T99	lemma = 'she'
+T100	pos_VBD 422 429	changed
+#98	AnnotatorNotes T100	lemma = 'change'
+T101	pos_PRP2 430 433	her
+#99	AnnotatorNotes T101	lemma = 'her'
+T102	pos_NN 434 438	mind
+#100	AnnotatorNotes T102	lemma = 'mind'
+T103	pos_IN 439 444	after
+#101	AnnotatorNotes T103	lemma = 'after'
+T104	pos_PRP 445 446	I
+#102	AnnotatorNotes T104	lemma = 'i'
+T105	pos_VBD 447 453	shaved
+#103	AnnotatorNotes T105	lemma = 'shave'
+T106	pos_Fc 453 454	,
+#104	AnnotatorNotes T106	lemma = ','
+T107	pos_DT 455 458	the
+#105	AnnotatorNotes T107	lemma = 'the'
+T108	pos_NN 459 465	effort
+#106	AnnotatorNotes T108	lemma = 'effort'
+T109	pos_MD 466 471	would
+#107	AnnotatorNotes T109	lemma = 'would'
+T110	pos_RB 472 475	not
+#108	AnnotatorNotes T110	lemma = 'not'
+T111	pos_VB 476 478	be
+#109	AnnotatorNotes T111	lemma = 'be'
+T112	pos_JJ 479 484	worth
+#110	AnnotatorNotes T112	lemma = 'worth'
+T113	pos_PRP 485 487	it
+#111	AnnotatorNotes T113	lemma = 'it'
+T114	pos_Fp 487 488	.
+#112	AnnotatorNotes T114	lemma = '.'
+T115	pos_PRP 489 491	He
+#113	AnnotatorNotes T115	lemma = 'he'
+T116	pos_VBD 492 500	insisted
+#114	AnnotatorNotes T116	lemma = 'insist'
+T117	pos_IN 501 503	on
+#115	AnnotatorNotes T117	lemma = 'on'
+T118	pos_VBG 504 510	trying
+#116	AnnotatorNotes T118	lemma = 'try'
+T119	pos_Fc 510 511	,
+#117	AnnotatorNotes T119	lemma = ','
+T120	pos_VBG 512 519	meaning
+#118	AnnotatorNotes T120	lemma = 'mean'
+T121	pos_IN 520 524	that
+#119	AnnotatorNotes T121	lemma = 'that'
+T122	pos_PRP 525 528	I'm
+#120	AnnotatorNotes T122	lemma = 'i'
+T123	pos_VBP 525 528	I'm
+#121	AnnotatorNotes T123	lemma = 'be'
+T124	pos_RB 529 532	not
+#122	AnnotatorNotes T124	lemma = 'not'
+T125	pos_VBG 533 539	losing
+#123	AnnotatorNotes T125	lemma = 'lose'
+T126	pos_PRP 540 548	anything
+#124	AnnotatorNotes T126	lemma = 'anything'
+T127	pos_WRB 549 553	when
+#125	AnnotatorNotes T127	lemma = 'when'
+T128	pos_JJ 554 559	being
+#126	AnnotatorNotes T128	lemma = 'being'
+T129	pos_JJ 560 564	tidy
+#127	AnnotatorNotes T129	lemma = 'tidy'
+T130	pos_Fp 564 565	.
+#128	AnnotatorNotes T130	lemma = '.'
+T131	pos_PRP 566 567	I
+#129	AnnotatorNotes T131	lemma = 'i'
+T132	pos_VBD 568 577	mentioned
+#130	AnnotatorNotes T132	lemma = 'mention'
+T133	pos_DT 578 581	the
+#131	AnnotatorNotes T133	lemma = 'the'
+T134	pos_NN 582 593	possibility
+#132	AnnotatorNotes T134	lemma = 'possibility'
+T135	pos_IN 594 596	of
+#133	AnnotatorNotes T135	lemma = 'of'
+T136	pos_DT 597 601	this
+#134	AnnotatorNotes T136	lemma = 'this'
+T137	pos_NN 602 611	happening
+#135	AnnotatorNotes T137	lemma = 'happening'
+T138	pos_Fc 611 612	,
+#136	AnnotatorNotes T138	lemma = ','
+T139	pos_CC 613 616	but
+#137	AnnotatorNotes T139	lemma = 'but'
+T140	pos_VBG 617 624	showing
+#138	AnnotatorNotes T140	lemma = 'show'
+T141	pos_RBR 625 629	more
+#139	AnnotatorNotes T141	lemma = 'many'
+T142	pos_NN 630 638	interest
+#140	AnnotatorNotes T142	lemma = 'interest'
+T143	pos_IN 639 641	in
+#141	AnnotatorNotes T143	lemma = 'in'
+T144	pos_VBG 642 650	writinng
+#142	AnnotatorNotes T144	lemma = 'writinng'
+T145	pos_PRP2 651 654	her
+#143	AnnotatorNotes T145	lemma = 'her'
+T146	pos_DT 655 656	a
+#144	AnnotatorNotes T146	lemma = 'a'
+T147	pos_NN 657 663	letter
+#145	AnnotatorNotes T147	lemma = 'letter'
+T148	pos_Fp 663 664	.
+#146	AnnotatorNotes T148	lemma = '.'
+T149	pos_PRP 665 671	That's
+#147	AnnotatorNotes T149	lemma = 'that'
+T150	pos_VBZ 665 671	That's
+#148	AnnotatorNotes T150	lemma = 'be'
+T151	pos_WRB 672 675	how
+#149	AnnotatorNotes T151	lemma = 'how'
+T152	pos_PRP 676 678	it
+#150	AnnotatorNotes T152	lemma = 'it'
+T153	pos_VBD 679 687	happened
+#151	AnnotatorNotes T153	lemma = 'happen'
+T154	pos_Fat 687 688	!
+#152	AnnotatorNotes T154	lemma = '!'
+T155	pos_VBZ 689 696	Regards
+#153	AnnotatorNotes T155	lemma = 'regard'
+T156	pos_Fc 696 697	,
+#154	AnnotatorNotes T156	lemma = ','
+T157	pos_NN 698 702	Jack
+#155	AnnotatorNotes T157	lemma = 'jack'
+T158	pos_Fp 702 703	.
+#156	AnnotatorNotes T158	lemma = '.'

@@ -1,0 +1,379 @@
+T1	Spelling 88 96	reseches	
+#1	AnnotatorNotes T1	researchers
+T3	Adverbs 295 297	as	
+A3	Delete T3
+T5	Spelling 593 601	reseches	
+#5	AnnotatorNotes T5	researchers
+T7	Lack_of_connective 602 621	presented one group
+#7	AnnotatorNotes T7	presented one group with
+T8	Spelling 740 752	participants	
+#8	AnnotatorNotes T8	participants'
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A6	Cause T3 Typo
+A7	Weight-language T3 Major
+A10	Cause T5 Typo
+A11	Weight-language T5 Major
+A14	Cause T7 Absence_of_Category_in_L1
+A15	Weight-language T7 Major
+A16	Cause T8 Typo
+A17	Weight-language T8 Major
+T2	Absence_comp_sent 97 105	disagree
+#2	AnnotatorNotes T2	disagree with this view
+T6	Absence_comp_sent 616 621	group
+#3	AnnotatorNotes T6	group of respondents
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A12	Weight-understanding T2 Minor
+T4	Absence_explanation 298 305	message
+#4	AnnotatorNotes T4	of the advertisement
+T9	Punctuation 653 658	while
+#6	AnnotatorNotes T9	, while
+T10	Possessive 740 752	participants
+#9	AnnotatorNotes T10	participants'
+T11	pos_NN 0 5	Humor
+#10	AnnotatorNotes T11	lemma = 'humor'
+T12	pos_VBZ 6 8	is
+#11	AnnotatorNotes T12	lemma = 'be'
+T13	pos_DT 9 10	a
+#12	AnnotatorNotes T13	lemma = 'a'
+T14	pos_NN 11 20	component
+#13	AnnotatorNotes T14	lemma = 'component'
+T15	pos_WDT 21 25	that
+#14	AnnotatorNotes T15	lemma = 'that'
+T16	pos_VBZ 26 28	is
+#15	AnnotatorNotes T16	lemma = 'be'
+T17	pos_RB 29 34	often
+#16	AnnotatorNotes T17	lemma = 'often'
+T18	pos_VBN 35 45	considered
+#17	AnnotatorNotes T18	lemma = 'consider'
+T19	pos_JJ 46 52	useful
+#18	AnnotatorNotes T19	lemma = 'useful'
+T20	pos_IN 53 55	in
+#19	AnnotatorNotes T20	lemma = 'in'
+T21	pos_NN 56 69	advertisement
+#20	AnnotatorNotes T21	lemma = 'advertisement'
+T22	pos_Fp 69 70	.
+#21	AnnotatorNotes T22	lemma = '.'
+T23	pos_RB 71 78	However
+#22	AnnotatorNotes T23	lemma = 'however'
+T24	pos_Fc 78 79	,
+#23	AnnotatorNotes T24	lemma = ','
+T25	pos_JJ 80 87	certain
+#24	AnnotatorNotes T25	lemma = 'certain'
+T26	pos_NNS 88 96	reseches
+#25	AnnotatorNotes T26	lemma = 'reseches'
+T27	pos_VBP 97 105	disagree
+#26	AnnotatorNotes T27	lemma = 'disagree'
+T28	pos_Fp 106 107	.
+#27	AnnotatorNotes T28	lemma = '.'
+T29	pos_RB 108 123	On the one hand
+#28	AnnotatorNotes T29	lemma = 'on_the_one_hand'
+T30	pos_Fc 123 124	,
+#29	AnnotatorNotes T30	lemma = ','
+T31	pos_NN 125 130	humor
+#30	AnnotatorNotes T31	lemma = 'humor'
+T32	pos_VBZ 131 137	evokes
+#31	AnnotatorNotes T32	lemma = 'evoke'
+T33	pos_JJ 138 146	positive
+#32	AnnotatorNotes T33	lemma = 'positive'
+T34	pos_NNS 147 156	responses
+#33	AnnotatorNotes T34	lemma = 'response'
+T35	pos_TO 157 159	to
+#34	AnnotatorNotes T35	lemma = 'to'
+T36	pos_NN 160 173	advertisement
+#35	AnnotatorNotes T36	lemma = 'advertisement'
+T37	pos_Fc 173 174	,
+#36	AnnotatorNotes T37	lemma = ','
+T38	pos_VBZ 175 183	enhances
+#37	AnnotatorNotes T38	lemma = 'enhance'
+T39	pos_DT 184 187	the
+#38	AnnotatorNotes T39	lemma = 'the'
+T40	pos_NN 188 197	attention
+#39	AnnotatorNotes T40	lemma = 'attention'
+T41	pos_VBD 198 202	paid
+#40	AnnotatorNotes T41	lemma = 'pay'
+T42	pos_TO 203 205	to
+#41	AnnotatorNotes T42	lemma = 'to'
+T43	pos_PRP 206 208	it
+#42	AnnotatorNotes T43	lemma = 'it'
+T44	pos_CC 209 212	and
+#43	AnnotatorNotes T44	lemma = 'and'
+T45	pos_MD 213 216	can
+#44	AnnotatorNotes T45	lemma = 'can'
+T46	pos_VB 217 223	affect
+#45	AnnotatorNotes T46	lemma = 'affect'
+T47	pos_NN 224 234	persuasion
+#46	AnnotatorNotes T47	lemma = 'persuasion'
+T48	pos_Fp 234 235	.
+#47	AnnotatorNotes T48	lemma = '.'
+T49	pos_RB 236 253	On the other hand
+#48	AnnotatorNotes T49	lemma = 'on_the_other_hand'
+T50	pos_Fc 253 254	,
+#49	AnnotatorNotes T50	lemma = ','
+T51	pos_NN 255 260	humor
+#50	AnnotatorNotes T51	lemma = 'humor'
+T52	pos_VBZ 261 263	is
+#51	AnnotatorNotes T52	lemma = 'be'
+T53	pos_RB 264 267	not
+#52	AnnotatorNotes T53	lemma = 'not'
+T54	pos_VBN 268 277	connected
+#53	AnnotatorNotes T54	lemma = 'connect'
+T55	pos_IN 278 282	with
+#54	AnnotatorNotes T55	lemma = 'with'
+T56	pos_DT 283 286	the
+#55	AnnotatorNotes T56	lemma = 'the'
+T57	pos_JJ 287 294	central
+#56	AnnotatorNotes T57	lemma = 'central'
+T58	pos_IN 295 297	as
+#57	AnnotatorNotes T58	lemma = 'as'
+T59	pos_NN 298 305	message
+#58	AnnotatorNotes T59	lemma = 'message'
+T60	pos_Fp 306 307	.
+#59	AnnotatorNotes T60	lemma = '.'
+T61	pos_RB 308 316	Moreover
+#60	AnnotatorNotes T61	lemma = 'moreover'
+T62	pos_Fc 316 317	,
+#61	AnnotatorNotes T62	lemma = ','
+T63	pos_PRP 318 320	it
+#62	AnnotatorNotes T63	lemma = 'it'
+T64	pos_MD 321 324	can
+#63	AnnotatorNotes T64	lemma = 'can'
+T65	pos_VB 325 333	distract
+#64	AnnotatorNotes T65	lemma = 'distract'
+T66	pos_NN 334 337	one
+#65	AnnotatorNotes T66	lemma = 'one'
+T67	pos_POS 337 339	's
+#66	AnnotatorNotes T67	lemma = ''s'
+T68	pos_NN 340 349	attention
+#67	AnnotatorNotes T68	lemma = 'attention'
+T69	pos_IN 350 354	from
+#68	AnnotatorNotes T69	lemma = 'from'
+T70	pos_DT 355 358	the
+#69	AnnotatorNotes T70	lemma = 'the'
+T71	pos_NN 359 361	ad
+#70	AnnotatorNotes T71	lemma = 'ad'
+T72	pos_RB 362 369	as well
+#71	AnnotatorNotes T72	lemma = 'as_well'
+T73	pos_RB 370 372	as
+#72	AnnotatorNotes T73	lemma = 'as'
+T74	pos_RB 373 383	negatively
+#73	AnnotatorNotes T74	lemma = 'negatively'
+T75	pos_VB 384 390	affect
+#74	AnnotatorNotes T75	lemma = 'affect'
+T76	pos_DT 391 394	the
+#75	AnnotatorNotes T76	lemma = 'the'
+T77	pos_VBG 395 405	memorizing
+#76	AnnotatorNotes T77	lemma = 'memorize'
+T78	pos_IN 406 408	of
+#77	AnnotatorNotes T78	lemma = 'of'
+T79	pos_NNS 409 417	products
+#78	AnnotatorNotes T79	lemma = 'product'
+T80	pos_CC 418 421	and
+#79	AnnotatorNotes T80	lemma = 'and'
+T81	pos_NNS 422 428	brands
+#80	AnnotatorNotes T81	lemma = 'brand'
+T82	pos_Fp 428 429	.
+#81	AnnotatorNotes T82	lemma = '.'
+T83	pos_IN 430 435	Until
+#82	AnnotatorNotes T83	lemma = 'until'
+T84	pos_RB 436 439	now
+#83	AnnotatorNotes T84	lemma = 'now'
+T85	pos_Fc 439 440	,
+#84	AnnotatorNotes T85	lemma = ','
+T86	pos_PRP 441 443	it
+#85	AnnotatorNotes T86	lemma = 'it'
+T87	pos_VBZ 444 447	has
+#86	AnnotatorNotes T87	lemma = 'have'
+T88	pos_RB 448 453	never
+#87	AnnotatorNotes T88	lemma = 'never'
+T89	pos_VBN 454 458	been
+#88	AnnotatorNotes T89	lemma = 'be'
+T90	pos_VBN 459 466	assumed
+#89	AnnotatorNotes T90	lemma = 'assume'
+T91	pos_IN 467 471	that
+#90	AnnotatorNotes T91	lemma = 'that'
+T92	pos_NN 472 477	humor
+#91	AnnotatorNotes T92	lemma = 'humor'
+T93	pos_IN 478 480	in
+#92	AnnotatorNotes T93	lemma = 'in'
+T94	pos_NNS 481 484	ads
+#93	AnnotatorNotes T94	lemma = 'ad'
+T95	pos_MD 485 488	may
+#94	AnnotatorNotes T95	lemma = 'may'
+T96	pos_VB 489 493	lead
+#95	AnnotatorNotes T96	lemma = 'lead'
+T97	pos_TO 494 496	to
+#96	AnnotatorNotes T97	lemma = 'to'
+T98	pos_JJ 497 505	implicit
+#97	AnnotatorNotes T98	lemma = 'implicit'
+T99	pos_NN 506 514	attitude
+#98	AnnotatorNotes T99	lemma = 'attitude'
+T100	pos_NN 515 521	change
+#99	AnnotatorNotes T100	lemma = 'change'
+T101	pos_IN 522 526	with
+#100	AnnotatorNotes T101	lemma = 'with'
+T102	pos_DT 527 530	the
+#101	AnnotatorNotes T102	lemma = 'the'
+T103	pos_NN 531 535	help
+#102	AnnotatorNotes T103	lemma = 'help'
+T104	pos_IN 536 538	of
+#103	AnnotatorNotes T104	lemma = 'of'
+T105	pos_JJ 539 549	evaluative
+#104	AnnotatorNotes T105	lemma = 'evaluative'
+T106	pos_NN 550 562	conditioning
+#105	AnnotatorNotes T106	lemma = 'conditioning'
+T107	pos_Fp 562 563	.
+#106	AnnotatorNotes T107	lemma = '.'
+T108	pos_TO 564 566	To
+#107	AnnotatorNotes T108	lemma = 'to'
+T109	pos_VB 567 571	test
+#108	AnnotatorNotes T109	lemma = 'test'
+T110	pos_DT 572 575	the
+#109	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NN 576 584	attitude
+#110	AnnotatorNotes T111	lemma = 'attitude'
+T112	pos_NN 585 591	change
+#111	AnnotatorNotes T112	lemma = 'change'
+T113	pos_Fc 591 592	,
+#112	AnnotatorNotes T113	lemma = ','
+T114	pos_NNS 593 601	reseches
+#113	AnnotatorNotes T114	lemma = 'reseches'
+T115	pos_VBD 602 611	presented
+#114	AnnotatorNotes T115	lemma = 'present'
+T116	pos_DT 612 615	one
+#115	AnnotatorNotes T116	lemma = 'one'
+T117	pos_NN 616 621	group
+#116	AnnotatorNotes T117	lemma = 'group'
+T118	pos_DT 624 625	a
+#117	AnnotatorNotes T118	lemma = 'a'
+T119	pos_JJ 626 634	humorous
+#118	AnnotatorNotes T119	lemma = 'humorous'
+T120	pos_NN 635 642	version
+#119	AnnotatorNotes T120	lemma = 'version'
+T121	pos_IN 643 645	of
+#120	AnnotatorNotes T121	lemma = 'of'
+T122	pos_DT 646 649	the
+#121	AnnotatorNotes T122	lemma = 'the'
+T123	pos_NN 650 652	ad
+#122	AnnotatorNotes T123	lemma = 'ad'
+T124	pos_IN 653 658	while
+#123	AnnotatorNotes T124	lemma = 'while'
+T125	pos_DT 659 666	another
+#124	AnnotatorNotes T125	lemma = 'another'
+T126	pos_NN 667 672	group
+#125	AnnotatorNotes T126	lemma = 'group'
+T127	pos_VBD 673 676	was
+#126	AnnotatorNotes T127	lemma = 'be'
+T128	pos_VBN 677 686	presented
+#127	AnnotatorNotes T128	lemma = 'present'
+T129	pos_IN 687 691	with
+#128	AnnotatorNotes T129	lemma = 'with'
+T130	pos_DT 692 693	a
+#129	AnnotatorNotes T130	lemma = 'a'
+T131	pos_JJ 694 706	non-humorous
+#130	AnnotatorNotes T131	lemma = 'non-humorous'
+T132	pos_NN 707 714	version
+#131	AnnotatorNotes T132	lemma = 'version'
+T133	pos_IN 715 717	of
+#132	AnnotatorNotes T133	lemma = 'of'
+T134	pos_DT 718 721	the
+#133	AnnotatorNotes T134	lemma = 'the'
+T135	pos_JJ 722 726	same
+#134	AnnotatorNotes T135	lemma = 'same'
+T136	pos_NN 727 729	ad
+#135	AnnotatorNotes T136	lemma = 'ad'
+T137	pos_Fp 729 730	.
+#136	AnnotatorNotes T137	lemma = '.'
+T138	pos_RB 731 735	Then
+#137	AnnotatorNotes T138	lemma = 'then'
+T139	pos_DT 736 739	the
+#138	AnnotatorNotes T139	lemma = 'the'
+T140	pos_NNS 740 752	participants
+#139	AnnotatorNotes T140	lemma = 'participant'
+T141	pos_NNS 753 762	responses
+#140	AnnotatorNotes T141	lemma = 'response'
+T142	pos_VBD 763 767	were
+#141	AnnotatorNotes T142	lemma = 'be'
+T143	pos_VBN 768 776	compared
+#142	AnnotatorNotes T143	lemma = 'compare'
+T144	pos_Fp 776 777	.
+#143	AnnotatorNotes T144	lemma = '.'
+T145	pos_IN 778 780	In
+#144	AnnotatorNotes T145	lemma = 'in'
+T146	pos_NN 781 788	summary
+#145	AnnotatorNotes T146	lemma = 'summary'
+T147	pos_Fc 788 789	,
+#146	AnnotatorNotes T147	lemma = ','
+T148	pos_DT 790 793	the
+#147	AnnotatorNotes T148	lemma = 'the'
+T149	pos_NN 794 804	experiment
+#148	AnnotatorNotes T149	lemma = 'experiment'
+T150	pos_VBZ 805 812	reveals
+#149	AnnotatorNotes T150	lemma = 'reveal'
+T151	pos_IN 813 817	that
+#150	AnnotatorNotes T151	lemma = 'that'
+T152	pos_NNS 818 826	products
+#151	AnnotatorNotes T152	lemma = 'product'
+T153	pos_VBN 827 839	demonstrated
+#152	AnnotatorNotes T153	lemma = 'demonstrate'
+T154	pos_IN 840 844	with
+#153	AnnotatorNotes T154	lemma = 'with'
+T155	pos_NN 845 850	humor
+#154	AnnotatorNotes T155	lemma = 'humor'
+T156	pos_NNS 851 854	ads
+#155	AnnotatorNotes T156	lemma = 'ad'
+T157	pos_VBP 855 858	are
+#156	AnnotatorNotes T157	lemma = 'be'
+T158	pos_RBR 859 863	more
+#157	AnnotatorNotes T158	lemma = 'many'
+T159	pos_IN 864 866	on
+#158	AnnotatorNotes T159	lemma = 'on'
+T160	pos_NN 867 873	demand
+#159	AnnotatorNotes T160	lemma = 'demand'
+T161	pos_Fp 873 874	.
+#160	AnnotatorNotes T161	lemma = '.'
+T162	pos_RB 875 882	However
+#161	AnnotatorNotes T162	lemma = 'however'
+T163	pos_Fc 882 883	,
+#162	AnnotatorNotes T163	lemma = ','
+T164	pos_DT 884 889	these
+#163	AnnotatorNotes T164	lemma = 'these'
+T165	pos_NNS 890 898	products
+#164	AnnotatorNotes T165	lemma = 'product'
+T166	pos_VBD 899 903	were
+#165	AnnotatorNotes T166	lemma = 'be'
+T167	pos_TO 904 906	to
+#166	AnnotatorNotes T167	lemma = 'to'
+T168	pos_DT 907 908	a
+#167	AnnotatorNotes T168	lemma = 'a'
+T169	pos_JJR 909 915	lesser
+#168	AnnotatorNotes T169	lemma = 'little'
+T170	pos_NN 916 922	degree
+#169	AnnotatorNotes T170	lemma = 'degree'
+T171	pos_VBN 923 931	retained
+#170	AnnotatorNotes T171	lemma = 'retain'
+T172	pos_IN 932 934	in
+#171	AnnotatorNotes T172	lemma = 'in'
+T173	pos_NNS 935 944	consumers
+#172	AnnotatorNotes T173	lemma = 'consumer'
+T174	pos_NNS 945 953	memories
+#173	AnnotatorNotes T174	lemma = 'memory'
+T175	pos_Fc 953 954	,
+#174	AnnotatorNotes T175	lemma = ','
+T176	pos_IN 955 959	than
+#175	AnnotatorNotes T176	lemma = 'than'
+T177	pos_NNS 960 968	products
+#176	AnnotatorNotes T177	lemma = 'product'
+T178	pos_VBN 969 981	demonstrated
+#177	AnnotatorNotes T178	lemma = 'demonstrate'
+T179	pos_IN 982 984	in
+#178	AnnotatorNotes T179	lemma = 'in'
+T180	pos_NNS 985 988	ads
+#179	AnnotatorNotes T180	lemma = 'ad'
+T181	pos_IN 989 996	without
+#180	AnnotatorNotes T181	lemma = 'without'
+T182	pos_NN 997 1002	humor
+#181	AnnotatorNotes T182	lemma = 'humor'
+T183	pos_Fp 1002 1003	.
+#182	AnnotatorNotes T183	lemma = '.'

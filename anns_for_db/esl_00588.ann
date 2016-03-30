@@ -1,0 +1,432 @@
+T3	Absence_comp_colloc 78 91	life interval
+A8	Addition T3
+#3	AnnotatorNotes T3	life expectancy
+T4	Prepositions 92 97	among
+#4	AnnotatorNotes T4	for
+T7	Choice_of_ref 239 248	life span
+A23	Addition T7
+#5	AnnotatorNotes T7	of years ... as well
+T8	Standard 239 248	life span
+A27	Addition T8
+#6	AnnotatorNotes T8	of years ... as well
+T9	lex_item_choice 275 283	spending
+#7	AnnotatorNotes T9	funding
+T10	Double_prep_phrasal 335 340	comes
+A34	Addition T10
+#8	AnnotatorNotes T10	comes up
+T11	Choice_of_ref 382 387	place
+#9	AnnotatorNotes T11	in the number
+T12	Choice_of_ref 426 431	takes
+#10	AnnotatorNotes T12	is
+T13	Choice_of_ref 455 469	one belongs to
+A44	Addition T13
+#11	AnnotatorNotes T13	highest allocation is … beds in
+T14	lex_item_choice 504 512	spending
+#12	AnnotatorNotes T14	exspenditures
+T15	Choice_of_ref 541 546	chart
+#13	AnnotatorNotes T15	table
+T16	Verb_pattern 593 608	health spending
+#14	AnnotatorNotes T16	money spent on health
+T17	lex_item_choice 627 643	sufficiently big
+#15	AnnotatorNotes T17	relatively large
+T18	Absence_explanation 698 700	is
+A60	Addition T18
+#16	AnnotatorNotes T18	is only
+T19	Often_confused 710 717	smaller
+#17	AnnotatorNotes T19	lower
+T20	Absence_explanation 757 764	average
+A67	Addition T20
+#18	AnnotatorNotes T20	average figure for
+T21	Often_confused 772 780	spending
+#19	AnnotatorNotes T21	funding
+T22	Articles 822 825	the
+A77	Delete T22
+T23	Absence_explanation 826 841	life expectancy
+A78	Addition T23
+#20	AnnotatorNotes T23	life expectancy there
+T24	Punctuation 864 865	,
+A85	Delete T24
+T25	Articles 911 913	US
+A86	Addition T25
+#21	AnnotatorNotes T25	the US
+T26	Choice_of_ref 935 938	has
+#22	AnnotatorNotes T26	provides
+T27	suggestion 250 262	Nevertheless
+T28	pos_DT 0 4	This
+#23	AnnotatorNotes T28	lemma = 'this'
+T29	pos_NN 5 10	graph
+#24	AnnotatorNotes T29	lemma = 'graph'
+T30	pos_CC 11 14	and
+#25	AnnotatorNotes T30	lemma = 'and'
+T31	pos_VBZ 15 26	illustrates
+#26	AnnotatorNotes T31	lemma = 'illustrate'
+T32	pos_DT 27 30	the
+#27	AnnotatorNotes T32	lemma = 'the'
+T33	pos_NN 31 41	statistics
+#28	AnnotatorNotes T33	lemma = 'statistics'
+T34	pos_IN 42 44	of
+#29	AnnotatorNotes T34	lemma = 'of'
+T35	pos_NN 45 55	healthcare
+#30	AnnotatorNotes T35	lemma = 'healthcare'
+T36	pos_NNS 56 65	resources
+#31	AnnotatorNotes T36	lemma = 'resource'
+T37	pos_CC 66 69	and
+#32	AnnotatorNotes T37	lemma = 'and'
+T38	pos_JJ 70 77	average
+#33	AnnotatorNotes T38	lemma = 'average'
+T39	pos_NN 78 82	life
+#34	AnnotatorNotes T39	lemma = 'life'
+T40	pos_NN 83 91	interval
+#35	AnnotatorNotes T40	lemma = 'interval'
+T41	pos_IN 92 97	among
+#36	AnnotatorNotes T41	lemma = 'among'
+T42	pos_JJ 98 105	several
+#37	AnnotatorNotes T42	lemma = 'several'
+T43	pos_NNS 106 115	countries
+#38	AnnotatorNotes T43	lemma = 'country'
+T44	pos_Fp 115 116	.
+#39	AnnotatorNotes T44	lemma = '.'
+T45	pos_TO 117 119	To
+#40	AnnotatorNotes T45	lemma = 'to'
+T46	pos_VB 120 125	begin
+#41	AnnotatorNotes T46	lemma = 'begin'
+T47	pos_IN 126 130	with
+#42	AnnotatorNotes T47	lemma = 'with'
+T48	pos_Fc 130 131	,
+#43	AnnotatorNotes T48	lemma = ','
+T49	pos_NP 132 137	Japan
+#44	AnnotatorNotes T49	lemma = 'japan'
+T50	pos_VBZ 138 141	has
+#45	AnnotatorNotes T50	lemma = 'have'
+T51	pos_DT 142 145	the
+#46	AnnotatorNotes T51	lemma = 'the'
+T52	pos_JJS 146 153	largest
+#47	AnnotatorNotes T52	lemma = 'large'
+T53	pos_NN 154 162	hospital
+#48	AnnotatorNotes T53	lemma = 'hospital'
+T54	pos_NNS 163 167	beds
+#49	AnnotatorNotes T54	lemma = 'bed'
+T55	pos_IN 168 171	per
+#50	AnnotatorNotes T55	lemma = 'per'
+T56	pos_NN 172 180	thousand
+#51	AnnotatorNotes T56	lemma = 'thousand'
+T57	pos_IN 181 183	of
+#52	AnnotatorNotes T57	lemma = 'of'
+T58	pos_DT 184 187	the
+#53	AnnotatorNotes T58	lemma = 'the'
+T59	pos_NN 188 198	population
+#54	AnnotatorNotes T59	lemma = 'population'
+T60	pos_Fp 198 199	.
+#55	AnnotatorNotes T60	lemma = '.'
+T61	pos_RB 200 207	As well
+#56	AnnotatorNotes T61	lemma = 'as_well'
+T62	pos_Fc 207 208	,
+#57	AnnotatorNotes T62	lemma = ','
+T63	pos_PRP 209 211	it
+#58	AnnotatorNotes T63	lemma = 'it'
+T64	pos_VBZ 212 215	has
+#59	AnnotatorNotes T64	lemma = 'have'
+T65	pos_DT 216 219	the
+#60	AnnotatorNotes T65	lemma = 'the'
+T66	pos_JJS 220 227	longest
+#61	AnnotatorNotes T66	lemma = 'long'
+T67	pos_NN 228 235	average
+#62	AnnotatorNotes T67	lemma = 'average'
+T68	pos_IN 236 238	of
+#63	AnnotatorNotes T68	lemma = 'of'
+T69	pos_NN 239 243	life
+#64	AnnotatorNotes T69	lemma = 'life'
+T70	pos_NN 244 249	span.
+#65	AnnotatorNotes T70	lemma = 'span.'
+T71	pos_NP 250 262	Nevertheless
+#66	AnnotatorNotes T71	lemma = 'nevertheless'
+T72	pos_Fc 262 263	,
+#67	AnnotatorNotes T72	lemma = ','
+T73	pos_DT 264 267	the
+#68	AnnotatorNotes T73	lemma = 'the'
+T74	pos_NN 268 274	health
+#69	AnnotatorNotes T74	lemma = 'health'
+T75	pos_VBG 275 283	spending
+#70	AnnotatorNotes T75	lemma = 'spend'
+T76	pos_IN 284 287	per
+#71	AnnotatorNotes T76	lemma = 'per'
+T77	pos_NN 288 294	person
+#72	AnnotatorNotes T77	lemma = 'person'
+T78	pos_VBZ 295 297	is
+#73	AnnotatorNotes T78	lemma = 'be'
+T79	pos_IN 298 302	less
+#74	AnnotatorNotes T79	lemma = 'less'
+T80	pos_IN 303 307	than
+#75	AnnotatorNotes T80	lemma = 'than'
+T81	pos_IN 308 310	in
+#76	AnnotatorNotes T81	lemma = 'in'
+T82	pos_NP 311 322	Netherlands
+#77	AnnotatorNotes T82	lemma = 'netherlands'
+T83	pos_CC 323 326	and
+#78	AnnotatorNotes T83	lemma = 'and'
+T84	pos_NP 327 329	US
+#79	AnnotatorNotes T84	lemma = 'us'
+T85	pos_Fc 329 330	,
+#80	AnnotatorNotes T85	lemma = ','
+T86	pos_CC 331 334	and
+#81	AnnotatorNotes T86	lemma = 'and'
+T87	pos_VBZ 335 340	comes
+#82	AnnotatorNotes T87	lemma = 'come'
+T88	pos_RB 341 352	practically
+#83	AnnotatorNotes T88	lemma = 'practically'
+T89	pos_TO 353 355	to
+#84	AnnotatorNotes T89	lemma = 'to'
+T90	pos_Z 356 357	2
+#85	AnnotatorNotes T90	lemma = '2'
+T91	pos_Z 358 361	581
+#86	AnnotatorNotes T91	lemma = '581'
+T92	pos_NNS 362 369	dollars
+#87	AnnotatorNotes T92	lemma = 'dollar'
+T93	pos_Fp 369 370	.
+#88	AnnotatorNotes T93	lemma = '.'
+T94	pos_DT 371 374	The
+#89	AnnotatorNotes T94	lemma = 'the'
+T95	pos_JJ 375 381	second
+#90	AnnotatorNotes T95	lemma = '2'
+T96	pos_NN 382 387	place
+#91	AnnotatorNotes T96	lemma = 'place'
+T97	pos_IN 388 390	of
+#92	AnnotatorNotes T97	lemma = 'of'
+T98	pos_NN 391 399	hospital
+#93	AnnotatorNotes T98	lemma = 'hospital'
+T99	pos_NNS 400 404	beds
+#94	AnnotatorNotes T99	lemma = 'bed'
+T100	pos_IN 405 408	per
+#95	AnnotatorNotes T100	lemma = 'per'
+T101	pos_NN 409 417	thousand
+#96	AnnotatorNotes T101	lemma = 'thousand'
+T102	pos_NNS 418 425	persons
+#97	AnnotatorNotes T102	lemma = 'person'
+T103	pos_VBZ 426 431	takes
+#98	AnnotatorNotes T103	lemma = 'take'
+T104	pos_NP 432 439	Germany
+#99	AnnotatorNotes T104	lemma = 'germany'
+T105	pos_Fc 439 440	,
+#100	AnnotatorNotes T105	lemma = ','
+T106	pos_CC 441 444	and
+#101	AnnotatorNotes T106	lemma = 'and'
+T107	pos_DT 445 448	the
+#102	AnnotatorNotes T107	lemma = 'the'
+T108	pos_JJ 449 454	third
+#103	AnnotatorNotes T108	lemma = '3'
+T109	pos_NN 455 458	one
+#104	AnnotatorNotes T109	lemma = 'one'
+T110	pos_VBZ 459 466	belongs
+#105	AnnotatorNotes T110	lemma = 'belong'
+T111	pos_TO 467 469	to
+#106	AnnotatorNotes T111	lemma = 'to'
+T112	pos_NP 470 481	Netherlands
+#107	AnnotatorNotes T112	lemma = 'netherlands'
+T113	pos_Fp 481 482	.
+#108	AnnotatorNotes T113	lemma = '.'
+T114	pos_DT 483 485	No
+#109	AnnotatorNotes T114	lemma = 'no'
+T115	pos_NNS 486 490	data
+#110	AnnotatorNotes T115	lemma = 'data'
+T116	pos_IN 491 496	about
+#111	AnnotatorNotes T116	lemma = 'about'
+T117	pos_NN 497 503	health
+#112	AnnotatorNotes T117	lemma = 'health'
+T118	pos_VBG 504 512	spending
+#113	AnnotatorNotes T118	lemma = 'spend'
+T119	pos_IN 513 515	in
+#114	AnnotatorNotes T119	lemma = 'in'
+T120	pos_NP 516 523	Germany
+#115	AnnotatorNotes T120	lemma = 'germany'
+T121	pos_VBP 524 527	are
+#116	AnnotatorNotes T121	lemma = 'be'
+T122	pos_VBN 528 533	given
+#117	AnnotatorNotes T122	lemma = 'give'
+T123	pos_IN 534 536	in
+#118	AnnotatorNotes T123	lemma = 'in'
+T124	pos_DT 537 540	the
+#119	AnnotatorNotes T124	lemma = 'the'
+T125	pos_NN 541 546	chart
+#120	AnnotatorNotes T125	lemma = 'chart'
+T126	pos_Fp 546 547	.
+#121	AnnotatorNotes T126	lemma = '.'
+T127	pos_RB 548 555	However
+#122	AnnotatorNotes T127	lemma = 'however'
+T128	pos_Fc 555 556	,
+#123	AnnotatorNotes T128	lemma = ','
+T129	pos_EX 557 562	there
+#124	AnnotatorNotes T129	lemma = 'there'
+T130	pos_PRP 563 565	we
+#125	AnnotatorNotes T130	lemma = 'we'
+T131	pos_MD 566 569	can
+#126	AnnotatorNotes T131	lemma = 'can'
+T132	pos_VB 570 573	see
+#127	AnnotatorNotes T132	lemma = 'see'
+T133	pos_IN 574 578	that
+#128	AnnotatorNotes T133	lemma = 'that'
+T134	pos_DT 579 582	the
+#129	AnnotatorNotes T134	lemma = 'the'
+T135	pos_NN 583 589	amount
+#130	AnnotatorNotes T135	lemma = 'amount'
+T136	pos_IN 590 592	of
+#131	AnnotatorNotes T136	lemma = 'of'
+T137	pos_NN 593 599	health
+#132	AnnotatorNotes T137	lemma = 'health'
+T138	pos_VBG 600 608	spending
+#133	AnnotatorNotes T138	lemma = 'spend'
+T139	pos_IN 609 611	in
+#134	AnnotatorNotes T139	lemma = 'in'
+T140	pos_NP 612 623	Netherlands
+#135	AnnotatorNotes T140	lemma = 'netherlands'
+T141	pos_VBZ 624 626	is
+#136	AnnotatorNotes T141	lemma = 'be'
+T142	pos_RB 627 639	sufficiently
+#137	AnnotatorNotes T142	lemma = 'sufficiently'
+T143	pos_JJ 640 643	big
+#138	AnnotatorNotes T143	lemma = 'big'
+T144	pos_Fpa 644 645	(
+#139	AnnotatorNotes T144	lemma = '('
+T145	pos_Z 645 646	3
+#140	AnnotatorNotes T145	lemma = '3'
+T146	pos_Z 647 650	481
+#141	AnnotatorNotes T146	lemma = '481'
+T147	pos_NNS 651 658	dollars
+#142	AnnotatorNotes T147	lemma = 'dollar'
+T148	pos_IN 659 662	per
+#143	AnnotatorNotes T148	lemma = 'per'
+T149	pos_NN 663 669	person
+#144	AnnotatorNotes T149	lemma = 'person'
+T150	pos_Fpt 669 670	)
+#145	AnnotatorNotes T150	lemma = ')'
+T151	pos_Fc 670 671	,
+#146	AnnotatorNotes T151	lemma = ','
+T152	pos_CC 672 675	and
+#147	AnnotatorNotes T152	lemma = 'and'
+T153	pos_DT 676 679	the
+#148	AnnotatorNotes T153	lemma = 'the'
+T154	pos_JJ 680 687	average
+#149	AnnotatorNotes T154	lemma = 'average'
+T155	pos_NN 688 692	life
+#150	AnnotatorNotes T155	lemma = 'life'
+T156	pos_NN 693 697	span
+#151	AnnotatorNotes T156	lemma = 'span'
+T157	pos_VBZ 698 700	is
+#152	AnnotatorNotes T157	lemma = 'be'
+T158	pos_RB 701 709	slightly
+#153	AnnotatorNotes T158	lemma = 'slightly'
+T159	pos_JJR 710 717	smaller
+#154	AnnotatorNotes T159	lemma = 'small'
+T160	pos_IN 718 722	than
+#155	AnnotatorNotes T160	lemma = 'than'
+T161	pos_IN 723 725	in
+#156	AnnotatorNotes T161	lemma = 'in'
+T162	pos_NP 726 731	Japan
+#157	AnnotatorNotes T162	lemma = 'japan'
+T163	pos_Fp 731 732	.
+#158	AnnotatorNotes T163	lemma = '.'
+T164	pos_DT 733 736	The
+#159	AnnotatorNotes T164	lemma = 'the'
+T165	pos_NP 737 739	US
+#160	AnnotatorNotes T165	lemma = 'us'
+T166	pos_VBP 740 744	have
+#161	AnnotatorNotes T166	lemma = 'have'
+T167	pos_DT 745 748	the
+#162	AnnotatorNotes T167	lemma = 'the'
+T168	pos_JJS 749 756	biggest
+#163	AnnotatorNotes T168	lemma = 'big'
+T169	pos_JJ 757 764	average
+#164	AnnotatorNotes T169	lemma = 'average'
+T170	pos_NN 765 771	health
+#165	AnnotatorNotes T170	lemma = 'health'
+T171	pos_VBG 772 780	spending
+#166	AnnotatorNotes T171	lemma = 'spend'
+T172	pos_IN 781 784	per
+#167	AnnotatorNotes T172	lemma = 'per'
+T173	pos_NN 785 791	person
+#168	AnnotatorNotes T173	lemma = 'person'
+T174	pos_Fc 791 792	,
+#169	AnnotatorNotes T174	lemma = ','
+T175	pos_PRP 793 795	it
+#170	AnnotatorNotes T175	lemma = 'it'
+T176	pos_VBZ 796 802	equals
+#171	AnnotatorNotes T176	lemma = 'equal'
+T177	pos_Z 803 804	6
+#172	AnnotatorNotes T177	lemma = '6'
+T178	pos_Z 805 808	719
+#173	AnnotatorNotes T178	lemma = '719'
+T179	pos_NNS 809 816	dollars
+#174	AnnotatorNotes T179	lemma = 'dollar'
+T180	pos_Fc 816 817	,
+#175	AnnotatorNotes T180	lemma = ','
+T181	pos_CC 818 821	and
+#176	AnnotatorNotes T181	lemma = 'and'
+T182	pos_DT 822 825	the
+#177	AnnotatorNotes T182	lemma = 'the'
+T183	pos_NN 826 830	life
+#178	AnnotatorNotes T183	lemma = 'life'
+T184	pos_NN 831 841	expectancy
+#179	AnnotatorNotes T184	lemma = 'expectancy'
+T185	pos_VBZ 842 844	is
+#180	AnnotatorNotes T185	lemma = 'be'
+T186	pos_JJ 845 849	only
+#181	AnnotatorNotes T186	lemma = 'only'
+T187	pos_Z 850 853	two
+#182	AnnotatorNotes T187	lemma = '2'
+T188	pos_NNS 854 859	years
+#183	AnnotatorNotes T188	lemma = 'year'
+T189	pos_IN 860 864	less
+#184	AnnotatorNotes T189	lemma = 'less'
+T190	pos_Fc 864 865	,
+#185	AnnotatorNotes T190	lemma = ','
+T191	pos_IN 866 870	than
+#186	AnnotatorNotes T191	lemma = 'than'
+T192	pos_IN 871 873	in
+#187	AnnotatorNotes T192	lemma = 'in'
+T193	pos_NP 874 885	Netherlands
+#188	AnnotatorNotes T193	lemma = 'netherlands'
+T194	pos_Fp 885 886	.
+#189	AnnotatorNotes T194	lemma = '.'
+T195	pos_PRP 887 889	It
+#190	AnnotatorNotes T195	lemma = 'it'
+T196	pos_VBZ 890 892	is
+#191	AnnotatorNotes T196	lemma = 'be'
+T197	pos_JJ 893 898	worth
+#192	AnnotatorNotes T197	lemma = 'worth'
+T198	pos_VBG 899 905	noting
+#193	AnnotatorNotes T198	lemma = 'note'
+T199	pos_IN 906 910	that
+#194	AnnotatorNotes T199	lemma = 'that'
+T200	pos_NP 911 913	US
+#195	AnnotatorNotes T200	lemma = 'us'
+T201	pos_Fc 913 914	,
+#196	AnnotatorNotes T201	lemma = ','
+T202	pos_IN 915 922	despite
+#197	AnnotatorNotes T202	lemma = 'despite'
+T203	pos_PRP 923 933	everything
+#198	AnnotatorNotes T203	lemma = 'everything'
+T204	pos_Fc 933 934	,
+#199	AnnotatorNotes T204	lemma = ','
+T205	pos_VBZ 935 938	has
+#200	AnnotatorNotes T205	lemma = 'have'
+T206	pos_DT 939 942	the
+#201	AnnotatorNotes T206	lemma = 'the'
+T207	pos_JJS 943 949	lowest
+#202	AnnotatorNotes T207	lemma = 'low'
+T208	pos_NN 950 956	number
+#203	AnnotatorNotes T208	lemma = 'number'
+T209	pos_IN 957 959	of
+#204	AnnotatorNotes T209	lemma = 'of'
+T210	pos_NNS 960 964	beds
+#205	AnnotatorNotes T210	lemma = 'bed'
+T211	pos_IN 965 968	per
+#206	AnnotatorNotes T211	lemma = 'per'
+T212	pos_NN 969 977	thousand
+#207	AnnotatorNotes T212	lemma = 'thousand'
+T213	pos_NNS 978 986	citizens
+#208	AnnotatorNotes T213	lemma = 'citizen'
+T214	pos_Fp 986 987	.
+#209	AnnotatorNotes T214	lemma = '.'
+T215	Absence_comp_sent 5 14	graph and
+T216	Number 15 26	illustrates
+T1	Standard 200 208	As well,
+A1	Delete T1

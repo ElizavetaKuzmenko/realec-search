@@ -1,0 +1,428 @@
+T1	lex_item_choice 112 116	size
+#1	AnnotatorNotes T1	level
+T3	Grammar 207 215	two firs
+A2	Weight-language T3 Major
+#3	AnnotatorNotes T3	the first two
+T4	Redundant 235 242	jointly
+A3	Delete T4
+T5	Word_choice 252 253	d
+A4	Weight-language T5 Minor
+#4	AnnotatorNotes T5	together
+T6	Redundant 261 268	size of
+A5	Delete T6
+T8	Category_confusion 339 346	graphic
+A7	Weight-language T8 Major
+#6	AnnotatorNotes T8	graph
+T10	Articles 433 434	F
+A9	Weight-language T10 Major
+#8	AnnotatorNotes T10	The
+T12	Grammar 663 665	of
+#10	AnnotatorNotes T12	in
+T16	Absence_comp_colloc 1009 1010	t
+#14	AnnotatorNotes T16	rather
+T17	Absence_comp_colloc 1013 1014	e
+#15	AnnotatorNotes T17	increasing
+T19	Prepositions 1121 1128	through
+#17	AnnotatorNotes T19	throughout
+A1	Cause T3 Typo
+A6	Cause T4 Other
+A8	Weight-language T4 Minor
+A10	Cause T5 Other
+A11	Cause T8 Typo
+A12	Cause T12 Other
+A13	Weight-language T12 Minor
+A16	Cause T1 Other
+A17	Weight-language T1 Minor
+A18	Cause T6 Other
+A19	Weight-language T6 Minor
+A20	Cause T10 Typo
+T2	Word_choice 870 889	and already counted
+A21	Cause T2 Other
+A22	Weight-language T2 Minor
+#2	AnnotatorNotes T2	at/of
+A23	Cause T19 Typo
+A24	Weight-language T19 Minor
+T7	suggestion 1138 1157	year under research
+A14	Cause T7 Other
+A15	Weight-language T7 Minor
+#5	AnnotatorNotes T7	years researched
+T8	pos_DT 0 3
+#6	AnnotatorNotes T8	lemma = 'the'
+T9	pos_NNS 4 12	diagrams
+#7	AnnotatorNotes T9	lemma = 'diagram'
+T10	pos_VBP 13 24
+#8	AnnotatorNotes T10	lemma = 'demonstrate'
+T11	pos_DT 25 28	the
+#9	AnnotatorNotes T11	lemma = 'the'
+T12	pos_NN 29 35
+#10	AnnotatorNotes T12	lemma = 'amount'
+T13	pos_IN 36 38	of
+#11	AnnotatorNotes T13	lemma = 'of'
+T14	pos_NN 39 44	waste
+#12	AnnotatorNotes T14	lemma = 'waste'
+T15	pos_IN 45 49	that
+#13	AnnotatorNotes T15	lemma = 'that'
+T16	pos_NP 50 52
+#14	AnnotatorNotes T16	lemma = 'uk'
+T17	pos_NNS 53 63
+#15	AnnotatorNotes T17	lemma = 'industry'
+T18	pos_VBP 64 71	produce
+#16	AnnotatorNotes T18	lemma = 'produce'
+T19	pos_IN 72 78
+#17	AnnotatorNotes T19	lemma = 'during'
+T20	pos_DT 79 82	the
+#18	AnnotatorNotes T20	lemma = 'the'
+T21	pos_JJ 83 92	four-year
+#19	AnnotatorNotes T21	lemma = 'four-year'
+T22	pos_NN 93 99	period
+#20	AnnotatorNotes T22	lemma = 'period'
+T23	pos_Fc 99 100	,
+#21	AnnotatorNotes T23	lemma = ','
+T24	pos_DT 101 104	the
+#22	AnnotatorNotes T24	lemma = 'the'
+T25	pos_JJ 105 111	annual
+#23	AnnotatorNotes T25	lemma = 'annual'
+T26	pos_NN 112 116	size
+#24	AnnotatorNotes T26	lemma = 'size'
+T27	pos_IN 117 119	of
+#25	AnnotatorNotes T27	lemma = 'of'
+T28	pos_NN 120 130	investment
+#26	AnnotatorNotes T28	lemma = 'investment'
+T29	pos_IN 131 133	in
+#27	AnnotatorNotes T29	lemma = 'in'
+T30	pos_NN 134 147	wastedisposal
+#28	AnnotatorNotes T30	lemma = 'wastedisposal'
+T31	pos_CC 148 151	and
+#29	AnnotatorNotes T31	lemma = 'and'
+T32	pos_DT 152 155	the
+#30	AnnotatorNotes T32	lemma = 'the'
+T33	pos_NN 156 161	level
+#31	AnnotatorNotes T33	lemma = 'level'
+T34	pos_IN 162 164	of
+#32	AnnotatorNotes T34	lemma = 'of'
+T35	pos_JJ 165 171	public
+#33	AnnotatorNotes T35	lemma = 'public'
+T36	pos_NN 172 187	dissatisfaction
+#34	AnnotatorNotes T36	lemma = 'dissatisfaction'
+T37	pos_Fp 187 188	.
+#35	AnnotatorNotes T37	lemma = '.'
+T38	pos_PRP 189 193	It's
+#36	AnnotatorNotes T38	lemma = 'it'
+T39	pos_VBZ 189 193	It's
+#37	AnnotatorNotes T39	lemma = 'be'
+T40	pos_JJ 194 201	obvious
+#38	AnnotatorNotes T40	lemma = 'obvious'
+T41	pos_IN 202 206	that
+#39	AnnotatorNotes T41	lemma = 'that'
+T42	pos_Z 207 210	two
+#40	AnnotatorNotes T42	lemma = '2'
+T43	pos_JJ 211 216	first
+#41	AnnotatorNotes T43	lemma = '1'
+T44	pos_NNS 217 223	scales
+#42	AnnotatorNotes T44	lemma = 'scale'
+T45	pos_VBP 224 228	have
+#43	AnnotatorNotes T45	lemma = 'have'
+T46	pos_TO 229 231	to
+#44	AnnotatorNotes T46	lemma = 'to'
+T47	pos_VB 232 234	be
+#45	AnnotatorNotes T47	lemma = 'be'
+T48	pos_RB 235 242	jointly
+#46	AnnotatorNotes T48	lemma = 'jointly'
+T49	pos_VBN 243 253	considered
+#47	AnnotatorNotes T49	lemma = 'consider'
+T50	pos_IN 254 256	as
+#48	AnnotatorNotes T50	lemma = 'as'
+T51	pos_DT 257 260	the
+#49	AnnotatorNotes T51	lemma = 'the'
+T52	pos_NN 261 265	size
+#50	AnnotatorNotes T52	lemma = 'size'
+T53	pos_IN 266 268	of
+#51	AnnotatorNotes T53	lemma = 'of'
+T54	pos_RB 269 287	investmentdirectly
+#52	AnnotatorNotes T54	lemma = 'investmentdirectly'
+T55	pos_VBZ 288 295	depends
+#53	AnnotatorNotes T55	lemma = 'depend'
+T56	pos_IN 296 298	on
+#54	AnnotatorNotes T56	lemma = 'on'
+T57	pos_DT 299 302	the
+#55	AnnotatorNotes T57	lemma = 'the'
+T58	pos_NN 303 309	amount
+#56	AnnotatorNotes T58	lemma = 'amount'
+T59	pos_IN 310 312	of
+#57	AnnotatorNotes T59	lemma = 'of'
+T60	pos_NN 313 318	waste
+#58	AnnotatorNotes T60	lemma = 'waste'
+T61	pos_VBD 319 327	produced
+#59	AnnotatorNotes T61	lemma = 'produce'
+T62	pos_Fp 327 328	.
+#60	AnnotatorNotes T62	lemma = '.'
+T63	pos_DT 329 332	The
+#61	AnnotatorNotes T63	lemma = 'the'
+T64	pos_JJ 333 338	third
+#62	AnnotatorNotes T64	lemma = '3'
+T65	pos_NN 339 346	graphic
+#63	AnnotatorNotes T65	lemma = 'graphic'
+T66	pos_MD 347 352	might
+#64	AnnotatorNotes T66	lemma = 'may'
+T67	pos_VB 353 355	be
+#65	AnnotatorNotes T67	lemma = 'be'
+T68	pos_VBN 356 364	regarded
+#66	AnnotatorNotes T68	lemma = 'regard'
+T69	pos_IN 365 367	as
+#67	AnnotatorNotes T69	lemma = 'as'
+T70	pos_DT 368 370	an
+#68	AnnotatorNotes T70	lemma = 'a'
+T71	pos_NN 371 380	indicator
+#69	AnnotatorNotes T71	lemma = 'indicator'
+T72	pos_IN 381 383	of
+#70	AnnotatorNotes T72	lemma = 'of'
+T73	pos_DT 384 387	the
+#71	AnnotatorNotes T73	lemma = 'the'
+T74	pos_NN 388 395	success
+#72	AnnotatorNotes T74	lemma = 'success'
+T75	pos_IN 396 400	that
+#73	AnnotatorNotes T75	lemma = 'that'
+T76	pos_NN 401 406	waste
+#74	AnnotatorNotes T76	lemma = 'waste'
+T77	pos_NN 407 415	disposal
+#75	AnnotatorNotes T77	lemma = 'disposal'
+T78	pos_VBD 416 431	programattained
+#76	AnnotatorNotes T78	lemma = 'programattained'
+T79	pos_Fp 431 432	.
+#77	AnnotatorNotes T79	lemma = '.'
+T80	pos_JJ 433 438	First
+#78	AnnotatorNotes T80	lemma = '1'
+T81	pos_NN 439 446	diagram
+#79	AnnotatorNotes T81	lemma = 'diagram'
+T82	pos_VBZ 447 452	shows
+#80	AnnotatorNotes T82	lemma = 'show'
+T83	pos_DT 453 456	the
+#81	AnnotatorNotes T83	lemma = 'the'
+T84	pos_JJ 457 468	substantial
+#82	AnnotatorNotes T84	lemma = 'substantial'
+T85	pos_NN 469 473	jump
+#83	AnnotatorNotes T85	lemma = 'jump'
+T86	pos_IN 474 476	of
+#84	AnnotatorNotes T86	lemma = 'of'
+T87	pos_DT 477 480	the
+#85	AnnotatorNotes T87	lemma = 'the'
+T88	pos_NN 481 487	amount
+#86	AnnotatorNotes T88	lemma = 'amount'
+T89	pos_IN 488 490	of
+#87	AnnotatorNotes T89	lemma = 'of'
+T90	pos_NN 491 496	waste
+#88	AnnotatorNotes T90	lemma = 'waste'
+T91	pos_IN 497 499	in
+#89	AnnotatorNotes T91	lemma = 'in'
+T92	pos_W 500 513	the year 2010
+#90	AnnotatorNotes T92	lemma = '[??:??/??/2010:??.??:??]'
+T93	pos_Fp 513 514	.
+#91	AnnotatorNotes T93	lemma = '.'
+T94	pos_RB 515 522	However
+#92	AnnotatorNotes T94	lemma = 'however'
+T95	pos_Fc 522 523	,
+#93	AnnotatorNotes T95	lemma = ','
+T96	pos_DT 524 529	every
+#94	AnnotatorNotes T96	lemma = 'every'
+T97	pos_NN 530 535	surge
+#95	AnnotatorNotes T97	lemma = 'surge'
+T98	pos_VBZ 536 538	is
+#96	AnnotatorNotes T98	lemma = 'be'
+T99	pos_RB 539 545	always
+#97	AnnotatorNotes T99	lemma = 'always'
+T100	pos_VBN 546 557	accompanied
+#98	AnnotatorNotes T100	lemma = 'accompany'
+T101	pos_IN 558 560	by
+#99	AnnotatorNotes T101	lemma = 'by'
+T102	pos_VBG 561 572	thelowering
+#100	AnnotatorNotes T102	lemma = 'thelowering'
+T103	pos_IN 573 575	of
+#101	AnnotatorNotes T103	lemma = 'of'
+T104	pos_DT 576 579	the
+#102	AnnotatorNotes T104	lemma = 'the'
+T105	pos_NN 580 586	amount
+#103	AnnotatorNotes T105	lemma = 'amount'
+T106	pos_IN 587 589	of
+#104	AnnotatorNotes T106	lemma = 'of'
+T107	pos_NN 590 595	waste
+#105	AnnotatorNotes T107	lemma = 'waste'
+T108	pos_IN 596 598	in
+#106	AnnotatorNotes T108	lemma = 'in'
+T109	pos_DT 599 602	the
+#107	AnnotatorNotes T109	lemma = 'the'
+T110	pos_JJ 603 607	next
+#108	AnnotatorNotes T110	lemma = 'next'
+T111	pos_NN 608 612	year
+#109	AnnotatorNotes T111	lemma = 'year'
+T112	pos_Fp 612 613	.
+#110	AnnotatorNotes T112	lemma = '.'
+T113	pos_DT 614 617	The
+#111	AnnotatorNotes T113	lemma = 'the'
+T114	pos_JJ 618 624	second
+#112	AnnotatorNotes T114	lemma = '2'
+T115	pos_NN 625 632	diagram
+#113	AnnotatorNotes T115	lemma = 'diagram'
+T116	pos_VBZ 633 641	reflects
+#114	AnnotatorNotes T116	lemma = 'reflect'
+T117	pos_DT 642 645	the
+#115	AnnotatorNotes T117	lemma = 'the'
+T118	pos_JJ 646 653	gradual
+#116	AnnotatorNotes T118	lemma = 'gradual'
+T119	pos_NN 654 662	increase
+#117	AnnotatorNotes T119	lemma = 'increase'
+T120	pos_IN 663 665	of
+#118	AnnotatorNotes T120	lemma = 'of'
+T121	pos_DT 666 669	the
+#119	AnnotatorNotes T121	lemma = 'the'
+T122	pos_NN 670 676	amount
+#120	AnnotatorNotes T122	lemma = 'amount'
+T123	pos_IN 677 679	of
+#121	AnnotatorNotes T123	lemma = 'of'
+T124	pos_NN 680 685	money
+#122	AnnotatorNotes T124	lemma = 'money'
+T125	pos_VBN 686 694	invested
+#123	AnnotatorNotes T125	lemma = 'invest'
+T126	pos_IN 695 697	in
+#124	AnnotatorNotes T126	lemma = 'in'
+T127	pos_NN 698 711	wastedisposal
+#125	AnnotatorNotes T127	lemma = 'wastedisposal'
+T128	pos_NN 712 719	program
+#126	AnnotatorNotes T128	lemma = 'program'
+T129	pos_Fp 719 720	.
+#127	AnnotatorNotes T129	lemma = '.'
+T130	pos_IN 721 723	In
+#128	AnnotatorNotes T130	lemma = 'in'
+T131	pos_W 724 737	the year 2008
+#129	AnnotatorNotes T131	lemma = '[??:??/??/2008:??.??:??]'
+T132	pos_DT 738 741	the
+#130	AnnotatorNotes T132	lemma = 'the'
+T133	pos_NN 742 752	investment
+#131	AnnotatorNotes T133	lemma = 'investment'
+T134	pos_VBD 753 756	was
+#132	AnnotatorNotes T134	lemma = 'be'
+T135	pos_RB 757 767	relatively
+#133	AnnotatorNotes T135	lemma = 'relatively'
+T136	pos_JJ 768 771	low
+#134	AnnotatorNotes T136	lemma = 'low'
+T137	pos_CC 772 775	and
+#135	AnnotatorNotes T137	lemma = 'and'
+T138	pos_VBD 776 783	totaled
+#136	AnnotatorNotes T138	lemma = 'total'
+T139	pos_JJ 784 788	only
+#137	AnnotatorNotes T139	lemma = 'only'
+T140	pos_Z 789 800	one million
+#138	AnnotatorNotes T140	lemma = '1000000'
+T141	pos_NNS 801 806	euros
+#139	AnnotatorNotes T141	lemma = 'euro'
+T142	pos_Fc 806 807	,
+#140	AnnotatorNotes T142	lemma = ','
+T143	pos_CC 808 811	but
+#141	AnnotatorNotes T143	lemma = 'but'
+T144	pos_IN 812 814	by
+#142	AnnotatorNotes T144	lemma = 'by'
+T145	pos_DT 815 818	the
+#143	AnnotatorNotes T145	lemma = 'the'
+T146	pos_W 819 828	year 2011
+#144	AnnotatorNotes T146	lemma = '[??:??/??/2011:??.??:??]'
+T147	pos_DT 829 832	the
+#145	AnnotatorNotes T147	lemma = 'the'
+T148	pos_NN 833 837	size
+#146	AnnotatorNotes T148	lemma = 'size'
+T149	pos_IN 838 840	of
+#147	AnnotatorNotes T149	lemma = 'of'
+T150	pos_NN 841 854	theinvestment
+#148	AnnotatorNotes T150	lemma = 'theinvestment'
+T151	pos_VBD 855 862	reached
+#149	AnnotatorNotes T151	lemma = 'reach'
+T152	pos_DT 863 864	a
+#150	AnnotatorNotes T152	lemma = 'a'
+T153	pos_NN 865 869	peak
+#151	AnnotatorNotes T153	lemma = 'peak'
+T154	pos_CC 870 873	and
+#152	AnnotatorNotes T154	lemma = 'and'
+T155	pos_RB 874 881	already
+#153	AnnotatorNotes T155	lemma = 'already'
+T156	pos_VBN 882 889	counted
+#154	AnnotatorNotes T156	lemma = 'count'
+T157	pos_Z 890 901	2.5 million
+#155	AnnotatorNotes T157	lemma = '2500000'
+T158	pos_NNS 902 907	euros
+#156	AnnotatorNotes T158	lemma = 'euro'
+T159	pos_Fp 907 908	.
+#157	AnnotatorNotes T159	lemma = '.'
+T160	pos_RB 909 921	Surprisingly
+#158	AnnotatorNotes T160	lemma = 'surprisingly'
+T161	pos_Fc 921 922	,
+#159	AnnotatorNotes T161	lemma = ','
+T162	pos_DT 923 926	the
+#160	AnnotatorNotes T162	lemma = 'the'
+T163	pos_JJ 927 932	third
+#161	AnnotatorNotes T163	lemma = '3'
+T164	pos_NN 933 938	scale
+#162	AnnotatorNotes T164	lemma = 'scale'
+T165	pos_VBZ 939 943	does
+#163	AnnotatorNotes T165	lemma = 'do'
+T166	pos_RB 944 947	not
+#164	AnnotatorNotes T166	lemma = 'not'
+T167	pos_VB 948 958	illustrate
+#165	AnnotatorNotes T167	lemma = 'illustrate'
+T168	pos_DT 959 962	the
+#166	AnnotatorNotes T168	lemma = 'the'
+T169	pos_NN 963 977	successfulness
+#167	AnnotatorNotes T169	lemma = 'successfulness'
+T170	pos_IN 978 980	of
+#168	AnnotatorNotes T170	lemma = 'of'
+T171	pos_NN 981 989	thewaste
+#169	AnnotatorNotes T171	lemma = 'thewaste'
+T172	pos_NN 990 998	disposal
+#170	AnnotatorNotes T172	lemma = 'disposal'
+T173	pos_NN 999 1006	program
+#171	AnnotatorNotes T173	lemma = 'program'
+T174	pos_CC 1007 1010	but
+#172	AnnotatorNotes T174	lemma = 'but'
+T175	pos_DT 1011 1014	the
+#173	AnnotatorNotes T175	lemma = 'the'
+T176	pos_JJ 1015 1022	general
+#174	AnnotatorNotes T176	lemma = 'general'
+T177	pos_JJ 1023 1029	public
+#175	AnnotatorNotes T177	lemma = 'public'
+T178	pos_NN 1030 1037	concern
+#176	AnnotatorNotes T178	lemma = 'concern'
+T179	pos_IN 1038 1043	about
+#177	AnnotatorNotes T179	lemma = 'about'
+T180	pos_DT 1044 1047	the
+#178	AnnotatorNotes T180	lemma = 'the'
+T181	pos_JJ 1048 1061	environmental
+#179	AnnotatorNotes T181	lemma = 'environmental'
+T182	pos_NNS 1062 1068	issues
+#180	AnnotatorNotes T182	lemma = 'issue'
+T183	pos_IN 1069 1071	in
+#181	AnnotatorNotes T183	lemma = 'in'
+T184	pos_NP 1072 1074	UK
+#182	AnnotatorNotes T184	lemma = 'uk'
+T185	pos_IN 1075 1077	as
+#183	AnnotatorNotes T185	lemma = 'as'
+T186	pos_DT 1078 1081	the
+#184	AnnotatorNotes T186	lemma = 'the'
+T187	pos_NN 1082 1087	level
+#185	AnnotatorNotes T187	lemma = 'level'
+T188	pos_IN 1088 1090	of
+#186	AnnotatorNotes T188	lemma = 'of'
+T189	pos_NNS 1091 1101	complaints
+#187	AnnotatorNotes T189	lemma = 'complaint'
+T190	pos_RB 1102 1115	progressively
+#188	AnnotatorNotes T190	lemma = 'progressively'
+T191	pos_RB 1116 1128	risesthrough
+#189	AnnotatorNotes T191	lemma = 'risesthrough'
+T192	pos_DT 1129 1132	the
+#190	AnnotatorNotes T192	lemma = 'the'
+T193	pos_Z 1133 1137	four
+#191	AnnotatorNotes T193	lemma = '4'
+T194	pos_NN 1138 1142	year
+#192	AnnotatorNotes T194	lemma = 'year'
+T195	pos_IN 1143 1148	under
+#193	AnnotatorNotes T195	lemma = 'under'
+T196	pos_NN 1149 1157	research
+#194	AnnotatorNotes T196	lemma = 'research'
+T197	pos_Fp 1149 1157	research
+#195	AnnotatorNotes T197	lemma = '.'

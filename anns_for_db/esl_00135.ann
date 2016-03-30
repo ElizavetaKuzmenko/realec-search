@@ -1,0 +1,371 @@
+T1	Choice_synonyms 45 49	huge	
+#1	AnnotatorNotes T1	big
+T2	And_syn 60 62	or
+#2	AnnotatorNotes T2	and
+T3	Word_order 73 90	players of market
+#3	AnnotatorNotes T3	market players
+T4	Word_choice 98 113	get and retrain
+#4	AnnotatorNotes T4	hire
+T5	Noun_number 136 146	specialist
+#5	AnnotatorNotes T5	specialists
+T6	Word_choice 168 174	retain
+#6	AnnotatorNotes T6	attract
+T7	Prepositions 187 192	money	 	 	 	 	 	 	 	 
+#7	AnnotatorNotes T7	with money
+T8	Punctuation 258 264	reason
+#8	AnnotatorNotes T8	reason, the
+T9	Choice_of_ref 264 288	the attention is devoted
+#9	AnnotatorNotes T9	the priority is to
+T10	Verb_prep_Gerund 278 296	is devoted to form
+#10	AnnotatorNotes T10	is devoted to forming
+T11	Word_choice 325 333	contains
+#11	AnnotatorNotes T11	combines
+T12	Art_form 424 433	formation	 	 	 	 	 	 	
+#12	AnnotatorNotes T12	the
+T13	Formational_affixes 452 460	identify
+#13	AnnotatorNotes T13	identity
+T14	Formational_affixes 506 514	identify
+#14	AnnotatorNotes T14	identity
+T15	Adjectives 572 583	more harder
+#15	AnnotatorNotes T15	hard
+T16	Formational_affixes 660 672	independence
+#16	AnnotatorNotes T16	dependence
+T17	Formational_affixes 719 727	identify
+#17	AnnotatorNotes T17	identity
+T18	Punctuation 729 737	Moreover
+#18	AnnotatorNotes T18	Moreover,
+T19	Formational_affixes 799 807	identify
+#19	AnnotatorNotes T19	identity
+T20	Art_form 826 834	building	 	 	 	 	 	 	 	 	 	 
+#20	AnnotatorNotes T20	the building
+T21	Redundant_comp 10 40	is the time of market relation
+A1	Weight-language T21 Minor
+A2	Delete T21
+A3	Weight-language T1 Minor
+A4	Weight-language T2 Minor
+T22	Spelling 63 71	themajor
+A5	Weight-language T22 Minor
+#21	AnnotatorNotes T22	the major
+A6	Weight-language T3 Major
+A7	Weight-language T4 Minor
+A8	Weight-language T5 Critical
+A9	Weight-language T6 Minor
+A10	Weight-language T7 Critical
+A11	Weight-language T8 Minor
+A12	Weight-language T9 Minor
+A13	Weight-language T10 Major
+A14	Weight-language T11 Minor
+A15	Cause T12 Absence_of_Category_in_L1
+A16	Weight-language T12 Minor
+A17	Weight-language T13 Major
+A18	Weight-language T14 Major
+A19	Weight-language T15 Minor
+T23	Verbs 645 647	is
+A20	Weight-language T23 Critical
+A21	Delete T23
+A22	Weight-language T16 Major
+A23	Weight-language T17 Major
+A24	Weight-language T18 Minor
+T24	Verbs 749 751	is
+A25	Weight-language T24 Critical
+A26	Delete T24
+A27	Weight-language T19 Major
+A28	Cause T20 Absence_of_Category_in_L1
+A29	Weight-language T20 Major
+A30	Cause T23 Other
+A31	Cause T24 Other
+A32	Cause T9 Other
+A33	Cause T3 L1_interference
+A34	Weight-understanding T1 Minor
+A35	Weight-understanding T2 Minor
+A36	Weight-understanding T5 Critical
+T25	pos_﻿ 0 1	﻿
+#22	AnnotatorNotes T25	lemma = '﻿'
+T26	pos_NP 1 9	Nowadays
+#23	AnnotatorNotes T26	lemma = 'nowadays'
+T27	pos_VBZ 10 12	is
+#24	AnnotatorNotes T27	lemma = 'be'
+T28	pos_DT 13 16	the
+#25	AnnotatorNotes T28	lemma = 'the'
+T29	pos_NN 17 21	time
+#26	AnnotatorNotes T29	lemma = 'time'
+T30	pos_IN 22 24	of
+#27	AnnotatorNotes T30	lemma = 'of'
+T31	pos_NN 25 31	market
+#28	AnnotatorNotes T31	lemma = 'market'
+T32	pos_NN 32 40	relation
+#29	AnnotatorNotes T32	lemma = 'relation'
+T33	pos_DT 41 44	all
+#30	AnnotatorNotes T33	lemma = 'all'
+T34	pos_JJ 45 49	huge
+#31	AnnotatorNotes T34	lemma = 'huge'
+T35	pos_NNS 50 59	companies
+#32	AnnotatorNotes T35	lemma = 'company'
+T36	pos_CC 60 62	or
+#33	AnnotatorNotes T36	lemma = 'or'
+T37	pos_JJ 63 71	themajor
+#34	AnnotatorNotes T37	lemma = 'themajor'
+T38	pos_NNS 73 80	players
+#35	AnnotatorNotes T38	lemma = 'player'
+T39	pos_IN 81 83	of
+#36	AnnotatorNotes T39	lemma = 'of'
+T40	pos_NN 84 90	market
+#37	AnnotatorNotes T40	lemma = 'market'
+T41	pos_VB 91 94	try
+#38	AnnotatorNotes T41	lemma = 'try'
+T42	pos_TO 95 97	to
+#39	AnnotatorNotes T42	lemma = 'to'
+T43	pos_VB 98 101	get
+#40	AnnotatorNotes T43	lemma = 'get'
+T44	pos_CC 102 105	and
+#41	AnnotatorNotes T44	lemma = 'and'
+T45	pos_VB 106 113	retrain
+#42	AnnotatorNotes T45	lemma = 'retrain'
+T46	pos_DT 114 117	the
+#43	AnnotatorNotes T46	lemma = 'the'
+T47	pos_RBS 118 122	most
+#44	AnnotatorNotes T47	lemma = 'many'
+T48	pos_JJ 123 135	professional
+#45	AnnotatorNotes T48	lemma = 'professional'
+T49	pos_NN 136 146	specialist
+#46	AnnotatorNotes T49	lemma = 'specialist'
+T50	pos_Fp 146 147	.
+#47	AnnotatorNotes T50	lemma = '.'
+T51	pos_PRP 148 150	It
+#48	AnnotatorNotes T51	lemma = 'it'
+T52	pos_VBZ 151 153	is
+#49	AnnotatorNotes T52	lemma = 'be'
+T53	pos_JJ 154 164	impossible
+#50	AnnotatorNotes T53	lemma = 'impossible'
+T54	pos_TO 165 167	to
+#51	AnnotatorNotes T54	lemma = 'to'
+T55	pos_VB 168 174	retain
+#52	AnnotatorNotes T55	lemma = 'retain'
+T56	pos_NN 175 180	staff
+#53	AnnotatorNotes T56	lemma = 'staff'
+T57	pos_JJ 181 185	only
+#54	AnnotatorNotes T57	lemma = 'only'
+T58	pos_NN 187 192	money
+#55	AnnotatorNotes T58	lemma = 'money'
+T59	pos_Fc 192 193	,
+#56	AnnotatorNotes T59	lemma = ','
+T60	pos_RB 194 203	therefore
+#57	AnnotatorNotes T60	lemma = 'therefore'
+T61	pos_Fc 203 204	,
+#58	AnnotatorNotes T61	lemma = ','
+T62	pos_NNS 205 214	companies
+#59	AnnotatorNotes T62	lemma = 'company'
+T63	pos_VBP 215 218	are
+#60	AnnotatorNotes T63	lemma = 'be'
+T64	pos_VBG 219 226	looking
+#61	AnnotatorNotes T64	lemma = 'look'
+T65	pos_IN 227 230	for
+#62	AnnotatorNotes T65	lemma = 'for'
+T66	pos_JJ 231 242	alternative
+#63	AnnotatorNotes T66	lemma = 'alternative'
+T67	pos_NNS 243 247	ways
+#64	AnnotatorNotes T67	lemma = 'way'
+T68	pos_Fp 247 248	.
+#65	AnnotatorNotes T68	lemma = '.'
+T69	pos_IN 249 252	For
+#66	AnnotatorNotes T69	lemma = 'for'
+T70	pos_DT 253 257	this
+#67	AnnotatorNotes T70	lemma = 'this'
+T71	pos_JJ 258 267	reasonthe
+#68	AnnotatorNotes T71	lemma = 'reasonthe'
+T72	pos_NN 268 277	attention
+#69	AnnotatorNotes T72	lemma = 'attention'
+T73	pos_VBZ 278 280	is
+#70	AnnotatorNotes T73	lemma = 'be'
+T74	pos_VBN 281 288	devoted
+#71	AnnotatorNotes T74	lemma = 'devote'
+T75	pos_TO 289 291	to
+#72	AnnotatorNotes T75	lemma = 'to'
+T76	pos_VB 292 296	form
+#73	AnnotatorNotes T76	lemma = 'form'
+T77	pos_JJ 297 311	organizational
+#74	AnnotatorNotes T77	lemma = 'organizational'
+T78	pos_NN 312 317	trust
+#75	AnnotatorNotes T78	lemma = 'trust'
+T79	pos_Fc 317 318	,
+#76	AnnotatorNotes T79	lemma = ','
+T80	pos_WDT 319 324	which
+#77	AnnotatorNotes T80	lemma = 'which'
+T81	pos_VBZ 325 333	contains
+#78	AnnotatorNotes T81	lemma = 'contain'
+T82	pos_NN 334 343	institute
+#79	AnnotatorNotes T82	lemma = 'institute'
+T83	pos_NN 344 349	trust
+#80	AnnotatorNotes T83	lemma = 'trust'
+T84	pos_Fc 349 350	,
+#81	AnnotatorNotes T84	lemma = ','
+T85	pos_JJ 351 361	impersonal
+#82	AnnotatorNotes T85	lemma = 'impersonal'
+T86	pos_NN 362 367	trust
+#83	AnnotatorNotes T86	lemma = 'trust'
+T87	pos_Fc 367 368	,
+#84	AnnotatorNotes T87	lemma = ','
+T88	pos_NN 369 374	trust
+#85	AnnotatorNotes T88	lemma = 'trust'
+T89	pos_TO 375 377	to
+#86	AnnotatorNotes T89	lemma = 'to'
+T90	pos_NN 378 385	manager
+#87	AnnotatorNotes T90	lemma = 'manager'
+T91	pos_Fp 385 386	.
+#88	AnnotatorNotes T91	lemma = '.'
+T92	pos_DT 387 391	This
+#89	AnnotatorNotes T92	lemma = 'this'
+T93	pos_NN 392 396	type
+#90	AnnotatorNotes T93	lemma = 'type'
+T94	pos_IN 397 399	of
+#91	AnnotatorNotes T94	lemma = 'of'
+T95	pos_NN 400 405	trust
+#92	AnnotatorNotes T95	lemma = 'trust'
+T96	pos_VBZ 406 408	is
+#93	AnnotatorNotes T96	lemma = 'be'
+T97	pos_JJ 409 418	essential
+#94	AnnotatorNotes T97	lemma = 'essential'
+T98	pos_IN 419 422	for
+#95	AnnotatorNotes T98	lemma = 'for'
+T99	pos_NN 424 433	formation
+#96	AnnotatorNotes T99	lemma = 'formation'
+T100	pos_IN 434 436	of
+#97	AnnotatorNotes T100	lemma = 'of'
+T101	pos_JJ 437 451	organizational
+#98	AnnotatorNotes T101	lemma = 'organizational'
+T102	pos_VB 452 460	identify
+#99	AnnotatorNotes T102	lemma = 'identify'
+T103	pos_Fp 460 461	.
+#100	AnnotatorNotes T103	lemma = '.'
+T104	pos_DT 462 465	The
+#101	AnnotatorNotes T104	lemma = 'the'
+T105	pos_NN 466 471	stuff
+#102	AnnotatorNotes T105	lemma = 'stuff'
+T106	pos_IN 472 476	with
+#103	AnnotatorNotes T106	lemma = 'with'
+T107	pos_JJ 477 481	high
+#104	AnnotatorNotes T107	lemma = 'high'
+T108	pos_NN 482 487	level
+#105	AnnotatorNotes T108	lemma = 'level'
+T109	pos_IN 488 490	of
+#106	AnnotatorNotes T109	lemma = 'of'
+T110	pos_JJ 491 505	organizational
+#107	AnnotatorNotes T110	lemma = 'organizational'
+T111	pos_VB 506 514	identify
+#108	AnnotatorNotes T111	lemma = 'identify'
+T112	pos_VB 515 522	achieve
+#109	AnnotatorNotes T112	lemma = 'achieve'
+T113	pos_RBR 523 527	more
+#110	AnnotatorNotes T113	lemma = 'many'
+T114	pos_Fc 527 528	,
+#111	AnnotatorNotes T114	lemma = ','
+T115	pos_VBP 529 532	are
+#112	AnnotatorNotes T115	lemma = 'be'
+T116	pos_RBR 533 537	more
+#113	AnnotatorNotes T116	lemma = 'many'
+T117	pos_JJ 538 548	successful
+#114	AnnotatorNotes T117	lemma = 'successful'
+T118	pos_IN 549 551	in
+#115	AnnotatorNotes T118	lemma = 'in'
+T119	pos_PRP2 552 557	their
+#116	AnnotatorNotes T119	lemma = 'their'
+T120	pos_NN 558 564	career
+#117	AnnotatorNotes T120	lemma = 'career'
+T121	pos_Fc 564 565	,
+#118	AnnotatorNotes T121	lemma = ','
+T122	pos_NN 566 570	work
+#119	AnnotatorNotes T122	lemma = 'work'
+T123	pos_RBR 572 576	more
+#120	AnnotatorNotes T123	lemma = 'many'
+T124	pos_JJR 577 583	harder
+#121	AnnotatorNotes T124	lemma = 'hard'
+T125	pos_Fc 583 584	,
+#122	AnnotatorNotes T125	lemma = ','
+T126	pos_CC 585 588	and
+#123	AnnotatorNotes T126	lemma = 'and'
+T127	pos_VBP 589 591	do
+#124	AnnotatorNotes T127	lemma = 'do'
+T128	pos_RB 592 595	not
+#125	AnnotatorNotes T128	lemma = 'not'
+T129	pos_VB 596 601	leave
+#126	AnnotatorNotes T129	lemma = 'leave'
+T130	pos_DT 602 605	the
+#127	AnnotatorNotes T130	lemma = 'the'
+T131	pos_NN 606 613	company
+#128	AnnotatorNotes T131	lemma = 'company'
+T132	pos_IN 614 620	during
+#129	AnnotatorNotes T132	lemma = 'during'
+T133	pos_DT 621 624	the
+#130	AnnotatorNotes T133	lemma = 'the'
+T134	pos_NN 625 631	crisis
+#131	AnnotatorNotes T134	lemma = 'crisis'
+T135	pos_Fp 631 632	.
+#132	AnnotatorNotes T135	lemma = '.'
+T136	pos_DT 634 638	This
+#133	AnnotatorNotes T136	lemma = 'this'
+T137	pos_NN 639 644	paper
+#134	AnnotatorNotes T137	lemma = 'paper'
+T138	pos_VBZ 645 647	is
+#135	AnnotatorNotes T138	lemma = 'be'
+T139	pos_VBZ 648 655	reviews
+#136	AnnotatorNotes T139	lemma = 'review'
+T140	pos_DT 656 659	the
+#137	AnnotatorNotes T140	lemma = 'the'
+T141	pos_NN 660 672	independence
+#138	AnnotatorNotes T141	lemma = 'independence'
+T142	pos_IN 673 680	between
+#139	AnnotatorNotes T142	lemma = 'between'
+T143	pos_JJ 681 695	organizational
+#140	AnnotatorNotes T143	lemma = 'organizational'
+T144	pos_NN 696 701	trust
+#141	AnnotatorNotes T144	lemma = 'trust'
+T145	pos_CC 702 705	and
+#142	AnnotatorNotes T145	lemma = 'and'
+T146	pos_NN 706 718	organization
+#143	AnnotatorNotes T146	lemma = 'organization'
+T147	pos_VB 719 727	identify
+#144	AnnotatorNotes T147	lemma = 'identify'
+T148	pos_Fp 727 728	.
+#145	AnnotatorNotes T148	lemma = '.'
+T149	pos_RB 729 737	Moreover
+#146	AnnotatorNotes T149	lemma = 'moreover'
+T150	pos_DT 738 742	this
+#147	AnnotatorNotes T150	lemma = 'this'
+T151	pos_NN 743 748	paper
+#148	AnnotatorNotes T151	lemma = 'paper'
+T152	pos_VBZ 749 751	is
+#149	AnnotatorNotes T152	lemma = 'be'
+T153	pos_VBZ 752 757	shows
+#150	AnnotatorNotes T153	lemma = 'show'
+T154	pos_DT 758 761	the
+#151	AnnotatorNotes T154	lemma = 'the'
+T155	pos_NN 762 769	process
+#152	AnnotatorNotes T155	lemma = 'process'
+T156	pos_IN 770 772	of
+#153	AnnotatorNotes T156	lemma = 'of'
+T157	pos_NN 773 782	formation
+#154	AnnotatorNotes T157	lemma = 'formation'
+T158	pos_IN 783 785	of
+#155	AnnotatorNotes T158	lemma = 'of'
+T159	pos_NN 786 798	organization
+#156	AnnotatorNotes T159	lemma = 'organization'
+T160	pos_VB 799 807	identify
+#157	AnnotatorNotes T160	lemma = 'identify'
+T161	pos_CC 808 811	and
+#158	AnnotatorNotes T161	lemma = 'and'
+T162	pos_PRP2 812 815	its
+#159	AnnotatorNotes T162	lemma = 'its'
+T163	pos_NN 816 820	role
+#160	AnnotatorNotes T163	lemma = 'role'
+T164	pos_IN 821 823	in
+#161	AnnotatorNotes T164	lemma = 'in'
+T165	pos_VBG 826 834	building
+#162	AnnotatorNotes T165	lemma = 'build'
+T166	pos_IN 835 837	of
+#163	AnnotatorNotes T166	lemma = 'of'
+T167	pos_NN 838 846	business
+#164	AnnotatorNotes T167	lemma = 'business'
+T168	pos_NN 847 854	process
+#165	AnnotatorNotes T168	lemma = 'process'
+T169	pos_Fp 854 855	.
+#166	AnnotatorNotes T169	lemma = '.'

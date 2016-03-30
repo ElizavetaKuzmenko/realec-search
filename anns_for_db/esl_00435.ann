@@ -1,0 +1,503 @@
+T1	Punctuation 21 22	,
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+A4	Delete T1
+T2	Tense_choice 65 70	don't
+A5	Cause T2 Other
+A6	Weight-language T2 Major
+A7	Weight-understanding T2 Critical
+#1	AnnotatorNotes T2	didn't
+T3	Quantifiers 76 83	nothing
+A8	Cause T3 L1_interference
+A9	Weight-language T3 Major
+A10	Weight-understanding T3 Major
+#2	AnnotatorNotes T3	anything
+T4	Word_choice 148 150	TV
+A11	Cause T4 Other
+A12	Weight-language T4 Minor
+A13	Weight-understanding T4 Minor
+#3	AnnotatorNotes T4	TV set
+T5	Articles 148 150	TV
+A14	Cause T5 Absence_of_Category_in_L1
+A15	Weight-language T5 Critical
+A16	Weight-understanding T5 Major
+#4	AnnotatorNotes T5	a TV set
+T6	Articles 152 155	The
+A17	Cause T6 Absence_of_Category_in_L1
+A18	Weight-language T6 Major
+A19	Weight-understanding T6 Major
+A20	Delete T6
+T7	Person 174 177	let
+A21	Cause T7 Other
+A22	Weight-language T7 Major
+A23	Weight-understanding T7 Major
+#5	AnnotatorNotes T7	lets
+T8	Voice_choice 289 297	provides
+A24	Cause T8 Other
+A25	Weight-language T8 Critical
+A26	Weight-understanding T8 Critical
+#6	AnnotatorNotes T8	is provided
+T9	Word_choice 298 310	inaccurately
+A27	Cause T9 Other
+A28	Weight-language T9 Major
+A29	Weight-understanding T9 Major
+#7	AnnotatorNotes T9	unfairly, in a biased way
+T10	Category_confusion 318 327	the truth
+A30	Cause T10 Other
+A31	Weight-language T10 Minor
+A32	Weight-understanding T10 Major
+#8	AnnotatorNotes T10	true
+T11	lex_part_choice 329 341	As it known,
+A33	Cause T11 Other
+A34	Weight-language T11 Minor
+A35	Weight-understanding T11 Major
+#9	AnnotatorNotes T11	It is well known that
+T12	Suffix 373 381	politics
+A36	Cause T12 L1_interference
+A37	Weight-language T12 Major
+A38	Weight-understanding T12 Critical
+#10	AnnotatorNotes T12	politicians
+T13	lex_part_choice 383 392	No doubt,
+A39	Cause T13 Other
+A40	Weight-language T13 Major
+A41	Weight-understanding T13 Major
+#11	AnnotatorNotes T13	There is no doubt
+T14	Voice_choice 414 422	screened
+A42	Cause T14 Other
+A43	Weight-language T14 Major
+A44	Weight-understanding T14 Critical
+#12	AnnotatorNotes T14	is screened
+T15	Prepositions 438 440	In
+A45	Cause T15 L1_interference
+A46	Weight-language T15 Major
+A47	Weight-understanding T15 Major
+#13	AnnotatorNotes T15	To
+T16	Interrogative 454 460	we can
+A48	Cause T16 Other
+A49	Weight-language T16 Major
+A50	Weight-understanding T16 Major
+#14	AnnotatorNotes T16	can we
+T17	Discourse 485 488	But
+A51	Cause T17 Other
+A52	Weight-language T17 Minor
+A53	Weight-understanding T17 Minor
+A54	Delete T17
+T18	Modals_choice 516 525	shouldn't
+A55	Cause T18 Other
+A56	Weight-language T18 Major
+A57	Weight-understanding T18 Critical
+#15	AnnotatorNotes T18	don't have to
+T19	lex_item_choice 622 638	the evidences in
+A58	Cause T19 Other
+A59	Weight-language T19 Minor
+A60	Weight-understanding T19 Major
+#16	AnnotatorNotes T19	what happened on
+T20	Discourse 658 666	_? Year.
+A61	Cause T20 Other
+A62	Weight-language T20 Minor
+A63	Weight-understanding T20 Critical
+T21	Prepositions 667 671	This
+A64	Cause T21 Other
+A65	Weight-language T21 Major
+A66	Weight-understanding T21 Major
+#17	AnnotatorNotes T21	On this
+T22	Tense_form 695 698	run
+A67	Cause T22 Other
+A68	Weight-language T22 Major
+A69	Weight-understanding T22 Major
+#18	AnnotatorNotes T22	ran
+T23	lex_item_choice 704 715	world-known
+A70	Cause T23 Other
+A71	Weight-language T23 Minor
+A72	Weight-understanding T23 Minor
+#19	AnnotatorNotes T23	world-famous
+T24	Voice_choice 751 754	had
+A73	Cause T24 Other
+A74	Weight-language T24 Critical
+A75	Weight-understanding T24 Critical
+#20	AnnotatorNotes T24	were
+T25	Articles 764 776	very limited
+A76	Cause T25 Absence_of_Category_in_L1
+A77	Weight-language T25 Critical
+A78	Weight-understanding T25 Major
+#21	AnnotatorNotes T25	in a very limited way
+T26	lex_item_choice 764 776	very limited
+A79	Weight-language T26 Major
+A80	Weight-understanding T26 Major
+#22	AnnotatorNotes T26	in a very limited way
+T27	Prepositions 764 776	very limited
+A81	Cause T27 Other
+A82	Weight-language T27 Major
+A83	Weight-understanding T27 Major
+#23	AnnotatorNotes T27	in a very limited way
+T28	lex_item_choice 782 799	carefully learned
+A84	Cause T28 Other
+A85	Weight-language T28 Major
+A86	Weight-understanding T28 Major
+#24	AnnotatorNotes T28	were carefully studied
+T29	Abs_comp_clause 782 799	carefully learned
+A87	Cause T29 Other
+A88	Weight-language T29 Critical
+A89	Weight-understanding T29 Major
+#25	AnnotatorNotes T29	were carefully studied
+T30	lex_item_choice 838 851	has coveraged
+A90	Cause T30 Other
+A91	Weight-language T30 Major
+A92	Weight-understanding T30 Major
+#26	AnnotatorNotes T30	was presented
+T31	Voice_choice 838 851	has coveraged
+A93	Cause T31 Other
+A94	Weight-language T31 Major
+A95	Weight-understanding T31 Critical
+#27	AnnotatorNotes T31	was presented
+T32	Articles 803 815	governmental
+A96	Cause T32 Absence_of_Category_in_L1
+A97	Weight-language T32 Critical
+A98	Weight-understanding T32 Major
+#28	AnnotatorNotes T32	the governmental
+T33	Articles 833 837	news
+A99	Cause T33 Absence_of_Category_in_L1
+A100	Weight-language T33 Critical
+A101	Weight-understanding T33 Major
+#29	AnnotatorNotes T33	the news
+T34	lex_item_choice 893 900	limited
+A102	Cause T34 Other
+A103	Weight-language T34 Major
+A104	Weight-understanding T34 Major
+#30	AnnotatorNotes T34	little
+T35	Articles 996 998	an
+A105	Cause T35 Absence_of_Category_in_L1
+A106	Weight-language T35 Critical
+A107	Weight-understanding T35 Critical
+A108	Delete T35
+T36	Verb_Gerund 990 995	watch
+A109	Cause T36 Other
+A110	Weight-language T36 Major
+A111	Weight-understanding T36 Major
+#31	AnnotatorNotes T36	watching
+T37	Prepositions 1042 1046	such
+A112	Cause T37 Other
+A113	Weight-language T37 Major
+A114	Weight-understanding T37 Critical
+#32	AnnotatorNotes T37	for
+T38	lex_item_choice 1047 1055	channels
+A115	Cause T38 Other
+A116	Weight-language T38 Major
+A117	Weight-understanding T38 Major
+#33	AnnotatorNotes T38	TV channels
+T39	Category_confusion 1059 1069	attraction
+A118	Cause T39 Other
+A119	Weight-language T39 Major
+A120	Weight-understanding T39 Major
+#34	AnnotatorNotes T39	attracting
+T40	Articles 1070 1072	an
+A121	Cause T40 Absence_of_Category_in_L1
+A122	Weight-language T40 Major
+A123	Weight-understanding T40 Major
+#35	AnnotatorNotes T40	the
+T41	lex_item_choice 1085 1096	translation
+A124	Cause T41 Other
+A125	Weight-language T41 Major
+A126	Weight-understanding T41 Major
+#36	AnnotatorNotes T41	means of presenting
+T42	Articles 1097 1098	a
+A127	Cause T42 Absence_of_Category_in_L1
+A128	Weight-language T42 Critical
+A129	Weight-understanding T42 Major
+A130	Delete T42
+T43	Discourse 1157 1164	channel
+A131	Cause T43 Other
+A132	Weight-language T43 Minor
+A133	Weight-understanding T43 Major
+#37	AnnotatorNotes T43	channels
+T44	lex_item_choice 1165 1171	brings
+A134	Cause T44 Other
+A135	Weight-language T44 Major
+A136	Weight-understanding T44 Major
+#38	AnnotatorNotes T44	present
+T45	Articles 1172 1174	an
+A137	Cause T45 Absence_of_Category_in_L1
+A138	Weight-language T45 Critical
+A139	Weight-understanding T45 Major
+A140	Delete T45
+T46	Abs_comp_clause 1203 1207	says
+A141	Cause T46 Other
+A142	Weight-language T46 Major
+A143	Weight-understanding T46 Major
+#39	AnnotatorNotes T46	says something
+T47	lex_item_choice 1229 1242	qualification
+A144	Cause T47 Other
+A145	Weight-language T47 Major
+A146	Weight-understanding T47 Major
+#40	AnnotatorNotes T47	attitudes
+T48	Articles 1289 1294	above
+A147	Cause T48 Absence_of_Category_in_L1
+A148	Weight-language T48 Critical
+A149	Weight-understanding T48 Major
+#41	AnnotatorNotes T48	the above
+T49	Number 1330 1333	are
+A150	Cause T49 Other
+A151	Weight-language T49 Major
+A152	Weight-understanding T49 Major
+#42	AnnotatorNotes T49	is
+T50	Voice_choice 1343 1353	connecting
+A153	Cause T50 Other
+A154	Weight-language T50 Major
+A155	Weight-understanding T50 Major
+#43	AnnotatorNotes T50	connected
+T51	suggestion 1407 1414	Thought
+A156	Cause T51 Typo
+A157	Weight-language T51 Minor
+A158	Weight-understanding T51 Major
+#44	AnnotatorNotes T51	though
+T52	lex_item_choice 1478 1490	let us to be
+A159	Cause T52 Other
+A160	Weight-language T52 Major
+A161	Weight-understanding T52 Major
+#45	AnnotatorNotes T52	keep us
+T53	Discourse 1470 1477	TV news
+A162	Cause T53 Other
+A163	Weight-language T53 Minor
+A164	Weight-understanding T53 Major
+#46	AnnotatorNotes T53	TV news programs
+T54	pos_PRP 0 2	It
+#47	AnnotatorNotes T54	lemma = 'it'
+T55	pos_VBZ 3 5	is
+#48	AnnotatorNotes T55	lemma = 'be'
+T56	pos_JJ 6 10	hard
+#49	AnnotatorNotes T56	lemma = 'hard'
+T57	pos_TO 11 13	to
+#50	AnnotatorNotes T57	lemma = 'to'
+T58	pos_VB 14 21	imagine
+#51	AnnotatorNotes T58	lemma = 'imagine'
+T59	pos_Fc 21 22	,
+#52	AnnotatorNotes T59	lemma = ','
+T60	pos_WRB 23 26	how
+#53	AnnotatorNotes T60	lemma = 'how'
+T61	pos_NNS 27 33	people
+#54	AnnotatorNotes T61	lemma = 'people'
+T62	pos_VBD 34 39	lived
+#55	AnnotatorNotes T62	lemma = 'live'
+T63	pos_IN 40 47	without
+#56	AnnotatorNotes T63	lemma = 'without'
+T64	pos_NN 48 58	television
+#57	AnnotatorNotes T64	lemma = 'television'
+T65	pos_Fp 58 59	.
+#58	AnnotatorNotes T65	lemma = '.'
+T66	pos_PRP 60 64	They
+#59	AnnotatorNotes T66	lemma = 'they'
+T67	pos_VBP 65 67	do
+#60	AnnotatorNotes T67	lemma = 'do'
+T68	pos_RB 76 79	not
+#61	AnnotatorNotes T68	lemma = 'not'
+T69	pos_VB 71 75	know
+#62	AnnotatorNotes T69	lemma = 'know'
+T70	pos_NP 76 84	nothing 	
+#63	AnnotatorNotes T70	lemma = 'nothing'
+T71	pos_IN 85 90	about
+#64	AnnotatorNotes T71	lemma = 'about'
+T72	pos_JJ 91 96	other
+#65	AnnotatorNotes T72	lemma = 'other'
+T73	pos_NNS 97 103	people
+#66	AnnotatorNotes T73	lemma = 'people'
+T74	pos_Fc 103 104	,
+#67	AnnotatorNotes T74	lemma = ','
+T75	pos_NNS 105 111	others
+#68	AnnotatorNotes T75	lemma = 'other'
+T76	pos_NNS 113 122	countries
+#69	AnnotatorNotes T76	lemma = 'country'
+T77	pos_Fp 122 123	.
+#70	AnnotatorNotes T77	lemma = '.'
+T78	pos_NN 125 130	Today
+#71	AnnotatorNotes T78	lemma = 'today'
+T79	pos_DT 132 135	all
+#72	AnnotatorNotes T79	lemma = 'all'
+T80	pos_NNS 136 142	people
+#73	AnnotatorNotes T80	lemma = 'people'
+T81	pos_VBP 143 147	have
+#74	AnnotatorNotes T81	lemma = 'have'
+T82	pos_NP 148 150	TV
+#75	AnnotatorNotes T82	lemma = 'tv'
+T83	pos_Fp 150 151	.
+#76	AnnotatorNotes T83	lemma = '.'
+T84	pos_DT 152 155	The
+#77	AnnotatorNotes T84	lemma = 'the'
+T85	pos_JJ 156 162	modern
+#78	AnnotatorNotes T85	lemma = 'modern'
+T86	pos_NN 163 173	technology
+#79	AnnotatorNotes T86	lemma = 'technology'
+T87	pos_VBD 174 177	let
+#80	AnnotatorNotes T87	lemma = 'let'
+T88	pos_PRP 178 180	us
+#81	AnnotatorNotes T88	lemma = 'us'
+T89	pos_VBP 181 188	receive
+#82	AnnotatorNotes T89	lemma = 'receive'
+T90	pos_RB 189 192	not
+#83	AnnotatorNotes T90	lemma = 'not'
+T91	pos_JJ 193 197	only
+#84	AnnotatorNotes T91	lemma = 'only'
+T92	pos_NN 198 202	news
+#85	AnnotatorNotes T92	lemma = 'news'
+T93	pos_IN 203 208	about
+#86	AnnotatorNotes T93	lemma = 'about'
+T94	pos_PRP2 209 212	our
+#87	AnnotatorNotes T94	lemma = 'our'
+T95	pos_NN 213 220	country
+#88	AnnotatorNotes T95	lemma = 'country'
+T96	pos_Fc 220 221	,
+#89	AnnotatorNotes T96	lemma = ','
+T97	pos_CC 222 225	but
+#90	AnnotatorNotes T97	lemma = 'but'
+T98	pos_RB 226 230	also
+#91	AnnotatorNotes T98	lemma = 'also'
+T99	pos_IN 231 236	about
+#92	AnnotatorNotes T99	lemma = 'about'
+T100	pos_PRP 237 241	many
+#93	AnnotatorNotes T100	lemma = 'many'
+T101	pos_NNS 242 248	others
+#94	AnnotatorNotes T101	lemma = 'other'
+T102	pos_NNS 249 258	countries
+#95	AnnotatorNotes T102	lemma = 'country'
+T103	pos_Fp 258 259	.
+#96	AnnotatorNotes T103	lemma = '.'
+T104	pos_PRP 260 264	Many
+#97	AnnotatorNotes T104	lemma = 'many'
+T105	pos_IN 265 267	of
+#98	AnnotatorNotes T105	lemma = 'of'
+T106	pos_PRP 268 270	us
+#99	AnnotatorNotes T106	lemma = 'us'
+T107	pos_VBP 271 278	believe
+#100	AnnotatorNotes T107	lemma = 'believe'
+T108	pos_DT 279 283	that
+#101	AnnotatorNotes T108	lemma = 'that'
+T109	pos_NN 284 288	news
+#102	AnnotatorNotes T109	lemma = 'news'
+T110	pos_VBZ 289 297	provides
+#103	AnnotatorNotes T110	lemma = 'provide'
+T111	pos_RB 298 310	inaccurately
+#104	AnnotatorNotes T111	lemma = 'inaccurately'
+T112	pos_Fp 310 311	.
+#105	AnnotatorNotes T112	lemma = '.'
+T113	pos_VBZ 312 314	Is
+#106	AnnotatorNotes T113	lemma = 'be'
+T114	pos_PRP 315 317	it
+#107	AnnotatorNotes T114	lemma = 'it'
+T115	pos_DT 318 321	the
+#108	AnnotatorNotes T115	lemma = 'the'
+T116	pos_NN 322 327	truth
+#109	AnnotatorNotes T116	lemma = 'truth'
+T117	pos_Fit 327 328	?
+#110	AnnotatorNotes T117	lemma = '?'
+T118	pos_IN 329 331	As
+#111	AnnotatorNotes T118	lemma = 'as'
+T119	pos_PRP 332 334	it
+#112	AnnotatorNotes T119	lemma = 'it'
+T120	pos_VBN 335 340	known
+#113	AnnotatorNotes T120	lemma = 'know'
+T121	pos_Fc 340 341	,
+#114	AnnotatorNotes T121	lemma = ','
+T122	pos_PRP 342 346	many
+#115	AnnotatorNotes T122	lemma = 'many'
+T123	pos_NNS 347 355	channels
+#116	AnnotatorNotes T123	lemma = 'channel'
+T124	pos_VBP 356 359	are
+#117	AnnotatorNotes T124	lemma = 'be'
+T125	pos_VBN 360 369	supported
+#118	AnnotatorNotes T125	lemma = 'support'
+T126	pos_IN 370 372	by
+#119	AnnotatorNotes T126	lemma = 'by'
+T127	pos_NNS 373 381	politics
+#120	AnnotatorNotes T127	lemma = 'politics'
+T128	pos_Fp 381 382	.
+#121	AnnotatorNotes T128	lemma = '.'
+T129	pos_RB 383 391	No doubt
+#122	AnnotatorNotes T129	lemma = 'no_doubt'
+T130	pos_Fc 391 392	,
+#123	AnnotatorNotes T130	lemma = ','
+T131	pos_IN 393 397	that
+#124	AnnotatorNotes T131	lemma = 'that'
+T132	pos_DT 398 401	all
+#125	AnnotatorNotes T132	lemma = 'all'
+T133	pos_NN 402 413	information
+#126	AnnotatorNotes T133	lemma = 'information'
+T134	pos_VBD 414 422	screened
+#127	AnnotatorNotes T134	lemma = 'screen'
+T135	pos_CC 423 426	and
+#128	AnnotatorNotes T135	lemma = 'and'
+T136	pos_VBD 427 436	corrected
+#129	AnnotatorNotes T136	lemma = 'correct'
+T137	pos_Fp 436 437	.
+#130	AnnotatorNotes T137	lemma = '.'
+T138	pos_IN 438 440	In
+#131	AnnotatorNotes T138	lemma = 'in'
+T139	pos_WDT 441 446	which
+#132	AnnotatorNotes T139	lemma = 'which'
+T140	pos_NN 447 453	extent
+#133	AnnotatorNotes T140	lemma = 'extent'
+T141	pos_PRP 454 456	we
+#134	AnnotatorNotes T141	lemma = 'we'
+T142	pos_MD 457 460	can
+#135	AnnotatorNotes T142	lemma = 'can'
+T143	pos_VB 461 466	trust
+#136	AnnotatorNotes T143	lemma = 'trust'
+T144	pos_DT 467 471	this
+#137	AnnotatorNotes T144	lemma = 'this'
+T145	pos_NN 472 483	information
+#138	AnnotatorNotes T145	lemma = 'information'
+T146	pos_Fit 483 484	?
+#139	AnnotatorNotes T146	lemma = '?'
+T147	pos_CC 485 488	But
+#140	AnnotatorNotes T147	lemma = 'but'
+T148	pos_RB 489 506	on the other hand
+#141	AnnotatorNotes T148	lemma = 'on_the_other_hand'
+T149	pos_Fc 506 507	,
+#142	AnnotatorNotes T149	lemma = ','
+T150	pos_NNS 509 515	people
+#143	AnnotatorNotes T150	lemma = 'people'
+T151	pos_MD 516 522	should
+#144	AnnotatorNotes T151	lemma = 'should'
+T152	pos_RB 1419 1422	not
+#145	AnnotatorNotes T152	lemma = 'not'
+T153	pos_VB 526 530	know
+#146	AnnotatorNotes T153	lemma = 'know'
+T154	pos_DT 533 536	the
+#147	AnnotatorNotes T154	lemma = 'the'
+T155	pos_NN 537 542	truth
+#148	AnnotatorNotes T155	lemma = 'truth'
+T156	pos_IN 543 548	about
+#149	AnnotatorNotes T156	lemma = 'about'
+T157	pos_DT 549 553	some
+#150	AnnotatorNotes T157	lemma = 'some'
+T158	pos_VBZ 554 563	evidences
+#151	AnnotatorNotes T158	lemma = 'evidence'
+T159	pos_Fp 563 564	.
+#152	AnnotatorNotes T159	lemma = '.'
+T160	pos_PRP 565 567	It
+#153	AnnotatorNotes T160	lemma = 'it'
+T161	pos_MD 568 571	may
+#154	AnnotatorNotes T161	lemma = 'may'
+T162	pos_VB 573 577	lead
+#155	AnnotatorNotes T162	lemma = 'lead'
+T163	pos_TO 578 580	to
+#156	AnnotatorNotes T163	lemma = 'to'
+T164	pos_JJ 581 594	unpredictable
+#157	AnnotatorNotes T164	lemma = 'unpredictable'
+T165	pos_NNS 595 605	situations
+#158	AnnotatorNotes T165	lemma = 'situation'
+T166	pos_Fp 605 606	.
+#159	AnnotatorNotes T166	lemma = '.'
+T167	pos_VB 607 610	Let
+#160	AnnotatorNotes T167	lemma = 'let'
+T168	pos_PRP 1482 1484	us
+#161	AnnotatorNotes T168	lemma = 'us'
+T169	pos_VB 613 621	remember
+#162	AnnotatorNotes T169	lemma = 'remember'
+T170	pos_DT 622 625	the
+#163	AnnotatorNotes T170	lemma = 'the'
+T171	pos_VBZ 626 635	evidences
+#164	AnnotatorNotes T171	lemma = 'evidence'
+T172	pos_IN 80 82	in
+#165	AnnotatorNotes T172	lemma = 'in'
+T173	pos_W 639 658	11 of September 200
+#166	AnnotatorNotes T173	lemma = '[??:??/9/200:??.??:??]'

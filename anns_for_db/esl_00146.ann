@@ -1,0 +1,382 @@
+T1	Art_choice 94 97	the	
+A1	Delete T1
+T2	Number 281 288	examine	
+#2	AnnotatorNotes T2	examines
+T3	Art_choice 310 313	the	
+A3	Delete T3
+T4	Spelling 426 436	Researches	
+#4	AnnotatorNotes T4	Researchers
+T5	Art_form 455 484	realistic recruitment message
+#5	AnnotatorNotes T5	a
+T6	Modals 516 520	lead
+#6	AnnotatorNotes T6	can lead
+T7	lex_item_choice 570 583	positive only	
+#7	AnnotatorNotes T7	exclusively positive
+T8	Pronouns 584 584	
+#8	AnnotatorNotes T8	one
+T10	Possessive 632 640	students	
+#10	AnnotatorNotes T10	students'
+A2	Cause T1 Absence_of_Category_in_L1
+A4	Weight-language T1 Critical
+A5	Weight-language T2 Major
+A6	Cause T3 Absence_of_Category_in_L1
+A7	Weight-language T3 Critical
+A8	Weight-language T4 Minor
+A9	Cause T5 Absence_of_Category_in_L1
+A10	Weight-language T5 Critical
+A11	Weight-language T8 Minor
+A12	Weight-language T7 Minor
+A13	Weight-language T10 Critical
+T9	Verb_patterns 626 631	of of
+A14	Weight-language T9 Critical
+A15	Delete T9
+T11	Verb_prep_Gerund 601 625	is tested by the analyze
+#1	AnnotatorNotes T11	is tested by analyzing
+A16	Weight-language T11 Major
+A17	Weight-understanding T11 Minor
+T12	pos_﻿ 0 1	﻿
+#11	AnnotatorNotes T12	lemma = '﻿'
+T13	pos_NP 1 3	It
+#12	AnnotatorNotes T13	lemma = 'it'
+T14	pos_VBZ 4 6	is
+#13	AnnotatorNotes T14	lemma = 'be'
+T15	pos_RB 7 16	generally
+#14	AnnotatorNotes T15	lemma = 'generally'
+T16	pos_VBN 17 25	accepted
+#15	AnnotatorNotes T16	lemma = 'accept'
+T17	pos_IN 26 30	that
+#16	AnnotatorNotes T17	lemma = 'that'
+T18	pos_VBG 31 36	using
+#17	AnnotatorNotes T18	lemma = 'use'
+T19	pos_JJ 37 41	only
+#18	AnnotatorNotes T19	lemma = 'only'
+T20	pos_JJ 42 50	positive
+#19	AnnotatorNotes T20	lemma = 'positive'
+T21	pos_NN 51 62	information
+#20	AnnotatorNotes T21	lemma = 'information'
+T22	pos_IN 63 65	on
+#21	AnnotatorNotes T22	lemma = 'on'
+T23	pos_JJ 66 75	pre-hired
+#22	AnnotatorNotes T23	lemma = 'pre-hired'
+T24	pos_NNS 76 84	outcomes
+#23	AnnotatorNotes T24	lemma = 'outcome'
+T25	pos_VBZ 85 93	attracts
+#24	AnnotatorNotes T25	lemma = 'attract'
+T26	pos_DT 94 97	the
+#25	AnnotatorNotes T26	lemma = 'the'
+T27	pos_NNS 98 108	applicants
+#26	AnnotatorNotes T27	lemma = 'applicant'
+T28	pos_Fp 108 109	.
+#27	AnnotatorNotes T28	lemma = '.'
+T29	pos_IN 110 112	At
+#28	AnnotatorNotes T29	lemma = 'at'
+T30	pos_DT 113 116	the
+#29	AnnotatorNotes T30	lemma = 'the'
+T31	pos_JJ 117 121	same
+#30	AnnotatorNotes T31	lemma = 'same'
+T32	pos_NN 122 126	time
+#31	AnnotatorNotes T32	lemma = 'time'
+T33	pos_EX 127 132	there
+#32	AnnotatorNotes T33	lemma = 'there'
+T34	pos_MD 133 136	may
+#33	AnnotatorNotes T34	lemma = 'may'
+T35	pos_VB 137 139	be
+#34	AnnotatorNotes T35	lemma = 'be'
+T36	pos_NNS 140 150	situations
+#35	AnnotatorNotes T36	lemma = 'situation'
+T37	pos_Fc 150 151	,
+#36	AnnotatorNotes T37	lemma = ','
+T38	pos_WRB 152 157	where
+#37	AnnotatorNotes T38	lemma = 'where'
+T39	pos_JJ 158 167	realistic
+#38	AnnotatorNotes T39	lemma = 'realistic'
+T40	pos_NN 168 179	information
+#39	AnnotatorNotes T40	lemma = 'information'
+T41	pos_MD 180 183	can
+#40	AnnotatorNotes T41	lemma = 'can'
+T42	pos_VB 184 192	increase
+#41	AnnotatorNotes T42	lemma = 'increase'
+T43	pos_DT 193 196	the
+#42	AnnotatorNotes T43	lemma = 'the'
+T44	pos_NN 197 211	attractiveness
+#43	AnnotatorNotes T44	lemma = 'attractiveness'
+T45	pos_IN 212 214	of
+#44	AnnotatorNotes T45	lemma = 'of'
+T46	pos_NN 215 227	organization
+#45	AnnotatorNotes T46	lemma = 'organization'
+T47	pos_Fpa 228 229	(
+#46	AnnotatorNotes T47	lemma = '('
+T48	pos_NN 229 237	Research
+#47	AnnotatorNotes T48	lemma = 'research'
+T49	pos_IN 238 240	on
+#48	AnnotatorNotes T49	lemma = 'on'
+T50	pos_NN 241 251	persuasion
+#49	AnnotatorNotes T50	lemma = 'persuasion'
+T51	pos_Fx 251 252	;
+#50	AnnotatorNotes T51	lemma = ';'
+T52	pos_NP 253 257	Hass
+#51	AnnotatorNotes T52	lemma = 'hass'
+T53	pos_Fc 257 258	,
+#52	AnnotatorNotes T53	lemma = ','
+T54	pos_Z 259 263	1982
+#53	AnnotatorNotes T54	lemma = '1982'
+T55	pos_Fpt 263 264	)
+#54	AnnotatorNotes T55	lemma = ')'
+T56	pos_Fp 264 265	.
+#55	AnnotatorNotes T56	lemma = '.'
+T57	pos_RB 266 268	So
+#56	AnnotatorNotes T57	lemma = 'so'
+T58	pos_Fc 268 269	,
+#57	AnnotatorNotes T58	lemma = ','
+T59	pos_DT 270 274	this
+#58	AnnotatorNotes T59	lemma = 'this'
+T60	pos_NN 275 280	paper
+#59	AnnotatorNotes T60	lemma = 'paper'
+T61	pos_VB 281 288	examine
+#60	AnnotatorNotes T61	lemma = 'examine'
+T62	pos_DT 289 292	the
+#61	AnnotatorNotes T62	lemma = 'the'
+T63	pos_NNS 293 300	effects
+#62	AnnotatorNotes T63	lemma = 'effect'
+T64	pos_IN 301 303	of
+#63	AnnotatorNotes T64	lemma = 'of'
+T65	pos_VBG 304 309	using
+#64	AnnotatorNotes T65	lemma = 'use'
+T66	pos_DT 310 313	the
+#65	AnnotatorNotes T66	lemma = 'the'
+T67	pos_JJ 314 323	realistic
+#66	AnnotatorNotes T67	lemma = 'realistic'
+T68	pos_NN 324 335	information
+#67	AnnotatorNotes T68	lemma = 'information'
+T69	pos_Fpa 336 337	(
+#68	AnnotatorNotes T69	lemma = '('
+T70	pos_NN 337 348	information
+#69	AnnotatorNotes T70	lemma = 'information'
+T71	pos_WDT 349 353	that
+#70	AnnotatorNotes T71	lemma = 'that'
+T72	pos_VBZ 354 356	is
+#71	AnnotatorNotes T72	lemma = 'be'
+T73	pos_JJ 357 365	negative
+#72	AnnotatorNotes T73	lemma = 'negative'
+T74	pos_CC 366 369	but
+#73	AnnotatorNotes T74	lemma = 'but'
+T75	pos_RB 370 373	yet
+#74	AnnotatorNotes T75	lemma = 'yet'
+T76	pos_VBZ 374 376	is
+#75	AnnotatorNotes T76	lemma = 'be'
+T77	pos_JJ 377 383	common
+#76	AnnotatorNotes T77	lemma = 'common'
+T78	pos_TO 384 386	to
+#77	AnnotatorNotes T78	lemma = 'to'
+T79	pos_PRP 387 391	many
+#78	AnnotatorNotes T79	lemma = 'many'
+T80	pos_VBZ 392 396	jobs
+#79	AnnotatorNotes T80	lemma = 'job'
+T81	pos_Fpt 396 397	)
+#80	AnnotatorNotes T81	lemma = ')'
+T82	pos_IN 398 400	in
+#81	AnnotatorNotes T82	lemma = 'in'
+T83	pos_DT 401 404	the
+#82	AnnotatorNotes T83	lemma = 'the'
+T84	pos_NN 405 416	recruitment
+#83	AnnotatorNotes T84	lemma = 'recruitment'
+T85	pos_NN 417 424	message
+#84	AnnotatorNotes T85	lemma = 'message'
+T86	pos_Fp 424 425	.
+#85	AnnotatorNotes T86	lemma = '.'
+T87	pos_VBZ 426 436	Researches
+#86	AnnotatorNotes T87	lemma = 'research'
+T88	pos_VB 437 448	hypothesize
+#87	AnnotatorNotes T88	lemma = 'hypothesize'
+T89	pos_DT 449 453	that
+#88	AnnotatorNotes T89	lemma = 'that'
+T90	pos_JJ 455 464	realistic
+#89	AnnotatorNotes T90	lemma = 'realistic'
+T91	pos_NN 465 476	recruitment
+#90	AnnotatorNotes T91	lemma = 'recruitment'
+T92	pos_NN 477 484	message
+#91	AnnotatorNotes T92	lemma = 'message'
+T93	pos_Fc 484 485	,
+#92	AnnotatorNotes T93	lemma = ','
+T94	pos_IN 486 491	under
+#93	AnnotatorNotes T94	lemma = 'under'
+T95	pos_JJ 492 499	certain
+#94	AnnotatorNotes T95	lemma = 'certain'
+T96	pos_NNS 500 513	circumstances
+#95	AnnotatorNotes T96	lemma = 'circumstance'
+T97	pos_Fc 513 514	,
+#96	AnnotatorNotes T97	lemma = ','
+T98	pos_VB 516 520	lead
+#97	AnnotatorNotes T98	lemma = 'lead'
+T99	pos_TO 521 523	to
+#98	AnnotatorNotes T99	lemma = 'to'
+T100	pos_RBR 524 530	higher
+#99	AnnotatorNotes T100	lemma = 'high'
+T101	pos_JJ 531 545	organizational
+#100	AnnotatorNotes T101	lemma = 'organizational'
+T102	pos_NN 546 560	attractiveness
+#101	AnnotatorNotes T102	lemma = 'attractiveness'
+T103	pos_IN 561 565	than
+#102	AnnotatorNotes T103	lemma = 'than'
+T104	pos_DT 566 569	the
+#103	AnnotatorNotes T104	lemma = 'the'
+T105	pos_JJ 570 578	positive
+#104	AnnotatorNotes T105	lemma = 'positive'
+T106	pos_JJ 579 583	only
+#105	AnnotatorNotes T106	lemma = 'only'
+T107	pos_Fp 584 585	.
+#106	AnnotatorNotes T107	lemma = '.'
+T108	pos_DT 586 589	The
+#107	AnnotatorNotes T108	lemma = 'the'
+T109	pos_NN 590 600	hypothesis
+#108	AnnotatorNotes T109	lemma = 'hypothesis'
+T110	pos_VBZ 601 603	is
+#109	AnnotatorNotes T110	lemma = 'be'
+T111	pos_VBN 604 610	tested
+#110	AnnotatorNotes T111	lemma = 'test'
+T112	pos_IN 611 613	by
+#111	AnnotatorNotes T112	lemma = 'by'
+T113	pos_DT 614 617	the
+#112	AnnotatorNotes T113	lemma = 'the'
+T114	pos_VB 618 625	analyze
+#113	AnnotatorNotes T114	lemma = 'analyze'
+T115	pos_IN 626 628	of
+#114	AnnotatorNotes T115	lemma = 'of'
+T116	pos_IN 629 631	of
+#115	AnnotatorNotes T116	lemma = 'of'
+T117	pos_NNS 632 640	students
+#116	AnnotatorNotes T117	lemma = 'student'
+T118	pos_NNS 641 648	reports
+#117	AnnotatorNotes T118	lemma = 'report'
+T119	pos_Fd 648 649	:
+#118	AnnotatorNotes T119	lemma = ':'
+T120	pos_PRP 650 654	they
+#119	AnnotatorNotes T120	lemma = 'they'
+T121	pos_VBD 655 664	evaluated
+#120	AnnotatorNotes T121	lemma = 'evaluate'
+T122	pos_NN 665 668	one
+#121	AnnotatorNotes T122	lemma = 'one'
+T123	pos_IN 669 671	of
+#122	AnnotatorNotes T123	lemma = 'of'
+T124	pos_Z 672 675	two
+#123	AnnotatorNotes T124	lemma = '2'
+T125	pos_NN 676 687	recruitment
+#124	AnnotatorNotes T125	lemma = 'recruitment'
+T126	pos_NNS 688 696	messages
+#125	AnnotatorNotes T126	lemma = 'message'
+T127	pos_Fpa 697 698	(
+#126	AnnotatorNotes T127	lemma = '('
+T128	pos_JJ 698 706	positive
+#127	AnnotatorNotes T128	lemma = 'positive'
+T129	pos_CC 707 710	and
+#128	AnnotatorNotes T129	lemma = 'and'
+T130	pos_JJ 711 720	realistic
+#129	AnnotatorNotes T130	lemma = 'realistic'
+T131	pos_Fpt 720 721	)
+#130	AnnotatorNotes T131	lemma = ')'
+T132	pos_CC 722 725	and
+#131	AnnotatorNotes T132	lemma = 'and'
+T133	pos_VBD 726 735	described
+#132	AnnotatorNotes T133	lemma = 'describe'
+T134	pos_PRP2 736 741	their
+#133	AnnotatorNotes T134	lemma = 'their'
+T135	pos_NN 742 752	perception
+#134	AnnotatorNotes T135	lemma = 'perception'
+T136	pos_IN 753 755	of
+#135	AnnotatorNotes T136	lemma = 'of'
+T137	pos_JJ 756 770	organizational
+#136	AnnotatorNotes T137	lemma = 'organizational'
+T138	pos_NN 771 785	attractiveness
+#137	AnnotatorNotes T138	lemma = 'attractiveness'
+T139	pos_Fp 785 786	.
+#138	AnnotatorNotes T139	lemma = '.'
+T140	pos_DT 787 790	The
+#139	AnnotatorNotes T140	lemma = 'the'
+T141	pos_NN 791 799	analysis
+#140	AnnotatorNotes T141	lemma = 'analysis'
+T142	pos_VBD 800 812	demonstrated
+#141	AnnotatorNotes T142	lemma = 'demonstrate'
+T143	pos_DT 813 817	that
+#142	AnnotatorNotes T143	lemma = 'that'
+T144	pos_JJ 818 827	realistic
+#143	AnnotatorNotes T144	lemma = 'realistic'
+T145	pos_NN 828 839	recruitment
+#144	AnnotatorNotes T145	lemma = 'recruitment'
+T146	pos_NN 840 847	message
+#145	AnnotatorNotes T146	lemma = 'message'
+T147	pos_VB 848 852	lead
+#146	AnnotatorNotes T147	lemma = 'lead'
+T148	pos_TO 853 855	to
+#147	AnnotatorNotes T148	lemma = 'to'
+T149	pos_RBR 856 862	higher
+#148	AnnotatorNotes T149	lemma = 'high'
+T150	pos_JJ 863 877	organizational
+#149	AnnotatorNotes T150	lemma = 'organizational'
+T151	pos_NN 878 892	attractiveness
+#150	AnnotatorNotes T151	lemma = 'attractiveness'
+T152	pos_IN 893 900	through
+#151	AnnotatorNotes T152	lemma = 'through'
+T153	pos_NN 901 911	perception
+#152	AnnotatorNotes T153	lemma = 'perception'
+T154	pos_IN 912 914	of
+#153	AnnotatorNotes T154	lemma = 'of'
+T155	pos_NN 915 924	challenge
+#154	AnnotatorNotes T155	lemma = 'challenge'
+T156	pos_IN 925 927	in
+#155	AnnotatorNotes T156	lemma = 'in'
+T157	pos_DT 928 931	the
+#156	AnnotatorNotes T157	lemma = 'the'
+T158	pos_NN 932 936	work
+#157	AnnotatorNotes T158	lemma = 'work'
+T159	pos_Fp 936 937	.
+#158	AnnotatorNotes T159	lemma = '.'
+T160	pos_DT 938 941	The
+#159	AnnotatorNotes T160	lemma = 'the'
+T161	pos_NN 942 947	study
+#160	AnnotatorNotes T161	lemma = 'study'
+T162	pos_MD 948 951	may
+#161	AnnotatorNotes T162	lemma = 'may'
+T163	pos_VB 952 954	be
+#162	AnnotatorNotes T163	lemma = 'be'
+T164	pos_VBG 955 966	interesting
+#163	AnnotatorNotes T164	lemma = 'interest'
+T165	pos_IN 967 970	for
+#164	AnnotatorNotes T165	lemma = 'for'
+T166	pos_NNS 971 984	organizations
+#165	AnnotatorNotes T166	lemma = 'organization'
+T167	pos_WDT 985 989	that
+#166	AnnotatorNotes T167	lemma = 'that'
+T168	pos_VBP 990 993	are
+#167	AnnotatorNotes T168	lemma = 'be'
+T169	pos_JJ 994 1000	afraid
+#168	AnnotatorNotes T169	lemma = 'afraid'
+T170	pos_TO 1001 1003	to
+#169	AnnotatorNotes T170	lemma = 'to'
+T171	pos_VB 1004 1011	include
+#170	AnnotatorNotes T171	lemma = 'include'
+T172	pos_JJ 1012 1020	negative
+#171	AnnotatorNotes T172	lemma = 'negative'
+T173	pos_NN 1021 1032	information
+#172	AnnotatorNotes T173	lemma = 'information'
+T174	pos_IN 1033 1035	in
+#173	AnnotatorNotes T174	lemma = 'in'
+T175	pos_DT 1036 1039	the
+#174	AnnotatorNotes T175	lemma = 'the'
+T176	pos_NN 1040 1051	recruitment
+#175	AnnotatorNotes T176	lemma = 'recruitment'
+T177	pos_NN 1052 1059	message
+#176	AnnotatorNotes T177	lemma = 'message'
+T178	pos_WRB 1060 1064	when
+#177	AnnotatorNotes T178	lemma = 'when'
+T179	pos_VBG 1065 1071	trying
+#178	AnnotatorNotes T179	lemma = 'try'
+T180	pos_TO 1072 1074	to
+#179	AnnotatorNotes T180	lemma = 'to'
+T181	pos_RB 1075 1084	initially
+#180	AnnotatorNotes T181	lemma = 'initially'
+T182	pos_VB 1085 1092	attract
+#181	AnnotatorNotes T182	lemma = 'attract'
+T183	pos_NNS 1093 1103	applicants
+#182	AnnotatorNotes T183	lemma = 'applicant'
+T184	pos_Fp 1103 1104	.
+#183	AnnotatorNotes T184	lemma = '.'

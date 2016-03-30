@@ -1,0 +1,305 @@
+T1	lex_item_choice 216 220	huge	
+#1	AnnotatorNotes T1	substantial/considerable
+T2	Punctuation 339 346	However
+#2	AnnotatorNotes T2	However,
+T3	Absence_comp_sent 400 409	rejection
+#3	AnnotatorNotes T3	of homosexuals
+T4	Attr_participial 443 481	is called institutionalized homophobia	
+#4	AnnotatorNotes T4	,called institutionalized homophobia,
+T5	Redundant_comp 482 487	which	
+A5	Delete T5
+T6	Art_choice 492 503	main factor
+#6	AnnotatorNotes T6	the main factor
+T7	lex_item_choice 504 510	of the	
+#7	AnnotatorNotes T7	contributing to
+T8	lex_item_choice 511 522	creation of	
+#8	AnnotatorNotes T8	occurrence/emergence of
+T9	lex_item_choice 557 563	thesis	
+#9	AnnotatorNotes T9	issue under consideration
+T10	Det_choice 567 570	the	
+#10	AnnotatorNotes T10	this
+T11	Punctuation 612 613	:	
+#11	AnnotatorNotes T11	, in particular,
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Weight-language T2 Minor
+A4	Weight-language T3 Minor
+A6	Cause T6 Absence_of_Category_in_L1
+A7	Weight-language T6 Minor
+A8	Weight-language T7 Minor
+A9	Weight-language T8 Minor
+A10	Weight-language T9 Minor
+A11	Weight-language T10 Minor
+A12	Weight-language T11 Minor
+T12	Inappropriate_register 273 297	gay, lesbian or bisexual
+R1	Discourse Arg1:T3 Arg2:T12	
+T13	Redundant_comp 443 445	is
+A13	Delete T13
+T14	pos_﻿ 0 1	﻿
+#12	AnnotatorNotes T14	lemma = '﻿'
+T15	pos_NP 1 11	Psychology
+#13	AnnotatorNotes T15	lemma = 'psychology'
+T16	pos_VBD 12 15	was
+#14	AnnotatorNotes T16	lemma = 'be'
+T17	pos_NN 16 19	one
+#15	AnnotatorNotes T17	lemma = 'one'
+T18	pos_IN 20 22	of
+#16	AnnotatorNotes T18	lemma = 'of'
+T19	pos_DT 23 26	the
+#17	AnnotatorNotes T19	lemma = 'the'
+T20	pos_JJ 27 32	first
+#18	AnnotatorNotes T20	lemma = '1'
+T21	pos_NNS 33 44	disciplines
+#19	AnnotatorNotes T21	lemma = 'discipline'
+T22	pos_TO 45 47	to
+#20	AnnotatorNotes T22	lemma = 'to'
+T23	pos_VB 48 53	study
+#21	AnnotatorNotes T23	lemma = 'study'
+T24	pos_JJ 54 64	homosexual
+#22	AnnotatorNotes T24	lemma = 'homosexual'
+T25	pos_NN 65 76	orientation
+#23	AnnotatorNotes T25	lemma = 'orientation'
+T26	pos_IN 77 79	as
+#24	AnnotatorNotes T26	lemma = 'as'
+T27	pos_DT 80 81	a
+#25	AnnotatorNotes T27	lemma = 'a'
+T28	pos_JJ 82 90	discrete
+#26	AnnotatorNotes T28	lemma = 'discrete'
+T29	pos_NN 91 101	phenomenon
+#27	AnnotatorNotes T29	lemma = 'phenomenon'
+T30	pos_Fc 101 102	,
+#28	AnnotatorNotes T30	lemma = ','
+T31	pos_IN 103 111	although
+#29	AnnotatorNotes T31	lemma = 'although'
+T32	pos_IN 112 117	until
+#30	AnnotatorNotes T32	lemma = 'until'
+T33	pos_JJ 118 123	early
+#31	AnnotatorNotes T33	lemma = 'early'
+T34	pos_JJ 124 128	20th
+#32	AnnotatorNotes T34	lemma = '20'
+T35	pos_NN 129 136	century
+#33	AnnotatorNotes T35	lemma = 'century'
+T36	pos_JJ 137 141	only
+#34	AnnotatorNotes T36	lemma = 'only'
+T37	pos_JJ 142 154	pathological
+#35	AnnotatorNotes T37	lemma = 'pathological'
+T38	pos_NNS 155 161	models
+#36	AnnotatorNotes T38	lemma = 'model'
+T39	pos_IN 162 164	of
+#37	AnnotatorNotes T39	lemma = 'of'
+T40	pos_NN 165 178	homosexuality
+#38	AnnotatorNotes T40	lemma = 'homosexuality'
+T41	pos_VBD 179 183	were
+#39	AnnotatorNotes T41	lemma = 'be'
+T42	pos_VBN 184 191	studied
+#40	AnnotatorNotes T42	lemma = 'study'
+T43	pos_Fp 191 192	.
+#41	AnnotatorNotes T43	lemma = '.'
+T44	pos_IN 193 195	In
+#42	AnnotatorNotes T44	lemma = 'in'
+T45	pos_DT 196 199	the
+#43	AnnotatorNotes T45	lemma = 'the'
+T46	pos_JJ 200 204	last
+#44	AnnotatorNotes T46	lemma = 'last'
+T47	pos_Z 205 207	50
+#45	AnnotatorNotes T47	lemma = '50'
+T48	pos_NNS 208 213	years
+#46	AnnotatorNotes T48	lemma = 'year'
+T49	pos_DT 214 215	a
+#47	AnnotatorNotes T49	lemma = 'a'
+T50	pos_JJ 216 220	huge
+#48	AnnotatorNotes T50	lemma = 'huge'
+T51	pos_NN 221 227	amount
+#49	AnnotatorNotes T51	lemma = 'amount'
+T52	pos_IN 228 230	of
+#50	AnnotatorNotes T52	lemma = 'of'
+T53	pos_NN 231 239	research
+#51	AnnotatorNotes T53	lemma = 'research'
+T54	pos_NN 240 244	work
+#52	AnnotatorNotes T54	lemma = 'work'
+T55	pos_VBD 245 248	was
+#53	AnnotatorNotes T55	lemma = 'be'
+T56	pos_VBN 249 253	made
+#54	AnnotatorNotes T56	lemma = 'make'
+T57	pos_TO 254 256	to
+#55	AnnotatorNotes T57	lemma = 'to'
+T58	pos_VB 257 261	show
+#56	AnnotatorNotes T58	lemma = 'show'
+T59	pos_DT 262 266	that
+#57	AnnotatorNotes T59	lemma = 'that'
+T60	pos_JJ 267 272	being
+#58	AnnotatorNotes T60	lemma = 'being'
+T61	pos_NN 273 276	gay
+#59	AnnotatorNotes T61	lemma = 'gay'
+T62	pos_Fc 276 277	,
+#60	AnnotatorNotes T62	lemma = ','
+T63	pos_NN 278 285	lesbian
+#61	AnnotatorNotes T63	lemma = 'lesbian'
+T64	pos_CC 286 288	or
+#62	AnnotatorNotes T64	lemma = 'or'
+T65	pos_NN 289 297	bisexual
+#63	AnnotatorNotes T65	lemma = 'bisexual'
+T66	pos_VBZ 298 300	is
+#64	AnnotatorNotes T66	lemma = 'be'
+T67	pos_JJ 301 311	compatible
+#65	AnnotatorNotes T67	lemma = 'compatible'
+T68	pos_IN 312 316	with
+#66	AnnotatorNotes T68	lemma = 'with'
+T69	pos_JJ 317 323	normal
+#67	AnnotatorNotes T69	lemma = 'normal'
+T70	pos_JJ 324 330	mental
+#68	AnnotatorNotes T70	lemma = 'mental'
+T71	pos_NN 331 337	health
+#69	AnnotatorNotes T71	lemma = 'health'
+T72	pos_Fp 337 338	.
+#70	AnnotatorNotes T72	lemma = '.'
+T73	pos_RB 339 346	However
+#71	AnnotatorNotes T73	lemma = 'however'
+T74	pos_EX 347 352	there
+#72	AnnotatorNotes T74	lemma = 'there'
+T75	pos_VBP 353 356	are
+#73	AnnotatorNotes T75	lemma = 'be'
+T76	pos_NNS 357 368	experiences
+#74	AnnotatorNotes T76	lemma = 'experience'
+T77	pos_IN 369 371	of
+#75	AnnotatorNotes T77	lemma = 'of'
+T78	pos_NN 372 386	discrimination
+#76	AnnotatorNotes T78	lemma = 'discrimination'
+T79	pos_CC 387 390	and
+#77	AnnotatorNotes T79	lemma = 'and'
+T80	pos_JJ 391 399	possible
+#78	AnnotatorNotes T80	lemma = 'possible'
+T81	pos_NN 400 409	rejection
+#79	AnnotatorNotes T81	lemma = 'rejection'
+T82	pos_IN 411 413	by
+#80	AnnotatorNotes T82	lemma = 'by'
+T83	pos_NN 414 421	society
+#81	AnnotatorNotes T83	lemma = 'society'
+T84	pos_Fp 421 422	.
+#82	AnnotatorNotes T84	lemma = '.'
+T85	pos_DT 423 427	This
+#83	AnnotatorNotes T85	lemma = 'this'
+T86	pos_JJ 428 434	social
+#84	AnnotatorNotes T86	lemma = 'social'
+T87	pos_NN 435 442	feature
+#85	AnnotatorNotes T87	lemma = 'feature'
+T88	pos_VBZ 443 445	is
+#86	AnnotatorNotes T88	lemma = 'be'
+T89	pos_VBN 446 452	called
+#87	AnnotatorNotes T89	lemma = 'call'
+T90	pos_VBN 453 470	institutionalized
+#88	AnnotatorNotes T90	lemma = 'institutionalize'
+T91	pos_NN 471 481	homophobia
+#89	AnnotatorNotes T91	lemma = 'homophobia'
+T92	pos_WDT 482 487	which
+#90	AnnotatorNotes T92	lemma = 'which'
+T93	pos_VBZ 488 490	is
+#91	AnnotatorNotes T93	lemma = 'be'
+T94	pos_JJ 492 496	main
+#92	AnnotatorNotes T94	lemma = 'main'
+T95	pos_NN 497 503	factor
+#93	AnnotatorNotes T95	lemma = 'factor'
+T96	pos_IN 504 506	of
+#94	AnnotatorNotes T96	lemma = 'of'
+T97	pos_DT 507 510	the
+#95	AnnotatorNotes T97	lemma = 'the'
+T98	pos_NN 511 519	creation
+#96	AnnotatorNotes T98	lemma = 'creation'
+T99	pos_IN 520 522	of
+#97	AnnotatorNotes T99	lemma = 'of'
+T100	pos_NP 523 535	Internalized
+#98	AnnotatorNotes T100	lemma = 'internalized'
+T101	pos_NN 536 546	homophobia
+#99	AnnotatorNotes T101	lemma = 'homophobia'
+T102	pos_Fp 546 547	.
+#100	AnnotatorNotes T102	lemma = '.'
+T103	pos_DT 548 551	The
+#101	AnnotatorNotes T103	lemma = 'the'
+T104	pos_JJ 552 556	main
+#102	AnnotatorNotes T104	lemma = 'main'
+T105	pos_NN 557 563	thesis
+#103	AnnotatorNotes T105	lemma = 'thesis'
+T106	pos_IN 564 566	of
+#104	AnnotatorNotes T106	lemma = 'of'
+T107	pos_DT 567 570	the
+#105	AnnotatorNotes T107	lemma = 'the'
+T108	pos_NN 571 575	work
+#106	AnnotatorNotes T108	lemma = 'work'
+T109	pos_VBZ 576 578	is
+#107	AnnotatorNotes T109	lemma = 'be'
+T110	pos_NN 579 594	self-acceptance
+#108	AnnotatorNotes T110	lemma = 'self-acceptance'
+T111	pos_IN 595 597	in
+#109	AnnotatorNotes T111	lemma = 'in'
+T112	pos_NN 598 611	homosexuality
+#110	AnnotatorNotes T112	lemma = 'homosexuality'
+T113	pos_Fd 612 613	:
+#111	AnnotatorNotes T113	lemma = ':'
+T114	pos_NNS 614 626	complexities
+#112	AnnotatorNotes T114	lemma = 'complexity'
+T115	pos_CC 627 630	and
+#113	AnnotatorNotes T115	lemma = 'and'
+T116	pos_JJ 631 639	specific
+#114	AnnotatorNotes T116	lemma = 'specific'
+T117	pos_NNS 640 655	particularities
+#115	AnnotatorNotes T117	lemma = 'particularity'
+T118	pos_IN 656 658	of
+#116	AnnotatorNotes T118	lemma = 'of'
+T119	pos_DT 659 662	the
+#117	AnnotatorNotes T119	lemma = 'the'
+T120	pos_NN 663 672	awakening
+#118	AnnotatorNotes T120	lemma = 'awakening'
+T121	pos_CC 673 676	and
+#119	AnnotatorNotes T121	lemma = 'and'
+T122	pos_NN 677 687	acceptance
+#120	AnnotatorNotes T122	lemma = 'acceptance'
+T123	pos_IN 688 690	of
+#121	AnnotatorNotes T123	lemma = 'of'
+T124	pos_JJ 691 694	own
+#122	AnnotatorNotes T124	lemma = 'own'
+T125	pos_JJ 695 705	homosexual
+#123	AnnotatorNotes T125	lemma = 'homosexual'
+T126	pos_NN 706 717	orientation
+#124	AnnotatorNotes T126	lemma = 'orientation'
+T127	pos_Fp 717 718	.
+#125	AnnotatorNotes T127	lemma = '.'
+T128	pos_DT 719 722	The
+#126	AnnotatorNotes T128	lemma = 'the'
+T129	pos_JJ 723 727	main
+#127	AnnotatorNotes T129	lemma = 'main'
+T130	pos_NN 728 735	purpose
+#128	AnnotatorNotes T130	lemma = 'purpose'
+T131	pos_VBZ 736 738	is
+#129	AnnotatorNotes T131	lemma = 'be'
+T132	pos_TO 739 741	to
+#130	AnnotatorNotes T132	lemma = 'to'
+T133	pos_VB 742 753	investigate
+#131	AnnotatorNotes T133	lemma = 'investigate'
+T134	pos_VBN 754 766	internalized
+#132	AnnotatorNotes T134	lemma = 'internalize'
+T135	pos_NN 767 777	homophobia
+#133	AnnotatorNotes T135	lemma = 'homophobia'
+T136	pos_IN 778 780	as
+#134	AnnotatorNotes T136	lemma = 'as'
+T137	pos_DT 781 784	the
+#135	AnnotatorNotes T137	lemma = 'the'
+T138	pos_RBS 785 789	most
+#136	AnnotatorNotes T138	lemma = 'many'
+T139	pos_JJ 790 801	problematic
+#137	AnnotatorNotes T139	lemma = 'problematic'
+T140	pos_NN 802 808	factor
+#138	AnnotatorNotes T140	lemma = 'factor'
+T141	pos_IN 809 811	in
+#139	AnnotatorNotes T141	lemma = 'in'
+T142	pos_DT 812 815	the
+#140	AnnotatorNotes T142	lemma = 'the'
+T143	pos_NN 816 823	process
+#141	AnnotatorNotes T143	lemma = 'process'
+T144	pos_IN 824 826	of
+#142	AnnotatorNotes T144	lemma = 'of'
+T145	pos_NN 827 842	self-acceptance
+#143	AnnotatorNotes T145	lemma = 'self-acceptance'
+T146	pos_IN 843 845	in
+#144	AnnotatorNotes T146	lemma = 'in'
+T147	pos_NN 846 859	homosexuality
+#145	AnnotatorNotes T147	lemma = 'homosexuality'

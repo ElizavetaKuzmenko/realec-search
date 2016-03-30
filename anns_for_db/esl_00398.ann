@@ -1,0 +1,353 @@
+T1	Discourse 0 3	One
+#1	AnnotatorNotes T1	Last
+T3	Relative_clause 98 102	that
+A4	Cause T3 Other
+A5	Weight-language T3 Major
+#2	AnnotatorNotes T3	It
+T4	Discourse 98 102	that
+#3	AnnotatorNotes T4	It
+T5	Discourse 158 171	himself to be
+A6	Cause T5 L1_interference
+A7	Weight-language T5 Major
+#4	AnnotatorNotes T5	he was
+T6	Verb_pattern 209 217	stopping
+A8	Cause T6 Other
+A9	Weight-language T6 Critical
+#5	AnnotatorNotes T6	stopped
+T7	lex_item_choice 262 269	ensured
+A10	Cause T7 Other
+A11	Weight-language T7 Major
+#6	AnnotatorNotes T7	assured
+T8	lex_item_choice 341 349	involved
+A12	Weight-language T8 Major
+#7	AnnotatorNotes T8	injured
+T9	Discourse 363 391	showed professional interest
+#8	AnnotatorNotes T9	was interested
+T10	Articles 405 412	injured
+A13	Cause T10 Absence_of_Category_in_L1
+A14	Weight-language T10 Critical
+#9	AnnotatorNotes T10	the injured
+T11	Discourse 417 421	need
+A15	Weight-language T11 Major
+#10	AnnotatorNotes T11	asked whether the needed
+T12	Prepositions 422 424	of
+A16	Weight-language T12 Critical
+A17	Delete T12
+T13	Prepositions 453 455	on
+A18	Cause T13 Other
+A19	Weight-language T13 Critical
+A20	Delete T13
+T14	Articles 456 468	total number
+A21	Cause T14 Absence_of_Category_in_L1
+A22	Weight-language T14 Critical
+#11	AnnotatorNotes T14	a total number 
+T15	Tense_choice 517 521	have
+A23	Cause T15 L1_interference
+A24	Weight-language T15 Critical
+#12	AnnotatorNotes T15	had
+T16	Articles 549 561	little shock
+A25	Cause T16 Absence_of_Category_in_L1
+A26	Weight-language T16 Critical
+#13	AnnotatorNotes T16	a little shock
+T17	lex_item_choice 598 605	noticed
+A27	Cause T17 L1_interference
+A28	Weight-language T17 Major
+#14	AnnotatorNotes T17	remarked
+T18	Tense_choice 623 625	is
+A29	Cause T18 L1_interference
+A30	Weight-language T18 Critical
+#15	AnnotatorNotes T18	was
+T19	lex_item_choice 657 665	reported
+A31	Cause T19 Other
+A32	Weight-language T19 Major
+#16	AnnotatorNotes T19	promised
+T2	Transitive 51 63	reporting on
+A1	Cause T2 L1_interference
+A2	Weight-language T2 Critical
+#160	AnnotatorNotes T2	reporting
+T20	pos_DT 0 3	One
+#161	AnnotatorNotes T20	lemma = 'one'
+T21	pos_NN 4 9	night
+#162	AnnotatorNotes T21	lemma = 'night'
+T22	pos_PRP 10 11	I
+#163	AnnotatorNotes T22	lemma = 'i'
+T23	pos_VBD 12 15	got
+#164	AnnotatorNotes T23	lemma = 'get'
+T24	pos_DT 16 17	a
+#165	AnnotatorNotes T24	lemma = 'a'
+T25	pos_VB 18 22	call
+#166	AnnotatorNotes T25	lemma = 'call'
+T26	pos_IN 23 25	in
+#167	AnnotatorNotes T26	lemma = 'in'
+T27	pos_PRP2 26 28	my
+#168	AnnotatorNotes T27	lemma = 'my'
+T28	pos_NN 29 39	department
+#169	AnnotatorNotes T28	lemma = 'department'
+T29	pos_IN 40 44	from
+#170	AnnotatorNotes T29	lemma = 'from'
+T30	pos_DT 45 46	a
+#171	AnnotatorNotes T30	lemma = 'a'
+T31	pos_NN 47 50	man
+#172	AnnotatorNotes T31	lemma = 'man'
+T32	pos_VBG 51 60	reporting
+#173	AnnotatorNotes T32	lemma = 'report'
+T33	pos_IN 61 63	on
+#174	AnnotatorNotes T33	lemma = 'on'
+T34	pos_DT 64 65	a
+#175	AnnotatorNotes T34	lemma = 'a'
+T35	pos_NN 66 69	car
+#176	AnnotatorNotes T35	lemma = 'car'
+T36	pos_NN 70 78	accident
+#177	AnnotatorNotes T36	lemma = 'accident'
+T37	pos_VBG 79 88	involving
+#178	AnnotatorNotes T37	lemma = 'involve'
+T38	pos_Z 89 92	two
+#179	AnnotatorNotes T38	lemma = '2'
+T39	pos_NNS 93 97	cars
+#180	AnnotatorNotes T39	lemma = 'car'
+T40	pos_WDT 98 102	that
+#181	AnnotatorNotes T40	lemma = 'that'
+T41	pos_VBD 103 107	took
+#182	AnnotatorNotes T41	lemma = 'take'
+T42	pos_NN 108 113	place
+#183	AnnotatorNotes T42	lemma = 'place'
+T43	pos_IN 114 118	near
+#184	AnnotatorNotes T43	lemma = 'near'
+T44	pos_NP 119 125	Fleury
+#185	AnnotatorNotes T44	lemma = 'fleury'
+T45	pos_IN 126 128	on
+#186	AnnotatorNotes T45	lemma = 'on'
+T46	pos_DT 129 132	the
+#187	AnnotatorNotes T46	lemma = 'the'
+T47	pos_NN 133 136	way
+#188	AnnotatorNotes T47	lemma = 'way'
+T48	pos_TO 137 139	to
+#189	AnnotatorNotes T48	lemma = 'to'
+T49	pos_NP 140 145	Paris
+#190	AnnotatorNotes T49	lemma = 'paris'
+T50	pos_Fp 145 146	.
+#191	AnnotatorNotes T50	lemma = '.'
+T51	pos_PRP 147 149	He
+#192	AnnotatorNotes T51	lemma = 'he'
+T52	pos_VBD 150 157	claimed
+#193	AnnotatorNotes T52	lemma = 'claim'
+T53	pos_PRP 158 165	himself
+#194	AnnotatorNotes T53	lemma = 'himself'
+T54	pos_TO 166 168	to
+#195	AnnotatorNotes T54	lemma = 'to'
+T55	pos_VB 169 171	be
+#196	AnnotatorNotes T55	lemma = 'be'
+T56	pos_VBG 172 179	driving
+#197	AnnotatorNotes T56	lemma = 'drive'
+T57	pos_IN 180 186	behind
+#198	AnnotatorNotes T57	lemma = 'behind'
+T58	pos_DT 187 190	the
+#199	AnnotatorNotes T58	lemma = 'the'
+T59	pos_VBN 191 199	collided
+#200	AnnotatorNotes T59	lemma = 'collide'
+T60	pos_NNS 200 204	ones
+#201	AnnotatorNotes T60	lemma = 'one'
+T61	pos_CC 205 208	and
+#202	AnnotatorNotes T61	lemma = 'and'
+T62	pos_VBG 209 217	stopping
+#203	AnnotatorNotes T62	lemma = 'stop'
+T63	pos_TO 218 220	to
+#204	AnnotatorNotes T63	lemma = 'to'
+T64	pos_VB 221 225	help
+#205	AnnotatorNotes T64	lemma = 'help'
+T65	pos_RB 226 231	right
+#206	AnnotatorNotes T65	lemma = 'right'
+T66	pos_IN 232 237	after
+#207	AnnotatorNotes T66	lemma = 'after'
+T67	pos_DT 238 241	the
+#208	AnnotatorNotes T67	lemma = 'the'
+T68	pos_NN 242 250	accident
+#209	AnnotatorNotes T68	lemma = 'accident'
+T69	pos_VBD 251 258	occured
+#210	AnnotatorNotes T69	lemma = 'occur'
+T70	pos_Fp 258 259	.
+#211	AnnotatorNotes T70	lemma = '.'
+T71	pos_PRP 260 261	I
+#212	AnnotatorNotes T71	lemma = 'i'
+T72	pos_VBD 262 269	ensured
+#213	AnnotatorNotes T72	lemma = 'ensure'
+T73	pos_PRP 270 273	him
+#214	AnnotatorNotes T73	lemma = 'him'
+T74	pos_IN 274 278	that
+#215	AnnotatorNotes T74	lemma = 'that'
+T75	pos_PRP 279 281	we
+#216	AnnotatorNotes T75	lemma = 'we'
+T76	pos_MD 282 287	would
+#217	AnnotatorNotes T76	lemma = 'would'
+T77	pos_VB 288 292	send
+#218	AnnotatorNotes T77	lemma = 'send'
+T78	pos_NN 293 303	assistance
+#219	AnnotatorNotes T78	lemma = 'assistance'
+T79	pos_CC 304 307	and
+#220	AnnotatorNotes T79	lemma = 'and'
+T80	pos_VBD 308 316	insisted
+#221	AnnotatorNotes T80	lemma = 'insist'
+T81	pos_IN 317 319	on
+#222	AnnotatorNotes T81	lemma = 'on'
+T82	pos_PRP2 320 323	his
+#223	AnnotatorNotes T82	lemma = 'his'
+T83	pos_VBG 324 331	staying
+#224	AnnotatorNotes T83	lemma = 'stay'
+T84	pos_IN 332 336	with
+#225	AnnotatorNotes T84	lemma = 'with'
+T85	pos_DT 337 340	the
+#226	AnnotatorNotes T85	lemma = 'the'
+T86	pos_VBN 341 349	involved
+#227	AnnotatorNotes T86	lemma = 'involve'
+T87	pos_NNS 350 354	ones
+#228	AnnotatorNotes T87	lemma = 'one'
+T88	pos_Fp 354 355	.
+#229	AnnotatorNotes T88	lemma = '.'
+T89	pos_RB 356 360	Then
+#230	AnnotatorNotes T89	lemma = 'then'
+T90	pos_PRP 361 362	I
+#231	AnnotatorNotes T90	lemma = 'i'
+T91	pos_VBD 363 369	showed
+#232	AnnotatorNotes T91	lemma = 'show'
+T92	pos_JJ 370 382	professional
+#233	AnnotatorNotes T92	lemma = 'professional'
+T93	pos_NN 383 391	interest
+#234	AnnotatorNotes T93	lemma = 'interest'
+T94	pos_IN 392 394	in
+#235	AnnotatorNotes T94	lemma = 'in'
+T95	pos_NN 395 401	number
+#236	AnnotatorNotes T95	lemma = 'number'
+T96	pos_IN 402 404	of
+#237	AnnotatorNotes T96	lemma = 'of'
+T97	pos_VBN 405 412	injured
+#238	AnnotatorNotes T97	lemma = 'injure'
+T98	pos_CC 413 416	and
+#239	AnnotatorNotes T98	lemma = 'and'
+T99	pos_VBP 417 421	need
+#240	AnnotatorNotes T99	lemma = 'need'
+T100	pos_IN 422 424	of
+#241	AnnotatorNotes T100	lemma = 'of'
+T101	pos_NN 425 434	ambulance
+#242	AnnotatorNotes T101	lemma = 'ambulance'
+T102	pos_Fp 434 435	.
+#243	AnnotatorNotes T102	lemma = '.'
+T103	pos_DT 436 439	The
+#244	AnnotatorNotes T103	lemma = 'the'
+T104	pos_NN 440 443	man
+#245	AnnotatorNotes T104	lemma = 'man'
+T105	pos_VBD 444 452	reported
+#246	AnnotatorNotes T105	lemma = 'report'
+T106	pos_IN 453 455	on
+#247	AnnotatorNotes T106	lemma = 'on'
+T107	pos_JJ 456 461	total
+#248	AnnotatorNotes T107	lemma = 'total'
+T108	pos_NN 462 468	number
+#249	AnnotatorNotes T108	lemma = 'number'
+T109	pos_IN 469 471	of
+#250	AnnotatorNotes T109	lemma = 'of'
+T110	pos_DT 472 475	the
+#251	AnnotatorNotes T110	lemma = 'the'
+T111	pos_VBN 476 484	involved
+#252	AnnotatorNotes T111	lemma = 'involve'
+T112	pos_CC 485 488	and
+#253	AnnotatorNotes T112	lemma = 'and'
+T113	pos_VBD 489 498	explained
+#254	AnnotatorNotes T113	lemma = 'explain'
+T114	pos_IN 499 503	that
+#255	AnnotatorNotes T114	lemma = 'that'
+T115	pos_PRP 504 508	none
+#256	AnnotatorNotes T115	lemma = 'none'
+T116	pos_IN 509 511	of
+#257	AnnotatorNotes T116	lemma = 'of'
+T117	pos_PRP 512 516	them
+#258	AnnotatorNotes T117	lemma = 'them'
+T118	pos_VBP 517 521	have
+#259	AnnotatorNotes T118	lemma = 'have'
+T119	pos_DT 522 525	any
+#260	AnnotatorNotes T119	lemma = 'any'
+T120	pos_NN 526 530	sign
+#261	AnnotatorNotes T120	lemma = 'sign'
+T121	pos_IN 531 533	of
+#262	AnnotatorNotes T121	lemma = 'of'
+T122	pos_NNS 534 542	injuries
+#263	AnnotatorNotes T122	lemma = 'injury'
+T123	pos_Fc 542 543	,
+#264	AnnotatorNotes T123	lemma = ','
+T124	pos_JJ 544 548	only
+#265	AnnotatorNotes T124	lemma = 'only'
+T125	pos_JJ 549 555	little
+#266	AnnotatorNotes T125	lemma = 'little'
+T126	pos_NN 556 561	shock
+#267	AnnotatorNotes T126	lemma = 'shock'
+T127	pos_Fp 561 562	.
+#268	AnnotatorNotes T127	lemma = '.'
+T128	pos_PRP 563 565	He
+#269	AnnotatorNotes T128	lemma = 'he'
+T129	pos_VBD 566 574	promised
+#270	AnnotatorNotes T129	lemma = 'promise'
+T130	pos_TO 575 577	to
+#271	AnnotatorNotes T130	lemma = 'to'
+T131	pos_VB 578 582	look
+#272	AnnotatorNotes T131	lemma = 'look'
+T132	pos_IN 583 588	after
+#273	AnnotatorNotes T132	lemma = 'after'
+T133	pos_PRP 589 593	them
+#274	AnnotatorNotes T133	lemma = 'them'
+T134	pos_CC 594 597	and
+#275	AnnotatorNotes T134	lemma = 'and'
+T135	pos_VBD 598 605	noticed
+#276	AnnotatorNotes T135	lemma = 'notice'
+T136	pos_IN 606 610	that
+#277	AnnotatorNotes T136	lemma = 'that'
+T137	pos_DT 611 614	the
+#278	AnnotatorNotes T137	lemma = 'the'
+T138	pos_NN 615 622	traffic
+#279	AnnotatorNotes T138	lemma = 'traffic'
+T139	pos_VBZ 623 625	is
+#280	AnnotatorNotes T139	lemma = 'be'
+T140	pos_VBN 626 633	blocked
+#281	AnnotatorNotes T140	lemma = 'block'
+T141	pos_IN 634 636	by
+#282	AnnotatorNotes T141	lemma = 'by'
+T142	pos_DT 637 640	the
+#283	AnnotatorNotes T142	lemma = 'the'
+T143	pos_VBN 641 648	crashed
+#284	AnnotatorNotes T143	lemma = 'crash'
+T144	pos_NNS 649 653	cars
+#285	AnnotatorNotes T144	lemma = 'car'
+T145	pos_Fp 653 654	.
+#286	AnnotatorNotes T145	lemma = '.'
+T146	pos_PRP 655 656	I
+#287	AnnotatorNotes T146	lemma = 'i'
+T147	pos_VBD 657 665	reported
+#288	AnnotatorNotes T147	lemma = 'report'
+T148	pos_DT 666 670	that
+#289	AnnotatorNotes T148	lemma = 'that'
+T149	pos_NN 671 681	assistance
+#290	AnnotatorNotes T149	lemma = 'assistance'
+T150	pos_MD 682 687	would
+#291	AnnotatorNotes T150	lemma = 'would'
+T151	pos_VB 688 694	arrive
+#292	AnnotatorNotes T151	lemma = 'arrive'
+T152	pos_IN 695 697	in
+#293	AnnotatorNotes T152	lemma = 'in'
+T153	pos_Z 698 700	10
+#294	AnnotatorNotes T153	lemma = '10'
+T154	pos_NNS 701 708	minutes
+#295	AnnotatorNotes T154	lemma = 'minute'
+T155	pos_CC 709 712	and
+#296	AnnotatorNotes T155	lemma = 'and'
+T156	pos_VBD 713 720	thanked
+#297	AnnotatorNotes T156	lemma = 'thank'
+T157	pos_DT 721 724	the
+#298	AnnotatorNotes T157	lemma = 'the'
+T158	pos_NN 725 728	man
+#299	AnnotatorNotes T158	lemma = 'man'
+T159	pos_IN 729 732	for
+#300	AnnotatorNotes T159	lemma = 'for'
+T160	pos_DT 733 736	the
+#301	AnnotatorNotes T160	lemma = 'the'
+T161	pos_VB 737 741	call
+#302	AnnotatorNotes T161	lemma = 'call'
+T162	pos_Fp 741 742	.
+#303	AnnotatorNotes T162	lemma = '.'

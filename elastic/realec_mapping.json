@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "document": {  
+      "properties": { 
+		"doc_id":	{ "type": "long"	},
+        "t_name":    { "type": "string"  },
+        "text":	{ "type": "string"  },
+        "year":	{ "type": "integer" },
+        "faculty":	{"type": "string" },
+        "essay_mark":	{ "type": "integer" },
+        "task_type":	{ "type": "string" }
+      }
+    },
+    "mistake": {
+      "properties": {
+        "m_id": { "type": "long"  },
+        "m_type": { "type": "string"  },
+        "m_text": { "type": "string"  },
+        "correction": {"type": "string" },
+        "t_id": { "type": "long"  },
+        "weight_language": { "type": "string" },
+        "cause": {"type": "string"  }
+      }
+    }
+  }
+}

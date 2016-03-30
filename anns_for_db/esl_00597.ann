@@ -1,0 +1,270 @@
+T1	Number 93 98	leads
+#1	AnnotatorNotes T1	lead
+T2	Choice_of_ref 20 38	every little doing
+#2	AnnotatorNotes T2	human activity, no matter how little,
+T3	lex_item_choice 183 185	is
+#3	AnnotatorNotes T3	come from OR are caused by
+T4	Punctuation 205 207	is
+#4	AnnotatorNotes T4	is,
+T5	Articles 271 274	the
+A1	Delete T5
+T6	Prepositions 587 601	50,000 million
+#5	AnnotatorNotes T6	50,000 per million
+T7	Absence_explanation 703 707	high
+#6	AnnotatorNotes T7	high, namely, 28,000 species per million in a decade.
+T8	note 622 708	After that  the level of extinction will fall, but the figures will still remain high.
+#7	AnnotatorNotes T8	Cannot be the last sentence.
+T9	Punctuation 516 521	shows
+#8	AnnotatorNotes T9	shows,
+T10	pos_NP 0 8	Everyone
+#9	AnnotatorNotes T10	lemma = 'everyone'
+T11	pos_VBZ 9 14	knows
+#10	AnnotatorNotes T11	lemma = 'know'
+T12	pos_IN 15 19	that
+#11	AnnotatorNotes T12	lemma = 'that'
+T13	pos_DT 20 25	every
+#12	AnnotatorNotes T13	lemma = 'every'
+T14	pos_JJ 26 32	little
+#13	AnnotatorNotes T14	lemma = 'little'
+T15	pos_NN 33 38	doing
+#14	AnnotatorNotes T15	lemma = 'doing'
+T16	pos_VBZ 39 49	influences
+#15	AnnotatorNotes T16	lemma = 'influence'
+T17	pos_DT 50 53	the
+#16	AnnotatorNotes T17	lemma = 'the'
+T18	pos_NN 54 65	environment
+#17	AnnotatorNotes T18	lemma = 'environment'
+T19	pos_IN 66 72	around
+#18	AnnotatorNotes T19	lemma = 'around'
+T20	pos_PRP 73 75	us
+#19	AnnotatorNotes T20	lemma = 'us'
+T21	pos_CC 76 79	and
+#20	AnnotatorNotes T21	lemma = 'and'
+T22	pos_RBS 80 84	most
+#21	AnnotatorNotes T22	lemma = 'many'
+T23	pos_IN 85 87	of
+#22	AnnotatorNotes T23	lemma = 'of'
+T24	pos_PRP 88 92	them
+#23	AnnotatorNotes T24	lemma = 'them'
+T25	pos_VBZ 93 98	leads
+#24	AnnotatorNotes T25	lemma = 'lead'
+T26	pos_TO 99 101	to
+#25	AnnotatorNotes T26	lemma = 'to'
+T27	pos_JJ 102 113	irreparable
+#26	AnnotatorNotes T27	lemma = 'irreparable'
+T28	pos_NNS 114 126	consequences
+#27	AnnotatorNotes T28	lemma = 'consequence'
+T29	pos_Fp 126 127	.
+#28	AnnotatorNotes T29	lemma = '.'
+T30	pos_DT 128 131	The
+#29	AnnotatorNotes T30	lemma = 'the'
+T31	pos_NN 132 137	chart
+#30	AnnotatorNotes T31	lemma = 'chart'
+T32	pos_VB 138 146	indicate
+#31	AnnotatorNotes T32	lemma = 'indicate'
+T33	pos_IN 147 151	that
+#32	AnnotatorNotes T33	lemma = 'that'
+T34	pos_Zp 152 157	81.3%
+#33	AnnotatorNotes T34	lemma = '81.3/100'
+T35	pos_IN 158 160	of
+#34	AnnotatorNotes T35	lemma = 'of'
+T36	pos_NNS 161 168	threats
+#35	AnnotatorNotes T36	lemma = 'threat'
+T37	pos_TO 169 171	to
+#36	AnnotatorNotes T37	lemma = 'to'
+T38	pos_NN 172 177	plant
+#37	AnnotatorNotes T38	lemma = 'plant'
+T39	pos_NN 178 182	life
+#38	AnnotatorNotes T39	lemma = 'life'
+T40	pos_VBZ 183 185	is
+#39	AnnotatorNotes T40	lemma = 'be'
+T41	pos_JJ 186 191	human
+#40	AnnotatorNotes T41	lemma = 'human'
+T42	pos_NN 192 198	impact
+#41	AnnotatorNotes T42	lemma = 'impact'
+T43	pos_Fc 198 199	,
+#42	AnnotatorNotes T43	lemma = ','
+T44	pos_WDT 200 204	that
+#43	AnnotatorNotes T44	lemma = 'that'
+T45	pos_VBZ 205 207	is
+#44	AnnotatorNotes T45	lemma = 'be'
+T46	pos_NN 208 219	agriculture
+#45	AnnotatorNotes T46	lemma = 'agriculture'
+T47	pos_Fc 219 220	,
+#46	AnnotatorNotes T47	lemma = ','
+T48	pos_NN 221 232	development
+#47	AnnotatorNotes T48	lemma = 'development'
+T49	pos_Fc 232 233	,
+#48	AnnotatorNotes T49	lemma = ','
+T50	pos_VBG 234 241	logging
+#49	AnnotatorNotes T50	lemma = 'log'
+T51	pos_Fc 241 242	,
+#50	AnnotatorNotes T51	lemma = ','
+T52	pos_NNS 243 252	livestock
+#51	AnnotatorNotes T52	lemma = 'livestock'
+T53	pos_CC 253 256	and
+#52	AnnotatorNotes T53	lemma = 'and'
+T54	pos_NNS 257 263	others
+#53	AnnotatorNotes T54	lemma = 'other'
+T55	pos_VB 264 270	affect
+#54	AnnotatorNotes T55	lemma = 'affect'
+T56	pos_DT 271 274	the
+#55	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NN 275 280	flora
+#56	AnnotatorNotes T57	lemma = 'flora'
+T58	pos_RB 281 286	a lot
+#57	AnnotatorNotes T58	lemma = 'a_lot'
+T59	pos_Fp 286 287	.
+#58	AnnotatorNotes T59	lemma = '.'
+T60	pos_CC 288 291	And
+#59	AnnotatorNotes T60	lemma = 'and'
+T61	pos_WDT 292 296	that
+#60	AnnotatorNotes T61	lemma = 'that'
+T62	pos_VBZ 297 302	leads
+#61	AnnotatorNotes T62	lemma = 'lead'
+T63	pos_TO 303 305	to
+#62	AnnotatorNotes T63	lemma = 'to'
+T64	pos_NN 306 316	extinction
+#63	AnnotatorNotes T64	lemma = 'extinction'
+T65	pos_IN 317 319	of
+#64	AnnotatorNotes T65	lemma = 'of'
+T66	pos_NN 320 325	plant
+#65	AnnotatorNotes T66	lemma = 'plant'
+T67	pos_NNS 326 333	species
+#66	AnnotatorNotes T67	lemma = 'species'
+T68	pos_CC 334 337	and
+#67	AnnotatorNotes T68	lemma = 'and'
+T69	pos_DT 338 341	the
+#68	AnnotatorNotes T69	lemma = 'the'
+T70	pos_NN 342 347	level
+#69	AnnotatorNotes T70	lemma = 'level'
+T71	pos_IN 348 350	of
+#70	AnnotatorNotes T71	lemma = 'of'
+T72	pos_DT 351 355	this
+#71	AnnotatorNotes T72	lemma = 'this'
+T73	pos_NN 356 366	extinction
+#72	AnnotatorNotes T73	lemma = 'extinction'
+T74	pos_VBZ 367 372	rises
+#73	AnnotatorNotes T74	lemma = 'rise'
+T75	pos_IN 373 377	with
+#74	AnnotatorNotes T75	lemma = 'with'
+T76	pos_NN 378 382	time
+#75	AnnotatorNotes T76	lemma = 'time'
+T77	pos_Fp 382 383	.
+#76	AnnotatorNotes T77	lemma = '.'
+T78	pos_DT 384 387	The
+#77	AnnotatorNotes T78	lemma = 'the'
+T79	pos_JJ 388 392	same
+#78	AnnotatorNotes T79	lemma = 'same'
+T80	pos_NN 393 401	disaster
+#79	AnnotatorNotes T80	lemma = 'disaster'
+T81	pos_VBZ 402 409	happens
+#80	AnnotatorNotes T81	lemma = 'happen'
+T82	pos_IN 410 414	with
+#81	AnnotatorNotes T82	lemma = 'with'
+T83	pos_NNS 415 422	animals
+#82	AnnotatorNotes T83	lemma = 'animal'
+T84	pos_Fp 422 423	.
+#83	AnnotatorNotes T84	lemma = '.'
+T85	pos_IN 424 428	With
+#84	AnnotatorNotes T85	lemma = 'with'
+T86	pos_NNS 429 436	decades
+#85	AnnotatorNotes T86	lemma = 'decade'
+T87	pos_DT 437 440	the
+#86	AnnotatorNotes T87	lemma = 'the'
+T88	pos_NN 441 447	number
+#87	AnnotatorNotes T88	lemma = 'number'
+T89	pos_IN 448 450	of
+#88	AnnotatorNotes T89	lemma = 'of'
+T90	pos_JJ 451 457	animal
+#89	AnnotatorNotes T90	lemma = 'animal'
+T91	pos_NNS 458 465	species
+#90	AnnotatorNotes T91	lemma = 'species'
+T92	pos_WDT 466 470	that
+#91	AnnotatorNotes T92	lemma = 'that'
+T93	pos_VBP 471 477	become
+#92	AnnotatorNotes T93	lemma = 'become'
+T94	pos_JJ 478 485	extinct
+#93	AnnotatorNotes T94	lemma = 'extinct'
+T95	pos_VBZ 486 491	grows
+#94	AnnotatorNotes T95	lemma = 'grow'
+T96	pos_RB 492 501	immensely
+#95	AnnotatorNotes T96	lemma = 'immensely'
+T97	pos_Fp 501 502	.
+#96	AnnotatorNotes T97	lemma = '.'
+T98	pos_IN 503 505	As
+#97	AnnotatorNotes T98	lemma = 'as'
+T99	pos_DT 506 509	the
+#98	AnnotatorNotes T99	lemma = 'the'
+T100	pos_NN 510 515	graph
+#99	AnnotatorNotes T100	lemma = 'graph'
+T101	pos_VBZ 516 521	shows
+#100	AnnotatorNotes T101	lemma = 'show'
+T102	pos_IN 522 524	in
+#101	AnnotatorNotes T102	lemma = 'in'
+T103	pos_W 525 529	2060
+#102	AnnotatorNotes T103	lemma = '[??:??/??/2060:??.??:??]'
+T104	pos_EX 530 535	there
+#103	AnnotatorNotes T104	lemma = 'there'
+T105	pos_MD 536 540	will
+#104	AnnotatorNotes T105	lemma = 'will'
+T106	pos_VB 541 543	be
+#105	AnnotatorNotes T106	lemma = 'be'
+T107	pos_DT 544 547	the
+#106	AnnotatorNotes T107	lemma = 'the'
+T108	pos_NN 548 559	culmination
+#107	AnnotatorNotes T108	lemma = 'culmination'
+T109	pos_Fp 559 560	.
+#108	AnnotatorNotes T109	lemma = '.'
+T110	pos_DT 561 564	The
+#109	AnnotatorNotes T110	lemma = 'the'
+T111	pos_NN 565 575	extinction
+#110	AnnotatorNotes T111	lemma = 'extinction'
+T112	pos_MD 576 580	will
+#111	AnnotatorNotes T112	lemma = 'will'
+T113	pos_VB 581 586	reach
+#112	AnnotatorNotes T113	lemma = 'reach'
+T114	pos_Z 587 601	50,000 million
+#113	AnnotatorNotes T114	lemma = '50000000000'
+T115	pos_NN 602 609	species
+#114	AnnotatorNotes T115	lemma = 'species'
+T116	pos_IN 610 613	per
+#115	AnnotatorNotes T116	lemma = 'per'
+T117	pos_NN 614 620	decade
+#116	AnnotatorNotes T117	lemma = 'decade'
+T118	pos_Fp 620 621	.
+#117	AnnotatorNotes T118	lemma = '.'
+T119	pos_IN 622 627	After
+#118	AnnotatorNotes T119	lemma = 'after'
+T120	pos_IN 628 632	that
+#119	AnnotatorNotes T120	lemma = 'that'
+T121	pos_DT 634 637	the
+#120	AnnotatorNotes T121	lemma = 'the'
+T122	pos_NN 638 643	level
+#121	AnnotatorNotes T122	lemma = 'level'
+T123	pos_IN 644 646	of
+#122	AnnotatorNotes T123	lemma = 'of'
+T124	pos_NN 647 657	extinction
+#123	AnnotatorNotes T124	lemma = 'extinction'
+T125	pos_MD 658 662	will
+#124	AnnotatorNotes T125	lemma = 'will'
+T126	pos_VB 663 667	fall
+#125	AnnotatorNotes T126	lemma = 'fall'
+T127	pos_Fc 667 668	,
+#126	AnnotatorNotes T127	lemma = ','
+T128	pos_CC 669 672	but
+#127	AnnotatorNotes T128	lemma = 'but'
+T129	pos_DT 673 676	the
+#128	AnnotatorNotes T129	lemma = 'the'
+T130	pos_NNS 677 684	figures
+#129	AnnotatorNotes T130	lemma = 'figure'
+T131	pos_MD 685 689	will
+#130	AnnotatorNotes T131	lemma = 'will'
+T132	pos_RB 690 695	still
+#131	AnnotatorNotes T132	lemma = 'still'
+T133	pos_VB 696 702	remain
+#132	AnnotatorNotes T133	lemma = 'remain'
+T134	pos_JJ 703 707	high
+#133	AnnotatorNotes T134	lemma = 'high'
+T135	pos_Fp 707 708	.
+#134	AnnotatorNotes T135	lemma = '.'

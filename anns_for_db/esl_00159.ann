@@ -1,0 +1,441 @@
+T1	Quantifiers 92 105	prevent  from
+#1	AnnotatorNotes T1	prevent one from
+T3	Conjunctions 343 344	,	
+#3	AnnotatorNotes T3	and
+T4	Spelling 977 985	rezultut	
+#4	AnnotatorNotes T4	WHAT?
+A1	Weight-language T1 Minor
+A4	Weight-language T3 Minor
+A5	Cause T1 Absence_of_Category_in_L1
+A8	Weight-language T4 Major
+A9	Weight-understanding T4 Critical
+T5	Prepositional_adjective 255 266	aware about
+A6	Cause T5 Other
+A7	Weight-language T5 Major
+A10	Weight-understanding T5 Major
+#2	AnnotatorNotes T5	aware of
+T2	Transitive 300 310	contact to
+A2	Cause T2 Other
+A3	Weight-language T2 Major
+A11	Weight-understanding T2 Critical
+#5	AnnotatorNotes T2	contact
+T6	pos_﻿ 0 1	﻿
+#6	AnnotatorNotes T6	lemma = '﻿'
+T7	pos_NP 1 7	People
+#7	AnnotatorNotes T7	lemma = 'people'
+T8	pos_IN 8 12	from
+#8	AnnotatorNotes T8	lemma = 'from'
+T9	pos_JJ 13 22	different
+#9	AnnotatorNotes T9	lemma = 'different'
+T10	pos_NNS 23 32	countries
+#10	AnnotatorNotes T10	lemma = 'country'
+T11	pos_RB 33 39	always
+#11	AnnotatorNotes T11	lemma = 'always'
+T12	pos_VBP 40 44	have
+#12	AnnotatorNotes T12	lemma = 'have'
+T13	pos_NNS 45 56	stereotypes
+#13	AnnotatorNotes T13	lemma = 'stereotype'
+T14	pos_IN 57 62	about
+#14	AnnotatorNotes T14	lemma = 'about'
+T15	pos_DT 63 67	each
+#15	AnnotatorNotes T15	lemma = 'each'
+T16	pos_NN 68 73	other
+#16	AnnotatorNotes T16	lemma = 'other'
+T17	pos_Fp 73 74	.
+#17	AnnotatorNotes T17	lemma = '.'
+T18	pos_NNS 76 87	Stereotypes
+#18	AnnotatorNotes T18	lemma = 'stereotype'
+T19	pos_MD 88 91	can
+#19	AnnotatorNotes T19	lemma = 'can'
+T20	pos_VB 92 99	prevent
+#20	AnnotatorNotes T20	lemma = 'prevent'
+T21	pos_IN 101 105	from
+#21	AnnotatorNotes T21	lemma = 'from'
+T22	pos_VBG 106 114	learning
+#22	AnnotatorNotes T22	lemma = 'learn'
+T23	pos_DT 115 119	some
+#23	AnnotatorNotes T23	lemma = 'some'
+T24	pos_NNS 120 127	aspects
+#24	AnnotatorNotes T24	lemma = 'aspect'
+T25	pos_IN 128 133	about
+#25	AnnotatorNotes T25	lemma = 'about'
+T26	pos_DT 134 137	the
+#26	AnnotatorNotes T26	lemma = 'the'
+T27	pos_NN 138 145	country
+#27	AnnotatorNotes T27	lemma = 'country'
+T28	pos_CC 146 149	and
+#28	AnnotatorNotes T28	lemma = 'and'
+T29	pos_VBG 150 163	understanding
+#29	AnnotatorNotes T29	lemma = 'understand'
+T30	pos_DT 164 165	a
+#30	AnnotatorNotes T30	lemma = 'a'
+T31	pos_JJ 166 175	different
+#31	AnnotatorNotes T31	lemma = 'different'
+T32	pos_NN 176 183	culture
+#32	AnnotatorNotes T32	lemma = 'culture'
+T33	pos_IN 184 186	in
+#33	AnnotatorNotes T33	lemma = 'in'
+T34	pos_DT 187 188	a
+#34	AnnotatorNotes T34	lemma = 'a'
+T35	pos_RBR 189 193	more
+#35	AnnotatorNotes T35	lemma = 'many'
+T36	pos_JJ 194 205	appropriate
+#36	AnnotatorNotes T36	lemma = 'appropriate'
+T37	pos_NN 206 209	way
+#37	AnnotatorNotes T37	lemma = 'way'
+T38	pos_Fp 209 210	.
+#38	AnnotatorNotes T38	lemma = '.'
+T39	pos_WP 211 215	What
+#39	AnnotatorNotes T39	lemma = 'what'
+T40	pos_VBZ 216 218	is
+#40	AnnotatorNotes T40	lemma = 'be'
+T41	pos_DT 219 220	a
+#41	AnnotatorNotes T41	lemma = 'a'
+T42	pos_NN 221 231	stereotype
+#42	AnnotatorNotes T42	lemma = 'stereotype'
+T43	pos_Fit 231 232	?
+#43	AnnotatorNotes T43	lemma = '?'
+T44	pos_VBZ 233 235	Is
+#44	AnnotatorNotes T44	lemma = 'be'
+T45	pos_PRP 236 238	it
+#45	AnnotatorNotes T45	lemma = 'it'
+T46	pos_JJ 239 248	important
+#46	AnnotatorNotes T46	lemma = 'important'
+T47	pos_TO 249 251	to
+#47	AnnotatorNotes T47	lemma = 'to'
+T48	pos_VB 252 254	be
+#48	AnnotatorNotes T48	lemma = 'be'
+T49	pos_JJ 255 260	aware
+#49	AnnotatorNotes T49	lemma = 'aware'
+T50	pos_IN 261 266	about
+#50	AnnotatorNotes T50	lemma = 'about'
+T51	pos_DT 267 270	the
+#51	AnnotatorNotes T51	lemma = 'the'
+T52	pos_JJ 271 279	national
+#52	AnnotatorNotes T52	lemma = 'national'
+T53	pos_NN 280 290	stereotype
+#53	AnnotatorNotes T53	lemma = 'stereotype'
+T54	pos_WRB 291 295	when
+#54	AnnotatorNotes T54	lemma = 'when'
+T55	pos_PRP 296 299	you
+#55	AnnotatorNotes T55	lemma = 'you'
+T56	pos_NN 300 307	contact
+#56	AnnotatorNotes T56	lemma = 'contact'
+T57	pos_TO 308 310	to
+#57	AnnotatorNotes T57	lemma = 'to'
+T58	pos_NNS 311 317	people
+#58	AnnotatorNotes T58	lemma = 'people'
+T59	pos_IN 318 322	from
+#59	AnnotatorNotes T59	lemma = 'from'
+T60	pos_JJ 323 332	different
+#60	AnnotatorNotes T60	lemma = 'different'
+T61	pos_NNS 333 342	countries
+#61	AnnotatorNotes T61	lemma = 'country'
+T62	pos_Fc 343 344	,
+#62	AnnotatorNotes T62	lemma = ','
+T63	pos_NNS 345 353	cultures
+#63	AnnotatorNotes T63	lemma = 'culture'
+T64	pos_Fp 353 354	.
+#64	AnnotatorNotes T64	lemma = '.'
+T65	pos_Fg 355 356	-
+#65	AnnotatorNotes T65	lemma = '-'
+T66	pos_NP 357 358	А
+#66	AnnotatorNotes T66	lemma = 'а'
+T67	pos_NN 359 369	stereotype
+#67	AnnotatorNotes T67	lemma = 'stereotype'
+T68	pos_VBZ 370 372	is
+#68	AnnotatorNotes T68	lemma = 'be'
+T69	pos_DT 373 374	a
+#69	AnnotatorNotes T69	lemma = 'a'
+T70	pos_VBN 375 387	preconceived
+#70	AnnotatorNotes T70	lemma = 'preconceive'
+T71	pos_CC 388 391	and
+#71	AnnotatorNotes T71	lemma = 'and'
+T72	pos_VBN 392 406	oversimplified
+#72	AnnotatorNotes T72	lemma = 'oversimplify'
+T73	pos_NN 407 413	notion
+#73	AnnotatorNotes T73	lemma = 'notion'
+T74	pos_IN 414 416	of
+#74	AnnotatorNotes T74	lemma = 'of'
+T75	pos_NNS 417 432	characteristics
+#75	AnnotatorNotes T75	lemma = 'characteristic'
+T76	pos_JJ 433 440	typical
+#76	AnnotatorNotes T76	lemma = 'typical'
+T77	pos_IN 441 443	of
+#77	AnnotatorNotes T77	lemma = 'of'
+T78	pos_DT 444 445	a
+#78	AnnotatorNotes T78	lemma = 'a'
+T79	pos_NN 446 452	person
+#79	AnnotatorNotes T79	lemma = 'person'
+T80	pos_CC 453 455	or
+#80	AnnotatorNotes T80	lemma = 'or'
+T81	pos_NN 456 461	group
+#81	AnnotatorNotes T81	lemma = 'group'
+T82	pos_Fp 461 462	.
+#82	AnnotatorNotes T82	lemma = '.'
+T83	pos_Fg 464 465	-
+#83	AnnotatorNotes T83	lemma = '-'
+T84	pos_DT 466 467	A
+#84	AnnotatorNotes T84	lemma = 'a'
+T85	pos_NN 468 478	stereotype
+#85	AnnotatorNotes T85	lemma = 'stereotype'
+T86	pos_VBZ 479 481	is
+#86	AnnotatorNotes T86	lemma = 'be'
+T87	pos_DT 482 483	a
+#87	AnnotatorNotes T87	lemma = 'a'
+T88	pos_VBN 484 489	fixed
+#88	AnnotatorNotes T88	lemma = 'fix'
+T89	pos_VBN 490 493	set
+#89	AnnotatorNotes T89	lemma = 'set'
+T90	pos_IN 494 496	of
+#90	AnnotatorNotes T90	lemma = 'of'
+T91	pos_NNS 497 502	ideas
+#91	AnnotatorNotes T91	lemma = 'idea'
+T92	pos_WDT 503 507	that
+#92	AnnotatorNotes T92	lemma = 'that'
+T93	pos_VBZ 508 510	is
+#93	AnnotatorNotes T93	lemma = 'be'
+T94	pos_RB 511 520	generally
+#94	AnnotatorNotes T94	lemma = 'generally'
+T95	pos_VBN 521 525	held
+#95	AnnotatorNotes T95	lemma = 'hold'
+T96	pos_IN 526 531	about
+#96	AnnotatorNotes T96	lemma = 'about'
+T97	pos_DT 532 535	the
+#97	AnnotatorNotes T97	lemma = 'the'
+T98	pos_NNS 536 551	characteristics
+#98	AnnotatorNotes T98	lemma = 'characteristic'
+T99	pos_IN 552 554	of
+#99	AnnotatorNotes T99	lemma = 'of'
+T100	pos_DT 555 556	a
+#100	AnnotatorNotes T100	lemma = 'a'
+T101	pos_JJ 557 567	particular
+#101	AnnotatorNotes T101	lemma = 'particular'
+T102	pos_NN 568 572	type
+#102	AnnotatorNotes T102	lemma = 'type'
+T103	pos_IN 573 575	of
+#103	AnnotatorNotes T103	lemma = 'of'
+T104	pos_NN 576 582	person
+#104	AnnotatorNotes T104	lemma = 'person'
+T105	pos_WDT 583 588	which
+#105	AnnotatorNotes T105	lemma = 'which'
+T106	pos_VBP 589 592	are
+#106	AnnotatorNotes T106	lemma = 'be'
+T107	pos_RB 593 600	wrongly
+#107	AnnotatorNotes T107	lemma = 'wrongly'
+T108	pos_VBN 601 609	believed
+#108	AnnotatorNotes T108	lemma = 'believe'
+T109	pos_TO 610 612	to
+#109	AnnotatorNotes T109	lemma = 'to'
+T110	pos_VB 613 615	be
+#110	AnnotatorNotes T110	lemma = 'be'
+T111	pos_VBN 616 622	shared
+#111	AnnotatorNotes T111	lemma = 'share'
+T112	pos_IN 623 625	by
+#112	AnnotatorNotes T112	lemma = 'by'
+T113	pos_PDT 626 629	all
+#113	AnnotatorNotes T113	lemma = 'all'
+T114	pos_DT 630 633	the
+#114	AnnotatorNotes T114	lemma = 'the'
+T115	pos_NNS 634 640	people
+#115	AnnotatorNotes T115	lemma = 'people'
+T116	pos_IN 641 643	of
+#116	AnnotatorNotes T116	lemma = 'of'
+T117	pos_DT 644 648	that
+#117	AnnotatorNotes T117	lemma = 'that'
+T118	pos_NN 649 653	type
+#118	AnnotatorNotes T118	lemma = 'type'
+T119	pos_Fp 653 654	.
+#119	AnnotatorNotes T119	lemma = '.'
+T120	pos_Fg 655 656	-
+#120	AnnotatorNotes T120	lemma = '-'
+T121	pos_NNS 657 668	Stereotypes
+#121	AnnotatorNotes T121	lemma = 'stereotype'
+T122	pos_VBP 669 672	are
+#122	AnnotatorNotes T122	lemma = 'be'
+T123	pos_NNS 673 688	generalizations
+#123	AnnotatorNotes T123	lemma = 'generalization'
+T124	pos_IN 689 694	about
+#124	AnnotatorNotes T124	lemma = 'about'
+T125	pos_DT 695 696	a
+#125	AnnotatorNotes T125	lemma = 'a'
+T126	pos_NN 697 702	group
+#126	AnnotatorNotes T126	lemma = 'group'
+T127	pos_IN 703 705	of
+#127	AnnotatorNotes T127	lemma = 'of'
+T128	pos_NNS 706 712	people
+#128	AnnotatorNotes T128	lemma = 'people'
+T129	pos_WRB 713 720	whereby
+#129	AnnotatorNotes T129	lemma = 'whereby'
+T130	pos_PRP 721 723	we
+#130	AnnotatorNotes T130	lemma = 'we'
+T131	pos_VBP 724 733	attribute
+#131	AnnotatorNotes T131	lemma = 'attribute'
+T132	pos_DT 734 735	a
+#132	AnnotatorNotes T132	lemma = 'a'
+T133	pos_VBN 736 743	defined
+#133	AnnotatorNotes T133	lemma = 'define'
+T134	pos_VBN 744 747	set
+#134	AnnotatorNotes T134	lemma = 'set'
+T135	pos_IN 748 750	of
+#135	AnnotatorNotes T135	lemma = 'of'
+T136	pos_NNS 751 766	characteristics
+#136	AnnotatorNotes T136	lemma = 'characteristic'
+T137	pos_TO 767 769	to
+#137	AnnotatorNotes T137	lemma = 'to'
+T138	pos_DT 770 774	this
+#138	AnnotatorNotes T138	lemma = 'this'
+T139	pos_NN 775 780	group
+#139	AnnotatorNotes T139	lemma = 'group'
+T140	pos_Fp 780 781	.
+#140	AnnotatorNotes T140	lemma = '.'
+T141	pos_EX 782 787	There
+#141	AnnotatorNotes T141	lemma = 'there'
+T142	pos_VBP 788 791	are
+#142	AnnotatorNotes T142	lemma = 'be'
+T143	pos_JJ 792 799	several
+#143	AnnotatorNotes T143	lemma = 'several'
+T144	pos_NNS 800 810	approaches
+#144	AnnotatorNotes T144	lemma = 'approach'
+T145	pos_TO 811 813	to
+#145	AnnotatorNotes T145	lemma = 'to'
+T146	pos_VBG 814 824	explaining
+#146	AnnotatorNotes T146	lemma = 'explain'
+T147	pos_DT 825 828	the
+#147	AnnotatorNotes T147	lemma = 'the'
+T148	pos_NN 829 838	formation
+#148	AnnotatorNotes T148	lemma = 'formation'
+T149	pos_IN 839 841	of
+#149	AnnotatorNotes T149	lemma = 'of'
+T150	pos_NNS 842 853	stereotypes
+#150	AnnotatorNotes T150	lemma = 'stereotype'
+T151	pos_Fp 853 854	.
+#151	AnnotatorNotes T151	lemma = '.'
+T152	pos_DT 855 858	The
+#152	AnnotatorNotes T152	lemma = 'the'
+T153	pos_NNS 859 869	approaches
+#153	AnnotatorNotes T153	lemma = 'approach'
+T154	pos_VBP 870 873	are
+#154	AnnotatorNotes T154	lemma = 'be'
+T155	pos_VBN 874 881	divided
+#155	AnnotatorNotes T155	lemma = 'divide'
+T156	pos_IN 882 886	into
+#156	AnnotatorNotes T156	lemma = 'into'
+T157	pos_NNS 887 893	groups
+#157	AnnotatorNotes T157	lemma = 'group'
+T158	pos_Fd 893 894	:
+#158	AnnotatorNotes T158	lemma = ':'
+T159	pos_Fg 895 896	-
+#159	AnnotatorNotes T159	lemma = '-'
+T160	pos_JJ 897 908	Associative
+#160	AnnotatorNotes T160	lemma = 'associative'
+T161	pos_NN 909 920	explanation
+#161	AnnotatorNotes T161	lemma = 'explanation'
+T162	pos_CC 921 924	and
+#162	AnnotatorNotes T162	lemma = 'and'
+T163	pos_NN 925 931	effect
+#163	AnnotatorNotes T163	lemma = 'effect'
+T164	pos_IN 932 934	of
+#164	AnnotatorNotes T164	lemma = 'of'
+T165	pos_DT 935 938	the
+#165	AnnotatorNotes T165	lemma = 'the'
+T166	pos_JJ 939 947	illusory
+#166	AnnotatorNotes T166	lemma = 'illusory'
+T167	pos_NN 948 959	correlation
+#167	AnnotatorNotes T167	lemma = 'correlation'
+T168	pos_Fg 960 961	-
+#168	AnnotatorNotes T168	lemma = '-'
+T169	pos_NNS 962 973	Stereotypes
+#169	AnnotatorNotes T169	lemma = 'stereotype'
+T170	pos_IN 974 976	as
+#170	AnnotatorNotes T170	lemma = 'as'
+T171	pos_NN 977 985	rezultut
+#171	AnnotatorNotes T171	lemma = 'rezultut'
+T172	pos_NN 986 999	communication
+#172	AnnotatorNotes T172	lemma = 'communication'
+T173	pos_Fg 1000 1001	-
+#173	AnnotatorNotes T173	lemma = '-'
+T174	pos_NN 1002 1012	Stereotype
+#174	AnnotatorNotes T174	lemma = 'stereotype'
+T175	pos_IN 1013 1015	as
+#175	AnnotatorNotes T175	lemma = 'as'
+T176	pos_DT 1016 1017	a
+#176	AnnotatorNotes T176	lemma = 'a'
+T177	pos_NN 1018 1025	process
+#177	AnnotatorNotes T177	lemma = 'process'
+T178	pos_IN 1026 1028	of
+#178	AnnotatorNotes T178	lemma = 'of'
+T179	pos_NN 1029 1042	socialization
+#179	AnnotatorNotes T179	lemma = 'socialization'
+T180	pos_NP 1043 1046	The
+#180	AnnotatorNotes T180	lemma = 'the'
+T181	pos_JJ 1047 1052	major
+#181	AnnotatorNotes T181	lemma = 'major'
+T182	pos_NNS 1053 1065	institutions
+#182	AnnotatorNotes T182	lemma = 'institution'
+T183	pos_IN 1066 1068	of
+#183	AnnotatorNotes T183	lemma = 'of'
+T184	pos_NN 1069 1082	socialization
+#184	AnnotatorNotes T184	lemma = 'socialization'
+T185	pos_VBZ 1083 1085	is
+#185	AnnotatorNotes T185	lemma = 'be'
+T186	pos_DT 1086 1089	the
+#186	AnnotatorNotes T186	lemma = 'the'
+T187	pos_NN 1090 1096	family
+#187	AnnotatorNotes T187	lemma = 'family'
+T188	pos_Fc 1096 1097	,
+#188	AnnotatorNotes T188	lemma = ','
+T189	pos_NN 1098 1104	school
+#189	AnnotatorNotes T189	lemma = 'school'
+T190	pos_Fc 1104 1105	,
+#190	AnnotatorNotes T190	lemma = ','
+T191	pos_NN 1106 1116	university
+#191	AnnotatorNotes T191	lemma = 'university'
+T192	pos_Fp 1116 1117	.
+#192	AnnotatorNotes T192	lemma = '.'
+T193	pos_DT 1118 1121	The
+#193	AnnotatorNotes T193	lemma = 'the'
+T194	pos_NN 1122 1132	stereotype
+#194	AnnotatorNotes T194	lemma = 'stereotype'
+T195	pos_MD 1133 1136	may
+#195	AnnotatorNotes T195	lemma = 'may'
+T196	pos_VB 1137 1139	be
+#196	AnnotatorNotes T196	lemma = 'be'
+T197	pos_VBN 1140 1149	submitted
+#197	AnnotatorNotes T197	lemma = 'submit'
+T198	pos_IN 1150 1152	by
+#198	AnnotatorNotes T198	lemma = 'by'
+T199	pos_NNS 1153 1160	parents
+#199	AnnotatorNotes T199	lemma = 'parent'
+T200	pos_TO 1161 1163	to
+#200	AnnotatorNotes T200	lemma = 'to'
+T201	pos_NNS 1164 1172	children
+#201	AnnotatorNotes T201	lemma = 'child'
+T202	pos_Fc 1172 1173	,
+#202	AnnotatorNotes T202	lemma = ','
+T203	pos_IN 1174 1178	from
+#203	AnnotatorNotes T203	lemma = 'from'
+T204	pos_NNS 1179 1187	teachers
+#204	AnnotatorNotes T204	lemma = 'teacher'
+T205	pos_TO 1188 1190	to
+#205	AnnotatorNotes T205	lemma = 'to'
+T206	pos_NNS 1191 1199	students
+#206	AnnotatorNotes T206	lemma = 'student'
+T207	pos_Fc 1199 1200	,
+#207	AnnotatorNotes T207	lemma = ','
+T208	pos_NP 1201 1209	Internet
+#208	AnnotatorNotes T208	lemma = 'internet'
+T209	pos_Fc 1209 1210	,
+#209	AnnotatorNotes T209	lemma = ','
+T210	pos_NN 1211 1216	music
+#210	AnnotatorNotes T210	lemma = 'music'
+T211	pos_Fc 1216 1217	,
+#211	AnnotatorNotes T211	lemma = ','
+T212	pos_NNS 1218 1223	films
+#212	AnnotatorNotes T212	lemma = 'film'
+T213	pos_Fc 1223 1224	,
+#213	AnnotatorNotes T213	lemma = ','
+T214	pos_VBG 1225 1236	advertising
+#214	AnnotatorNotes T214	lemma = 'advertise'
+T215	pos_Fp 1236 1237	.
+#215	AnnotatorNotes T215	lemma = '.'

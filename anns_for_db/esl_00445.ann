@@ -1,0 +1,728 @@
+T1	lex_part_choice 56 65	ten years
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Critical
+#1	AnnotatorNotes T1	ten years old
+T2	Spelling 80 83	sad
+A4	Cause T2 Typo
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Critical
+#2	AnnotatorNotes T2	said
+T3	Tense_choice 88 104	was never broken
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	had never broken
+T4	Voice_choice 88 104	was never broken
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	had never broken
+T5	Tense_form 136 148	never broken
+A13	Cause T5 Other
+A14	Weight-language T5 Critical
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	had never broken
+T6	Tense_choice 191 203	was founding
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+#6	AnnotatorNotes T6	would find
+T7	Tense_form 191 203	was founding
+A19	Cause T7 Other
+A20	Weight-language T7 Critical
+A21	Weight-understanding T7 Critical
+#7	AnnotatorNotes T7	would find
+T8	Abs_comp_clause 285 289	Some
+A22	Cause T8 Other
+A23	Weight-language T8 Critical
+A24	Weight-understanding T8 Critical
+#8	AnnotatorNotes T8	some things
+T9	Prepositions 290 292	of
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Major
+#9	AnnotatorNotes T9	on
+T10	Abs_comp_clause 320 323	was
+A28	Cause T10 Other
+A29	Weight-language T10 Critical
+A30	Weight-understanding T10 Critical
+#10	AnnotatorNotes T10	it was
+T11	lex_item_choice 408 413	brake
+A31	Cause T11 Other
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Critical
+#11	AnnotatorNotes T11	push on the brakes
+T12	Formational_affixes 448 455	usually
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Major
+#12	AnnotatorNotes T12	usual
+T13	Discourse 517 524	blocked
+A37	Cause T13 Other
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Major
+#13	AnnotatorNotes T13	blocked it
+T14	suggestion 541 545	fact
+A40	Cause T14 Other
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Major
+#14	AnnotatorNotes T14	fact that
+T15	Prepositions 823 825	on
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Major
+#15	AnnotatorNotes T15	to
+T16	Articles 759 762	the
+A46	Cause T16 Absence_of_Category_in_L1
+A47	Weight-language T16 Critical
+A48	Weight-understanding T16 Major
+A49	Delete T16
+T17	lex_item_choice 654 658	need
+A50	Cause T17 Other
+A51	Weight-language T17 Major
+A52	Weight-understanding T17 Major
+#16	AnnotatorNotes T17	reason
+T18	lex_part_choice 928 956	It took me a half of an hour
+A53	Cause T18 Other
+A54	Weight-language T18 Major
+A55	Weight-understanding T18 Major
+#17	AnnotatorNotes T18	In half an hour
+T19	lex_item_choice 843 851	"master"
+A56	Cause T19 Other
+A57	Weight-language T19 Major
+A58	Weight-understanding T19 Major
+#18	AnnotatorNotes T19	mechanic
+T20	Tense_choice 887 889	is
+A59	Cause T20 Other
+A60	Weight-language T20 Major
+A61	Weight-understanding T20 Minor
+#19	AnnotatorNotes T20	was
+T21	Discourse 957 1028	to drive without any immediately stopped and after I applied the brakes
+A62	Cause T21 Other
+A63	Weight-language T21 Major
+A64	Weight-understanding T21 Major
+#20	AnnotatorNotes T21	I applied the brakes again, and
+T22	Tense_choice 1143 1148	knows
+A65	Cause T22 L1_interference
+A66	Weight-language T22 Major
+A67	Weight-understanding T22 Major
+#21	AnnotatorNotes T22	would know
+T23	Tense_choice 1154 1156	is
+A68	Cause T23 L1_interference
+A69	Weight-language T23 Major
+A70	Weight-understanding T23 Major
+#22	AnnotatorNotes T23	was
+T24	Tense_choice 1073 1079	travel
+A71	Cause T24 L1_interference
+A72	Weight-language T24 Major
+A73	Weight-understanding T24 Major
+#23	AnnotatorNotes T24	went
+T25	lex_item_choice 1073 1079	travel
+A74	Cause T25 Other
+A75	Weight-language T25 Major
+A76	Weight-understanding T25 Major
+#24	AnnotatorNotes T25	went
+T26	Voice_choice 1380 1389	was ended
+A77	Cause T26 Other
+A78	Weight-language T26 Major
+A79	Weight-understanding T26 Critical
+#25	AnnotatorNotes T26	ended
+T27	pos_DT 0 1	A
+#26	AnnotatorNotes T27	lemma = 'a'
+T28	pos_NN 2 7	story
+#27	AnnotatorNotes T28	lemma = 'story'
+T29	pos_DT 8 12	Some
+#28	AnnotatorNotes T29	lemma = 'some'
+T30	pos_NNS 13 18	years
+#29	AnnotatorNotes T30	lemma = 'year'
+T31	pos_RB 19 22	ago
+#30	AnnotatorNotes T31	lemma = 'ago'
+T32	pos_PRP 23 24	I
+#31	AnnotatorNotes T32	lemma = 'i'
+T33	pos_VBD 25 28	had
+#32	AnnotatorNotes T33	lemma = 'have'
+T34	pos_DT 29 31	an
+#33	AnnotatorNotes T34	lemma = 'a'
+T35	pos_JJ 32 35	old
+#34	AnnotatorNotes T35	lemma = 'old'
+T36	pos_NP 36 43	Russian
+#35	AnnotatorNotes T36	lemma = 'russian'
+T37	pos_NN 44 47	car
+#36	AnnotatorNotes T37	lemma = 'car'
+T38	pos_Fp 47 48	.
+#37	AnnotatorNotes T38	lemma = '.'
+T39	pos_PRP 49 51	It
+#38	AnnotatorNotes T39	lemma = 'it'
+T40	pos_VBD 52 55	was
+#39	AnnotatorNotes T40	lemma = 'be'
+T41	pos_Z 56 59	ten
+#40	AnnotatorNotes T41	lemma = '10'
+T42	pos_NNS 60 65	years
+#41	AnnotatorNotes T42	lemma = 'year'
+T43	pos_Fp 65 66	.
+#42	AnnotatorNotes T43	lemma = '.'
+T44	pos_IN 67 69	As
+#43	AnnotatorNotes T44	lemma = 'as'
+T45	pos_PRP2 70 72	my
+#44	AnnotatorNotes T45	lemma = 'my'
+T46	pos_NN 73 79	father
+#45	AnnotatorNotes T46	lemma = 'father'
+T47	pos_JJ 80 83	sad
+#46	AnnotatorNotes T47	lemma = 'sad'
+T48	pos_Fe 84 85	"
+#47	AnnotatorNotes T48	lemma = '"'
+T49	pos_PRP 85 87	It
+#48	AnnotatorNotes T49	lemma = 'it'
+T50	pos_VBD 88 91	was
+#49	AnnotatorNotes T50	lemma = 'be'
+T51	pos_RB 92 97	never
+#50	AnnotatorNotes T51	lemma = 'never'
+T52	pos_VBN 98 104	broken
+#51	AnnotatorNotes T52	lemma = 'break'
+T53	pos_RP 105 109	down
+#52	AnnotatorNotes T53	lemma = 'down'
+T54	pos_Fe 109 110	"
+#53	AnnotatorNotes T54	lemma = '"'
+T55	pos_Fp 110 111	.
+#54	AnnotatorNotes T55	lemma = '.'
+T56	pos_DT 112 116	That
+#55	AnnotatorNotes T56	lemma = 'that'
+T57	pos_VBZ 117 122	means
+#56	AnnotatorNotes T57	lemma = 'mean'
+T58	pos_IN 123 127	that
+#57	AnnotatorNotes T58	lemma = 'that'
+T59	pos_DT 128 131	the
+#58	AnnotatorNotes T59	lemma = 'the'
+T60	pos_NN 132 135	car
+#59	AnnotatorNotes T60	lemma = 'car'
+T61	pos_RB 136 141	never
+#60	AnnotatorNotes T61	lemma = 'never'
+T62	pos_VBN 142 148	broken
+#61	AnnotatorNotes T62	lemma = 'break'
+T63	pos_RP 149 153	down
+#62	AnnotatorNotes T63	lemma = 'down'
+T64	pos_IN 154 160	before
+#63	AnnotatorNotes T64	lemma = 'before'
+T65	pos_PRP 161 162	I
+#64	AnnotatorNotes T65	lemma = 'i'
+T66	pos_VBD 163 168	began
+#65	AnnotatorNotes T66	lemma = 'begin'
+T67	pos_TO 169 171	to
+#66	AnnotatorNotes T67	lemma = 'to'
+T68	pos_VB 172 175	use
+#67	AnnotatorNotes T68	lemma = 'use'
+T69	pos_PRP 176 178	it
+#68	AnnotatorNotes T69	lemma = 'it'
+T70	pos_Fp 178 179	.
+#69	AnnotatorNotes T70	lemma = '.'
+T71	pos_DT 180 184	Each
+#70	AnnotatorNotes T71	lemma = 'each'
+T72	pos_NN 185 188	day
+#71	AnnotatorNotes T72	lemma = 'day'
+T73	pos_PRP 189 190	I
+#72	AnnotatorNotes T73	lemma = 'i'
+T74	pos_VBD 191 194	was
+#73	AnnotatorNotes T74	lemma = 'be'
+T75	pos_VBG 195 203	founding
+#74	AnnotatorNotes T75	lemma = 'found'
+T76	pos_PRP 204 213	something
+#75	AnnotatorNotes T76	lemma = 'something'
+T77	pos_JJ 214 217	new
+#76	AnnotatorNotes T77	lemma = 'new'
+T78	pos_IN 218 222	that
+#77	AnnotatorNotes T78	lemma = 'that'
+T79	pos_VBD 223 226	was
+#78	AnnotatorNotes T79	lemma = 'be'
+T80	pos_RB 227 230	not
+#79	AnnotatorNotes T80	lemma = 'not'
+T81	pos_VBG 231 238	working
+#80	AnnotatorNotes T81	lemma = 'work'
+T82	pos_Fd 238 239	:
+#81	AnnotatorNotes T82	lemma = ':'
+T83	pos_NNS 240 246	lights
+#82	AnnotatorNotes T83	lemma = 'light'
+T84	pos_Fc 246 247	,
+#83	AnnotatorNotes T84	lemma = ','
+T85	pos_NN 248 259	accumulator
+#84	AnnotatorNotes T85	lemma = 'accumulator'
+T86	pos_Fc 259 260	,
+#85	AnnotatorNotes T86	lemma = ','
+T87	pos_NN 261 269	ignition
+#86	AnnotatorNotes T87	lemma = 'ignition'
+T88	pos_CC 270 273	and
+#87	AnnotatorNotes T88	lemma = 'and'
+T89	pos_NN 274 283	generator
+#88	AnnotatorNotes T89	lemma = 'generator'
+T90	pos_Fp 283 284	.
+#89	AnnotatorNotes T90	lemma = '.'
+T91	pos_DT 285 289	Some
+#90	AnnotatorNotes T91	lemma = 'some'
+T92	pos_IN 290 292	of
+#91	AnnotatorNotes T92	lemma = 'of'
+T93	pos_DT 293 297	that
+#92	AnnotatorNotes T93	lemma = 'that'
+T94	pos_NN 298 302	list
+#93	AnnotatorNotes T94	lemma = 'list'
+T95	pos_VBD 303 306	did
+#94	AnnotatorNotes T95	lemma = 'do'
+T96	pos_RB 307 310	not
+#95	AnnotatorNotes T96	lemma = 'not'
+T97	pos_VB 311 315	work
+#96	AnnotatorNotes T97	lemma = 'work'
+T98	pos_CC 316 319	and
+#97	AnnotatorNotes T98	lemma = 'and'
+T99	pos_VBD 320 323	was
+#98	AnnotatorNotes T99	lemma = 'be'
+T100	pos_DT 324 325	a
+#99	AnnotatorNotes T100	lemma = 'a'
+T101	pos_NN 326 332	result
+#100	AnnotatorNotes T101	lemma = 'result'
+T102	pos_IN 333 335	of
+#101	AnnotatorNotes T102	lemma = 'of'
+T103	pos_JJ 336 345	different
+#102	AnnotatorNotes T103	lemma = 'different'
+T104	pos_NNS 346 354	symptoms
+#103	AnnotatorNotes T104	lemma = 'symptom'
+T105	pos_Fp 354 355	.
+#104	AnnotatorNotes T105	lemma = '.'
+T106	pos_DT 356 359	One
+#105	AnnotatorNotes T106	lemma = 'one'
+T107	pos_NN 360 363	day
+#106	AnnotatorNotes T107	lemma = 'day'
+T108	pos_PRP 364 365	I
+#107	AnnotatorNotes T108	lemma = 'i'
+T109	pos_VBD 366 371	drove
+#108	AnnotatorNotes T109	lemma = 'drive'
+T110	pos_IN 372 374	on
+#109	AnnotatorNotes T110	lemma = 'on'
+T111	pos_DT 375 378	the
+#110	AnnotatorNotes T111	lemma = 'the'
+T112	pos_JJ 379 389	high-speed
+#111	AnnotatorNotes T112	lemma = 'high-speed'
+T113	pos_NN 390 394	road
+#112	AnnotatorNotes T113	lemma = 'road'
+T114	pos_CC 395 398	and
+#113	AnnotatorNotes T114	lemma = 'and'
+T115	pos_VBD 399 404	began
+#114	AnnotatorNotes T115	lemma = 'begin'
+T116	pos_TO 405 407	to
+#115	AnnotatorNotes T116	lemma = 'to'
+T117	pos_VB 408 413	brake
+#116	AnnotatorNotes T117	lemma = 'brake'
+T118	pos_Fp 413 414	.
+#117	AnnotatorNotes T118	lemma = '.'
+T119	pos_PRP 415 416	I
+#118	AnnotatorNotes T119	lemma = 'i'
+T120	pos_VBD 417 420	had
+#119	AnnotatorNotes T120	lemma = 'have'
+T121	pos_DT 421 422	a
+#120	AnnotatorNotes T121	lemma = 'a'
+T122	pos_JJ 423 427	long
+#121	AnnotatorNotes T122	lemma = 'long'
+T123	pos_NN 428 436	distance
+#122	AnnotatorNotes T123	lemma = 'distance'
+T124	pos_IN 437 443	behind
+#123	AnnotatorNotes T124	lemma = 'behind'
+T125	pos_Fp 443 444	.
+#124	AnnotatorNotes T125	lemma = '.'
+T126	pos_IN 445 447	As
+#125	AnnotatorNotes T126	lemma = 'as'
+T127	pos_RB 448 455	usually
+#126	AnnotatorNotes T127	lemma = 'usually'
+T128	pos_PRP 456 457	I
+#127	AnnotatorNotes T128	lemma = 'i'
+T129	pos_VBD 458 461	did
+#128	AnnotatorNotes T129	lemma = 'do'
+T130	pos_PRP 462 464	it
+#129	AnnotatorNotes T130	lemma = 'it'
+T131	pos_RB 465 471	slowly
+#130	AnnotatorNotes T131	lemma = 'slowly'
+T132	pos_Fp 471 472	.
+#131	AnnotatorNotes T132	lemma = '.'
+T133	pos_RB 473 481	Suddenly
+#132	AnnotatorNotes T133	lemma = 'suddenly'
+T134	pos_DT 482 485	the
+#133	AnnotatorNotes T134	lemma = 'the'
+T135	pos_NN 486 489	car
+#134	AnnotatorNotes T135	lemma = 'car'
+T136	pos_VBD 490 497	stopped
+#135	AnnotatorNotes T136	lemma = 'stop'
+T137	pos_IN 498 505	because
+#136	AnnotatorNotes T137	lemma = 'because'
+T138	pos_NN 506 509	car
+#137	AnnotatorNotes T138	lemma = 'car'
+T139	pos_NNS 510 516	brakes
+#138	AnnotatorNotes T139	lemma = 'brake'
+T140	pos_VBN 517 524	blocked
+#139	AnnotatorNotes T140	lemma = 'block'
+T141	pos_IN 525 527	in
+#140	AnnotatorNotes T141	lemma = 'in'
+T142	pos_NN 528 533	spite
+#141	AnnotatorNotes T142	lemma = 'spite'
+T143	pos_IN 534 536	of
+#142	AnnotatorNotes T143	lemma = 'of'
+T144	pos_DT 537 540	the
+#143	AnnotatorNotes T144	lemma = 'the'
+T145	pos_NN 541 545	fact
+#144	AnnotatorNotes T145	lemma = 'fact'
+T146	pos_PRP 546 547	I
+#145	AnnotatorNotes T146	lemma = 'i'
+T147	pos_VBD 548 556	released
+#146	AnnotatorNotes T147	lemma = 'release'
+T148	pos_DT 557 560	the
+#147	AnnotatorNotes T148	lemma = 'the'
+T149	pos_NNS 561 567	brakes
+#148	AnnotatorNotes T149	lemma = 'brake'
+T150	pos_Fp 567 568	.
+#149	AnnotatorNotes T150	lemma = '.'
+T151	pos_PRP 569 571	It
+#150	AnnotatorNotes T151	lemma = 'it'
+T152	pos_VBD 572 575	was
+#151	AnnotatorNotes T152	lemma = 'be'
+T153	pos_JJ 576 584	terrible
+#152	AnnotatorNotes T153	lemma = 'terrible'
+T154	pos_Fp 584 585	.
+#153	AnnotatorNotes T154	lemma = '.'
+T155	pos_IN 586 591	After
+#154	AnnotatorNotes T155	lemma = 'after'
+T156	pos_DT 592 595	the
+#155	AnnotatorNotes T156	lemma = 'the'
+T157	pos_NN 596 599	car
+#156	AnnotatorNotes T157	lemma = 'car'
+T158	pos_VBD 600 607	stopped
+#157	AnnotatorNotes T158	lemma = 'stop'
+T159	pos_IN 608 610	in
+#158	AnnotatorNotes T159	lemma = 'in'
+T160	pos_DT 611 614	the
+#159	AnnotatorNotes T160	lemma = 'the'
+T161	pos_NN 615 621	middle
+#160	AnnotatorNotes T161	lemma = 'middle'
+T162	pos_IN 622 624	of
+#161	AnnotatorNotes T162	lemma = 'of'
+T163	pos_DT 625 628	the
+#162	AnnotatorNotes T163	lemma = 'the'
+T164	pos_NN 629 633	road
+#163	AnnotatorNotes T164	lemma = 'road'
+T165	pos_IN 634 641	without
+#164	AnnotatorNotes T165	lemma = 'without'
+T166	pos_DT 642 645	any
+#165	AnnotatorNotes T166	lemma = 'any'
+T167	pos_JJ 646 653	serious
+#166	AnnotatorNotes T167	lemma = 'serious'
+T168	pos_NN 654 658	need
+#167	AnnotatorNotes T168	lemma = 'need'
+T169	pos_Fc 658 659	,
+#168	AnnotatorNotes T169	lemma = ','
+T170	pos_DT 660 663	the
+#169	AnnotatorNotes T170	lemma = 'the'
+T171	pos_NN 664 669	brake
+#170	AnnotatorNotes T171	lemma = 'brake'
+T172	pos_NN 670 675	pedal
+#171	AnnotatorNotes T172	lemma = 'pedal'
+T173	pos_VBD 676 681	began
+#172	AnnotatorNotes T173	lemma = 'begin'
+T174	pos_TO 682 684	to
+#173	AnnotatorNotes T174	lemma = 'to'
+T175	pos_VB 685 689	work
+#174	AnnotatorNotes T175	lemma = 'work'
+T176	pos_CC 690 693	and
+#175	AnnotatorNotes T176	lemma = 'and'
+T177	pos_PRP 694 696	it
+#176	AnnotatorNotes T177	lemma = 'it'
+T178	pos_VBD 697 700	was
+#177	AnnotatorNotes T178	lemma = 'be'
+T179	pos_JJ 701 709	possible
+#178	AnnotatorNotes T179	lemma = 'possible'
+T180	pos_TO 710 712	to
+#179	AnnotatorNotes T180	lemma = 'to'
+T181	pos_VB 713 717	move
+#180	AnnotatorNotes T181	lemma = 'move'
+T182	pos_Fp 717 718	.
+#181	AnnotatorNotes T182	lemma = '.'
+T183	pos_DT 719 722	The
+#182	AnnotatorNotes T183	lemma = 'the'
+T184	pos_NN 723 732	situation
+#183	AnnotatorNotes T184	lemma = 'situation'
+T185	pos_VBD 733 736	was
+#184	AnnotatorNotes T185	lemma = 'be'
+T186	pos_RB 737 740	not
+#185	AnnotatorNotes T186	lemma = 'not'
+T187	pos_RB 741 745	very
+#186	AnnotatorNotes T187	lemma = 'very'
+T188	pos_JJ 746 750	good
+#187	AnnotatorNotes T188	lemma = 'good'
+T189	pos_IN 751 758	because
+#188	AnnotatorNotes T189	lemma = 'because'
+T190	pos_DT 759 762	the
+#189	AnnotatorNotes T190	lemma = 'the'
+T191	pos_JJ 763 768	other
+#190	AnnotatorNotes T191	lemma = 'other'
+T192	pos_NN 769 772	car
+#191	AnnotatorNotes T192	lemma = 'car'
+T193	pos_NNS 773 779	owners
+#192	AnnotatorNotes T193	lemma = 'owner'
+T194	pos_VBD 780 784	were
+#193	AnnotatorNotes T194	lemma = 'be'
+T195	pos_RB 785 788	not
+#194	AnnotatorNotes T195	lemma = 'not'
+T196	pos_VBG 789 794	going
+#195	AnnotatorNotes T196	lemma = 'go'
+T197	pos_TO 795 797	to
+#196	AnnotatorNotes T197	lemma = 'to'
+T198	pos_VB 798 802	stop
+#197	AnnotatorNotes T198	lemma = 'stop'
+T199	pos_RB 803 814	immediately
+#198	AnnotatorNotes T199	lemma = 'immediately'
+T200	pos_Fp 814 815	.
+#199	AnnotatorNotes T200	lemma = '.'
+T201	pos_PRP 816 817	I
+#200	AnnotatorNotes T201	lemma = 'i'
+T202	pos_VBD 818 822	came
+#201	AnnotatorNotes T202	lemma = 'come'
+T203	pos_IN 823 825	on
+#202	AnnotatorNotes T203	lemma = 'on'
+T204	pos_DT 826 829	the
+#203	AnnotatorNotes T204	lemma = 'the'
+T205	pos_NN 830 837	service
+#204	AnnotatorNotes T205	lemma = 'service'
+T206	pos_Fp 837 838	.
+#205	AnnotatorNotes T206	lemma = '.'
+T207	pos_DT 839 842	The
+#206	AnnotatorNotes T207	lemma = 'the'
+T208	pos_Fe 843 844	"
+#207	AnnotatorNotes T208	lemma = '"'
+T209	pos_NN 844 850	master
+#208	AnnotatorNotes T209	lemma = 'master'
+T210	pos_Fe 850 851	"
+#209	AnnotatorNotes T210	lemma = '"'
+T211	pos_VBD 852 856	said
+#210	AnnotatorNotes T211	lemma = 'say'
+T212	pos_IN 857 861	that
+#211	AnnotatorNotes T212	lemma = 'that'
+T213	pos_PRP 862 864	he
+#212	AnnotatorNotes T213	lemma = 'he'
+T214	pos_VBD 865 869	knew
+#213	AnnotatorNotes T214	lemma = 'know'
+T215	pos_WP 870 874	what
+#214	AnnotatorNotes T215	lemma = 'what'
+T216	pos_DT 875 878	the
+#215	AnnotatorNotes T216	lemma = 'the'
+T217	pos_NN 879 886	problem
+#216	AnnotatorNotes T217	lemma = 'problem'
+T218	pos_VBZ 887 889	is
+#217	AnnotatorNotes T218	lemma = 'be'
+T219	pos_Fp 889 890	.
+#218	AnnotatorNotes T219	lemma = '.'
+T220	pos_IN 891 896	After
+#219	AnnotatorNotes T220	lemma = 'after'
+T221	pos_PRP2 897 900	his
+#220	AnnotatorNotes T221	lemma = 'his'
+T222	pos_NN 901 905	work
+#221	AnnotatorNotes T222	lemma = 'work'
+T223	pos_Fc 905 906	,
+#222	AnnotatorNotes T223	lemma = ','
+T224	pos_NN 907 914	nothing
+#223	AnnotatorNotes T224	lemma = 'nothing'
+T225	pos_VBZ 915 918	has
+#224	AnnotatorNotes T225	lemma = 'have'
+T226	pos_VBN 919 926	changed
+#225	AnnotatorNotes T226	lemma = 'change'
+T227	pos_Fp 926 927	.
+#226	AnnotatorNotes T227	lemma = '.'
+T228	pos_PRP 928 930	It
+#227	AnnotatorNotes T228	lemma = 'it'
+T229	pos_VBD 931 935	took
+#228	AnnotatorNotes T229	lemma = 'take'
+T230	pos_PRP 936 938	me
+#229	AnnotatorNotes T230	lemma = 'me'
+T231	pos_Zp 939 945	a half
+#230	AnnotatorNotes T231	lemma = '1/2'
+T232	pos_IN 946 948	of
+#231	AnnotatorNotes T232	lemma = 'of'
+T233	pos_DT 949 951	an
+#232	AnnotatorNotes T233	lemma = 'a'
+T234	pos_NN 952 956	hour
+#233	AnnotatorNotes T234	lemma = 'hour'
+T235	pos_TO 957 959	to
+#234	AnnotatorNotes T235	lemma = 'to'
+T236	pos_VB 960 965	drive
+#235	AnnotatorNotes T236	lemma = 'drive'
+T237	pos_IN 966 973	without
+#236	AnnotatorNotes T237	lemma = 'without'
+T238	pos_DT 974 977	any
+#237	AnnotatorNotes T238	lemma = 'any'
+T239	pos_RB 978 989	immediately
+#238	AnnotatorNotes T239	lemma = 'immediately'
+T240	pos_VBN 990 997	stopped
+#239	AnnotatorNotes T240	lemma = 'stop'
+T241	pos_CC 998 1001	and
+#240	AnnotatorNotes T241	lemma = 'and'
+T242	pos_IN 1002 1007	after
+#241	AnnotatorNotes T242	lemma = 'after'
+T243	pos_PRP 1008 1009	I
+#242	AnnotatorNotes T243	lemma = 'i'
+T244	pos_VBD 1010 1017	applied
+#243	AnnotatorNotes T244	lemma = 'apply'
+T245	pos_DT 1018 1021	the
+#244	AnnotatorNotes T245	lemma = 'the'
+T246	pos_NNS 1022 1028	brakes
+#245	AnnotatorNotes T246	lemma = 'brake'
+T247	pos_DT 1029 1032	the
+#246	AnnotatorNotes T247	lemma = 'the'
+T248	pos_NN 1033 1036	car
+#247	AnnotatorNotes T248	lemma = 'car'
+T249	pos_VBD 1037 1041	came
+#248	AnnotatorNotes T249	lemma = 'come'
+T250	pos_TO 1042 1044	to
+#249	AnnotatorNotes T250	lemma = 'to'
+T251	pos_DT 1045 1046	a
+#250	AnnotatorNotes T251	lemma = 'a'
+T252	pos_JJ 1047 1051	dead
+#251	AnnotatorNotes T252	lemma = 'dead'
+T253	pos_NN 1052 1056	stop
+#252	AnnotatorNotes T253	lemma = 'stop'
+T254	pos_Fp 1056 1057	.
+#253	AnnotatorNotes T254	lemma = '.'
+T255	pos_IN 1058 1063	About
+#254	AnnotatorNotes T255	lemma = 'about'
+T256	pos_DT 1064 1065	a
+#255	AnnotatorNotes T256	lemma = 'a'
+T257	pos_NN 1066 1070	week
+#256	AnnotatorNotes T257	lemma = 'week'
+T258	pos_PRP 1071 1072	I
+#257	AnnotatorNotes T258	lemma = 'i'
+T259	pos_VBP 1073 1079	travel
+#258	AnnotatorNotes T259	lemma = 'travel'
+T260	pos_IN 1080 1084	from
+#259	AnnotatorNotes T260	lemma = 'from'
+T261	pos_DT 1085 1088	one
+#260	AnnotatorNotes T261	lemma = 'one'
+T262	pos_NN 1089 1096	service
+#261	AnnotatorNotes T262	lemma = 'service'
+T263	pos_TO 1097 1099	to
+#262	AnnotatorNotes T263	lemma = 'to'
+T264	pos_DT 1100 1107	another
+#263	AnnotatorNotes T264	lemma = 'another'
+T265	pos_VBG 1108 1114	trying
+#264	AnnotatorNotes T265	lemma = 'try'
+T266	pos_TO 1115 1117	to
+#265	AnnotatorNotes T266	lemma = 'to'
+T267	pos_VB 1118 1122	find
+#266	AnnotatorNotes T267	lemma = 'find'
+T268	pos_DT 1123 1126	any
+#267	AnnotatorNotes T268	lemma = 'any'
+T269	pos_NN 1127 1137	specialist
+#268	AnnotatorNotes T269	lemma = 'specialist'
+T270	pos_Fc 1137 1138	,
+#269	AnnotatorNotes T270	lemma = ','
+T271	pos_WP 1139 1142	who
+#270	AnnotatorNotes T271	lemma = 'who'
+T272	pos_VBZ 1143 1148	knows
+#271	AnnotatorNotes T272	lemma = 'know'
+T273	pos_WP 1149 1153	what
+#272	AnnotatorNotes T273	lemma = 'what'
+T274	pos_VBZ 1154 1156	is
+#273	AnnotatorNotes T274	lemma = 'be'
+T275	pos_JJ 1157 1162	wrong
+#274	AnnotatorNotes T275	lemma = 'wrong'
+T276	pos_Fp 1162 1163	.
+#275	AnnotatorNotes T276	lemma = '.'
+T277	pos_CC 1164 1167	And
+#276	AnnotatorNotes T277	lemma = 'and'
+T278	pos_PRP 1168 1169	I
+#277	AnnotatorNotes T278	lemma = 'i'
+T279	pos_VBD 1170 1175	found
+#278	AnnotatorNotes T279	lemma = 'find'
+T280	pos_DT 1176 1179	the
+#279	AnnotatorNotes T280	lemma = 'the'
+T281	pos_NN 1180 1187	service
+#280	AnnotatorNotes T281	lemma = 'service'
+T282	pos_Fp 1187 1188	.
+#281	AnnotatorNotes T282	lemma = '.'
+T283	pos_PRP2 1189 1191	My
+#282	AnnotatorNotes T283	lemma = 'my'
+T284	pos_JJ 1192 1196	rear
+#283	AnnotatorNotes T284	lemma = 'rear'
+T285	pos_NNS 1197 1203	brakes
+#284	AnnotatorNotes T285	lemma = 'brake'
+T286	pos_VBD 1204 1207	did
+#285	AnnotatorNotes T286	lemma = 'do'
+T287	pos_RB 1208 1211	not
+#286	AnnotatorNotes T287	lemma = 'not'
+T288	pos_VB 1212 1216	work
+#287	AnnotatorNotes T288	lemma = 'work'
+T289	pos_Fd 1216 1217	:
+#288	AnnotatorNotes T289	lemma = ':'
+T290	pos_DT 1218 1221	the
+#289	AnnotatorNotes T290	lemma = 'the'
+T291	pos_NN 1222 1226	drop
+#290	AnnotatorNotes T291	lemma = 'drop'
+T292	pos_IN 1227 1229	of
+#291	AnnotatorNotes T292	lemma = 'of'
+T293	pos_VBG 1230 1237	braking
+#292	AnnotatorNotes T293	lemma = 'brake'
+T294	pos_NN 1238 1243	fluid
+#293	AnnotatorNotes T294	lemma = 'fluid'
+T295	pos_VBD 1244 1247	was
+#294	AnnotatorNotes T295	lemma = 'be'
+T296	pos_VBN 1248 1255	dropped
+#295	AnnotatorNotes T296	lemma = 'drop'
+T297	pos_IN 1256 1258	on
+#296	AnnotatorNotes T297	lemma = 'on'
+T298	pos_DT 1259 1262	the
+#297	AnnotatorNotes T298	lemma = 'the'
+T299	pos_NN 1263 1268	brake
+#298	AnnotatorNotes T299	lemma = 'brake'
+T300	pos_NN 1269 1273	shoe
+#299	AnnotatorNotes T300	lemma = 'shoe'
+T301	pos_Fp 1273 1274	.
+#300	AnnotatorNotes T301	lemma = '.'
+T302	pos_IN 1275 1280	After
+#301	AnnotatorNotes T302	lemma = 'after'
+T303	pos_PRP 1281 1282	I
+#302	AnnotatorNotes T303	lemma = 'i'
+T304	pos_VBD 1283 1288	broke
+#303	AnnotatorNotes T304	lemma = 'break'
+T305	pos_JJ 1289 1296	several
+#304	AnnotatorNotes T305	lemma = 'several'
+T306	pos_NNS 1297 1302	times
+#305	AnnotatorNotes T306	lemma = 'time'
+T307	pos_DT 1303 1306	the
+#306	AnnotatorNotes T307	lemma = 'the'
+T308	pos_NN 1307 1312	brake
+#307	AnnotatorNotes T308	lemma = 'brake'
+T309	pos_NN 1313 1317	shoe
+#308	AnnotatorNotes T309	lemma = 'shoe'
+T310	pos_VBD 1318 1323	dried
+#309	AnnotatorNotes T310	lemma = 'dry'
+T311	pos_RP 1324 1327	out
+#310	AnnotatorNotes T311	lemma = 'out'
+T312	pos_CC 1328 1331	and
+#311	AnnotatorNotes T312	lemma = 'and'
+T313	pos_DT 1332 1335	the
+#312	AnnotatorNotes T313	lemma = 'the'
+T314	pos_NNS 1336 1342	brakes
+#313	AnnotatorNotes T314	lemma = 'brake'
+T315	pos_VBD 1343 1350	blocked
+#314	AnnotatorNotes T315	lemma = 'block'
+T316	pos_Fp 1350 1351	.
+#315	AnnotatorNotes T316	lemma = '.'
+T317	pos_PRP 1352 1353	I
+#316	AnnotatorNotes T317	lemma = 'i'
+T318	pos_VBD 1354 1357	was
+#317	AnnotatorNotes T318	lemma = 'be'
+T319	pos_JJ 1358 1363	happy
+#318	AnnotatorNotes T319	lemma = 'happy'
+T320	pos_IN 1364 1368	that
+#319	AnnotatorNotes T320	lemma = 'that'
+T321	pos_PRP 1369 1379	everything
+#320	AnnotatorNotes T321	lemma = 'everything'
+T322	pos_VBD 1380 1383	was
+#321	AnnotatorNotes T322	lemma = 'be'
+T323	pos_VBN 1384 1389	ended
+#322	AnnotatorNotes T323	lemma = 'end'
+T324	pos_RB 1390 1394	well
+#323	AnnotatorNotes T324	lemma = 'well'
+T325	pos_Fp 1394 1395	.
+#324	AnnotatorNotes T325	lemma = '.'

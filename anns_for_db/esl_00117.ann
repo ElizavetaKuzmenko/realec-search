@@ -1,0 +1,362 @@
+T1	Art_form 118 133	person's  state
+#1	AnnotatorNotes T1	a person's state
+T2	Word_choice 128 133	state
+#2	AnnotatorNotes T2	emotional state
+T3	Art_form 138 158	very important issue
+#3	AnnotatorNotes T3	a very important
+T4	lex_item_choice 184 193	disclosed	
+#4	AnnotatorNotes T4	described
+T5	Word_choice 326 334	By-turn,	
+A5	Delete T5
+T6	Word_choice 500 508	named as	
+#6	AnnotatorNotes T6	referred to as
+T7	Punctuation 598 600	it
+#7	AnnotatorNotes T7	it,
+T8	Redundant_comp 600 602	in	
+A8	Delete T8
+T9	Tense_choice 621 634	would be made	
+#9	AnnotatorNotes T9	make
+T10	Word_order 815 817	to
+#10	AnnotatorNotes T10	an opportunity to create interiors with special goals to
+T11	Word_order 846 901	an opportunity to create interiors with special goals :	
+A11	Delete T11
+T12	Coherence 618 620	it
+A1	Cause T12 Other
+A2	Weight-language T12 Major
+A3	Weight-understanding T12 Major
+A6	Cause T8 Other
+A7	Weight-language T8 Major
+A9	Weight-understanding T8 Minor
+T13	pos_NP 0 15	Person-centered
+#11	AnnotatorNotes T13	lemma = 'person-centered'
+T14	pos_NN 16 24	approach
+#12	AnnotatorNotes T14	lemma = 'approach'
+T15	pos_IN 25 27	in
+#13	AnnotatorNotes T15	lemma = 'in'
+T16	pos_DT 28 31	the
+#14	AnnotatorNotes T16	lemma = 'the'
+T17	pos_JJ 32 40	interior
+#15	AnnotatorNotes T17	lemma = 'interior'
+T18	pos_NN 41 47	design
+#16	AnnotatorNotes T18	lemma = 'design'
+T19	pos_Fp 47 48	.
+#17	AnnotatorNotes T19	lemma = '.'
+T20	pos_DT 49 52	The
+#18	AnnotatorNotes T20	lemma = 'the'
+T21	pos_NN 53 57	bond
+#19	AnnotatorNotes T21	lemma = 'bond'
+T22	pos_IN 58 65	between
+#20	AnnotatorNotes T22	lemma = 'between'
+T23	pos_NN 66 77	environment
+#21	AnnotatorNotes T23	lemma = 'environment'
+T24	pos_Fc 77 78	,
+#22	AnnotatorNotes T24	lemma = ','
+T25	pos_DT 79 80	a
+#23	AnnotatorNotes T25	lemma = 'a'
+T26	pos_JJ 81 89	man-made
+#24	AnnotatorNotes T26	lemma = 'man-made'
+T27	pos_NN 90 98	interior
+#25	AnnotatorNotes T27	lemma = 'interior'
+T28	pos_RB 99 112	in particular
+#26	AnnotatorNotes T28	lemma = 'in_particular'
+T29	pos_Fc 112 113	,
+#27	AnnotatorNotes T29	lemma = ','
+T30	pos_CC 114 117	and
+#28	AnnotatorNotes T30	lemma = 'and'
+T31	pos_NN 118 124	person
+#29	AnnotatorNotes T31	lemma = 'person'
+T32	pos_POS 124 126	's
+#30	AnnotatorNotes T32	lemma = ''s'
+T33	pos_NN 128 133	state
+#31	AnnotatorNotes T33	lemma = 'state'
+T34	pos_VBZ 134 136	is
+#32	AnnotatorNotes T34	lemma = 'be'
+T35	pos_RB 138 142	very
+#33	AnnotatorNotes T35	lemma = 'very'
+T36	pos_JJ 143 152	important
+#34	AnnotatorNotes T36	lemma = 'important'
+T37	pos_NN 153 158	issue
+#35	AnnotatorNotes T37	lemma = 'issue'
+T38	pos_WDT 159 164	which
+#36	AnnotatorNotes T38	lemma = 'which'
+T39	pos_VBZ 165 168	has
+#37	AnnotatorNotes T39	lemma = 'have'
+T40	pos_RB 169 172	not
+#38	AnnotatorNotes T40	lemma = 'not'
+T41	pos_VBN 173 177	been
+#39	AnnotatorNotes T41	lemma = 'be'
+T42	pos_RB 178 183	fully
+#40	AnnotatorNotes T42	lemma = 'fully'
+T43	pos_VBN 184 193	disclosed
+#41	AnnotatorNotes T43	lemma = 'disclose'
+T44	pos_RB 194 197	yet
+#42	AnnotatorNotes T44	lemma = 'yet'
+T45	pos_Fp 197 198	.
+#43	AnnotatorNotes T45	lemma = '.'
+T46	pos_DT 199 202	The
+#44	AnnotatorNotes T46	lemma = 'the'
+T47	pos_NN 203 216	comprehension
+#45	AnnotatorNotes T47	lemma = 'comprehension'
+T48	pos_IN 217 219	of
+#46	AnnotatorNotes T48	lemma = 'of'
+T49	pos_NN 220 229	influence
+#47	AnnotatorNotes T49	lemma = 'influence'
+T50	pos_WDT 230 235	which
+#48	AnnotatorNotes T50	lemma = 'which'
+T51	pos_DT 236 239	the
+#49	AnnotatorNotes T51	lemma = 'the'
+T52	pos_JJS 240 248	simplest
+#50	AnnotatorNotes T52	lemma = 'simple'
+T53	pos_JJ 249 258	geometric
+#51	AnnotatorNotes T53	lemma = 'geometric'
+T54	pos_NNS 259 265	shapes
+#52	AnnotatorNotes T54	lemma = 'shape'
+T55	pos_VBP 266 270	have
+#53	AnnotatorNotes T55	lemma = 'have'
+T56	pos_IN 271 273	on
+#54	AnnotatorNotes T56	lemma = 'on'
+T57	pos_JJ 274 279	human
+#55	AnnotatorNotes T57	lemma = 'human'
+T58	pos_POS 279 281	's
+#56	AnnotatorNotes T58	lemma = ''s'
+T59	pos_NN 282 287	state
+#57	AnnotatorNotes T59	lemma = 'state'
+T60	pos_MD 288 293	could
+#58	AnnotatorNotes T60	lemma = 'can'
+T61	pos_VB 294 300	enrich
+#59	AnnotatorNotes T61	lemma = 'enrich'
+T62	pos_DT 301 305	this
+#60	AnnotatorNotes T62	lemma = 'this'
+T63	pos_NN 306 311	field
+#61	AnnotatorNotes T63	lemma = 'field'
+T64	pos_IN 312 314	of
+#62	AnnotatorNotes T64	lemma = 'of'
+T65	pos_NN 315 324	knowledge
+#63	AnnotatorNotes T65	lemma = 'knowledge'
+T66	pos_Fp 324 325	.
+#64	AnnotatorNotes T66	lemma = '.'
+T67	pos_NP 326 333	By-turn
+#65	AnnotatorNotes T67	lemma = 'by-turn'
+T68	pos_Fc 333 334	,
+#66	AnnotatorNotes T68	lemma = ','
+T69	pos_DT 335 339	this
+#67	AnnotatorNotes T69	lemma = 'this'
+T70	pos_NN 340 349	influence
+#68	AnnotatorNotes T70	lemma = 'influence'
+T71	pos_MD 350 355	could
+#69	AnnotatorNotes T71	lemma = 'can'
+T72	pos_VB 356 358	be
+#70	AnnotatorNotes T72	lemma = 'be'
+T73	pos_VBN 359 369	researched
+#71	AnnotatorNotes T73	lemma = 'research'
+T74	pos_IN 370 372	by
+#72	AnnotatorNotes T74	lemma = 'by'
+T75	pos_DT 373 376	the
+#73	AnnotatorNotes T75	lemma = 'the'
+T76	pos_NN 377 388	exploration
+#74	AnnotatorNotes T76	lemma = 'exploration'
+T77	pos_IN 389 391	of
+#75	AnnotatorNotes T77	lemma = 'of'
+T78	pos_JJ 392 397	human
+#76	AnnotatorNotes T78	lemma = 'human'
+T79	pos_POS 397 399	's
+#77	AnnotatorNotes T79	lemma = ''s'
+T80	pos_NN 400 410	perception
+#78	AnnotatorNotes T80	lemma = 'perception'
+T81	pos_IN 411 413	of
+#79	AnnotatorNotes T81	lemma = 'of'
+T82	pos_JJ 414 423	different
+#80	AnnotatorNotes T82	lemma = 'different'
+T83	pos_JJ 424 430	simple
+#81	AnnotatorNotes T83	lemma = 'simple'
+T84	pos_NNS 431 437	shapes
+#82	AnnotatorNotes T84	lemma = 'shape'
+T85	pos_Fpa 438 439	(
+#83	AnnotatorNotes T85	lemma = '('
+T86	pos_PDT 439 443	such
+#84	AnnotatorNotes T86	lemma = 'such'
+T87	pos_IN 444 446	as
+#85	AnnotatorNotes T87	lemma = 'as'
+T88	pos_NNS 447 454	circles
+#86	AnnotatorNotes T88	lemma = 'circle'
+T89	pos_Fc 454 455	,
+#87	AnnotatorNotes T89	lemma = ','
+T90	pos_NNS 456 465	triangles
+#88	AnnotatorNotes T90	lemma = 'triangle'
+T91	pos_Fc 465 466	,
+#89	AnnotatorNotes T91	lemma = ','
+T92	pos_NNS 467 474	squares
+#90	AnnotatorNotes T92	lemma = 'square'
+T93	pos_Fpt 474 475	)
+#91	AnnotatorNotes T93	lemma = ')'
+T94	pos_WDT 476 481	which
+#92	AnnotatorNotes T94	lemma = 'which'
+T95	pos_IN 482 484	in
+#93	AnnotatorNotes T95	lemma = 'in'
+T96	pos_DT 485 489	this
+#94	AnnotatorNotes T96	lemma = 'this'
+T97	pos_NN 490 495	paper
+#95	AnnotatorNotes T97	lemma = 'paper'
+T98	pos_VBP 496 499	are
+#96	AnnotatorNotes T98	lemma = 'be'
+T99	pos_VBN 500 505	named
+#97	AnnotatorNotes T99	lemma = 'name'
+T100	pos_IN 506 508	as
+#98	AnnotatorNotes T100	lemma = 'as'
+T101	pos_Fe 509 510	"
+#99	AnnotatorNotes T101	lemma = '"'
+T102	pos_JJ 510 517	spatial
+#100	AnnotatorNotes T102	lemma = 'spatial'
+T103	pos_NNS 518 528	archetypes
+#101	AnnotatorNotes T103	lemma = 'archetype'
+T104	pos_Fe 528 529	"
+#102	AnnotatorNotes T104	lemma = '"'
+T105	pos_Fp 529 530	.
+#103	AnnotatorNotes T105	lemma = '.'
+T106	pos_VBG 531 536	Using
+#104	AnnotatorNotes T106	lemma = 'use'
+T107	pos_DT 537 540	the
+#105	AnnotatorNotes T107	lemma = 'the'
+T108	pos_VBG 541 549	existing
+#106	AnnotatorNotes T108	lemma = 'exist'
+T109	pos_NN 550 566	color-psychology
+#107	AnnotatorNotes T109	lemma = 'color-psychology'
+T110	pos_NN 567 576	knowledge
+#108	AnnotatorNotes T110	lemma = 'knowledge'
+T111	pos_CC 577 580	and
+#109	AnnotatorNotes T111	lemma = 'and'
+T112	pos_VBG 581 587	trying
+#110	AnnotatorNotes T112	lemma = 'try'
+T113	pos_TO 588 590	to
+#111	AnnotatorNotes T113	lemma = 'to'
+T114	pos_VB 591 597	enrich
+#112	AnnotatorNotes T114	lemma = 'enrich'
+T115	pos_JJ 598 602	itin
+#113	AnnotatorNotes T115	lemma = 'itin'
+T116	pos_DT 603 607	this
+#114	AnnotatorNotes T116	lemma = 'this'
+T117	pos_NN 608 616	research
+#115	AnnotatorNotes T117	lemma = 'research'
+T118	pos_PRP 618 620	it
+#116	AnnotatorNotes T118	lemma = 'it'
+T119	pos_MD 621 626	would
+#117	AnnotatorNotes T119	lemma = 'would'
+T120	pos_VB 627 629	be
+#118	AnnotatorNotes T120	lemma = 'be'
+T121	pos_VBN 630 634	made
+#119	AnnotatorNotes T121	lemma = 'make'
+T122	pos_DT 635 637	an
+#120	AnnotatorNotes T122	lemma = 'a'
+T123	pos_NN 638 645	attempt
+#121	AnnotatorNotes T123	lemma = 'attempt'
+T124	pos_TO 646 648	to
+#122	AnnotatorNotes T124	lemma = 'to'
+T125	pos_VB 649 657	discover
+#123	AnnotatorNotes T125	lemma = 'discover'
+T126	pos_DT 658 662	some
+#124	AnnotatorNotes T126	lemma = 'some'
+T127	pos_JJ 663 670	typical
+#125	AnnotatorNotes T127	lemma = 'typical'
+T128	pos_NNS 671 680	reactions
+#126	AnnotatorNotes T128	lemma = 'reaction'
+T129	pos_IN 681 683	on
+#127	AnnotatorNotes T129	lemma = 'on'
+T130	pos_DT 684 687	the
+#128	AnnotatorNotes T130	lemma = 'the'
+T131	pos_JJS 688 696	simplest
+#129	AnnotatorNotes T131	lemma = 'simple'
+T132	pos_NNS 697 703	shapes
+#130	AnnotatorNotes T132	lemma = 'shape'
+T133	pos_IN 704 709	among
+#131	AnnotatorNotes T133	lemma = 'among'
+T134	pos_JJ 710 719	different
+#132	AnnotatorNotes T134	lemma = 'different'
+T135	pos_NNS 720 726	people
+#133	AnnotatorNotes T135	lemma = 'people'
+T136	pos_WDT 727 731	that
+#134	AnnotatorNotes T136	lemma = 'that'
+T137	pos_VBZ 732 737	means
+#135	AnnotatorNotes T137	lemma = 'mean'
+T138	pos_DT 738 741	the
+#136	AnnotatorNotes T138	lemma = 'the'
+T139	pos_NN 742 749	finding
+#137	AnnotatorNotes T139	lemma = 'finding'
+T140	pos_IN 750 752	of
+#138	AnnotatorNotes T140	lemma = 'of'
+T141	pos_JJ 753 759	common
+#139	AnnotatorNotes T141	lemma = 'common'
+T142	pos_NNS 760 771	perceptions
+#140	AnnotatorNotes T142	lemma = 'perception'
+T143	pos_Fc 771 772	,
+#141	AnnotatorNotes T143	lemma = ','
+T144	pos_CC 773 775	or
+#142	AnnotatorNotes T144	lemma = 'or'
+T145	pos_NNS 776 786	archetypes
+#143	AnnotatorNotes T145	lemma = 'archetype'
+T146	pos_Fp 786 787	.
+#144	AnnotatorNotes T146	lemma = '.'
+T147	pos_DT 788 792	This
+#145	AnnotatorNotes T147	lemma = 'this'
+T148	pos_NN 793 802	knowledge
+#146	AnnotatorNotes T148	lemma = 'knowledge'
+T149	pos_MD 803 808	could
+#147	AnnotatorNotes T149	lemma = 'can'
+T150	pos_VB 809 813	open
+#148	AnnotatorNotes T150	lemma = 'open'
+T151	pos_TO 815 817	to
+#149	AnnotatorNotes T151	lemma = 'to'
+T152	pos_NNS 818 831	psychologists
+#150	AnnotatorNotes T152	lemma = 'psychologist'
+T153	pos_CC 832 835	and
+#151	AnnotatorNotes T153	lemma = 'and'
+T154	pos_NNS 836 845	designers
+#152	AnnotatorNotes T154	lemma = 'designer'
+T155	pos_DT 846 848	an
+#153	AnnotatorNotes T155	lemma = 'a'
+T156	pos_NN 849 860	opportunity
+#154	AnnotatorNotes T156	lemma = 'opportunity'
+T157	pos_TO 861 863	to
+#155	AnnotatorNotes T157	lemma = 'to'
+T158	pos_VB 864 870	create
+#156	AnnotatorNotes T158	lemma = 'create'
+T159	pos_NNS 871 880	interiors
+#157	AnnotatorNotes T159	lemma = 'interior'
+T160	pos_IN 881 885	with
+#158	AnnotatorNotes T160	lemma = 'with'
+T161	pos_JJ 886 893	special
+#159	AnnotatorNotes T161	lemma = 'special'
+T162	pos_NNS 894 899	goals
+#160	AnnotatorNotes T162	lemma = 'goal'
+T163	pos_Fd 900 901	:
+#161	AnnotatorNotes T163	lemma = ':'
+T164	pos_TO 902 904	to
+#162	AnnotatorNotes T164	lemma = 'to'
+T165	pos_VB 905 909	make
+#163	AnnotatorNotes T165	lemma = 'make'
+T166	pos_NNS 910 916	people
+#164	AnnotatorNotes T166	lemma = 'people'
+T167	pos_VBD 917 924	relaxed
+#165	AnnotatorNotes T167	lemma = 'relax'
+T168	pos_/ 924 925	/
+#166	AnnotatorNotes T168	lemma = '/'
+T169	pos_VBN 925 932	excited
+#167	AnnotatorNotes T169	lemma = 'excite'
+T170	pos_Fc 932 933	,
+#168	AnnotatorNotes T170	lemma = ','
+T171	pos_TO 934 936	to
+#169	AnnotatorNotes T171	lemma = 'to'
+T172	pos_VB 937 944	control
+#170	AnnotatorNotes T172	lemma = 'control'
+T173	pos_NN 945 949	work
+#171	AnnotatorNotes T173	lemma = 'work'
+T174	pos_NN 950 958	behavior
+#172	AnnotatorNotes T174	lemma = 'behavior'
+T175	pos_CC 959 962	and
+#173	AnnotatorNotes T175	lemma = 'and'
+T176	pos_NNS 963 971	emotions
+#174	AnnotatorNotes T176	lemma = 'emotion'
+T177	pos_Fp 971 972	.
+#175	AnnotatorNotes T177	lemma = '.'
+T178	Voice_choice 621 634	would be made
+#5	AnnotatorNotes T178	make
+#8	AnnotatorNotes T12	we

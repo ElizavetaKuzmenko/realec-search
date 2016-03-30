@@ -1,0 +1,469 @@
+T1	Category_confusion 93 101	changing
+#1	AnnotatorNotes T1	changes
+T3	Incoherent_pron 278 281	his	
+#3	AnnotatorNotes T3	his or her
+T4	Art_form 432 437	locus
+#4	AnnotatorNotes T4	the
+T5	Art_form 467 473	source
+#5	AnnotatorNotes T5	a
+T6	Art_form 478 486	person's
+#6	AnnotatorNotes T6	a person's
+T7	Art_form 570 582	substitution
+#7	AnnotatorNotes T7	the
+T8	Nouns 629 639	researches
+#8	AnnotatorNotes T8	research
+T9	Word_choice 872 892	So there are several
+#9	AnnotatorNotes T9	Thus, this paper has the following
+T10	Word_choice 904 919	of the research
+A10	Delete T10
+T11	Category_confusion 933 944	explanation
+#11	AnnotatorNotes T11	explaining
+T12	Category_confusion 1023 1025	of
+#12	AnnotatorNotes T12	defining
+T13	Absence_comp_colloc 969 980	definitions
+#13	AnnotatorNotes T13	various definitions
+T15	Category_confusion 1009 1022	justification
+#15	AnnotatorNotes T15	justifying
+T17	Art_form 1027 1035	client's	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+#17	AnnotatorNotes T17	the client's
+T14	Category_confusion 1079 1092	assessment of
+#2	AnnotatorNotes T14	assessing
+T16	Art_choice 1132 1137	locus	 	 	 	 	 	 	 	 
+#10	AnnotatorNotes T16	the
+T18	Noun_number 949 959	difference
+#14	AnnotatorNotes T18	differences
+A1	Weight-language T1 Minor
+A2	Cause T4 Absence_of_Category_in_L1
+A3	Weight-language T4 Minor
+A4	Weight-language T3 Minor
+A5	Cause T3 L1_interference
+A6	Cause T5 Absence_of_Category_in_L1
+A7	Weight-language T5 Minor
+A8	Cause T6 Absence_of_Category_in_L1
+A9	Weight-language T6 Minor
+A11	Cause T7 Absence_of_Category_in_L1
+A12	Weight-language T7 Minor
+A13	Cause T8 L1_interference
+A14	Weight-language T8 Minor
+A15	Weight-language T9 Minor
+A16	Weight-language T10 Minor
+A17	Weight-language T11 Major
+A18	Weight-language T18 Minor
+A19	Weight-language T13 Minor
+A20	Weight-language T12 Minor
+A21	Weight-language T15 Minor
+A22	Cause T17 Absence_of_Category_in_L1
+A23	Weight-language T17 Minor
+A24	Weight-language T14 Minor
+A25	Cause T16 Absence_of_Category_in_L1
+A26	Weight-language T16 Minor
+T19	pos_﻿ 0 1	﻿
+#18	AnnotatorNotes T19	lemma = '﻿'
+T20	pos_NP 1 13	Introductory
+#19	AnnotatorNotes T20	lemma = 'introductory'
+T21	pos_NN 14 23	paragraph
+#20	AnnotatorNotes T21	lemma = 'paragraph'
+T22	pos_NP 25 28	The
+#21	AnnotatorNotes T22	lemma = 'the'
+T23	pos_NN 29 34	theme
+#22	AnnotatorNotes T23	lemma = 'theme'
+T24	pos_IN 35 37	of
+#23	AnnotatorNotes T24	lemma = 'of'
+T25	pos_PRP2 38 40	my
+#24	AnnotatorNotes T25	lemma = 'my'
+T26	pos_NN 41 47	course
+#25	AnnotatorNotes T26	lemma = 'course'
+T27	pos_NN 48 53	paper
+#26	AnnotatorNotes T27	lemma = 'paper'
+T28	pos_VBZ 54 56	is
+#27	AnnotatorNotes T28	lemma = 'be'
+T29	pos_DT 57 58	a
+#28	AnnotatorNotes T29	lemma = 'a'
+T30	pos_NN 59 65	client
+#29	AnnotatorNotes T30	lemma = 'client'
+T31	pos_POS 65 67	's
+#30	AnnotatorNotes T31	lemma = ''s'
+T32	pos_NN 68 73	locus
+#31	AnnotatorNotes T32	lemma = 'locus'
+T33	pos_IN 74 76	of
+#32	AnnotatorNotes T33	lemma = 'of'
+T34	pos_NN 77 84	control
+#33	AnnotatorNotes T34	lemma = 'control'
+T35	pos_CC 85 88	and
+#34	AnnotatorNotes T35	lemma = 'and'
+T36	pos_PRP2 89 92	its
+#35	AnnotatorNotes T36	lemma = 'its'
+T37	pos_VBG 93 101	changing
+#36	AnnotatorNotes T37	lemma = 'change'
+T38	pos_IN 102 108	during
+#37	AnnotatorNotes T38	lemma = 'during'
+T39	pos_DT 109 112	the
+#38	AnnotatorNotes T39	lemma = 'the'
+T40	pos_NN 113 126	psychotherapy
+#39	AnnotatorNotes T40	lemma = 'psychotherapy'
+T41	pos_Fp 126 127	.
+#40	AnnotatorNotes T41	lemma = '.'
+T42	pos_DT 129 132	The
+#41	AnnotatorNotes T42	lemma = 'the'
+T43	pos_NN 133 137	term
+#42	AnnotatorNotes T43	lemma = 'term'
+T44	pos_Fe 138 139	"
+#43	AnnotatorNotes T44	lemma = '"'
+T45	pos_NN 139 144	locus
+#44	AnnotatorNotes T45	lemma = 'locus'
+T46	pos_IN 145 147	of
+#45	AnnotatorNotes T46	lemma = 'of'
+T47	pos_NN 148 155	control
+#46	AnnotatorNotes T47	lemma = 'control'
+T48	pos_Fe 155 156	"
+#47	AnnotatorNotes T48	lemma = '"'
+T49	pos_VBD 157 160	was
+#48	AnnotatorNotes T49	lemma = 'be'
+T50	pos_RB 161 166	first
+#49	AnnotatorNotes T50	lemma = 'first'
+T51	pos_VBN 167 174	defined
+#50	AnnotatorNotes T51	lemma = 'define'
+T52	pos_IN 175 177	by
+#51	AnnotatorNotes T52	lemma = 'by'
+T53	pos_NP 178 189	 J.B.Rotter	
+#52	AnnotatorNotes T53	lemma = 'j.b._rotter'
+T54	pos_IN 190 192	as
+#53	AnnotatorNotes T54	lemma = 'as'
+T55	pos_DT 193 194	a
+#54	AnnotatorNotes T55	lemma = 'a'
+T56	pos_NN 195 201	person
+#55	AnnotatorNotes T56	lemma = 'person'
+T57	pos_POS 201 203	's
+#56	AnnotatorNotes T57	lemma = ''s'
+T58	pos_VBN 204 215	generalized
+#57	AnnotatorNotes T58	lemma = 'generalize'
+T59	pos_NN 216 226	expectancy
+#58	AnnotatorNotes T59	lemma = 'expectancy'
+T60	pos_IN 227 232	about
+#59	AnnotatorNotes T60	lemma = 'about'
+T61	pos_DT 233 236	the
+#60	AnnotatorNotes T61	lemma = 'the'
+T62	pos_NN 237 243	extent
+#61	AnnotatorNotes T62	lemma = 'extent'
+T63	pos_TO 244 246	to
+#62	AnnotatorNotes T63	lemma = 'to'
+T64	pos_WDT 247 252	which
+#63	AnnotatorNotes T64	lemma = 'which'
+T65	pos_NN 253 266	reinforcement
+#64	AnnotatorNotes T65	lemma = 'reinforcement'
+T66	pos_VBZ 267 274	depends
+#65	AnnotatorNotes T66	lemma = 'depend'
+T67	pos_IN 275 277	on
+#66	AnnotatorNotes T67	lemma = 'on'
+T68	pos_PRP2 278 281	his
+#67	AnnotatorNotes T68	lemma = 'his'
+T69	pos_NN 282 290	behavior
+#68	AnnotatorNotes T69	lemma = 'behavior'
+T70	pos_Fpa 291 292	(
+#69	AnnotatorNotes T70	lemma = '('
+T71	pos_JJ 292 300	internal
+#70	AnnotatorNotes T71	lemma = 'internal'
+T72	pos_NN 301 306	locus
+#71	AnnotatorNotes T72	lemma = 'locus'
+T73	pos_Fpt 306 307	)
+#72	AnnotatorNotes T73	lemma = ')'
+T74	pos_CC 308 310	or
+#73	AnnotatorNotes T74	lemma = 'or'
+T75	pos_JJ 311 319	external
+#74	AnnotatorNotes T75	lemma = 'external'
+T76	pos_NNS 320 333	circumstances
+#75	AnnotatorNotes T76	lemma = 'circumstance'
+T77	pos_Fpa 334 335	(
+#76	AnnotatorNotes T77	lemma = '('
+T78	pos_JJ 335 343	external
+#77	AnnotatorNotes T78	lemma = 'external'
+T79	pos_NN 344 349	locus
+#78	AnnotatorNotes T79	lemma = 'locus'
+T80	pos_Fpt 349 350	)
+#79	AnnotatorNotes T80	lemma = ')'
+T81	pos_Fp 180 181	.
+#80	AnnotatorNotes T81	lemma = '.'
+T82	pos_IN 352 360	Although
+#81	AnnotatorNotes T82	lemma = 'although'
+T83	pos_DT 361 365	this
+#82	AnnotatorNotes T83	lemma = 'this'
+T84	pos_NN 366 376	definition
+#83	AnnotatorNotes T84	lemma = 'definition'
+T85	pos_VBZ 377 379	is
+#84	AnnotatorNotes T85	lemma = 'be'
+T86	pos_RB 380 386	widely
+#85	AnnotatorNotes T86	lemma = 'widely'
+T87	pos_VBN 387 391	used
+#86	AnnotatorNotes T87	lemma = 'use'
+T88	pos_IN 392 394	in
+#87	AnnotatorNotes T88	lemma = 'in'
+T89	pos_JJ 395 405	scientific
+#88	AnnotatorNotes T89	lemma = 'scientific'
+T90	pos_NNS 406 412	papers
+#89	AnnotatorNotes T90	lemma = 'paper'
+T91	pos_Fc 412 413	,
+#90	AnnotatorNotes T91	lemma = ','
+T92	pos_IN 414 416	in
+#91	AnnotatorNotes T92	lemma = 'in'
+T93	pos_NN 417 430	psychotherapy
+#92	AnnotatorNotes T93	lemma = 'psychotherapy'
+T94	pos_NN 432 437	locus
+#93	AnnotatorNotes T94	lemma = 'locus'
+T95	pos_IN 438 440	of
+#94	AnnotatorNotes T95	lemma = 'of'
+T96	pos_NN 441 448	control
+#95	AnnotatorNotes T96	lemma = 'control'
+T97	pos_VBZ 449 451	is
+#96	AnnotatorNotes T97	lemma = 'be'
+T98	pos_VBN 452 462	understood
+#97	AnnotatorNotes T98	lemma = 'understand'
+T99	pos_IN 463 465	as
+#98	AnnotatorNotes T99	lemma = 'as'
+T100	pos_NN 467 473	source
+#99	AnnotatorNotes T100	lemma = 'source'
+T101	pos_IN 474 476	of
+#100	AnnotatorNotes T101	lemma = 'of'
+T102	pos_NN 478 484	person
+#101	AnnotatorNotes T102	lemma = 'person'
+T103	pos_POS 484 486	's
+#102	AnnotatorNotes T103	lemma = ''s'
+T104	pos_NNS 487 496	decisions
+#103	AnnotatorNotes T104	lemma = 'decision'
+T105	pos_CC 497 500	and
+#104	AnnotatorNotes T105	lemma = 'and'
+T106	pos_NNS 501 510	judgments
+#105	AnnotatorNotes T106	lemma = 'judgment'
+T107	pos_Fp 182 183	.
+#106	AnnotatorNotes T107	lemma = '.'
+T108	pos_VBG 512 520	Ignoring
+#107	AnnotatorNotes T108	lemma = 'ignore'
+T109	pos_DT 521 524	the
+#108	AnnotatorNotes T109	lemma = 'the'
+T110	pos_NN 525 535	difference
+#109	AnnotatorNotes T110	lemma = 'difference'
+T111	pos_IN 536 543	between
+#110	AnnotatorNotes T111	lemma = 'between'
+T112	pos_DT 544 549	these
+#111	AnnotatorNotes T112	lemma = 'these'
+T113	pos_NNS 550 561	definitions
+#112	AnnotatorNotes T113	lemma = 'definition'
+T114	pos_VBZ 562 568	causes
+#113	AnnotatorNotes T114	lemma = 'cause'
+T115	pos_NN 570 582	substitution
+#114	AnnotatorNotes T115	lemma = 'substitution'
+T116	pos_IN 583 585	of
+#115	AnnotatorNotes T116	lemma = 'of'
+T117	pos_NNS 586 594	concepts
+#116	AnnotatorNotes T117	lemma = 'concept'
+T118	pos_CC 595 598	and
+#117	AnnotatorNotes T118	lemma = 'and'
+T119	pos_JJ 599 606	invalid
+#118	AnnotatorNotes T119	lemma = 'invalid'
+T120	pos_NNS 607 614	results
+#119	AnnotatorNotes T120	lemma = 'result'
+T121	pos_IN 615 617	in
+#120	AnnotatorNotes T121	lemma = 'in'
+T122	pos_JJ 618 628	scientific
+#121	AnnotatorNotes T122	lemma = 'scientific'
+T123	pos_VBZ 629 639	researches
+#122	AnnotatorNotes T123	lemma = 'research'
+T124	pos_IN 640 642	in
+#123	AnnotatorNotes T124	lemma = 'in'
+T125	pos_DT 643 646	the
+#124	AnnotatorNotes T125	lemma = 'the'
+T126	pos_NN 647 652	field
+#125	AnnotatorNotes T126	lemma = 'field'
+T127	pos_IN 653 655	of
+#126	AnnotatorNotes T127	lemma = 'of'
+T128	pos_DT 656 659	the
+#127	AnnotatorNotes T128	lemma = 'the'
+T129	pos_NN 660 673	psychotherapy
+#128	AnnotatorNotes T129	lemma = 'psychotherapy'
+T130	pos_Fp 350 351	.
+#129	AnnotatorNotes T130	lemma = '.'
+T131	pos_RB 675 686	In addition
+#130	AnnotatorNotes T131	lemma = 'in_addition'
+T132	pos_Fc 686 687	,
+#131	AnnotatorNotes T132	lemma = ','
+T133	pos_JJ 688 697	different
+#132	AnnotatorNotes T133	lemma = 'different'
+T134	pos_NNS 698 709	definitions
+#133	AnnotatorNotes T134	lemma = 'definition'
+T135	pos_IN 710 712	of
+#134	AnnotatorNotes T135	lemma = 'of'
+T136	pos_DT 713 716	the
+#135	AnnotatorNotes T136	lemma = 'the'
+T137	pos_NN 717 721	term
+#136	AnnotatorNotes T137	lemma = 'term'
+T138	pos_NN 722 728	result
+#137	AnnotatorNotes T138	lemma = 'result'
+T139	pos_IN 729 731	in
+#138	AnnotatorNotes T139	lemma = 'in'
+T140	pos_JJ 732 741	different
+#139	AnnotatorNotes T140	lemma = 'different'
+T141	pos_NNS 742 747	views
+#140	AnnotatorNotes T141	lemma = 'view'
+T142	pos_IN 748 750	on
+#141	AnnotatorNotes T142	lemma = 'on'
+T143	pos_DT 751 754	the
+#142	AnnotatorNotes T143	lemma = 'the'
+T144	pos_JJ 755 762	optimal
+#143	AnnotatorNotes T144	lemma = 'optimal'
+T145	pos_NN 763 775	localization
+#144	AnnotatorNotes T145	lemma = 'localization'
+T146	pos_IN 776 778	of
+#145	AnnotatorNotes T146	lemma = 'of'
+T147	pos_NN 779 786	control
+#146	AnnotatorNotes T147	lemma = 'control'
+T148	pos_Fpa 787 788	(
+#147	AnnotatorNotes T148	lemma = '('
+T149	pos_JJ 788 796	external
+#148	AnnotatorNotes T149	lemma = 'external'
+T150	pos_Fc 796 797	,
+#149	AnnotatorNotes T150	lemma = ','
+T151	pos_JJ 798 806	internal
+#150	AnnotatorNotes T151	lemma = 'internal'
+T152	pos_CC 807 809	or
+#151	AnnotatorNotes T152	lemma = 'or'
+T153	pos_JJ 810 816	medium
+#152	AnnotatorNotes T153	lemma = 'medium'
+T154	pos_Fpt 816 817	)
+#153	AnnotatorNotes T154	lemma = ')'
+T155	pos_Fc 817 818	,
+#154	AnnotatorNotes T155	lemma = ','
+T156	pos_CC 819 822	and
+#155	AnnotatorNotes T156	lemma = 'and'
+T157	pos_RB 823 835	consequently
+#156	AnnotatorNotes T157	lemma = 'consequently'
+T158	pos_Fc 835 836	,
+#157	AnnotatorNotes T158	lemma = ','
+T159	pos_IN 837 839	on
+#158	AnnotatorNotes T159	lemma = 'on'
+T160	pos_DT 840 843	the
+#159	AnnotatorNotes T160	lemma = 'the'
+T161	pos_NNS 844 849	goals
+#160	AnnotatorNotes T161	lemma = 'goal'
+T162	pos_IN 850 852	of
+#161	AnnotatorNotes T162	lemma = 'of'
+T163	pos_DT 853 856	the
+#162	AnnotatorNotes T163	lemma = 'the'
+T164	pos_NN 857 870	psychotherapy
+#163	AnnotatorNotes T164	lemma = 'psychotherapy'
+T165	pos_Fp 510 511	.
+#164	AnnotatorNotes T165	lemma = '.'
+T166	pos_RB 872 874	So
+#165	AnnotatorNotes T166	lemma = 'so'
+T167	pos_EX 875 880	there
+#166	AnnotatorNotes T167	lemma = 'there'
+T168	pos_VBP 881 884	are
+#167	AnnotatorNotes T168	lemma = 'be'
+T169	pos_JJ 885 892	several
+#168	AnnotatorNotes T169	lemma = 'several'
+T170	pos_NNS 893 903	objectives
+#169	AnnotatorNotes T170	lemma = 'objective'
+T171	pos_IN 904 906	of
+#170	AnnotatorNotes T171	lemma = 'of'
+T172	pos_DT 907 910	the
+#171	AnnotatorNotes T172	lemma = 'the'
+T173	pos_NN 911 919	research
+#172	AnnotatorNotes T173	lemma = 'research'
+T174	pos_Fd 919 920	:
+#173	AnnotatorNotes T174	lemma = ':'
+T175	pos_VBG 921 928	showing
+#174	AnnotatorNotes T175	lemma = 'show'
+T176	pos_CC 929 932	and
+#175	AnnotatorNotes T176	lemma = 'and'
+T177	pos_NN 933 944	explanation
+#176	AnnotatorNotes T177	lemma = 'explanation'
+T178	pos_DT 945 948	the
+#177	AnnotatorNotes T178	lemma = 'the'
+T179	pos_NN 949 959	difference
+#178	AnnotatorNotes T179	lemma = 'difference'
+T180	pos_IN 960 967	between
+#179	AnnotatorNotes T180	lemma = 'between'
+T181	pos_NNS 969 980	definitions
+#180	AnnotatorNotes T181	lemma = 'definition'
+T182	pos_IN 981 983	of
+#181	AnnotatorNotes T182	lemma = 'of'
+T183	pos_DT 984 987	the
+#182	AnnotatorNotes T183	lemma = 'the'
+T184	pos_NN 988 992	term
+#183	AnnotatorNotes T184	lemma = 'term'
+T185	pos_Fx 992 993	;
+#184	AnnotatorNotes T185	lemma = ';'
+T186	pos_NN 994 1004	definition
+#185	AnnotatorNotes T186	lemma = 'definition'
+T187	pos_CC 1005 1008	and
+#186	AnnotatorNotes T187	lemma = 'and'
+T188	pos_NN 1009 1022	justification
+#187	AnnotatorNotes T188	lemma = 'justification'
+T189	pos_IN 1023 1025	of
+#188	AnnotatorNotes T189	lemma = 'of'
+T190	pos_NN 1027 1033	client
+#189	AnnotatorNotes T190	lemma = 'client'
+T191	pos_POS 1033 1035	's
+#190	AnnotatorNotes T191	lemma = ''s'
+T192	pos_JJ 1036 1043	optimal
+#191	AnnotatorNotes T192	lemma = 'optimal'
+T193	pos_NN 1044 1049	locus
+#192	AnnotatorNotes T193	lemma = 'locus'
+T194	pos_IN 1050 1052	of
+#193	AnnotatorNotes T194	lemma = 'of'
+T195	pos_NN 1053 1060	control
+#194	AnnotatorNotes T195	lemma = 'control'
+T196	pos_IN 1061 1063	in
+#195	AnnotatorNotes T196	lemma = 'in'
+T197	pos_NN 1064 1077	psychotherapy
+#196	AnnotatorNotes T197	lemma = 'psychotherapy'
+T198	pos_Fx 1077 1078	;
+#197	AnnotatorNotes T198	lemma = ';'
+T199	pos_NN 1079 1089	assessment
+#198	AnnotatorNotes T199	lemma = 'assessment'
+T200	pos_IN 1090 1092	of
+#199	AnnotatorNotes T200	lemma = 'of'
+T201	pos_DT 1093 1096	the
+#200	AnnotatorNotes T201	lemma = 'the'
+T202	pos_NNS 1097 1104	factors
+#201	AnnotatorNotes T202	lemma = 'factor'
+T203	pos_VBG 1105 1116	influencing
+#202	AnnotatorNotes T203	lemma = 'influence'
+T204	pos_DT 1117 1120	the
+#203	AnnotatorNotes T204	lemma = 'the'
+T205	pos_NN 1121 1127	change
+#204	AnnotatorNotes T205	lemma = 'change'
+T206	pos_IN 1128 1130	of
+#205	AnnotatorNotes T206	lemma = 'of'
+T207	pos_NN 1132 1137	locus
+#206	AnnotatorNotes T207	lemma = 'locus'
+T208	pos_IN 1138 1140	of
+#207	AnnotatorNotes T208	lemma = 'of'
+T209	pos_NN 1141 1148	control
+#208	AnnotatorNotes T209	lemma = 'control'
+T210	pos_Fx 1148 1149	;
+#209	AnnotatorNotes T210	lemma = ';'
+T211	pos_VBG 1150 1157	finding
+#210	AnnotatorNotes T211	lemma = 'find'
+T212	pos_NNS 1158 1162	ways
+#211	AnnotatorNotes T212	lemma = 'way'
+T213	pos_IN 1163 1165	of
+#212	AnnotatorNotes T213	lemma = 'of'
+T214	pos_VBG 1166 1175	achieving
+#213	AnnotatorNotes T214	lemma = 'achieve'
+T215	pos_DT 1176 1180	this
+#214	AnnotatorNotes T215	lemma = 'this'
+T216	pos_JJ 1181 1188	optimal
+#215	AnnotatorNotes T216	lemma = 'optimal'
+T217	pos_NN 1189 1201	localization
+#216	AnnotatorNotes T217	lemma = 'localization'
+T218	pos_IN 1202 1204	of
+#217	AnnotatorNotes T218	lemma = 'of'
+T219	pos_NN 1205 1212	control
+#218	AnnotatorNotes T219	lemma = 'control'
+T220	pos_IN 1213 1219	during
+#219	AnnotatorNotes T220	lemma = 'during'
+T221	pos_DT 1220 1223	the
+#220	AnnotatorNotes T221	lemma = 'the'
+T222	pos_NN 1224 1237	psychotherapy
+#221	AnnotatorNotes T222	lemma = 'psychotherapy'
+T223	pos_Fp 673 674	.
+#222	AnnotatorNotes T223	lemma = '.'

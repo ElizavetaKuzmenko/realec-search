@@ -1,0 +1,928 @@
+T1	lex_item_choice 137 143	amount
+A1	Weight-language T1 Major
+#1	AnnotatorNotes T1	number
+A2	Cause T1 Typo
+T2	lex_item_choice 254 265	word phrase
+#2	AnnotatorNotes T2	utterance
+T4	lex_part_choice 474 478	like
+A5	Cause T4 Other
+A6	Weight-language T4 Major
+#4	AnnotatorNotes T4	as
+T5	suggestion 559 570	distinguish
+A7	Cause T5 Other
+A8	Weight-language T5 Critical
+#5	AnnotatorNotes T5	distinguish between
+T6	note 820 828	confirms
+#6	AnnotatorNotes T6	states
+A9	Cause T6 Other
+A10	Weight-language T6 Minor
+T7	note 1032 1068	The sufficient condition of homonymy
+A11	Cause T7 Other
+A12	Weight-language T7 Major
+#7	AnnotatorNotes T7	awkward
+T8	lex_item_choice 1418 1427	adoptions
+A13	Cause T8 Other
+A14	Weight-language T8 Major
+#8	AnnotatorNotes T8	borrowings
+T9	Art_choice 1850 1859	Intuition
+A15	Cause T9 Absence_of_Category_in_L1
+A16	Weight-language T9 Critical
+#9	AnnotatorNotes T9	The intuition
+T10	Standard 2126 2162	what for one person is very familiar
+A17	Cause T10 L1_interference
+A18	Weight-language T10 Critical
+#10	AnnotatorNotes T10	what is very familiar for one person
+T11	lex_part_choice 2478 2484	enough
+A19	Cause T11 Other
+A20	Weight-language T11 Major
+A21	Delete T11
+T12	Punctuation 2305 2316	up,although
+A22	Cause T12 Typo
+A23	Weight-language T12 Minor
+#11	AnnotatorNotes T12	up, although
+T13	pos_NP 0 10	John Lyons
+#12	AnnotatorNotes T13	lemma = 'john_lyons'
+T14	pos_Fp 10 11	.
+#13	AnnotatorNotes T14	lemma = '.'
+T15	pos_NP 12 20	Homonymy
+#14	AnnotatorNotes T15	lemma = 'homonymy'
+T16	pos_CC 21 24	and
+#15	AnnotatorNotes T16	lemma = 'and'
+T17	pos_NP 25 33	Polysemy
+#16	AnnotatorNotes T17	lemma = 'polysemy'
+T18	pos_Fd 34 35	:
+#17	AnnotatorNotes T18	lemma = ':'
+T19	pos_JJ 36 43	Lexical
+#18	AnnotatorNotes T19	lemma = 'lexical'
+T20	pos_CC 44 47	and
+#19	AnnotatorNotes T20	lemma = 'and'
+T21	pos_NP 48 69	Grammatical Ambiguity
+#20	AnnotatorNotes T21	lemma = 'grammatical_ambiguity'
+T22	pos_Fp 69 70	.
+#21	AnnotatorNotes T22	lemma = '.'
+T23	pos_JJ 71 81	Linguistic
+#22	AnnotatorNotes T23	lemma = 'linguistic'
+T24	pos_NP 82 91	Semantics
+#23	AnnotatorNotes T24	lemma = 'semantics'
+T25	pos_Fp 91 92	.
+#24	AnnotatorNotes T25	lemma = '.'
+T26	pos_RB 93 95	Pp
+#25	AnnotatorNotes T26	lemma = 'pp'
+T27	pos_Fp 95 96	.
+#26	AnnotatorNotes T27	lemma = '.'
+T28	pos_Z 97 102	54-60
+#27	AnnotatorNotes T28	lemma = '54-60'
+T29	pos_Fp 102 103	.
+#28	AnnotatorNotes T29	lemma = '.'
+T30	pos_DT 106 111	Every
+#29	AnnotatorNotes T30	lemma = 'every'
+T31	pos_NN 112 115	day
+#30	AnnotatorNotes T31	lemma = 'day'
+T32	pos_PRP 116 118	we
+#31	AnnotatorNotes T32	lemma = 'we'
+T33	pos_VBP 119 122	use
+#32	AnnotatorNotes T33	lemma = 'use'
+T34	pos_DT 123 124	a
+#33	AnnotatorNotes T34	lemma = 'a'
+T35	pos_JJ 125 136	significant
+#34	AnnotatorNotes T35	lemma = 'significant'
+T36	pos_NN 137 143	amount
+#35	AnnotatorNotes T36	lemma = 'amount'
+T37	pos_IN 144 146	of
+#36	AnnotatorNotes T37	lemma = 'of'
+T38	pos_NNS 147 152	words
+#37	AnnotatorNotes T38	lemma = 'word'
+T39	pos_WDT 153 157	that
+#38	AnnotatorNotes T39	lemma = 'that'
+T40	pos_VBP 158 162	have
+#39	AnnotatorNotes T40	lemma = 'have'
+T41	pos_JJ 163 172	different
+#40	AnnotatorNotes T41	lemma = 'different'
+T42	pos_NNS 173 188	interpretations
+#41	AnnotatorNotes T42	lemma = 'interpretation'
+T43	pos_CC 189 192	and
+#42	AnnotatorNotes T43	lemma = 'and'
+T44	pos_RB 193 202	generally
+#43	AnnotatorNotes T44	lemma = 'generally'
+T45	pos_PRP 203 205	we
+#44	AnnotatorNotes T45	lemma = 'we'
+T46	pos_VBP 206 210	need
+#45	AnnotatorNotes T46	lemma = 'need'
+T47	pos_DT 211 212	a
+#46	AnnotatorNotes T47	lemma = 'a'
+T48	pos_NN 213 220	context
+#47	AnnotatorNotes T48	lemma = 'context'
+T49	pos_TO 221 223	to
+#48	AnnotatorNotes T49	lemma = 'to'
+T50	pos_VB 224 234	understand
+#49	AnnotatorNotes T50	lemma = 'understand'
+T51	pos_DT 235 238	the
+#50	AnnotatorNotes T51	lemma = 'the'
+T52	pos_NN 239 246	meaning
+#51	AnnotatorNotes T52	lemma = 'meaning'
+T53	pos_IN 247 249	of
+#52	AnnotatorNotes T53	lemma = 'of'
+T54	pos_DT 250 253	the
+#53	AnnotatorNotes T54	lemma = 'the'
+T55	pos_NN 254 258	word
+#54	AnnotatorNotes T55	lemma = 'word'
+T56	pos_NN 259 265	phrase
+#55	AnnotatorNotes T56	lemma = 'phrase'
+T57	pos_Fp 265 266	.
+#56	AnnotatorNotes T57	lemma = '.'
+T58	pos_NP 267 277	John Lyons
+#57	AnnotatorNotes T58	lemma = 'john_lyons'
+T59	pos_Fc 277 278	,
+#58	AnnotatorNotes T59	lemma = ','
+T60	pos_DT 279 281	an
+#59	AnnotatorNotes T60	lemma = 'a'
+T61	pos_JJ 282 289	English
+#60	AnnotatorNotes T61	lemma = 'english'
+T62	pos_NN 290 298	linguist
+#61	AnnotatorNotes T62	lemma = 'linguist'
+T63	pos_Fc 298 299	,
+#62	AnnotatorNotes T63	lemma = ','
+T64	pos_VBZ 300 308	attempts
+#63	AnnotatorNotes T64	lemma = 'attempt'
+T65	pos_TO 309 311	to
+#64	AnnotatorNotes T65	lemma = 'to'
+T66	pos_VB 312 317	study
+#65	AnnotatorNotes T66	lemma = 'study'
+T67	pos_WP 318 322	what
+#66	AnnotatorNotes T67	lemma = 'what'
+T68	pos_DT 323 326	the
+#67	AnnotatorNotes T68	lemma = 'the'
+T69	pos_NN 327 333	notion
+#68	AnnotatorNotes T69	lemma = 'notion'
+T70	pos_IN 334 336	of
+#69	AnnotatorNotes T70	lemma = 'of'
+T71	pos_Fe 337 338	"
+#70	AnnotatorNotes T71	lemma = '"'
+T72	pos_JJ 338 345	lexical
+#71	AnnotatorNotes T72	lemma = 'lexical'
+T73	pos_NN 346 355	ambiguity
+#72	AnnotatorNotes T73	lemma = 'ambiguity'
+T74	pos_Fe 355 356	"
+#73	AnnotatorNotes T74	lemma = '"'
+T75	pos_VBZ 357 362	means
+#74	AnnotatorNotes T75	lemma = 'mean'
+T76	pos_Fp 362 363	.
+#75	AnnotatorNotes T76	lemma = '.'
+T77	pos_IN 364 366	In
+#76	AnnotatorNotes T77	lemma = 'in'
+T78	pos_DT 367 370	the
+#77	AnnotatorNotes T78	lemma = 'the'
+T79	pos_NN 371 378	chapter
+#78	AnnotatorNotes T79	lemma = 'chapter'
+T80	pos_NP 379 387	Homonymy
+#79	AnnotatorNotes T80	lemma = 'homonymy'
+T81	pos_CC 388 391	and
+#80	AnnotatorNotes T81	lemma = 'and'
+T82	pos_NN 392 400	polysemy
+#81	AnnotatorNotes T82	lemma = 'polysemy'
+T83	pos_Fx 400 401	;
+#82	AnnotatorNotes T83	lemma = ';'
+T84	pos_JJ 402 409	lexical
+#83	AnnotatorNotes T84	lemma = 'lexical'
+T85	pos_CC 410 413	and
+#84	AnnotatorNotes T85	lemma = 'and'
+T86	pos_JJ 414 425	grammatical
+#85	AnnotatorNotes T86	lemma = 'grammatical'
+T87	pos_NN 426 435	ambiguity
+#86	AnnotatorNotes T87	lemma = 'ambiguity'
+T88	pos_PRP 436 438	he
+#87	AnnotatorNotes T88	lemma = 'he'
+T89	pos_VBZ 439 449	represents
+#88	AnnotatorNotes T89	lemma = 'represent'
+T90	pos_PRP2 450 453	his
+#89	AnnotatorNotes T90	lemma = 'his'
+T91	pos_NN 454 459	study
+#90	AnnotatorNotes T91	lemma = 'study'
+T92	pos_IN 460 462	of
+#91	AnnotatorNotes T92	lemma = 'of'
+T93	pos_PDT 463 467	such
+#92	AnnotatorNotes T93	lemma = 'such'
+T94	pos_NNS 468 473	terms
+#93	AnnotatorNotes T94	lemma = 'term'
+T95	pos_IN 474 478	like
+#94	AnnotatorNotes T95	lemma = 'like'
+T96	pos_Fe 479 480	"
+#95	AnnotatorNotes T96	lemma = '"'
+T97	pos_NN 480 488	homonymy
+#96	AnnotatorNotes T97	lemma = 'homonymy'
+T98	pos_Fe 488 489	"
+#97	AnnotatorNotes T98	lemma = '"'
+T99	pos_CC 490 493	and
+#98	AnnotatorNotes T99	lemma = 'and'
+T100	pos_Fe 494 495	"
+#99	AnnotatorNotes T100	lemma = '"'
+T101	pos_NN 495 503	polysemy
+#100	AnnotatorNotes T101	lemma = 'polysemy'
+T102	pos_Fe 503 504	"
+#101	AnnotatorNotes T102	lemma = '"'
+T103	pos_CC 505 508	and
+#102	AnnotatorNotes T103	lemma = 'and'
+T104	pos_DT 509 512	the
+#103	AnnotatorNotes T104	lemma = 'the'
+T105	pos_NN 513 524	distinction
+#104	AnnotatorNotes T105	lemma = 'distinction'
+T106	pos_IN 525 532	between
+#105	AnnotatorNotes T106	lemma = 'between'
+T107	pos_PRP 533 537	them
+#106	AnnotatorNotes T107	lemma = 'them'
+T108	pos_Fp 537 538	.
+#107	AnnotatorNotes T108	lemma = '.'
+T109	pos_DT 540 543	The
+#108	AnnotatorNotes T109	lemma = 'the'
+T110	pos_NN 544 550	author
+#109	AnnotatorNotes T110	lemma = 'author'
+T111	pos_VBZ 551 555	aims
+#110	AnnotatorNotes T111	lemma = 'aim'
+T112	pos_TO 556 558	to
+#111	AnnotatorNotes T112	lemma = 'to'
+T113	pos_VB 559 570	distinguish
+#112	AnnotatorNotes T113	lemma = 'distinguish'
+T114	pos_NN 571 579	homonymy
+#113	AnnotatorNotes T114	lemma = 'homonymy'
+T115	pos_CC 580 583	and
+#114	AnnotatorNotes T115	lemma = 'and'
+T116	pos_NN 584 592	polysemy
+#115	AnnotatorNotes T116	lemma = 'polysemy'
+T117	pos_CC 593 596	and
+#116	AnnotatorNotes T117	lemma = 'and'
+T118	pos_VBZ 597 604	adduces
+#117	AnnotatorNotes T118	lemma = 'adduce'
+T119	pos_PRP2 605 608	his
+#118	AnnotatorNotes T119	lemma = 'his'
+T120	pos_JJ 609 612	own
+#119	AnnotatorNotes T120	lemma = 'own'
+T121	pos_NNS 613 621	criteria
+#120	AnnotatorNotes T121	lemma = 'criterion'
+T122	pos_IN 622 625	for
+#121	AnnotatorNotes T122	lemma = 'for'
+T123	pos_DT 626 630	this
+#122	AnnotatorNotes T123	lemma = 'this'
+T124	pos_NN 631 638	purpose
+#123	AnnotatorNotes T124	lemma = 'purpose'
+T125	pos_Fp 638 639	.
+#124	AnnotatorNotes T125	lemma = '.'
+T126	pos_IN 640 648	Although
+#125	AnnotatorNotes T126	lemma = 'although'
+T127	pos_DT 649 652	the
+#126	AnnotatorNotes T127	lemma = 'the'
+T128	pos_NNS 653 661	criteria
+#127	AnnotatorNotes T128	lemma = 'criterion'
+T129	pos_IN 662 664	of
+#128	AnnotatorNotes T129	lemma = 'of'
+T130	pos_NP 665 670	Lyons
+#129	AnnotatorNotes T130	lemma = 'lyons'
+T131	pos_VBP 671 674	are
+#130	AnnotatorNotes T131	lemma = 'be'
+T132	pos_JJ 675 680	clear
+#131	AnnotatorNotes T132	lemma = 'clear'
+T133	pos_CC 681 684	and
+#132	AnnotatorNotes T133	lemma = 'and'
+T134	pos_JJ 685 697	illustrative
+#133	AnnotatorNotes T134	lemma = 'illustrative'
+T135	pos_Fc 697 698	,
+#134	AnnotatorNotes T135	lemma = ','
+T136	pos_PRP 699 703	they
+#135	AnnotatorNotes T136	lemma = 'they'
+T137	pos_VBP 704 707	are
+#136	AnnotatorNotes T137	lemma = 'be'
+T138	pos_RB 708 711	not
+#137	AnnotatorNotes T138	lemma = 'not'
+T139	pos_JJ 712 722	sufficient
+#138	AnnotatorNotes T139	lemma = 'sufficient'
+T140	pos_Fp 722 723	.
+#139	AnnotatorNotes T140	lemma = '.'
+T141	pos_DT 725 728	The
+#140	AnnotatorNotes T141	lemma = 'the'
+T142	pos_JJ 729 734	first
+#141	AnnotatorNotes T142	lemma = '1'
+T143	pos_NN 735 738	way
+#142	AnnotatorNotes T143	lemma = 'way'
+T144	pos_IN 739 741	of
+#143	AnnotatorNotes T144	lemma = 'of'
+T145	pos_VBG 742 748	making
+#144	AnnotatorNotes T145	lemma = 'make'
+T146	pos_DT 749 752	the
+#145	AnnotatorNotes T146	lemma = 'the'
+T147	pos_NN 753 764	distinction
+#146	AnnotatorNotes T147	lemma = 'distinction'
+T148	pos_VBZ 765 767	is
+#147	AnnotatorNotes T148	lemma = 'be'
+T149	pos_TO 768 770	to
+#148	AnnotatorNotes T149	lemma = 'to'
+T150	pos_VB 771 777	appeal
+#149	AnnotatorNotes T150	lemma = 'appeal'
+T151	pos_TO 778 780	to
+#150	AnnotatorNotes T151	lemma = 'to'
+T152	pos_DT 781 784	the
+#151	AnnotatorNotes T152	lemma = 'the'
+T153	pos_NN 785 794	etymology
+#152	AnnotatorNotes T153	lemma = 'etymology'
+T154	pos_IN 795 797	of
+#153	AnnotatorNotes T154	lemma = 'of'
+T155	pos_DT 798 801	the
+#154	AnnotatorNotes T155	lemma = 'the'
+T156	pos_NNS 802 807	words
+#155	AnnotatorNotes T156	lemma = 'word'
+T157	pos_Fp 807 808	.
+#156	AnnotatorNotes T157	lemma = '.'
+T158	pos_NP 809 819	John Lyons
+#157	AnnotatorNotes T158	lemma = 'john_lyons'
+T159	pos_VBZ 820 828	confirms
+#158	AnnotatorNotes T159	lemma = 'confirm'
+T160	pos_IN 829 833	that
+#159	AnnotatorNotes T160	lemma = 'that'
+T161	pos_IN 834 836	if
+#160	AnnotatorNotes T161	lemma = 'if'
+T162	pos_PRP 837 839	it
+#161	AnnotatorNotes T162	lemma = 'it'
+T163	pos_VBZ 840 842	is
+#162	AnnotatorNotes T163	lemma = 'be'
+T164	pos_JJ 843 851	possible
+#163	AnnotatorNotes T164	lemma = 'possible'
+T165	pos_TO 852 854	to
+#164	AnnotatorNotes T165	lemma = 'to'
+T166	pos_VB 855 860	prove
+#165	AnnotatorNotes T166	lemma = 'prove'
+T167	pos_IN 861 865	that
+#166	AnnotatorNotes T167	lemma = 'that'
+T168	pos_NN 866 870	word
+#167	AnnotatorNotes T168	lemma = 'word'
+T169	pos_NNS 871 876	forms
+#168	AnnotatorNotes T169	lemma = 'form'
+T170	pos_VBP 877 880	are
+#169	AnnotatorNotes T170	lemma = 'be'
+T171	pos_RB 881 893	historically
+#170	AnnotatorNotes T171	lemma = 'historically'
+T172	pos_VBN 894 903	descended
+#171	AnnotatorNotes T172	lemma = 'descend'
+T173	pos_IN 904 908	from
+#172	AnnotatorNotes T173	lemma = 'from'
+T174	pos_DT 909 912	the
+#173	AnnotatorNotes T174	lemma = 'the'
+T175	pos_JJ 913 922	unrelated
+#174	AnnotatorNotes T175	lemma = 'unrelated'
+T176	pos_NNS 923 928	words
+#175	AnnotatorNotes T176	lemma = 'word'
+T177	pos_IN 929 933	with
+#176	AnnotatorNotes T177	lemma = 'with'
+T178	pos_JJ 934 943	different
+#177	AnnotatorNotes T178	lemma = 'different'
+T179	pos_JJ 944 951	lexical
+#178	AnnotatorNotes T179	lemma = 'lexical'
+T180	pos_NN 952 959	meaning
+#179	AnnotatorNotes T180	lemma = 'meaning'
+T181	pos_RB 960 964	then
+#180	AnnotatorNotes T181	lemma = 'then'
+T182	pos_PRP 965 967	it
+#181	AnnotatorNotes T182	lemma = 'it'
+T183	pos_VBZ 968 970	is
+#182	AnnotatorNotes T183	lemma = 'be'
+T184	pos_DT 971 972	a
+#183	AnnotatorNotes T184	lemma = 'a'
+T185	pos_NN 973 977	case
+#184	AnnotatorNotes T185	lemma = 'case'
+T186	pos_IN 978 980	of
+#185	AnnotatorNotes T186	lemma = 'of'
+T187	pos_NN 981 989	homonymy
+#186	AnnotatorNotes T187	lemma = 'homonymy'
+T188	pos_Fp 989 990	.
+#187	AnnotatorNotes T188	lemma = '.'
+T189	pos_DT 991 995	This
+#188	AnnotatorNotes T189	lemma = 'this'
+T190	pos_NN 996 1005	criterion
+#189	AnnotatorNotes T190	lemma = 'criterion'
+T191	pos_MD 1006 1011	could
+#190	AnnotatorNotes T191	lemma = 'can'
+T192	pos_VB 1012 1014	be
+#191	AnnotatorNotes T192	lemma = 'be'
+T193	pos_VBN 1015 1020	named
+#192	AnnotatorNotes T193	lemma = 'name'
+T194	pos_JJ 1021 1030	uncertain
+#193	AnnotatorNotes T194	lemma = 'uncertain'
+T195	pos_Fp 1030 1031	.
+#194	AnnotatorNotes T195	lemma = '.'
+T196	pos_DT 1032 1035	The
+#195	AnnotatorNotes T196	lemma = 'the'
+T197	pos_JJ 1036 1046	sufficient
+#196	AnnotatorNotes T197	lemma = 'sufficient'
+T198	pos_NN 1047 1056	condition
+#197	AnnotatorNotes T198	lemma = 'condition'
+T199	pos_IN 1057 1059	of
+#198	AnnotatorNotes T199	lemma = 'of'
+T200	pos_NN 1060 1068	homonymy
+#199	AnnotatorNotes T200	lemma = 'homonymy'
+T201	pos_VBZ 1069 1071	is
+#200	AnnotatorNotes T201	lemma = 'be'
+T202	pos_RB 1072 1079	closely
+#201	AnnotatorNotes T202	lemma = 'closely'
+T203	pos_VBN 1080 1087	related
+#202	AnnotatorNotes T203	lemma = 'relate'
+T204	pos_TO 1088 1090	to
+#203	AnnotatorNotes T204	lemma = 'to'
+T205	pos_DT 1091 1094	the
+#204	AnnotatorNotes T205	lemma = 'the'
+T206	pos_NNS 1095 1107	developments
+#205	AnnotatorNotes T206	lemma = 'development'
+T207	pos_IN 1108 1110	of
+#206	AnnotatorNotes T207	lemma = 'of'
+T208	pos_NNS 1111 1116	words
+#207	AnnotatorNotes T208	lemma = 'word'
+T209	pos_IN 1117 1119	in
+#208	AnnotatorNotes T209	lemma = 'in'
+T210	pos_JJR 1120 1127	earlier
+#209	AnnotatorNotes T210	lemma = 'earlier'
+T211	pos_NNS 1128 1132	ages
+#210	AnnotatorNotes T211	lemma = 'age'
+T212	pos_Fp 1132 1133	.
+#211	AnnotatorNotes T212	lemma = '.'
+T213	pos_PDT 1134 1138	Such
+#212	AnnotatorNotes T213	lemma = 'such'
+T214	pos_NNS 1139 1152	circumstances
+#213	AnnotatorNotes T214	lemma = 'circumstance'
+T215	pos_VBP 1153 1158	imply
+#214	AnnotatorNotes T215	lemma = 'imply'
+T216	pos_IN 1159 1163	that
+#215	AnnotatorNotes T216	lemma = 'that'
+T217	pos_RB 1164 1170	almost
+#216	AnnotatorNotes T217	lemma = 'almost'
+T218	pos_DT 1171 1174	all
+#217	AnnotatorNotes T218	lemma = 'all'
+T219	pos_NNS 1175 1183	speakers
+#218	AnnotatorNotes T219	lemma = 'speaker'
+T220	pos_MD 1184 1190	should
+#219	AnnotatorNotes T220	lemma = 'should'
+T221	pos_VB 1191 1195	know
+#220	AnnotatorNotes T221	lemma = 'know'
+T222	pos_DT 1196 1199	the
+#221	AnnotatorNotes T222	lemma = 'the'
+T223	pos_JJ 1200 1207	lexical
+#222	AnnotatorNotes T223	lemma = 'lexical'
+T224	pos_NN 1208 1218	derivation
+#223	AnnotatorNotes T224	lemma = 'derivation'
+T225	pos_IN 1219 1221	of
+#224	AnnotatorNotes T225	lemma = 'of'
+T226	pos_DT 1222 1227	every
+#225	AnnotatorNotes T226	lemma = 'every'
+T227	pos_NN 1228 1232	word
+#226	AnnotatorNotes T227	lemma = 'word'
+T228	pos_CC 1233 1236	but
+#227	AnnotatorNotes T228	lemma = 'but'
+T229	pos_PRP 1237 1239	it
+#228	AnnotatorNotes T229	lemma = 'it'
+T230	pos_VBZ 1240 1242	is
+#229	AnnotatorNotes T230	lemma = 'be'
+T231	pos_RB 1243 1252	evidently
+#230	AnnotatorNotes T231	lemma = 'evidently'
+T232	pos_JJ 1253 1264	implausible
+#231	AnnotatorNotes T232	lemma = 'implausible'
+T233	pos_Fp 1264 1265	.
+#232	AnnotatorNotes T233	lemma = '.'
+T234	pos_RB 1266 1271	First
+#233	AnnotatorNotes T234	lemma = 'first'
+T235	pos_Fc 1271 1272	,
+#234	AnnotatorNotes T235	lemma = ','
+T236	pos_EX 1273 1278	there
+#235	AnnotatorNotes T236	lemma = 'there'
+T237	pos_VBP 1279 1282	are
+#236	AnnotatorNotes T237	lemma = 'be'
+T238	pos_DT 1283 1287	some
+#237	AnnotatorNotes T238	lemma = 'some'
+T239	pos_NNS 1288 1293	words
+#238	AnnotatorNotes T239	lemma = 'word'
+T240	pos_DT 1294 1297	the
+#239	AnnotatorNotes T240	lemma = 'the'
+T241	pos_NN 1298 1308	derivation
+#240	AnnotatorNotes T241	lemma = 'derivation'
+T242	pos_IN 1309 1311	of
+#241	AnnotatorNotes T242	lemma = 'of'
+T243	pos_WDT 1312 1317	which
+#242	AnnotatorNotes T243	lemma = 'which'
+T244	pos_VBZ 1318 1320	is
+#243	AnnotatorNotes T244	lemma = 'be'
+T245	pos_JJ 1321 1328	unknown
+#244	AnnotatorNotes T245	lemma = 'unknown'
+T246	pos_IN 1329 1331	at
+#245	AnnotatorNotes T246	lemma = 'at'
+T247	pos_DT 1332 1335	all
+#246	AnnotatorNotes T247	lemma = 'all'
+T248	pos_Fp 1335 1336	.
+#247	AnnotatorNotes T248	lemma = '.'
+T249	pos_RB 1337 1345	Moreover
+#248	AnnotatorNotes T249	lemma = 'moreover'
+T250	pos_Fc 1345 1346	,
+#249	AnnotatorNotes T250	lemma = ','
+T251	pos_PRP 1347 1349	we
+#250	AnnotatorNotes T251	lemma = 'we'
+T252	pos_MD 1350 1356	cannot
+#251	AnnotatorNotes T252	lemma = 'can'
+T253	pos_RB 1350 1356	cannot
+#252	AnnotatorNotes T253	lemma = 'not'
+T254	pos_VB 1357 1361	know
+#253	AnnotatorNotes T254	lemma = 'know'
+T255	pos_IN 1362 1367	about
+#254	AnnotatorNotes T255	lemma = 'about'
+T256	pos_DT 1368 1373	every
+#255	AnnotatorNotes T256	lemma = 'every'
+T257	pos_NN 1374 1378	word
+#256	AnnotatorNotes T257	lemma = 'word'
+T258	pos_RB 1379 1390	undoubtedly
+#257	AnnotatorNotes T258	lemma = 'undoubtedly'
+T259	pos_RB 1391 1398	because
+#258	AnnotatorNotes T259	lemma = 'because'
+T260	pos_EX 1399 1404	there
+#259	AnnotatorNotes T260	lemma = 'there'
+T261	pos_VBP 1405 1408	are
+#260	AnnotatorNotes T261	lemma = 'be'
+T262	pos_DT 1409 1417	a lot of
+#261	AnnotatorNotes T262	lemma = 'a_lot_of'
+T263	pos_NNS 1418 1427	adoptions
+#262	AnnotatorNotes T263	lemma = 'adoption'
+T264	pos_Fc 1427 1428	,
+#263	AnnotatorNotes T264	lemma = ','
+T265	pos_JJ 1429 1432	new
+#264	AnnotatorNotes T265	lemma = 'new'
+T266	pos_NNS 1433 1441	meanings
+#265	AnnotatorNotes T266	lemma = 'meaning'
+T267	pos_VBP 1442 1445	are
+#266	AnnotatorNotes T267	lemma = 'be'
+T268	pos_VBG 1446 1455	appearing
+#267	AnnotatorNotes T268	lemma = 'appear'
+T269	pos_CC 1456 1459	and
+#268	AnnotatorNotes T269	lemma = 'and'
+T270	pos_PRP 1460 1462	it
+#269	AnnotatorNotes T270	lemma = 'it'
+T271	pos_VBZ 1463 1465	is
+#270	AnnotatorNotes T271	lemma = 'be'
+T272	pos_RB 1466 1469	not
+#271	AnnotatorNotes T272	lemma = 'not'
+T273	pos_JJ 1470 1477	evident
+#272	AnnotatorNotes T273	lemma = 'evident'
+T274	pos_WRB 1478 1481	how
+#273	AnnotatorNotes T274	lemma = 'how'
+T275	pos_RB 1482 1485	far
+#274	AnnotatorNotes T275	lemma = 'far'
+T276	pos_RB 1486 1490	back
+#275	AnnotatorNotes T276	lemma = 'back'
+T277	pos_PRP 1491 1493	we
+#276	AnnotatorNotes T277	lemma = 'we'
+T278	pos_MD 1494 1500	should
+#277	AnnotatorNotes T278	lemma = 'should'
+T279	pos_VB 1501 1503	go
+#278	AnnotatorNotes T279	lemma = 'go'
+T280	pos_TO 1504 1506	to
+#279	AnnotatorNotes T280	lemma = 'to'
+T281	pos_VB 1507 1511	know
+#280	AnnotatorNotes T281	lemma = 'know'
+T282	pos_DT 1512 1515	the
+#281	AnnotatorNotes T282	lemma = 'the'
+T283	pos_NN 1516 1523	history
+#282	AnnotatorNotes T283	lemma = 'history'
+T284	pos_IN 1524 1526	of
+#283	AnnotatorNotes T284	lemma = 'of'
+T285	pos_DT 1527 1530	the
+#284	AnnotatorNotes T285	lemma = 'the'
+T286	pos_NN 1531 1535	word
+#285	AnnotatorNotes T286	lemma = 'word'
+T287	pos_Fp 1535 1536	.
+#286	AnnotatorNotes T287	lemma = '.'
+T288	pos_DT 1537 1541	That
+#287	AnnotatorNotes T288	lemma = 'that'
+T289	pos_VBZ 1542 1544	is
+#288	AnnotatorNotes T289	lemma = 'be'
+T290	pos_WRB 1545 1548	why
+#289	AnnotatorNotes T290	lemma = 'why'
+T291	pos_DT 1549 1552	the
+#290	AnnotatorNotes T291	lemma = 'the'
+T292	pos_JJ 1553 1565	etymological
+#291	AnnotatorNotes T292	lemma = 'etymological'
+T293	pos_NN 1566 1575	criterion
+#292	AnnotatorNotes T293	lemma = 'criterion'
+T294	pos_MD 1576 1581	could
+#293	AnnotatorNotes T294	lemma = 'can'
+T295	pos_VB 1582 1584	be
+#294	AnnotatorNotes T295	lemma = 'be'
+T296	pos_VBN 1585 1595	considered
+#295	AnnotatorNotes T296	lemma = 'consider'
+T297	pos_IN 1596 1598	as
+#296	AnnotatorNotes T297	lemma = 'as'
+T298	pos_JJ 1599 1608	unfounded
+#297	AnnotatorNotes T298	lemma = 'unfounded'
+T299	pos_Fp 1608 1609	.
+#298	AnnotatorNotes T299	lemma = '.'
+T300	pos_RB 1611 1622	In addition
+#299	AnnotatorNotes T300	lemma = 'in_addition'
+T301	pos_TO 1623 1625	to
+#300	AnnotatorNotes T301	lemma = 'to'
+T302	pos_DT 1626 1629	the
+#301	AnnotatorNotes T302	lemma = 'the'
+T303	pos_JJ 1630 1642	etymological
+#302	AnnotatorNotes T303	lemma = 'etymological'
+T304	pos_NN 1643 1652	principle
+#303	AnnotatorNotes T304	lemma = 'principle'
+T305	pos_IN 1653 1655	of
+#304	AnnotatorNotes T305	lemma = 'of'
+T306	pos_DT 1656 1659	the
+#305	AnnotatorNotes T306	lemma = 'the'
+T307	pos_NN 1660 1671	distinction
+#306	AnnotatorNotes T307	lemma = 'distinction'
+T308	pos_Fc 1671 1672	,
+#307	AnnotatorNotes T308	lemma = ','
+T309	pos_NP 1673 1683	John Lyons
+#308	AnnotatorNotes T309	lemma = 'john_lyons'
+T310	pos_VBZ 1684 1694	emphasizes
+#309	AnnotatorNotes T310	lemma = 'emphasize'
+T311	pos_DT 1695 1702	another
+#310	AnnotatorNotes T311	lemma = 'another'
+T312	pos_NN 1703 1712	criterion
+#311	AnnotatorNotes T312	lemma = 'criterion'
+T313	pos_Fd 1712 1713	:
+#312	AnnotatorNotes T313	lemma = ':'
+T314	pos_NN 1714 1725	relatedness
+#313	AnnotatorNotes T314	lemma = 'relatedness'
+T315	pos_IN 1726 1728	of
+#314	AnnotatorNotes T315	lemma = 'of'
+T316	pos_VBG 1729 1736	meaning
+#315	AnnotatorNotes T316	lemma = 'mean'
+T317	pos_Fp 1736 1737	.
+#316	AnnotatorNotes T317	lemma = '.'
+T318	pos_DT 1738 1741	The
+#317	AnnotatorNotes T318	lemma = 'the'
+T319	pos_NN 1742 1748	author
+#318	AnnotatorNotes T319	lemma = 'author'
+T320	pos_VBZ 1749 1759	correlates
+#319	AnnotatorNotes T320	lemma = 'correlate'
+T321	pos_NN 1760 1771	relatedness
+#320	AnnotatorNotes T321	lemma = 'relatedness'
+T322	pos_IN 1772 1774	of
+#321	AnnotatorNotes T322	lemma = 'of'
+T323	pos_VBG 1775 1782	meaning
+#322	AnnotatorNotes T323	lemma = 'mean'
+T324	pos_IN 1783 1787	with
+#323	AnnotatorNotes T324	lemma = 'with'
+T325	pos_NN 1788 1796	polysemy
+#324	AnnotatorNotes T325	lemma = 'polysemy'
+T326	pos_CC 1797 1800	and
+#325	AnnotatorNotes T326	lemma = 'and'
+T327	pos_Fc 1800 1801	,
+#326	AnnotatorNotes T327	lemma = ','
+T328	pos_IN 1802 1804	on
+#327	AnnotatorNotes T328	lemma = 'on'
+T329	pos_DT 1805 1808	the
+#328	AnnotatorNotes T329	lemma = 'the'
+T330	pos_NN 1809 1817	contrary
+#329	AnnotatorNotes T330	lemma = 'contrary'
+T331	pos_Fc 1817 1818	,
+#330	AnnotatorNotes T331	lemma = ','
+T332	pos_NN 1819 1832	unrelatedness
+#331	AnnotatorNotes T332	lemma = 'unrelatedness'
+T333	pos_Fg 1833 1834	-
+#332	AnnotatorNotes T333	lemma = '-'
+T334	pos_IN 1835 1839	with
+#333	AnnotatorNotes T334	lemma = 'with'
+T335	pos_NN 1840 1848	homonymy
+#334	AnnotatorNotes T335	lemma = 'homonymy'
+T336	pos_Fp 1848 1849	.
+#335	AnnotatorNotes T336	lemma = '.'
+T337	pos_NN 1850 1859	Intuition
+#336	AnnotatorNotes T337	lemma = 'intuition'
+T338	pos_IN 1860 1862	of
+#337	AnnotatorNotes T338	lemma = 'of'
+T339	pos_DT 1863 1866	the
+#338	AnnotatorNotes T339	lemma = 'the'
+T340	pos_NNS 1867 1875	speakers
+#339	AnnotatorNotes T340	lemma = 'speaker'
+T341	pos_VBZ 1876 1881	plays
+#340	AnnotatorNotes T341	lemma = 'play'
+T342	pos_DT 1882 1885	the
+#341	AnnotatorNotes T342	lemma = 'the'
+T343	pos_JJ 1886 1890	main
+#342	AnnotatorNotes T343	lemma = 'main'
+T344	pos_NN 1891 1895	role
+#343	AnnotatorNotes T344	lemma = 'role'
+T345	pos_IN 1896 1898	in
+#344	AnnotatorNotes T345	lemma = 'in'
+T346	pos_DT 1899 1903	this
+#345	AnnotatorNotes T346	lemma = 'this'
+T347	pos_NN 1904 1915	distinction
+#346	AnnotatorNotes T347	lemma = 'distinction'
+T348	pos_WDT 1916 1920	that
+#347	AnnotatorNotes T348	lemma = 'that'
+T349	pos_VBZ 1921 1926	means
+#348	AnnotatorNotes T349	lemma = 'mean'
+T350	pos_PRP 1927 1931	they
+#349	AnnotatorNotes T350	lemma = 'they'
+T351	pos_PRP 1932 1942	themselves
+#350	AnnotatorNotes T351	lemma = 'themselves'
+T352	pos_MD 1943 1946	can
+#351	AnnotatorNotes T352	lemma = 'can'
+T353	pos_VB 1947 1953	define
+#352	AnnotatorNotes T353	lemma = 'define'
+T354	pos_DT 1954 1957	the
+#353	AnnotatorNotes T354	lemma = 'the'
+T355	pos_NN 1958 1964	degree
+#354	AnnotatorNotes T355	lemma = 'degree'
+T356	pos_WDT 1965 1969	that
+#355	AnnotatorNotes T356	lemma = 'that'
+T357	pos_VBZ 1970 1975	shows
+#356	AnnotatorNotes T357	lemma = 'show'
+T358	pos_DT 1976 1979	the
+#357	AnnotatorNotes T358	lemma = 'the'
+T359	pos_NN 1980 1991	relatedness
+#358	AnnotatorNotes T359	lemma = 'relatedness'
+T360	pos_IN 1992 1994	of
+#359	AnnotatorNotes T360	lemma = 'of'
+T361	pos_JJ 1995 2002	lexical
+#360	AnnotatorNotes T361	lemma = 'lexical'
+T362	pos_NNS 2003 2008	items
+#361	AnnotatorNotes T362	lemma = 'item'
+T363	pos_Fp 2008 2009	.
+#362	AnnotatorNotes T363	lemma = '.'
+T364	pos_DT 2010 2014	This
+#363	AnnotatorNotes T364	lemma = 'this'
+T365	pos_NN 2015 2024	statement
+#364	AnnotatorNotes T365	lemma = 'statement'
+T366	pos_MD 2025 2030	could
+#365	AnnotatorNotes T366	lemma = 'can'
+T367	pos_RB 2031 2034	not
+#366	AnnotatorNotes T367	lemma = 'not'
+T368	pos_VB 2035 2037	be
+#367	AnnotatorNotes T368	lemma = 'be'
+T369	pos_VBN 2038 2043	taken
+#368	AnnotatorNotes T369	lemma = 'take'
+T370	pos_IN 2044 2048	into
+#369	AnnotatorNotes T370	lemma = 'into'
+T371	pos_NN 2049 2056	account
+#370	AnnotatorNotes T371	lemma = 'account'
+T372	pos_IN 2057 2059	as
+#371	AnnotatorNotes T372	lemma = 'as'
+T373	pos_DT 2060 2061	a
+#372	AnnotatorNotes T373	lemma = 'a'
+T374	pos_JJ 2062 2068	strict
+#373	AnnotatorNotes T374	lemma = 'strict'
+T375	pos_NN 2069 2073	rule
+#374	AnnotatorNotes T375	lemma = 'rule'
+T376	pos_IN 2074 2081	because
+#375	AnnotatorNotes T376	lemma = 'because'
+T377	pos_JJ 2082 2091	intuitive
+#376	AnnotatorNotes T377	lemma = 'intuitive'
+T378	pos_NN 2092 2102	assessment
+#377	AnnotatorNotes T378	lemma = 'assessment'
+T379	pos_VBZ 2103 2105	is
+#378	AnnotatorNotes T379	lemma = 'be'
+T380	pos_RB 2106 2110	very
+#379	AnnotatorNotes T380	lemma = 'very'
+T381	pos_JJ 2111 2121	subjective
+#380	AnnotatorNotes T381	lemma = 'subjective'
+T382	pos_CC 2122 2125	and
+#381	AnnotatorNotes T382	lemma = 'and'
+T383	pos_WP 2126 2130	what
+#382	AnnotatorNotes T383	lemma = 'what'
+T384	pos_IN 2131 2134	for
+#383	AnnotatorNotes T384	lemma = 'for'
+T385	pos_DT 2135 2138	one
+#384	AnnotatorNotes T385	lemma = 'one'
+T386	pos_NN 2139 2145	person
+#385	AnnotatorNotes T386	lemma = 'person'
+T387	pos_VBZ 2146 2148	is
+#386	AnnotatorNotes T387	lemma = 'be'
+T388	pos_RB 2149 2153	very
+#387	AnnotatorNotes T388	lemma = 'very'
+T389	pos_JJ 2154 2162	familiar
+#388	AnnotatorNotes T389	lemma = 'familiar'
+T390	pos_MD 2163 2168	could
+#389	AnnotatorNotes T390	lemma = 'can'
+T391	pos_VB 2169 2171	be
+#390	AnnotatorNotes T391	lemma = 'be'
+T392	pos_JJ 2172 2178	remote
+#391	AnnotatorNotes T392	lemma = 'remote'
+T393	pos_NN 2179 2187	likeness
+#392	AnnotatorNotes T393	lemma = 'likeness'
+T394	pos_IN 2188 2191	for
+#393	AnnotatorNotes T394	lemma = 'for'
+T395	pos_DT 2192 2199	another
+#394	AnnotatorNotes T395	lemma = 'another'
+T396	pos_Fp 2199 2200	.
+#395	AnnotatorNotes T396	lemma = '.'
+T397	pos_DT 2201 2205	That
+#396	AnnotatorNotes T397	lemma = 'that'
+T398	pos_VBZ 2206 2208	is
+#397	AnnotatorNotes T398	lemma = 'be'
+T399	pos_WRB 2209 2212	why
+#398	AnnotatorNotes T399	lemma = 'why'
+T400	pos_DT 2213 2217	this
+#399	AnnotatorNotes T400	lemma = 'this'
+T401	pos_NN 2218 2227	criterion
+#400	AnnotatorNotes T401	lemma = 'criterion'
+T402	pos_MD 2228 2233	might
+#401	AnnotatorNotes T402	lemma = 'may'
+T403	pos_VB 2234 2236	be
+#402	AnnotatorNotes T403	lemma = 'be'
+T404	pos_VBN 2237 2241	used
+#403	AnnotatorNotes T404	lemma = 'use'
+T405	pos_JJ 2242 2246	only
+#404	AnnotatorNotes T405	lemma = 'only'
+T406	pos_IN 2247 2249	as
+#405	AnnotatorNotes T406	lemma = 'as'
+T407	pos_DT 2250 2251	a
+#406	AnnotatorNotes T407	lemma = 'a'
+T408	pos_VBG 2252 2259	testing
+#407	AnnotatorNotes T408	lemma = 'test'
+T409	pos_NN 2260 2270	supplement
+#408	AnnotatorNotes T409	lemma = 'supplement'
+T410	pos_TO 2271 2273	to
+#409	AnnotatorNotes T410	lemma = 'to'
+T411	pos_DT 2274 2281	another
+#410	AnnotatorNotes T411	lemma = 'another'
+T412	pos_JJ 2282 2291	important
+#411	AnnotatorNotes T412	lemma = 'important'
+T413	pos_NN 2292 2296	fact
+#412	AnnotatorNotes T413	lemma = 'fact'
+T414	pos_Fp 2296 2297	.
+#413	AnnotatorNotes T414	lemma = '.'
+T415	pos_TO 2298 2300	To
+#414	AnnotatorNotes T415	lemma = 'to'
+T416	pos_VB 2301 2304	sum
+#415	AnnotatorNotes T416	lemma = 'sum'
+T417	pos_RP 2305 2307	up
+#416	AnnotatorNotes T417	lemma = 'up'
+T418	pos_Fc 2307 2308	,
+#417	AnnotatorNotes T418	lemma = ','
+T419	pos_IN 2307 2308	,
+#418	AnnotatorNotes T419	lemma = 'although'
+T420	pos_NP 2318 2328	John Lyons
+#419	AnnotatorNotes T420	lemma = 'john_lyons'
+T421	pos_VBD 2329 2333	made
+#420	AnnotatorNotes T421	lemma = 'make'
+T422	pos_DT 2334 2335	a
+#421	AnnotatorNotes T422	lemma = 'a'
+T423	pos_JJ 2336 2341	major
+#422	AnnotatorNotes T423	lemma = 'major'
+T424	pos_NN 2342 2354	contribution
+#423	AnnotatorNotes T424	lemma = 'contribution'
+T425	pos_IN 2355 2357	in
+#424	AnnotatorNotes T425	lemma = 'in'
+T426	pos_DT 2358 2361	the
+#425	AnnotatorNotes T426	lemma = 'the'
+T427	pos_NN 2362 2367	study
+#426	AnnotatorNotes T427	lemma = 'study'
+T428	pos_IN 2368 2370	of
+#427	AnnotatorNotes T428	lemma = 'of'
+T429	pos_PDT 2371 2375	such
+#428	AnnotatorNotes T429	lemma = 'such'
+T430	pos_NNS 2376 2383	notions
+#429	AnnotatorNotes T430	lemma = 'notion'
+T431	pos_IN 2384 2386	as
+#430	AnnotatorNotes T431	lemma = 'as'
+T432	pos_Fe 2387 2388	"
+#431	AnnotatorNotes T432	lemma = '"'
+T433	pos_NN 2388 2396	homonymy
+#432	AnnotatorNotes T433	lemma = 'homonymy'
+T434	pos_Fe 2396 2397	"
+#433	AnnotatorNotes T434	lemma = '"'
+T435	pos_CC 2398 2401	and
+#434	AnnotatorNotes T435	lemma = 'and'
+T436	pos_Fe 2402 2403	"
+#435	AnnotatorNotes T436	lemma = '"'
+T437	pos_NN 2403 2411	polysemy
+#436	AnnotatorNotes T437	lemma = 'polysemy'
+T438	pos_Fe 2411 2412	"
+#437	AnnotatorNotes T438	lemma = '"'
+T439	pos_Fc 2412 2413	,
+#438	AnnotatorNotes T439	lemma = ','
+T440	pos_PRP2 2414 2417	his
+#439	AnnotatorNotes T440	lemma = 'his'
+T441	pos_NNS 2418 2426	criteria
+#440	AnnotatorNotes T441	lemma = 'criterion'
+T442	pos_IN 2427 2429	in
+#441	AnnotatorNotes T442	lemma = 'in'
+T443	pos_VBG 2430 2444	distinguishing
+#442	AnnotatorNotes T443	lemma = 'distinguish'
+T444	pos_DT 2445 2450	these
+#443	AnnotatorNotes T444	lemma = 'these'
+T445	pos_NNS 2451 2458	notions
+#444	AnnotatorNotes T445	lemma = 'notion'
+T446	pos_VBP 2459 2462	are
+#445	AnnotatorNotes T446	lemma = 'be'
+T447	pos_RB 2463 2466	not
+#446	AnnotatorNotes T447	lemma = 'not'
+T448	pos_JJ 2467 2477	sufficient
+#447	AnnotatorNotes T448	lemma = 'sufficient'
+T449	pos_JJ 2478 2484	enough
+#448	AnnotatorNotes T449	lemma = 'enough'
+T450	pos_TO 2485 2487	to
+#449	AnnotatorNotes T450	lemma = 'to'
+T451	pos_VB 2488 2490	be
+#450	AnnotatorNotes T451	lemma = 'be'
+T452	pos_JJ 2491 2498	crucial
+#451	AnnotatorNotes T452	lemma = 'crucial'
+T453	pos_IN 2499 2501	in
+#452	AnnotatorNotes T453	lemma = 'in'
+T454	pos_NN 2502 2517	decision-making
+#453	AnnotatorNotes T454	lemma = 'decision-making'
+T455	pos_Fp 2517 2518	.
+#454	AnnotatorNotes T455	lemma = '.'

@@ -1,0 +1,315 @@
+T1	note 1 25	Influence of differences	
+#1	AnnotatorNotes T1	what differences?
+T2	Word_choice 90 130	difference in gender cognitive abilities	
+#2	AnnotatorNotes T2	gender difference
+T3	Art_form 136 148	distribution	
+#3	AnnotatorNotes T3	the
+T4	Abs_comp_clause 149 151	of	
+#4	AnnotatorNotes T4	of cognitive abilities
+T5	Prepositions 458 477	participantsprivate	
+#5	AnnotatorNotes T5	participants from private
+T6	Spelling 561 567	Gender	
+#6	AnnotatorNotes T6	gender
+T7	Punctuation 591 600	abilities	
+#7	AnnotatorNotes T7	abilities,
+T8	Lack_par_constr 635 638	and	
+#8	AnnotatorNotes T8	in
+T9	Conjunctions 653 660	central	
+#9	AnnotatorNotes T9	and
+T10	Pronouns 717 722	there	
+#10	AnnotatorNotes T10	these
+A1	Weight-language T2 Minor
+A2	Cause T3 Absence_of_Category_in_L1
+A3	Weight-language T3 Major
+A5	Weight-language T4 Minor
+A6	Weight-language T5 Major
+A7	Cause T6 Typo
+A8	Weight-language T6 Minor
+T11	Word_choice 301 312	in the case	
+A4	Weight-language T11 Major
+A9	Delete T11
+A10	Weight-language T9 Minor
+A11	Weight-language T7 Minor
+T12	Spelling 458 477	participantsprivate
+#11	AnnotatorNotes T12	participants from private
+A12	Cause T5 Typo
+A13	Weight-understanding T5 Critical
+A14	Cause T8 Other
+A15	Weight-language T8 Critical
+A16	Weight-understanding T8 Major
+T13	pos_﻿ 0 1	﻿
+#12	AnnotatorNotes T13	lemma = '﻿'
+T14	pos_NP 1 10	Influence
+#13	AnnotatorNotes T14	lemma = 'influence'
+T15	pos_IN 11 13	of
+#14	AnnotatorNotes T15	lemma = 'of'
+T16	pos_NNS 14 25	differences
+#15	AnnotatorNotes T16	lemma = 'difference'
+T17	pos_IN 26 28	on
+#16	AnnotatorNotes T17	lemma = 'on'
+T18	pos_JJ 29 38	cognitive
+#17	AnnotatorNotes T18	lemma = 'cognitive'
+T19	pos_NNS 39 48	abilities
+#18	AnnotatorNotes T19	lemma = 'ability'
+T20	pos_VBZ 49 56	remains
+#19	AnnotatorNotes T20	lemma = 'remain'
+T21	pos_DT 57 58	a
+#20	AnnotatorNotes T21	lemma = 'a'
+T22	pos_JJ 59 68	debatable
+#21	AnnotatorNotes T22	lemma = 'debatable'
+T23	pos_NN 69 74	issue
+#22	AnnotatorNotes T23	lemma = 'issue'
+T24	pos_Fp 74 75	.
+#23	AnnotatorNotes T24	lemma = '.'
+T25	pos_DT 76 79	The
+#24	AnnotatorNotes T25	lemma = 'the'
+T26	pos_VBN 80 88	supposed
+#25	AnnotatorNotes T26	lemma = 'suppose'
+T27	pos_NN 90 100	difference
+#26	AnnotatorNotes T27	lemma = 'difference'
+T28	pos_IN 101 103	in
+#27	AnnotatorNotes T28	lemma = 'in'
+T29	pos_NN 104 110	gender
+#28	AnnotatorNotes T29	lemma = 'gender'
+T30	pos_JJ 111 120	cognitive
+#29	AnnotatorNotes T30	lemma = 'cognitive'
+T31	pos_NNS 121 130	abilities
+#30	AnnotatorNotes T31	lemma = 'ability'
+T32	pos_IN 131 133	in
+#31	AnnotatorNotes T32	lemma = 'in'
+T33	pos_NN 136 148	distribution
+#32	AnnotatorNotes T33	lemma = 'distribution'
+T34	pos_IN 149 151	of
+#33	AnnotatorNotes T34	lemma = 'of'
+T35	pos_VBZ 153 155	is
+#34	AnnotatorNotes T35	lemma = 'be'
+T36	pos_DT 156 160	that
+#35	AnnotatorNotes T36	lemma = 'that'
+T37	pos_JJ 161 167	verbal
+#36	AnnotatorNotes T37	lemma = 'verbal'
+T38	pos_NN 168 175	ability
+#37	AnnotatorNotes T38	lemma = 'ability'
+T39	pos_VBZ 176 178	is
+#38	AnnotatorNotes T39	lemma = 'be'
+T40	pos_JJR 179 185	higher
+#39	AnnotatorNotes T40	lemma = 'high'
+T41	pos_IN 186 188	in
+#40	AnnotatorNotes T41	lemma = 'in'
+T42	pos_NNS 189 194	women
+#41	AnnotatorNotes T42	lemma = 'woman'
+T43	pos_CC 195 198	and
+#42	AnnotatorNotes T43	lemma = 'and'
+T44	pos_JJ 199 206	spatial
+#43	AnnotatorNotes T44	lemma = 'spatial'
+T45	pos_NNS 207 216	abilities
+#44	AnnotatorNotes T45	lemma = 'ability'
+T46	pos_VBZ 217 219	is
+#45	AnnotatorNotes T46	lemma = 'be'
+T47	pos_JJR 220 226	higher
+#46	AnnotatorNotes T47	lemma = 'high'
+T48	pos_IN 227 229	in
+#47	AnnotatorNotes T48	lemma = 'in'
+T49	pos_NNS 230 233	men
+#48	AnnotatorNotes T49	lemma = 'man'
+T50	pos_Fp 233 234	.
+#49	AnnotatorNotes T50	lemma = '.'
+T51	pos_DT 236 240	This
+#50	AnnotatorNotes T51	lemma = 'this'
+T52	pos_NN 241 246	study
+#51	AnnotatorNotes T52	lemma = 'study'
+T53	pos_VBZ 247 255	examines
+#52	AnnotatorNotes T53	lemma = 'examine'
+T54	pos_NN 256 265	thegender
+#53	AnnotatorNotes T54	lemma = 'thegender'
+T55	pos_NNS 266 277	differences
+#54	AnnotatorNotes T55	lemma = 'difference'
+T56	pos_IN 278 280	in
+#55	AnnotatorNotes T56	lemma = 'in'
+T57	pos_JJ 281 290	cognitive
+#56	AnnotatorNotes T57	lemma = 'cognitive'
+T58	pos_NNS 291 300	abilities
+#57	AnnotatorNotes T58	lemma = 'ability'
+T59	pos_IN 301 303	in
+#58	AnnotatorNotes T59	lemma = 'in'
+T60	pos_DT 304 307	the
+#59	AnnotatorNotes T60	lemma = 'the'
+T61	pos_NN 308 312	case
+#60	AnnotatorNotes T61	lemma = 'case'
+T62	pos_NNS 313 323	ofchildren
+#61	AnnotatorNotes T62	lemma = 'ofchildren'
+T63	pos_IN 324 326	of
+#62	AnnotatorNotes T63	lemma = 'of'
+T64	pos_JJ 327 336	different
+#63	AnnotatorNotes T64	lemma = 'different'
+T65	pos_NNS 337 341	ages
+#64	AnnotatorNotes T65	lemma = 'age'
+T66	pos_Fp 341 342	.
+#65	AnnotatorNotes T66	lemma = '.'
+T67	pos_DT 343 346	The
+#66	AnnotatorNotes T67	lemma = 'the'
+T68	pos_NN 347 353	sample
+#67	AnnotatorNotes T68	lemma = 'sample'
+T69	pos_VBZ 354 362	includes
+#68	AnnotatorNotes T69	lemma = 'include'
+T70	pos_Z 363 366	788
+#69	AnnotatorNotes T70	lemma = '788'
+T71	pos_NNS 367 375	children
+#70	AnnotatorNotes T71	lemma = 'child'
+T72	pos_IN 376 380	from
+#71	AnnotatorNotes T72	lemma = 'from'
+T73	pos_Z 381 382	5
+#72	AnnotatorNotes T73	lemma = '5'
+T74	pos_TO 383 385	to
+#73	AnnotatorNotes T74	lemma = 'to'
+T75	pos_Z 386 388	16
+#74	AnnotatorNotes T75	lemma = '16'
+T76	pos_NNS 389 394	years
+#75	AnnotatorNotes T76	lemma = 'year'
+T77	pos_IN 395 399	from
+#76	AnnotatorNotes T77	lemma = 'from'
+T78	pos_JJ 400 409	different
+#77	AnnotatorNotes T78	lemma = 'different'
+T79	pos_NNS 410 419	countries
+#78	AnnotatorNotes T79	lemma = 'country'
+T80	pos_Fc 419 420	,
+#79	AnnotatorNotes T80	lemma = ','
+T81	pos_CC 421 424	but
+#80	AnnotatorNotes T81	lemma = 'but'
+T82	pos_VBG 425 433	speaking
+#81	AnnotatorNotes T82	lemma = 'speak'
+T83	pos_DT 434 437	the
+#82	AnnotatorNotes T83	lemma = 'the'
+T84	pos_JJ 438 442	same
+#83	AnnotatorNotes T84	lemma = 'same'
+T85	pos_NN 443 451	language
+#84	AnnotatorNotes T85	lemma = 'language'
+T86	pos_Fc 451 452	,
+#85	AnnotatorNotes T86	lemma = ','
+T87	pos_IN 453 457	with
+#86	AnnotatorNotes T87	lemma = 'with'
+T88	pos_JJ 458 477	participantsprivate
+#87	AnnotatorNotes T88	lemma = 'participantsprivate'
+T89	pos_CC 478 481	and
+#88	AnnotatorNotes T89	lemma = 'and'
+T90	pos_JJ 482 488	public
+#89	AnnotatorNotes T90	lemma = 'public'
+T91	pos_NNS 489 496	schools
+#90	AnnotatorNotes T91	lemma = 'school'
+T92	pos_Fp 496 497	.
+#91	AnnotatorNotes T92	lemma = '.'
+T93	pos_DT 498 501	The
+#92	AnnotatorNotes T93	lemma = 'the'
+T94	pos_NN 502 507	study
+#93	AnnotatorNotes T94	lemma = 'study'
+T95	pos_VBZ 508 516	analyzes
+#94	AnnotatorNotes T95	lemma = 'analyze'
+T96	pos_NNS 517 521	data
+#95	AnnotatorNotes T96	lemma = 'data'
+T97	pos_IN 522 526	from
+#96	AnnotatorNotes T97	lemma = 'from'
+T98	pos_Z 527 532	seven
+#97	AnnotatorNotes T98	lemma = '7'
+T99	pos_JJ 533 542	cognitive
+#98	AnnotatorNotes T99	lemma = 'cognitive'
+T100	pos_NNS 543 550	domains
+#99	AnnotatorNotes T100	lemma = 'domain'
+T101	pos_Fp 550 551	.
+#100	AnnotatorNotes T101	lemma = '.'
+T102	pos_JJ 553 560	Certain
+#101	AnnotatorNotes T102	lemma = 'certain'
+T103	pos_NP 561 567	Gender
+#102	AnnotatorNotes T103	lemma = 'gender'
+T104	pos_NNS 568 579	differences
+#103	AnnotatorNotes T104	lemma = 'difference'
+T105	pos_IN 580 582	in
+#104	AnnotatorNotes T105	lemma = 'in'
+T106	pos_JJ 583 590	spatial
+#105	AnnotatorNotes T106	lemma = 'spatial'
+T107	pos_NNS 591 600	abilities
+#106	AnnotatorNotes T107	lemma = 'ability'
+T108	pos_IN 601 603	in
+#107	AnnotatorNotes T108	lemma = 'in'
+T109	pos_NN 604 612	language
+#108	AnnotatorNotes T109	lemma = 'language'
+T110	pos_NN 613 623	expression
+#109	AnnotatorNotes T110	lemma = 'expression'
+T111	pos_Fc 623 624	,
+#110	AnnotatorNotes T111	lemma = ','
+T112	pos_RB 625 632	as well
+#111	AnnotatorNotes T112	lemma = 'as_well'
+T113	pos_NN 633 638	asand
+#112	AnnotatorNotes T113	lemma = 'asand'
+T114	pos_VBG 639 652	understanding
+#113	AnnotatorNotes T114	lemma = 'understand'
+T115	pos_JJ 653 660	central
+#114	AnnotatorNotes T115	lemma = 'central'
+T116	pos_VBG 661 668	solving
+#115	AnnotatorNotes T116	lemma = 'solve'
+T117	pos_JJ 669 675	visual
+#116	AnnotatorNotes T117	lemma = 'visual'
+T118	pos_NNS 676 684	problems
+#117	AnnotatorNotes T118	lemma = 'problem'
+T119	pos_Fc 684 685	,
+#118	AnnotatorNotes T119	lemma = ','
+T120	pos_VBP 686 690	have
+#119	AnnotatorNotes T120	lemma = 'have'
+T121	pos_VBN 691 695	been
+#120	AnnotatorNotes T121	lemma = 'be'
+T122	pos_VBN 696 706	discovered
+#121	AnnotatorNotes T122	lemma = 'discover'
+T123	pos_Fp 706 707	.
+#122	AnnotatorNotes T123	lemma = '.'
+T124	pos_RB 708 715	However
+#123	AnnotatorNotes T124	lemma = 'however'
+T125	pos_Fc 715 716	,
+#124	AnnotatorNotes T125	lemma = ','
+T126	pos_EX 717 722	there
+#125	AnnotatorNotes T126	lemma = 'there'
+T127	pos_NNS 723 734	differences
+#126	AnnotatorNotes T127	lemma = 'difference'
+T128	pos_VBP 735 738	are
+#127	AnnotatorNotes T128	lemma = 'be'
+T129	pos_JJ 739 746	minimal
+#128	AnnotatorNotes T129	lemma = 'minimal'
+T130	pos_Fp 746 747	.
+#129	AnnotatorNotes T130	lemma = '.'
+T131	pos_IN 748 750	In
+#130	AnnotatorNotes T131	lemma = 'in'
+T132	pos_JJ 751 758	general
+#131	AnnotatorNotes T132	lemma = 'general'
+T133	pos_Fc 758 759	,
+#132	AnnotatorNotes T133	lemma = ','
+T134	pos_PRP 760 762	it
+#133	AnnotatorNotes T134	lemma = 'it'
+T135	pos_VBD 763 766	was
+#134	AnnotatorNotes T135	lemma = 'be'
+T136	pos_VBN 767 772	found
+#135	AnnotatorNotes T136	lemma = 'find'
+T137	pos_IN 773 777	that
+#136	AnnotatorNotes T137	lemma = 'that'
+T138	pos_NN 778 784	gender
+#137	AnnotatorNotes T138	lemma = 'gender'
+T139	pos_VBZ 785 788	has
+#138	AnnotatorNotes T139	lemma = 'have'
+T140	pos_JJ 789 795	little
+#139	AnnotatorNotes T140	lemma = 'little'
+T141	pos_NN 796 805	influence
+#140	AnnotatorNotes T141	lemma = 'influence'
+T142	pos_IN 806 808	on
+#141	AnnotatorNotes T142	lemma = 'on'
+T143	pos_DT 809 812	the
+#142	AnnotatorNotes T143	lemma = 'the'
+T144	pos_NN 813 824	development
+#143	AnnotatorNotes T144	lemma = 'development'
+T145	pos_IN 825 827	of
+#144	AnnotatorNotes T145	lemma = 'of'
+T146	pos_JJ 828 837	cognitive
+#145	AnnotatorNotes T146	lemma = 'cognitive'
+T147	pos_NNS 838 847	abilities
+#146	AnnotatorNotes T147	lemma = 'ability'
+T148	pos_IN 848 850	in
+#147	AnnotatorNotes T148	lemma = 'in'
+T149	pos_NNS 851 859	children
+#148	AnnotatorNotes T149	lemma = 'child'
+T150	pos_Fp 859 860	.
+#149	AnnotatorNotes T150	lemma = '.'

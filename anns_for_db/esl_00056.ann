@@ -1,0 +1,363 @@
+T1	Choice_of_ref 468 472	This
+#1	AnnotatorNotes T1	Such a
+T2	Tense_choice 488 496	makes it	
+#2	AnnotatorNotes T2	will make it
+T3	Word_choice 507 551	to search for  and subsequent application of	
+#3	AnnotatorNotes T3	to create and apply
+T4	Redundant_comp 652 659	despite
+T5	Word_choice 660 685	the abundance of research	
+#5	AnnotatorNotes T5	however, abundant research
+T6	Tense_choice 686 696	have shown	
+#6	AnnotatorNotes T6	shows
+T7	Word_choice 729 738	specifics
+#7	AnnotatorNotes T7	the so-called
+A1	Weight-language T1 Major
+A2	Weight-language T2 Major
+A3	Weight-language T5 Major
+A4	Delete T4
+T8	pos_JJ 0 10	Behavioral
+#8	AnnotatorNotes T8	lemma = 'behavioral'
+T9	pos_NNS 11 21	addictions
+#9	AnnotatorNotes T9	lemma = 'addiction'
+T10	pos_VBP 22 25	are
+#10	AnnotatorNotes T10	lemma = 'be'
+T11	pos_NNS 26 34	patterns
+#11	AnnotatorNotes T11	lemma = 'pattern'
+T12	pos_IN 35 37	of
+#12	AnnotatorNotes T12	lemma = 'of'
+T13	pos_NN 38 46	behavior
+#13	AnnotatorNotes T13	lemma = 'behavior'
+T14	pos_Fc 46 47	,
+#14	AnnotatorNotes T14	lemma = ','
+T15	pos_WDT 48 53	which
+#15	AnnotatorNotes T15	lemma = 'which'
+T16	pos_VBP 54 57	are
+#16	AnnotatorNotes T16	lemma = 'be'
+T17	pos_VBN 58 68	reproduced
+#17	AnnotatorNotes T17	lemma = 'reproduce'
+T18	pos_RB 69 79	repeatedly
+#18	AnnotatorNotes T18	lemma = 'repeatedly'
+T19	pos_CC 80 83	and
+#19	AnnotatorNotes T19	lemma = 'and'
+T20	pos_RB 84 96	compulsively
+#20	AnnotatorNotes T20	lemma = 'compulsively'
+T21	pos_CC 97 104	even if
+#21	AnnotatorNotes T21	lemma = 'even_if'
+T22	pos_VBD 105 109	said
+#22	AnnotatorNotes T22	lemma = 'say'
+T23	pos_NN 110 116	action
+#23	AnnotatorNotes T23	lemma = 'action'
+T24	pos_VBZ 117 123	causes
+#24	AnnotatorNotes T24	lemma = 'cause'
+T25	pos_JJ 124 131	serious
+#25	AnnotatorNotes T25	lemma = 'serious'
+T26	pos_JJ 132 140	negative
+#26	AnnotatorNotes T26	lemma = 'negative'
+T27	pos_NNS 141 153	consequences
+#27	AnnotatorNotes T27	lemma = 'consequence'
+T28	pos_TO 154 156	to
+#28	AnnotatorNotes T28	lemma = 'to'
+T29	pos_DT 157 160	the
+#29	AnnotatorNotes T29	lemma = 'the'
+T30	pos_NN 161 167	person
+#30	AnnotatorNotes T30	lemma = 'person'
+T31	pos_POS 167 169	's
+#31	AnnotatorNotes T31	lemma = ''s'
+T32	pos_JJ 170 178	physical
+#32	AnnotatorNotes T32	lemma = 'physical'
+T33	pos_Fc 178 179	,
+#33	AnnotatorNotes T33	lemma = ','
+T34	pos_JJ 180 186	mental
+#34	AnnotatorNotes T34	lemma = 'mental'
+T35	pos_Fc 186 187	,
+#35	AnnotatorNotes T35	lemma = ','
+T36	pos_JJ 188 194	social
+#36	AnnotatorNotes T36	lemma = 'social'
+T37	pos_Fc 194 195	,
+#37	AnnotatorNotes T37	lemma = ','
+T38	pos_CC 196 199	and
+#38	AnnotatorNotes T38	lemma = 'and'
+T39	pos_/ 199 200	/
+#39	AnnotatorNotes T39	lemma = '/'
+T40	pos_CC 200 202	or
+#40	AnnotatorNotes T40	lemma = 'or'
+T41	pos_JJ 203 212	financial
+#41	AnnotatorNotes T41	lemma = 'financial'
+T42	pos_NN 213 223	well-being
+#42	AnnotatorNotes T42	lemma = 'well-being'
+T43	pos_Fp 223 224	.
+#43	AnnotatorNotes T43	lemma = '.'
+T44	pos_TO 225 227	To
+#44	AnnotatorNotes T44	lemma = 'to'
+T45	pos_NN 228 232	date
+#45	AnnotatorNotes T45	lemma = 'date'
+T46	pos_Fc 232 233	,
+#46	AnnotatorNotes T46	lemma = ','
+T47	pos_EX 234 239	there
+#47	AnnotatorNotes T47	lemma = 'there'
+T48	pos_VBZ 240 242	is
+#48	AnnotatorNotes T48	lemma = 'be'
+T49	pos_DT 243 245	no
+#49	AnnotatorNotes T49	lemma = 'no'
+T50	pos_JJ 246 256	consistent
+#50	AnnotatorNotes T50	lemma = 'consistent'
+T51	pos_NN 257 271	classification
+#51	AnnotatorNotes T51	lemma = 'classification'
+T52	pos_CC 272 275	and
+#52	AnnotatorNotes T52	lemma = 'and'
+T53	pos_NN 276 283	concept
+#53	AnnotatorNotes T53	lemma = 'concept'
+T54	pos_IN 284 287	for
+#54	AnnotatorNotes T54	lemma = 'for'
+T55	pos_NN 288 297	diagnosis
+#55	AnnotatorNotes T55	lemma = 'diagnosis'
+T56	pos_CC 298 301	and
+#56	AnnotatorNotes T56	lemma = 'and'
+T57	pos_NN 302 311	treatment
+#57	AnnotatorNotes T57	lemma = 'treatment'
+T58	pos_IN 312 314	of
+#58	AnnotatorNotes T58	lemma = 'of'
+T59	pos_JJ 315 325	behavioral
+#59	AnnotatorNotes T59	lemma = 'behavioral'
+T60	pos_NNS 326 336	addictions
+#60	AnnotatorNotes T60	lemma = 'addiction'
+T61	pos_Fc 336 337	,
+#61	AnnotatorNotes T61	lemma = ','
+T62	pos_CC 338 341	and
+#62	AnnotatorNotes T62	lemma = 'and'
+T63	pos_RB 342 346	even
+#63	AnnotatorNotes T63	lemma = 'even'
+T64	pos_PRP2 347 352	their
+#64	AnnotatorNotes T64	lemma = 'their'
+T65	pos_NN 353 363	definition
+#65	AnnotatorNotes T65	lemma = 'definition'
+T66	pos_VBZ 364 366	is
+#66	AnnotatorNotes T66	lemma = 'be'
+T67	pos_JJ 367 376	uncertain
+#67	AnnotatorNotes T67	lemma = 'uncertain'
+T68	pos_Fp 376 377	.
+#68	AnnotatorNotes T68	lemma = '.'
+T69	pos_RB 378 387	Therefore
+#69	AnnotatorNotes T69	lemma = 'therefore'
+T70	pos_Fc 387 388	,
+#70	AnnotatorNotes T70	lemma = ','
+T71	pos_DT 389 390	a
+#71	AnnotatorNotes T71	lemma = 'a'
+T72	pos_JJ 391 396	clear
+#72	AnnotatorNotes T72	lemma = 'clear'
+T73	pos_NN 397 414	conceptualization
+#73	AnnotatorNotes T73	lemma = 'conceptualization'
+T74	pos_IN 415 417	of
+#74	AnnotatorNotes T74	lemma = 'of'
+T75	pos_DT 418 421	the
+#75	AnnotatorNotes T75	lemma = 'the'
+T76	pos_JJ 422 432	behavioral
+#76	AnnotatorNotes T76	lemma = 'behavioral'
+T77	pos_NNS 433 443	addictions
+#77	AnnotatorNotes T77	lemma = 'addiction'
+T78	pos_VBZ 444 446	is
+#78	AnnotatorNotes T78	lemma = 'be'
+T79	pos_IN 447 449	of
+#79	AnnotatorNotes T79	lemma = 'of'
+T80	pos_JJ 450 455	great
+#80	AnnotatorNotes T80	lemma = 'great'
+T81	pos_NN 456 466	importance
+#81	AnnotatorNotes T81	lemma = 'importance'
+T82	pos_Fp 466 467	.
+#82	AnnotatorNotes T82	lemma = '.'
+T83	pos_DT 468 472	This
+#83	AnnotatorNotes T83	lemma = 'this'
+T84	pos_NN 473 487	classification
+#84	AnnotatorNotes T84	lemma = 'classification'
+T85	pos_VBZ 488 493	makes
+#85	AnnotatorNotes T85	lemma = 'make'
+T86	pos_PRP 494 496	it
+#86	AnnotatorNotes T86	lemma = 'it'
+T87	pos_JJ 497 505	possible
+#87	AnnotatorNotes T87	lemma = 'possible'
+T88	pos_TO 507 509	to
+#88	AnnotatorNotes T88	lemma = 'to'
+T89	pos_NN 510 516	search
+#89	AnnotatorNotes T89	lemma = 'search'
+T90	pos_IN 517 520	for
+#90	AnnotatorNotes T90	lemma = 'for'
+T91	pos_CC 522 525	and
+#91	AnnotatorNotes T91	lemma = 'and'
+T92	pos_JJ 526 536	subsequent
+#92	AnnotatorNotes T92	lemma = 'subsequent'
+T93	pos_NN 537 548	application
+#93	AnnotatorNotes T93	lemma = 'application'
+T94	pos_IN 549 551	of
+#94	AnnotatorNotes T94	lemma = 'of'
+T95	pos_JJ 552 555	new
+#95	AnnotatorNotes T95	lemma = 'new'
+T96	pos_NNS 556 566	approaches
+#96	AnnotatorNotes T96	lemma = 'approach'
+T97	pos_TO 567 569	to
+#97	AnnotatorNotes T97	lemma = 'to'
+T98	pos_DT 570 573	the
+#98	AnnotatorNotes T98	lemma = 'the'
+T99	pos_NN 574 581	therapy
+#99	AnnotatorNotes T99	lemma = 'therapy'
+T100	pos_IN 582 584	of
+#100	AnnotatorNotes T100	lemma = 'of'
+T101	pos_NN 585 594	addiction
+#101	AnnotatorNotes T101	lemma = 'addiction'
+T102	pos_Fc 594 595	,
+#102	AnnotatorNotes T102	lemma = ','
+T103	pos_VBG 596 605	including
+#103	AnnotatorNotes T103	lemma = 'include'
+T104	pos_DT 606 611	those
+#104	AnnotatorNotes T104	lemma = 'those'
+T105	pos_VBN 612 617	based
+#105	AnnotatorNotes T105	lemma = 'base'
+T106	pos_IN 618 620	on
+#106	AnnotatorNotes T106	lemma = 'on'
+T107	pos_DT 621 624	the
+#107	AnnotatorNotes T107	lemma = 'the'
+T108	pos_VBD 625 640	client-centered
+#108	AnnotatorNotes T108	lemma = 'client-centered'
+T109	pos_NN 641 649	approach
+#109	AnnotatorNotes T109	lemma = 'approach'
+T110	pos_Fp 649 650	.
+#110	AnnotatorNotes T110	lemma = '.'
+T111	pos_IN 652 659	despite
+#111	AnnotatorNotes T111	lemma = 'despite'
+T112	pos_DT 660 663	the
+#112	AnnotatorNotes T112	lemma = 'the'
+T113	pos_NN 664 673	abundance
+#113	AnnotatorNotes T113	lemma = 'abundance'
+T114	pos_IN 674 676	of
+#114	AnnotatorNotes T114	lemma = 'of'
+T115	pos_NN 677 685	research
+#115	AnnotatorNotes T115	lemma = 'research'
+T116	pos_VBP 686 690	have
+#116	AnnotatorNotes T116	lemma = 'have'
+T117	pos_VBN 691 696	shown
+#117	AnnotatorNotes T117	lemma = 'show'
+T118	pos_DT 697 698	a
+#118	AnnotatorNotes T118	lemma = 'a'
+T119	pos_JJ 699 704	clear
+#119	AnnotatorNotes T119	lemma = 'clear'
+T120	pos_NN 705 720	interconnection
+#120	AnnotatorNotes T120	lemma = 'interconnection'
+T121	pos_IN 721 728	between
+#121	AnnotatorNotes T121	lemma = 'between'
+T122	pos_NNS 729 738	specifics
+#122	AnnotatorNotes T122	lemma = 'specific'
+T123	pos_NN 739 744	value
+#123	AnnotatorNotes T123	lemma = 'value'
+T124	pos_NN 745 752	systemm
+#124	AnnotatorNotes T124	lemma = 'systemm'
+T125	pos_CC 753 756	and
+#125	AnnotatorNotes T125	lemma = 'and'
+T126	pos_DT 757 760	the
+#126	AnnotatorNotes T126	lemma = 'the'
+T127	pos_NNS 761 769	dynamics
+#127	AnnotatorNotes T127	lemma = 'dynamics'
+T128	pos_IN 770 772	of
+#128	AnnotatorNotes T128	lemma = 'of'
+T129	pos_NNS 773 783	addictions
+#129	AnnotatorNotes T129	lemma = 'addiction'
+T130	pos_Fc 783 784	,
+#130	AnnotatorNotes T130	lemma = ','
+T131	pos_JJ 785 790	usual
+#131	AnnotatorNotes T131	lemma = 'usual'
+T132	pos_NNS 791 801	addictions
+#132	AnnotatorNotes T132	lemma = 'addiction'
+T133	pos_NN 802 809	therapy
+#133	AnnotatorNotes T133	lemma = 'therapy'
+T134	pos_VBZ 810 813	has
+#134	AnnotatorNotes T134	lemma = 'have'
+T135	pos_JJ 814 818	only
+#135	AnnotatorNotes T135	lemma = 'only'
+T136	pos_JJ 819 829	behavioral
+#136	AnnotatorNotes T136	lemma = 'behavioral'
+T137	pos_NNS 830 837	changes
+#137	AnnotatorNotes T137	lemma = 'change'
+T138	pos_IN 838 840	as
+#138	AnnotatorNotes T138	lemma = 'as'
+T139	pos_PRP2 841 844	its
+#139	AnnotatorNotes T139	lemma = 'its'
+T140	pos_NN 845 854	objective
+#140	AnnotatorNotes T140	lemma = 'objective'
+T141	pos_RB 855 861	rarely
+#141	AnnotatorNotes T141	lemma = 'rarely'
+T142	pos_VBG 862 872	addressing
+#142	AnnotatorNotes T142	lemma = 'address'
+T143	pos_DT 873 876	the
+#143	AnnotatorNotes T143	lemma = 'the'
+T144	pos_NN 877 887	individual
+#144	AnnotatorNotes T144	lemma = 'individual'
+T145	pos_POS 887 889	's
+#145	AnnotatorNotes T145	lemma = ''s'
+T146	pos_NN 890 895	value
+#146	AnnotatorNotes T146	lemma = 'value'
+T147	pos_NN 896 902	system
+#147	AnnotatorNotes T147	lemma = 'system'
+T148	pos_Fp 902 903	.
+#148	AnnotatorNotes T148	lemma = '.'
+T149	pos_DT 905 909	This
+#149	AnnotatorNotes T149	lemma = 'this'
+T150	pos_NN 910 915	study
+#150	AnnotatorNotes T150	lemma = 'study'
+T151	pos_VBZ 916 921	lists
+#151	AnnotatorNotes T151	lemma = 'list'
+T152	pos_CC 922 925	and
+#152	AnnotatorNotes T152	lemma = 'and'
+T153	pos_VBZ 926 934	compares
+#153	AnnotatorNotes T153	lemma = 'compare'
+T154	pos_JJ 935 944	different
+#154	AnnotatorNotes T154	lemma = 'different'
+T155	pos_NNS 945 955	approaches
+#155	AnnotatorNotes T155	lemma = 'approach'
+T156	pos_TO 956 958	to
+#156	AnnotatorNotes T156	lemma = 'to'
+T157	pos_NNS 959 969	addictions
+#157	AnnotatorNotes T157	lemma = 'addiction'
+T158	pos_NNS 970 976	issues
+#158	AnnotatorNotes T158	lemma = 'issue'
+T159	pos_CC 977 980	and
+#159	AnnotatorNotes T159	lemma = 'and'
+T160	pos_VBZ 981 993	demonstrates
+#160	AnnotatorNotes T160	lemma = 'demonstrate'
+T161	pos_JJ 994 1001	certain
+#161	AnnotatorNotes T161	lemma = 'certain'
+T162	pos_NNS 1002 1011	specifics
+#162	AnnotatorNotes T162	lemma = 'specific'
+T163	pos_IN 1012 1014	of
+#163	AnnotatorNotes T163	lemma = 'of'
+T164	pos_VBZ 1015 1022	addicts
+#164	AnnotatorNotes T164	lemma = 'addict'
+T165	pos_NN 1023 1028	value
+#165	AnnotatorNotes T165	lemma = 'value'
+T166	pos_NNS 1029 1036	systems
+#166	AnnotatorNotes T166	lemma = 'system'
+T167	pos_CC 1037 1040	and
+#167	AnnotatorNotes T167	lemma = 'and'
+T168	pos_VBZ 1041 1050	describes
+#168	AnnotatorNotes T168	lemma = 'describe'
+T169	pos_DT 1051 1054	the
+#169	AnnotatorNotes T169	lemma = 'the'
+T170	pos_NN 1055 1066	possibility
+#170	AnnotatorNotes T170	lemma = 'possibility'
+T171	pos_IN 1067 1069	of
+#171	AnnotatorNotes T171	lemma = 'of'
+T172	pos_VBG 1070 1075	using
+#172	AnnotatorNotes T172	lemma = 'use'
+T173	pos_DT 1076 1081	these
+#173	AnnotatorNotes T173	lemma = 'these'
+T174	pos_NNS 1082 1086	data
+#174	AnnotatorNotes T174	lemma = 'data'
+T175	pos_IN 1087 1089	in
+#175	AnnotatorNotes T175	lemma = 'in'
+T176	pos_DT 1090 1093	the
+#176	AnnotatorNotes T176	lemma = 'the'
+T177	pos_NN 1094 1101	therapy
+#177	AnnotatorNotes T177	lemma = 'therapy'
+T178	pos_IN 1102 1104	of
+#178	AnnotatorNotes T178	lemma = 'of'
+T179	pos_NN 1105 1114	addiction
+#179	AnnotatorNotes T179	lemma = 'addiction'
+T180	pos_Fp 1114 1115	.
+#180	AnnotatorNotes T180	lemma = '.'

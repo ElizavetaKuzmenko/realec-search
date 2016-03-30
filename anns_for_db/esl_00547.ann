@@ -1,0 +1,444 @@
+T1	Discourse 77 97	in visitors' opinion
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	from the visitors' point of view
+T2	Abs_comp_clause 186 237	about and analyze the situation in tourist industry
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	about tourist industry and analyze the situation there
+T3	lex_part_choice 346 361	Just under half
+A7	Cause T3 L1_interference
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	Nearly a half
+T5	Quantifiers 420 425	third
+A13	Cause T5 L1_interference
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Major
+#4	AnnotatorNotes T5	one third
+T6	lex_part_choice 491 501	fifth part
+A16	Weight-language T6 Major
+A17	Weight-understanding T6 Major
+#5	AnnotatorNotes T6	one fifth / one in five
+T7	Word_choice 521 528	What is
+A18	Cause T7 L1_interference
+A19	Weight-language T7 Major
+A20	Weight-understanding T7 Minor
+#6	AnnotatorNotes T7	Talking
+T8	Articles 601 604	the
+A21	Cause T8 Absence_of_Category_in_L1
+A22	Weight-language T8 Minor
+A23	Weight-understanding T8 Minor
+A24	Delete T8
+T9	Articles 616 619	the
+A25	Cause T9 Absence_of_Category_in_L1
+A26	Weight-language T9 Minor
+A27	Weight-understanding T9 Minor
+A28	Delete T9
+T10	Articles 669 670	a
+A29	Cause T10 Absence_of_Category_in_L1
+A30	Weight-language T10 Minor
+A31	Weight-understanding T10 Minor
+A32	Delete T10
+T11	Articles 683 684	a
+A33	Cause T11 Absence_of_Category_in_L1
+A34	Weight-language T11 Minor
+A35	Weight-understanding T11 Minor
+A36	Delete T11
+T12	Discourse 781 802	parts of these points
+T13	Discourse 834 860	can't be mentioned to be a
+A37	Cause T13 L1_interference
+A38	Weight-language T13 Minor
+A39	Weight-understanding T13 Minor
+#7	AnnotatorNotes T13	is not a real
+T14	lex_item_choice 321 325	meet
+A40	Cause T14 Other
+A41	Weight-language T14 Minor
+A42	Weight-understanding T14 Minor
+#8	AnnotatorNotes T14	face
+T15	Prepositions 326 328	in
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Minor
+#9	AnnotatorNotes T15	on
+T16	Articles 511 518	weather
+A46	Cause T16 Absence_of_Category_in_L1
+A47	Weight-language T16 Critical
+A48	Weight-understanding T16 Minor
+#10	AnnotatorNotes T16	the weather
+T17	Articles 714 717	the
+A49	Cause T17 Absence_of_Category_in_L1
+A50	Weight-language T17 Critical
+A51	Weight-understanding T17 Minor
+A52	Delete T17
+T18	Discourse 740 749	an effect
+A53	Cause T18 Other
+A54	Weight-language T18 Minor
+A55	Weight-understanding T18 Major
+#11	AnnotatorNotes T18	the result
+T19	pos_IN 0 2	As
+#12	AnnotatorNotes T19	lemma = 'as'
+T20	pos_PRP 3 5	we
+#13	AnnotatorNotes T20	lemma = 'we'
+T21	pos_MD 6 9	can
+#14	AnnotatorNotes T21	lemma = 'can'
+T22	pos_VB 10 13	see
+#15	AnnotatorNotes T22	lemma = 'see'
+T23	pos_Fc 13 14	,
+#16	AnnotatorNotes T23	lemma = ','
+T24	pos_NNS 15 23	diagrams
+#17	AnnotatorNotes T24	lemma = 'diagram'
+T25	pos_VBP 24 28	show
+#18	AnnotatorNotes T25	lemma = 'show'
+T26	pos_NNS 29 39	advantages
+#19	AnnotatorNotes T26	lemma = 'advantage'
+T27	pos_CC 40 43	and
+#20	AnnotatorNotes T27	lemma = 'and'
+T28	pos_NNS 44 57	disadvantages
+#21	AnnotatorNotes T28	lemma = 'disadvantage'
+T29	pos_IN 58 60	of
+#22	AnnotatorNotes T29	lemma = 'of'
+T30	pos_NP 61 76	Fairmont Island
+#23	AnnotatorNotes T30	lemma = 'fairmont_island'
+T31	pos_IN 77 79	in
+#24	AnnotatorNotes T31	lemma = 'in'
+T32	pos_NNS 80 88	visitors
+#25	AnnotatorNotes T32	lemma = 'visitor'
+T33	pos_Fe 88 89	'
+#26	AnnotatorNotes T33	lemma = '''
+T34	pos_NN 90 97	opinion
+#27	AnnotatorNotes T34	lemma = 'opinion'
+T35	pos_Fp 97 98	.
+#28	AnnotatorNotes T35	lemma = '.'
+T36	pos_DT 99 102	The
+#29	AnnotatorNotes T36	lemma = 'the'
+T37	pos_JJ 103 107	main
+#30	AnnotatorNotes T37	lemma = 'main'
+T38	pos_NN 108 111	aim
+#31	AnnotatorNotes T38	lemma = 'aim'
+T39	pos_IN 112 114	of
+#32	AnnotatorNotes T39	lemma = 'of'
+T40	pos_DT 115 119	this
+#33	AnnotatorNotes T40	lemma = 'this'
+T41	pos_NN 120 128	research
+#34	AnnotatorNotes T41	lemma = 'research'
+T42	pos_MD 129 133	must
+#35	AnnotatorNotes T42	lemma = 'must'
+T43	pos_VB 134 138	have
+#36	AnnotatorNotes T43	lemma = 'have'
+T44	pos_VBN 139 143	been
+#37	AnnotatorNotes T44	lemma = 'be'
+T45	pos_TO 144 146	to
+#38	AnnotatorNotes T45	lemma = 'to'
+T46	pos_VB 147 157	understand
+#39	AnnotatorNotes T46	lemma = 'understand'
+T47	pos_WP 158 162	what
+#40	AnnotatorNotes T47	lemma = 'what'
+T48	pos_NNS 163 169	people
+#41	AnnotatorNotes T48	lemma = 'people'
+T49	pos_VBP 170 174	like
+#42	AnnotatorNotes T49	lemma = 'like'
+T50	pos_CC 175 177	or
+#43	AnnotatorNotes T50	lemma = 'or'
+T51	pos_VBP 178 185	dislike
+#44	AnnotatorNotes T51	lemma = 'dislike'
+T52	pos_RB 186 191	about
+#45	AnnotatorNotes T52	lemma = 'about'
+T53	pos_CC 192 195	and
+#46	AnnotatorNotes T53	lemma = 'and'
+T54	pos_VB 196 203	analyze
+#47	AnnotatorNotes T54	lemma = 'analyze'
+T55	pos_DT 204 207	the
+#48	AnnotatorNotes T55	lemma = 'the'
+T56	pos_NN 208 217	situation
+#49	AnnotatorNotes T56	lemma = 'situation'
+T57	pos_IN 218 220	in
+#50	AnnotatorNotes T57	lemma = 'in'
+T58	pos_NN 221 228	tourist
+#51	AnnotatorNotes T58	lemma = 'tourist'
+T59	pos_NN 229 237	industry
+#52	AnnotatorNotes T59	lemma = 'industry'
+T60	pos_Fp 237 238	.
+#53	AnnotatorNotes T60	lemma = '.'
+T61	pos_DT 239 242	The
+#54	AnnotatorNotes T61	lemma = 'the'
+T62	pos_JJ 243 248	first
+#55	AnnotatorNotes T62	lemma = '1'
+T63	pos_NN 249 254	chart
+#56	AnnotatorNotes T63	lemma = 'chart'
+T64	pos_VBZ 255 260	gives
+#57	AnnotatorNotes T64	lemma = 'give'
+T65	pos_PRP 261 263	us
+#58	AnnotatorNotes T65	lemma = 'us'
+T66	pos_NN 264 275	information
+#59	AnnotatorNotes T66	lemma = 'information'
+T67	pos_IN 276 281	about
+#60	AnnotatorNotes T67	lemma = 'about'
+T68	pos_DT 282 285	the
+#61	AnnotatorNotes T68	lemma = 'the'
+T69	pos_RBS 286 290	most
+#62	AnnotatorNotes T69	lemma = 'many'
+T70	pos_JJ 291 297	common
+#63	AnnotatorNotes T70	lemma = 'common'
+T71	pos_NNS 298 306	problems
+#64	AnnotatorNotes T71	lemma = 'problem'
+T72	pos_IN 307 311	that
+#65	AnnotatorNotes T72	lemma = 'that'
+T73	pos_NNS 312 320	visitors
+#66	AnnotatorNotes T73	lemma = 'visitor'
+T74	pos_VB 321 325	meet
+#67	AnnotatorNotes T74	lemma = 'meet'
+T75	pos_IN 326 328	in
+#68	AnnotatorNotes T75	lemma = 'in'
+T76	pos_NP 329 344	Fairmont Island
+#69	AnnotatorNotes T76	lemma = 'fairmont_island'
+T77	pos_Fp 344 345	.
+#70	AnnotatorNotes T77	lemma = '.'
+T78	pos_RB 346 350	Just
+#71	AnnotatorNotes T78	lemma = 'just'
+T79	pos_IN 351 356	under
+#72	AnnotatorNotes T79	lemma = 'under'
+T80	pos_NN 357 361	half
+#73	AnnotatorNotes T80	lemma = 'half'
+T81	pos_IN 362 364	of
+#74	AnnotatorNotes T81	lemma = 'of'
+T82	pos_NNS 365 373	tourists
+#75	AnnotatorNotes T82	lemma = 'tourist'
+T83	pos_VBD 374 381	claimed
+#76	AnnotatorNotes T83	lemma = 'claim'
+T84	pos_TO 382 384	to
+#77	AnnotatorNotes T84	lemma = 'to'
+T85	pos_VB 385 392	dislike
+#78	AnnotatorNotes T85	lemma = 'dislike'
+T86	pos_IN 393 398	about
+#79	AnnotatorNotes T86	lemma = 'about'
+T87	pos_JJ 399 403	high
+#80	AnnotatorNotes T87	lemma = 'high'
+T88	pos_NN 404 408	cost
+#81	AnnotatorNotes T88	lemma = 'cost'
+T89	pos_IN 409 411	of
+#82	AnnotatorNotes T89	lemma = 'of'
+T90	pos_NN 412 418	living
+#83	AnnotatorNotes T90	lemma = 'living'
+T91	pos_Fc 418 419	,
+#84	AnnotatorNotes T91	lemma = ','
+T92	pos_JJ 420 425	third
+#85	AnnotatorNotes T92	lemma = '3'
+T93	pos_IN 426 428	of
+#86	AnnotatorNotes T93	lemma = 'of'
+T94	pos_PRP 429 433	them
+#87	AnnotatorNotes T94	lemma = 'them'
+T95	pos_VBP 434 442	consider
+#88	AnnotatorNotes T95	lemma = 'consider'
+T96	pos_JJ 443 447	poor
+#89	AnnotatorNotes T96	lemma = 'poor'
+T97	pos_NN 448 461	entertainment
+#90	AnnotatorNotes T97	lemma = 'entertainment'
+T98	pos_TO 462 464	to
+#91	AnnotatorNotes T98	lemma = 'to'
+T99	pos_VB 465 467	be
+#92	AnnotatorNotes T99	lemma = 'be'
+T100	pos_DT 468 471	the
+#93	AnnotatorNotes T100	lemma = 'the'
+T101	pos_JJS 472 477	worst
+#94	AnnotatorNotes T101	lemma = 'bad'
+T102	pos_NN 478 486	drawback
+#95	AnnotatorNotes T102	lemma = 'drawback'
+T103	pos_CC 487 490	and
+#96	AnnotatorNotes T103	lemma = 'and'
+T104	pos_JJ 491 496	fifth
+#97	AnnotatorNotes T104	lemma = '5'
+T105	pos_NN 497 501	part
+#98	AnnotatorNotes T105	lemma = 'part'
+T106	pos_VBZ 502 510	dislikes
+#99	AnnotatorNotes T106	lemma = 'dislike'
+T107	pos_NN 511 518	weather
+#100	AnnotatorNotes T107	lemma = 'weather'
+T108	pos_Fp 518 519	.
+#101	AnnotatorNotes T108	lemma = '.'
+T109	pos_WP 521 525	What
+#102	AnnotatorNotes T109	lemma = 'what'
+T110	pos_VBZ 526 528	is
+#103	AnnotatorNotes T110	lemma = 'be'
+T111	pos_IN 529 534	about
+#104	AnnotatorNotes T111	lemma = 'about'
+T112	pos_JJ 535 539	main
+#105	AnnotatorNotes T112	lemma = 'main'
+T113	pos_NNS 540 550	advantages
+#106	AnnotatorNotes T113	lemma = 'advantage'
+T114	pos_Fc 550 551	,
+#107	AnnotatorNotes T114	lemma = ','
+T115	pos_JJ 552 557	equal
+#108	AnnotatorNotes T115	lemma = 'equal'
+T116	pos_NNS 558 563	parts
+#109	AnnotatorNotes T116	lemma = 'part'
+T117	pos_IN 564 566	of
+#110	AnnotatorNotes T117	lemma = 'of'
+T118	pos_NNS 567 575	visitors
+#111	AnnotatorNotes T118	lemma = 'visitor'
+T119	pos_Fpa 576 577	(
+#112	AnnotatorNotes T119	lemma = '('
+T120	pos_IN 577 582	about
+#113	AnnotatorNotes T120	lemma = 'about'
+T121	pos_Z 583 585	40
+#114	AnnotatorNotes T121	lemma = '40'
+T122	pos_NN 586 593	percent
+#115	AnnotatorNotes T122	lemma = 'percent'
+T123	pos_Fpt 593 594	)
+#116	AnnotatorNotes T123	lemma = ')'
+T124	pos_VB 595 600	enjoy
+#117	AnnotatorNotes T124	lemma = 'enjoy'
+T125	pos_DT 601 604	the
+#118	AnnotatorNotes T125	lemma = 'the'
+T126	pos_NNS 605 611	people
+#119	AnnotatorNotes T126	lemma = 'people'
+T127	pos_CC 612 615	and
+#120	AnnotatorNotes T127	lemma = 'and'
+T128	pos_DT 616 619	the
+#121	AnnotatorNotes T128	lemma = 'the'
+T129	pos_NN 620 627	scenery
+#122	AnnotatorNotes T129	lemma = 'scenery'
+T130	pos_Fc 627 628	,
+#123	AnnotatorNotes T130	lemma = ','
+T131	pos_CC 629 632	and
+#124	AnnotatorNotes T131	lemma = 'and'
+T132	pos_JJ 633 638	equal
+#125	AnnotatorNotes T132	lemma = 'equal'
+T133	pos_NNS 639 644	parts
+#126	AnnotatorNotes T133	lemma = 'part'
+T134	pos_Fpa 645 646	(
+#127	AnnotatorNotes T134	lemma = '('
+T135	pos_IN 646 651	about
+#128	AnnotatorNotes T135	lemma = 'about'
+T136	pos_Z 652 654	10
+#129	AnnotatorNotes T136	lemma = '10'
+T137	pos_NN 655 662	percent
+#130	AnnotatorNotes T137	lemma = 'percent'
+T138	pos_Fpt 662 663	)
+#131	AnnotatorNotes T138	lemma = ')'
+T139	pos_IN 664 668	like
+#132	AnnotatorNotes T139	lemma = 'like'
+T140	pos_DT 669 670	a
+#133	AnnotatorNotes T140	lemma = 'a'
+T141	pos_NN 671 678	culture
+#134	AnnotatorNotes T141	lemma = 'culture'
+T142	pos_CC 679 682	and
+#135	AnnotatorNotes T142	lemma = 'and'
+T143	pos_DT 683 684	a
+#136	AnnotatorNotes T143	lemma = 'a'
+T144	pos_JJ 685 689	good
+#137	AnnotatorNotes T144	lemma = 'good'
+T145	pos_NN 690 703	accommodation
+#138	AnnotatorNotes T145	lemma = 'accommodation'
+T146	pos_Fp 703 704	.
+#139	AnnotatorNotes T146	lemma = '.'
+T147	pos_RB 705 712	However
+#140	AnnotatorNotes T147	lemma = 'however'
+T148	pos_Fc 712 713	,
+#141	AnnotatorNotes T148	lemma = ','
+T149	pos_DT 714 717	the
+#142	AnnotatorNotes T149	lemma = 'the'
+T150	pos_JJ 718 722	good
+#143	AnnotatorNotes T150	lemma = 'good'
+T151	pos_NN 723 736	accommodation
+#144	AnnotatorNotes T151	lemma = 'accommodation'
+T152	pos_VBZ 737 739	is
+#145	AnnotatorNotes T152	lemma = 'be'
+T153	pos_DT 740 742	an
+#146	AnnotatorNotes T153	lemma = 'a'
+T154	pos_NN 743 749	effect
+#147	AnnotatorNotes T154	lemma = 'effect'
+T155	pos_IN 750 752	of
+#148	AnnotatorNotes T155	lemma = 'of'
+T156	pos_DT 753 756	the
+#149	AnnotatorNotes T156	lemma = 'the'
+T157	pos_JJ 757 761	high
+#150	AnnotatorNotes T157	lemma = 'high'
+T158	pos_NN 762 766	cost
+#151	AnnotatorNotes T158	lemma = 'cost'
+T159	pos_IN 767 769	of
+#152	AnnotatorNotes T159	lemma = 'of'
+T160	pos_VBG 770 776	living
+#153	AnnotatorNotes T160	lemma = 'live'
+T161	pos_CC 777 780	and
+#154	AnnotatorNotes T161	lemma = 'and'
+T162	pos_NNS 781 786	parts
+#155	AnnotatorNotes T162	lemma = 'part'
+T163	pos_IN 787 789	of
+#156	AnnotatorNotes T163	lemma = 'of'
+T164	pos_DT 790 795	these
+#157	AnnotatorNotes T164	lemma = 'these'
+T165	pos_NNS 796 802	points
+#158	AnnotatorNotes T165	lemma = 'point'
+T166	pos_VBP 803 806	are
+#159	AnnotatorNotes T166	lemma = 'be'
+T167	pos_RB 807 820	approximately
+#160	AnnotatorNotes T167	lemma = 'approximately'
+T168	pos_JJ 821 826	equal
+#161	AnnotatorNotes T168	lemma = 'equal'
+T169	pos_Fc 826 827	,
+#162	AnnotatorNotes T169	lemma = ','
+T170	pos_RB 828 830	so
+#163	AnnotatorNotes T170	lemma = 'so'
+T171	pos_PRP 831 833	it
+#164	AnnotatorNotes T171	lemma = 'it'
+T172	pos_MD 834 839	can't
+#165	AnnotatorNotes T172	lemma = 'can'
+T173	pos_RB 834 839	can't
+#166	AnnotatorNotes T173	lemma = 'not'
+T174	pos_VB 840 842	be
+#167	AnnotatorNotes T174	lemma = 'be'
+T175	pos_VBN 843 852	mentioned
+#168	AnnotatorNotes T175	lemma = 'mention'
+T176	pos_TO 853 855	to
+#169	AnnotatorNotes T176	lemma = 'to'
+T177	pos_VB 856 858	be
+#170	AnnotatorNotes T177	lemma = 'be'
+T178	pos_DT 859 860	a
+#171	AnnotatorNotes T178	lemma = 'a'
+T179	pos_NN 861 868	problem
+#172	AnnotatorNotes T179	lemma = 'problem'
+T180	pos_Fp 868 869	.
+#173	AnnotatorNotes T180	lemma = '.'
+T181	pos_TO 870 872	To
+#174	AnnotatorNotes T181	lemma = 'to'
+T182	pos_VB 873 876	sum
+#175	AnnotatorNotes T182	lemma = 'sum'
+T183	pos_RP 877 879	up
+#176	AnnotatorNotes T183	lemma = 'up'
+T184	pos_Fc 879 880	,
+#177	AnnotatorNotes T184	lemma = ','
+T185	pos_DT 881 884	the
+#178	AnnotatorNotes T185	lemma = 'the'
+T186	pos_NN 885 892	tourist
+#179	AnnotatorNotes T186	lemma = 'tourist'
+T187	pos_NN 893 901	industry
+#180	AnnotatorNotes T187	lemma = 'industry'
+T188	pos_IN 902 904	of
+#181	AnnotatorNotes T188	lemma = 'of'
+T189	pos_NP 905 920	Fairmont Island
+#182	AnnotatorNotes T189	lemma = 'fairmont_island'
+T190	pos_MD 921 927	should
+#183	AnnotatorNotes T190	lemma = 'should'
+T191	pos_VB 928 930	be
+#184	AnnotatorNotes T191	lemma = 'be'
+T192	pos_VBN 931 939	improved
+#185	AnnotatorNotes T192	lemma = 'improve'
+T193	pos_Fc 939 940	,
+#186	AnnotatorNotes T193	lemma = ','
+T194	pos_IN 941 943	as
+#187	AnnotatorNotes T194	lemma = 'as'
+T195	pos_DT 944 947	the
+#188	AnnotatorNotes T195	lemma = 'the'
+T196	pos_NN 948 956	research
+#189	AnnotatorNotes T196	lemma = 'research'
+T197	pos_NNS 957 962	shows
+#190	AnnotatorNotes T197	lemma = 'show'
+T198	pos_Fp 962 963	.
+#191	AnnotatorNotes T198	lemma = '.'
+T4	Transitive 385 398	dislike about
+A10	Weight-language T4 Critical
+A11	Weight-understanding T4 Minor
+#192	AnnotatorNotes T4	dislike

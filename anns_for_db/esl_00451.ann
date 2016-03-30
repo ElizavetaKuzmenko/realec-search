@@ -1,0 +1,717 @@
+T1	lex_item_choice 29 35	ponder
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+T2	Category_confusion 58 62	true
+A3	Cause T2 Other
+A4	Weight-language T2 Major
+#1	AnnotatorNotes T2	the truth
+T3	note 29 74	ponder on society containing true to this day
+A5	Cause T3 Other
+A6	Weight-language T3 Major
+T4	lex_item_choice 76 84	Pointing
+A7	Cause T4 Other
+A8	Weight-language T4 Minor
+T5	note 76 126	Pointing to the effect of a very complex character
+A9	Cause T5 Other
+A10	Weight-language T5 Minor
+T6	lex_item_choice 193 199	covers
+A11	Cause T6 Other
+A12	Weight-language T6 Major
+T7	note 193 234	covers things that are not in our society
+A13	Cause T7 Other
+A14	Weight-language T7 Major
+T8	Abs_comp_clause 571 589	should comfortable
+A15	Cause T8 Typo
+A16	Weight-language T8 Critical
+#2	AnnotatorNotes T8	should be comfortable
+T9	Tense_choice 729 738	is saying
+A17	Cause T9 Other
+A18	Weight-language T9 Major
+#3	AnnotatorNotes T9	says
+T10	lex_item_choice 1228 1240	knocking out
+A19	Cause T10 Other
+A20	Weight-language T10 Major
+T11	note 1258 1267	to convey
+A21	Cause T11 Other
+A22	Weight-language T11 Minor
+#4	AnnotatorNotes T11	what to convey?
+T12	Punctuation 1338 1339	,
+A23	Cause T12 L1_interference
+A24	Weight-language T12 Major
+A25	Delete T12
+T13	note 1345 1368	causes beautiful people
+A26	Cause T13 Other
+A27	Weight-language T13 Major
+#5	AnnotatorNotes T13	to do what?
+T14	Prepositions 1480 1482	at
+A28	Cause T14 Other
+A29	Weight-language T14 Major
+#6	AnnotatorNotes T14	in
+T15	lex_item_choice 508 528	pumped ego very high
+A30	Cause T15 Other
+A31	Weight-language T15 Major
+T16	note 428 476	the consequences Dorian to his friend Lord Henry
+A32	Cause T16 Other
+A33	Weight-language T16 Major
+T17	note 358 372	Basic Hallward
+A34	Cause T17 Other
+A35	Weight-language T17 Major
+#7	AnnotatorNotes T17	not clear
+#8	AnnotatorNotes T16	not clear
+A36	Weight-understanding T3 Major
+A37	Weight-understanding T1 Major
+A38	Weight-understanding T2 Minor
+A39	Weight-understanding T5 Major
+A40	Weight-understanding T4 Major
+A41	Weight-understanding T6 Major
+A42	Weight-understanding T7 Major
+A43	Weight-understanding T17 Critical
+A44	Weight-understanding T16 Critical
+A45	Weight-understanding T15 Minor
+A46	Weight-understanding T8 Minor
+A47	Weight-understanding T9 Minor
+A48	Weight-understanding T10 Major
+A49	Weight-understanding T11 Major
+A50	Weight-understanding T12 Minor
+A51	Weight-understanding T13 Critical
+A52	Weight-understanding T14 Minor
+T18	pos_Fe 0 1	"
+#9	AnnotatorNotes T18	lemma = '"'
+T19	pos_DT 1 4	The
+#10	AnnotatorNotes T19	lemma = 'the'
+T20	pos_NP 5 27	Picture of Dorian Gray
+#11	AnnotatorNotes T20	lemma = 'picture_of_dorian_gray'
+T21	pos_Fe 27 28	"
+#12	AnnotatorNotes T21	lemma = '"'
+T22	pos_VB 29 35	ponder
+#13	AnnotatorNotes T22	lemma = 'ponder'
+T23	pos_IN 36 38	on
+#14	AnnotatorNotes T23	lemma = 'on'
+T24	pos_NN 39 46	society
+#15	AnnotatorNotes T24	lemma = 'society'
+T25	pos_VBG 47 57	containing
+#16	AnnotatorNotes T25	lemma = 'contain'
+T26	pos_JJ 58 62	true
+#17	AnnotatorNotes T26	lemma = 'true'
+T27	pos_TO 63 65	to
+#18	AnnotatorNotes T27	lemma = 'to'
+T28	pos_DT 66 70	this
+#19	AnnotatorNotes T28	lemma = 'this'
+T29	pos_NN 71 74	day
+#20	AnnotatorNotes T29	lemma = 'day'
+T30	pos_Fp 74 75	.
+#21	AnnotatorNotes T30	lemma = '.'
+T31	pos_VBG 76 84	Pointing
+#22	AnnotatorNotes T31	lemma = 'point'
+T32	pos_TO 85 87	to
+#23	AnnotatorNotes T32	lemma = 'to'
+T33	pos_DT 88 91	the
+#24	AnnotatorNotes T33	lemma = 'the'
+T34	pos_NN 92 98	effect
+#25	AnnotatorNotes T34	lemma = 'effect'
+T35	pos_IN 99 101	of
+#26	AnnotatorNotes T35	lemma = 'of'
+T36	pos_DT 102 103	a
+#27	AnnotatorNotes T36	lemma = 'a'
+T37	pos_RB 104 108	very
+#28	AnnotatorNotes T37	lemma = 'very'
+T38	pos_JJ 109 116	complex
+#29	AnnotatorNotes T38	lemma = 'complex'
+T39	pos_NN 117 126	character
+#30	AnnotatorNotes T39	lemma = 'character'
+T40	pos_Fc 126 127	,
+#31	AnnotatorNotes T40	lemma = ','
+T41	pos_WP 128 131	who
+#32	AnnotatorNotes T41	lemma = 'who'
+T42	pos_VBZ 132 140	believes
+#33	AnnotatorNotes T42	lemma = 'believe'
+T43	pos_IN 141 145	that
+#34	AnnotatorNotes T43	lemma = 'that'
+T44	pos_PRP 146 148	he
+#35	AnnotatorNotes T44	lemma = 'he'
+T45	pos_MD 149 152	can
+#36	AnnotatorNotes T45	lemma = 'can'
+T46	pos_VB 153 155	do
+#37	AnnotatorNotes T46	lemma = 'do'
+T47	pos_PRP 156 166	everything
+#38	AnnotatorNotes T47	lemma = 'everything'
+T48	pos_IN 167 174	because
+#39	AnnotatorNotes T48	lemma = 'because'
+T49	pos_PRP 175 177	he
+#40	AnnotatorNotes T49	lemma = 'he'
+T50	pos_VBZ 178 180	is
+#41	AnnotatorNotes T50	lemma = 'be'
+T51	pos_JJ 181 185	cute
+#42	AnnotatorNotes T51	lemma = 'cute'
+T52	pos_Fc 185 186	,
+#43	AnnotatorNotes T52	lemma = ','
+T53	pos_NP 187 192	Wilde
+#44	AnnotatorNotes T53	lemma = 'wilde'
+T54	pos_VBZ 193 199	covers
+#45	AnnotatorNotes T54	lemma = 'cover'
+T55	pos_NNS 200 206	things
+#46	AnnotatorNotes T55	lemma = 'thing'
+T56	pos_WDT 207 211	that
+#47	AnnotatorNotes T56	lemma = 'that'
+T57	pos_VBP 212 215	are
+#48	AnnotatorNotes T57	lemma = 'be'
+T58	pos_RB 216 219	not
+#49	AnnotatorNotes T58	lemma = 'not'
+T59	pos_IN 220 222	in
+#50	AnnotatorNotes T59	lemma = 'in'
+T60	pos_PRP2 223 226	our
+#51	AnnotatorNotes T60	lemma = 'our'
+T61	pos_NN 227 234	society
+#52	AnnotatorNotes T61	lemma = 'society'
+T62	pos_Fp 234 235	.
+#53	AnnotatorNotes T62	lemma = '.'
+T63	pos_DT 236 239	The
+#54	AnnotatorNotes T63	lemma = 'the'
+T64	pos_JJ 240 244	main
+#55	AnnotatorNotes T64	lemma = 'main'
+T65	pos_NN 245 249	idea
+#56	AnnotatorNotes T65	lemma = 'idea'
+T66	pos_VBZ 250 252	is
+#57	AnnotatorNotes T66	lemma = 'be'
+T67	pos_DT 253 254	a
+#58	AnnotatorNotes T67	lemma = 'a'
+T68	pos_NN 255 259	void
+#59	AnnotatorNotes T68	lemma = 'void'
+T69	pos_IN 260 262	of
+#60	AnnotatorNotes T69	lemma = 'of'
+T70	pos_NNS 263 269	people
+#61	AnnotatorNotes T70	lemma = 'people'
+T71	pos_Fc 269 270	,
+#62	AnnotatorNotes T71	lemma = ','
+T72	pos_CC 271 274	and
+#63	AnnotatorNotes T72	lemma = 'and'
+T73	pos_NN 275 285	attachment
+#64	AnnotatorNotes T73	lemma = 'attachment'
+T74	pos_TO 286 288	to
+#65	AnnotatorNotes T74	lemma = 'to'
+T75	pos_Fe 289 290	"
+#66	AnnotatorNotes T75	lemma = '"'
+T76	pos_NN 290 296	beauty
+#67	AnnotatorNotes T76	lemma = 'beauty'
+T77	pos_Fp 296 297	.
+#68	AnnotatorNotes T77	lemma = '.'
+T78	pos_Fe 297 298	"
+#69	AnnotatorNotes T78	lemma = '"'
+T79	pos_PRP 299 301	We
+#70	AnnotatorNotes T79	lemma = 'we'
+T80	pos_RB 302 307	first
+#71	AnnotatorNotes T80	lemma = 'first'
+T81	pos_VBD 308 314	became
+#72	AnnotatorNotes T81	lemma = 'become'
+T82	pos_VBN 315 325	acquainted
+#73	AnnotatorNotes T82	lemma = 'acquaint'
+T83	pos_IN 326 330	with
+#74	AnnotatorNotes T83	lemma = 'with'
+T84	pos_DT 331 334	the
+#75	AnnotatorNotes T84	lemma = 'the'
+T85	pos_JJ 335 339	main
+#76	AnnotatorNotes T85	lemma = 'main'
+T86	pos_NN 340 349	character
+#77	AnnotatorNotes T86	lemma = 'character'
+T87	pos_VBD 350 357	thought
+#78	AnnotatorNotes T87	lemma = 'think'
+T88	pos_NP 358 372	Basic Hallward
+#79	AnnotatorNotes T88	lemma = 'basic_hallward'
+T89	pos_Fc 372 373	,
+#80	AnnotatorNotes T89	lemma = ','
+T90	pos_VBD 374 383	enchanted
+#81	AnnotatorNotes T90	lemma = 'enchant'
+T91	pos_Fc 383 384	,
+#82	AnnotatorNotes T91	lemma = ','
+T92	pos_WP 385 388	who
+#83	AnnotatorNotes T92	lemma = 'who'
+T93	pos_VBD 389 393	fell
+#84	AnnotatorNotes T93	lemma = 'fall'
+T94	pos_IN 394 396	in
+#85	AnnotatorNotes T94	lemma = 'in'
+T95	pos_NN 397 401	love
+#86	AnnotatorNotes T95	lemma = 'love'
+T96	pos_IN 402 406	with
+#87	AnnotatorNotes T96	lemma = 'with'
+T97	pos_NP 407 413	Dorian
+#88	AnnotatorNotes T97	lemma = 'dorian'
+T98	pos_Fp 413 414	.
+#89	AnnotatorNotes T98	lemma = '.'
+T99	pos_PRP 415 417	He
+#90	AnnotatorNotes T99	lemma = 'he'
+T100	pos_VBZ 418 427	describes
+#91	AnnotatorNotes T100	lemma = 'describe'
+T101	pos_DT 428 431	the
+#92	AnnotatorNotes T101	lemma = 'the'
+T102	pos_NNS 432 444	consequences
+#93	AnnotatorNotes T102	lemma = 'consequence'
+T103	pos_NP 445 451	Dorian
+#94	AnnotatorNotes T103	lemma = 'dorian'
+T104	pos_TO 452 454	to
+#95	AnnotatorNotes T104	lemma = 'to'
+T105	pos_PRP2 455 458	his
+#96	AnnotatorNotes T105	lemma = 'his'
+T106	pos_NN 459 465	friend
+#97	AnnotatorNotes T106	lemma = 'friend'
+T107	pos_NP 466 476	Lord Henry
+#98	AnnotatorNotes T107	lemma = 'lord_henry'
+T108	pos_Fp 476 477	.
+#99	AnnotatorNotes T108	lemma = '.'
+T109	pos_IN 478 482	With
+#100	AnnotatorNotes T109	lemma = 'with'
+T110	pos_NP 483 488	Henry
+#101	AnnotatorNotes T110	lemma = 'henry'
+T111	pos_POS 488 490	's
+#102	AnnotatorNotes T111	lemma = ''s'
+T112	pos_NNS 491 499	talkings
+#103	AnnotatorNotes T112	lemma = 'talkings'
+T113	pos_Fc 499 500	,
+#104	AnnotatorNotes T113	lemma = ','
+T114	pos_NP 501 507	Dorian
+#105	AnnotatorNotes T114	lemma = 'dorian'
+T115	pos_VBD 508 514	pumped
+#106	AnnotatorNotes T115	lemma = 'pump'
+T116	pos_NN 515 518	ego
+#107	AnnotatorNotes T116	lemma = 'ego'
+T117	pos_RB 519 523	very
+#108	AnnotatorNotes T117	lemma = 'very'
+T118	pos_JJ 524 528	high
+#109	AnnotatorNotes T118	lemma = 'high'
+T119	pos_Fc 528 529	,
+#110	AnnotatorNotes T119	lemma = ','
+T120	pos_CC 530 533	and
+#111	AnnotatorNotes T120	lemma = 'and'
+T121	pos_PRP 534 536	it
+#112	AnnotatorNotes T121	lemma = 'it'
+T122	pos_VBZ 536 538	's
+#113	AnnotatorNotes T122	lemma = 'be'
+T123	pos_RB 539 544	quite
+#114	AnnotatorNotes T123	lemma = 'quite'
+T124	pos_JJ 545 549	easy
+#115	AnnotatorNotes T124	lemma = 'easy'
+T125	pos_TO 550 552	to
+#116	AnnotatorNotes T125	lemma = 'to'
+T126	pos_VB 553 557	find
+#117	AnnotatorNotes T126	lemma = 'find'
+T127	pos_RP 558 561	out
+#118	AnnotatorNotes T127	lemma = 'out'
+T128	pos_WRB 562 565	how
+#119	AnnotatorNotes T128	lemma = 'how'
+T129	pos_NN 566 570	life
+#120	AnnotatorNotes T129	lemma = 'life'
+T130	pos_MD 571 577	should
+#121	AnnotatorNotes T130	lemma = 'should'
+T131	pos_JJ 578 589	comfortable
+#122	AnnotatorNotes T131	lemma = 'comfortable'
+T132	pos_IN 590 593	for
+#123	AnnotatorNotes T132	lemma = 'for'
+T133	pos_JJ 594 603	beautiful
+#124	AnnotatorNotes T133	lemma = 'beautiful'
+T134	pos_NNS 604 610	people
+#125	AnnotatorNotes T134	lemma = 'people'
+T135	pos_Fp 610 611	.
+#126	AnnotatorNotes T135	lemma = '.'
+T136	pos_PRP 612 621	Something
+#127	AnnotatorNotes T136	lemma = 'something'
+T137	pos_JJ 622 636	extra-ordinary
+#128	AnnotatorNotes T137	lemma = 'extra-ordinary'
+T138	pos_NNS 637 647	highlights
+#129	AnnotatorNotes T138	lemma = 'highlight'
+T139	pos_NN 648 657	emptiness
+#130	AnnotatorNotes T139	lemma = 'emptiness'
+T140	pos_Fc 657 658	,
+#131	AnnotatorNotes T140	lemma = ','
+T141	pos_WDT 659 664	which
+#132	AnnotatorNotes T141	lemma = 'which'
+T142	pos_VBZ 665 667	is
+#133	AnnotatorNotes T142	lemma = 'be'
+T143	pos_RB 668 670	so
+#134	AnnotatorNotes T143	lemma = 'so'
+T144	pos_JJ 671 680	important
+#135	AnnotatorNotes T144	lemma = 'important'
+T145	pos_RB 681 689	nowadays
+#136	AnnotatorNotes T145	lemma = 'nowadays'
+T146	pos_Fp 689 690	.
+#137	AnnotatorNotes T146	lemma = '.'
+T147	pos_NP 691 697	Dorian
+#138	AnnotatorNotes T147	lemma = 'dorian'
+T148	pos_VBZ 698 706	believes
+#139	AnnotatorNotes T148	lemma = 'believe'
+T149	pos_PRP 707 717	everything
+#140	AnnotatorNotes T149	lemma = 'everything'
+T150	pos_WP 718 722	what
+#141	AnnotatorNotes T150	lemma = 'what'
+T151	pos_NP 723 728	Henry
+#142	AnnotatorNotes T151	lemma = 'henry'
+T152	pos_VBZ 729 731	is
+#143	AnnotatorNotes T152	lemma = 'be'
+T153	pos_VBG 732 738	saying
+#144	AnnotatorNotes T153	lemma = 'say'
+T154	pos_Fc 738 739	,
+#145	AnnotatorNotes T154	lemma = ','
+T155	pos_CC 740 743	and
+#146	AnnotatorNotes T155	lemma = 'and'
+T156	pos_VBZ 744 749	wants
+#147	AnnotatorNotes T156	lemma = 'want'
+T157	pos_TO 750 752	to
+#148	AnnotatorNotes T157	lemma = 'to'
+T158	pos_VB 753 757	stay
+#149	AnnotatorNotes T158	lemma = 'stay'
+T159	pos_RB 758 765	forever
+#150	AnnotatorNotes T159	lemma = 'forever'
+T160	pos_JJ 766 771	young
+#151	AnnotatorNotes T160	lemma = 'young'
+T161	pos_Fc 771 772	,
+#152	AnnotatorNotes T161	lemma = ','
+T162	pos_CC 773 776	and
+#153	AnnotatorNotes T162	lemma = 'and'
+T163	pos_VB 777 780	let
+#154	AnnotatorNotes T163	lemma = 'let'
+T164	pos_PRP 781 784	him
+#155	AnnotatorNotes T164	lemma = 'him'
+T165	pos_VB 785 789	take
+#156	AnnotatorNotes T165	lemma = 'take'
+T166	pos_DT 790 791	a
+#157	AnnotatorNotes T166	lemma = 'a'
+T167	pos_NN 792 800	portrait
+#158	AnnotatorNotes T167	lemma = 'portrait'
+T168	pos_Fp 800 801	.
+#159	AnnotatorNotes T168	lemma = '.'
+T169	pos_RB 802 815	Unfortunately
+#160	AnnotatorNotes T169	lemma = 'unfortunately'
+T170	pos_Fc 815 816	,
+#161	AnnotatorNotes T170	lemma = ','
+T171	pos_PRP 817 820	his
+#162	AnnotatorNotes T171	lemma = 'his'
+T172	pos_VBP 821 825	wish
+#163	AnnotatorNotes T172	lemma = 'wish'
+T173	pos_VBD 826 829	was
+#164	AnnotatorNotes T173	lemma = 'be'
+T174	pos_VBN 830 839	fulfilled
+#165	AnnotatorNotes T174	lemma = 'fulfil'
+T175	pos_Fc 839 840	,
+#166	AnnotatorNotes T175	lemma = ','
+T176	pos_CC 841 844	and
+#167	AnnotatorNotes T176	lemma = 'and'
+T177	pos_CC 845 856	in order to
+#168	AnnotatorNotes T177	lemma = 'in_order_to'
+T178	pos_VB 857 859	be
+#169	AnnotatorNotes T178	lemma = 'be'
+T179	pos_RB 860 865	fully
+#170	AnnotatorNotes T179	lemma = 'fully'
+T180	pos_JJ 866 871	aware
+#171	AnnotatorNotes T180	lemma = 'aware'
+T181	pos_IN 872 874	of
+#172	AnnotatorNotes T181	lemma = 'of'
+T182	pos_DT 875 878	the
+#173	AnnotatorNotes T182	lemma = 'the'
+T183	pos_NN 879 892	investigation
+#174	AnnotatorNotes T183	lemma = 'investigation'
+T184	pos_Fc 892 893	,
+#175	AnnotatorNotes T184	lemma = ','
+T185	pos_PRP 894 896	he
+#176	AnnotatorNotes T185	lemma = 'he'
+T186	pos_VBZ 897 902	dives
+#177	AnnotatorNotes T186	lemma = 'dive'
+T187	pos_RB 903 908	right
+#178	AnnotatorNotes T187	lemma = 'right'
+T188	pos_IN 909 913	into
+#179	AnnotatorNotes T188	lemma = 'into'
+T189	pos_NN 914 918	fame
+#180	AnnotatorNotes T189	lemma = 'fame'
+T190	pos_Fp 918 919	.
+#181	AnnotatorNotes T190	lemma = '.'
+T191	pos_NNS 920 928	Feelings
+#182	AnnotatorNotes T191	lemma = 'feeling'
+T192	pos_IN 929 931	of
+#183	AnnotatorNotes T192	lemma = 'of'
+T193	pos_JJ 932 938	guilty
+#184	AnnotatorNotes T193	lemma = 'guilty'
+T194	pos_CC 939 942	and
+#185	AnnotatorNotes T194	lemma = 'and'
+T195	pos_NN 943 948	shame
+#186	AnnotatorNotes T195	lemma = 'shame'
+T196	pos_IN 949 952	for
+#187	AnnotatorNotes T196	lemma = 'for'
+T197	pos_WP 953 957	what
+#188	AnnotatorNotes T197	lemma = 'what'
+T198	pos_PRP 958 960	he
+#189	AnnotatorNotes T198	lemma = 'he'
+T199	pos_VBZ 961 965	does
+#190	AnnotatorNotes T199	lemma = 'do'
+T200	pos_Fc 965 966	,
+#191	AnnotatorNotes T200	lemma = ','
+T201	pos_CC 967 970	and
+#192	AnnotatorNotes T201	lemma = 'and'
+T202	pos_DT 971 974	the
+#193	AnnotatorNotes T202	lemma = 'the'
+T203	pos_NN 975 985	appearance
+#194	AnnotatorNotes T203	lemma = 'appearance'
+T204	pos_IN 986 988	of
+#195	AnnotatorNotes T204	lemma = 'of'
+T205	pos_DT 989 992	the
+#196	AnnotatorNotes T205	lemma = 'the'
+T206	pos_NN 993 996	man
+#197	AnnotatorNotes T206	lemma = 'man'
+T207	pos_PRP 997 999	he
+#198	AnnotatorNotes T207	lemma = 'he'
+T208	pos_VBZ 1000 1002	is
+#199	AnnotatorNotes T208	lemma = 'be'
+T209	pos_RB 1003 1006	not
+#200	AnnotatorNotes T209	lemma = 'not'
+T210	pos_Fc 1006 1007	,
+#201	AnnotatorNotes T210	lemma = ','
+T211	pos_NN 1008 1017	inability
+#202	AnnotatorNotes T211	lemma = 'inability'
+T212	pos_TO 1018 1020	to
+#203	AnnotatorNotes T212	lemma = 'to'
+T213	pos_VB 1021 1025	stop
+#204	AnnotatorNotes T213	lemma = 'stop'
+T214	pos_DT 1026 1030	this
+#205	AnnotatorNotes T214	lemma = 'this'
+T215	pos_Fc 1030 1031	,
+#206	AnnotatorNotes T215	lemma = ','
+T216	pos_IN 1032 1039	because
+#207	AnnotatorNotes T216	lemma = 'because'
+T217	pos_PRP 1040 1042	he
+#208	AnnotatorNotes T217	lemma = 'he'
+T218	pos_VBZ 1043 1045	is
+#209	AnnotatorNotes T218	lemma = 'be'
+T219	pos_RB 1046 1051	still
+#210	AnnotatorNotes T219	lemma = 'still'
+T220	pos_VBN 1052 1061	convinced
+#211	AnnotatorNotes T220	lemma = 'convince'
+T221	pos_IN 1062 1066	that
+#212	AnnotatorNotes T221	lemma = 'that'
+T222	pos_PRP2 1067 1070	his
+#213	AnnotatorNotes T222	lemma = 'his'
+T223	pos_NN 1071 1077	beauty
+#214	AnnotatorNotes T223	lemma = 'beauty'
+T224	pos_VBZ 1078 1082	wins
+#215	AnnotatorNotes T224	lemma = 'win'
+T225	pos_NNS 1083 1089	hearts
+#216	AnnotatorNotes T225	lemma = 'heart'
+T226	pos_CC 1090 1093	and
+#217	AnnotatorNotes T226	lemma = 'and'
+T227	pos_NNS 1094 1099	souls
+#218	AnnotatorNotes T227	lemma = 'soul'
+T228	pos_Fp 1099 1100	.
+#219	AnnotatorNotes T228	lemma = '.'
+T229	pos_DT 1101 1104	The
+#220	AnnotatorNotes T229	lemma = 'the'
+T230	pos_NP 1105 1111	Dorian
+#221	AnnotatorNotes T230	lemma = 'dorian'
+T231	pos_POS 1111 1113	's
+#222	AnnotatorNotes T231	lemma = ''s'
+T232	pos_VBN 1114 1121	stabbed
+#223	AnnotatorNotes T232	lemma = 'stab'
+T233	pos_NN 1122 1129	picture
+#224	AnnotatorNotes T233	lemma = 'picture'
+T234	pos_VBZ 1130 1136	proves
+#225	AnnotatorNotes T234	lemma = 'prove'
+T235	pos_IN 1137 1141	that
+#226	AnnotatorNotes T235	lemma = 'that'
+T236	pos_DT 1142 1145	the
+#227	AnnotatorNotes T236	lemma = 'the'
+T237	pos_NN 1146 1150	soul
+#228	AnnotatorNotes T237	lemma = 'soul'
+T238	pos_Fc 1150 1151	,
+#229	AnnotatorNotes T238	lemma = ','
+T239	pos_DT 1152 1155	the
+#230	AnnotatorNotes T239	lemma = 'the'
+T240	pos_NN 1156 1168	subconscious
+#231	AnnotatorNotes T240	lemma = 'subconscious'
+T241	pos_Fc 1168 1169	,
+#232	AnnotatorNotes T241	lemma = ','
+T242	pos_CC 1170 1172	or
+#233	AnnotatorNotes T242	lemma = 'or'
+T243	pos_DT 1173 1176	any
+#234	AnnotatorNotes T243	lemma = 'any'
+T244	pos_NN 1177 1182	other
+#235	AnnotatorNotes T244	lemma = 'other'
+T245	pos_Fc 1182 1183	,
+#236	AnnotatorNotes T245	lemma = ','
+T246	pos_VBZ 1184 1188	wins
+#237	AnnotatorNotes T246	lemma = 'win'
+T247	pos_Fp 1188 1189	.
+#238	AnnotatorNotes T247	lemma = '.'
+T248	pos_DT 1190 1193	The
+#239	AnnotatorNotes T248	lemma = 'the'
+T249	pos_JJ 1194 1202	ultimate
+#240	AnnotatorNotes T249	lemma = 'ultimate'
+T250	pos_NN 1203 1207	fall
+#241	AnnotatorNotes T250	lemma = 'fall'
+T251	pos_IN 1208 1210	of
+#242	AnnotatorNotes T251	lemma = 'of'
+T252	pos_NP 1211 1217	Dorian
+#243	AnnotatorNotes T252	lemma = 'dorian'
+T253	pos_VBZ 1218 1220	is
+#244	AnnotatorNotes T253	lemma = 'be'
+T254	pos_PDT 1221 1225	such
+#245	AnnotatorNotes T254	lemma = 'such'
+T255	pos_DT 1226 1227	a
+#246	AnnotatorNotes T255	lemma = 'a'
+T256	pos_VBG 1228 1236	knocking
+#247	AnnotatorNotes T256	lemma = 'knock'
+T257	pos_RP 1237 1240	out
+#248	AnnotatorNotes T257	lemma = 'out'
+T258	pos_IN 1241 1245	that
+#249	AnnotatorNotes T258	lemma = 'that'
+T259	pos_NP 1246 1251	Wilde
+#250	AnnotatorNotes T259	lemma = 'wilde'
+T260	pos_VBZ 1252 1257	tries
+#251	AnnotatorNotes T260	lemma = 'try'
+T261	pos_TO 1258 1260	to
+#252	AnnotatorNotes T261	lemma = 'to'
+T262	pos_VB 1261 1267	convey
+#253	AnnotatorNotes T262	lemma = 'convey'
+T263	pos_TO 1268 1270	to
+#254	AnnotatorNotes T263	lemma = 'to'
+T264	pos_DT 1271 1274	the
+#255	AnnotatorNotes T264	lemma = 'the'
+T265	pos_NN 1275 1281	reader
+#256	AnnotatorNotes T265	lemma = 'reader'
+T266	pos_Fp 1281 1282	.
+#257	AnnotatorNotes T266	lemma = '.'
+T267	pos_PRP 1283 1285	He
+#258	AnnotatorNotes T267	lemma = 'he'
+T268	pos_VBZ 1286 1296	criticizes
+#259	AnnotatorNotes T268	lemma = 'criticize'
+T269	pos_WP 1297 1301	what
+#260	AnnotatorNotes T269	lemma = 'what'
+T270	pos_PRP 1302 1304	he
+#261	AnnotatorNotes T270	lemma = 'he'
+T271	pos_VBZ 1305 1309	sees
+#262	AnnotatorNotes T271	lemma = 'see'
+T272	pos_IN 1310 1312	as
+#263	AnnotatorNotes T272	lemma = 'as'
+T273	pos_DT 1313 1314	a
+#264	AnnotatorNotes T273	lemma = 'a'
+T274	pos_NN 1315 1322	trouble
+#265	AnnotatorNotes T274	lemma = 'trouble'
+T275	pos_IN 1323 1325	of
+#266	AnnotatorNotes T275	lemma = 'of'
+T276	pos_VBG 1326 1334	blinding
+#267	AnnotatorNotes T276	lemma = 'blind'
+T277	pos_NN 1335 1338	ego
+#268	AnnotatorNotes T277	lemma = 'ego'
+T278	pos_Fc 1338 1339	,
+#269	AnnotatorNotes T278	lemma = ','
+T279	pos_WDT 1340 1344	that
+#270	AnnotatorNotes T279	lemma = 'that'
+T280	pos_VBZ 1345 1351	causes
+#271	AnnotatorNotes T280	lemma = 'cause'
+T281	pos_JJ 1352 1361	beautiful
+#272	AnnotatorNotes T281	lemma = 'beautiful'
+T282	pos_NNS 1362 1368	people
+#273	AnnotatorNotes T282	lemma = 'people'
+T283	pos_Fp 1368 1369	.
+#274	AnnotatorNotes T283	lemma = '.'
+T284	pos_IN 1370 1373	For
+#275	AnnotatorNotes T284	lemma = 'for'
+T285	pos_NNS 1374 1379	years
+#276	AnnotatorNotes T285	lemma = 'year'
+T286	pos_Fc 1379 1380	,
+#277	AnnotatorNotes T286	lemma = ','
+T287	pos_NP 1381 1387	Dorian
+#278	AnnotatorNotes T287	lemma = 'dorian'
+T288	pos_VBZ 1388 1395	remains
+#279	AnnotatorNotes T288	lemma = 'remain'
+T289	pos_JJ 1396 1401	young
+#280	AnnotatorNotes T289	lemma = 'young'
+T290	pos_CC 1402 1405	and
+#281	AnnotatorNotes T290	lemma = 'and'
+T291	pos_JJ 1406 1415	beautiful
+#282	AnnotatorNotes T291	lemma = 'beautiful'
+T292	pos_Fc 1415 1416	,
+#283	AnnotatorNotes T292	lemma = ','
+T293	pos_CC 1417 1420	but
+#284	AnnotatorNotes T293	lemma = 'but'
+T294	pos_PRP 1421 1423	he
+#285	AnnotatorNotes T294	lemma = 'he'
+T295	pos_VBZ 1424 1426	is
+#286	AnnotatorNotes T295	lemma = 'be'
+T296	pos_NN 1427 1431	part
+#287	AnnotatorNotes T296	lemma = 'part'
+T297	pos_IN 1432 1434	of
+#288	AnnotatorNotes T297	lemma = 'of'
+T298	pos_DT 1435 1438	the
+#289	AnnotatorNotes T298	lemma = 'the'
+T299	pos_JJ 1439 1443	evil
+#290	AnnotatorNotes T299	lemma = 'evil'
+T300	pos_CC 1444 1447	and
+#291	AnnotatorNotes T300	lemma = 'and'
+T301	pos_PRP2 1448 1451	his
+#292	AnnotatorNotes T301	lemma = 'his'
+T302	pos_NN 1452 1458	beauty
+#293	AnnotatorNotes T302	lemma = 'beauty'
+T303	pos_VBZ 1459 1464	loses
+#294	AnnotatorNotes T303	lemma = 'lose'
+T304	pos_PRP2 1465 1468	its
+#295	AnnotatorNotes T304	lemma = 'its'
+T305	pos_NN 1469 1479	brightness
+#296	AnnotatorNotes T305	lemma = 'brightness'
+T306	pos_IN 1480 1482	at
+#297	AnnotatorNotes T306	lemma = 'at'
+T307	pos_DT 1483 1486	the
+#298	AnnotatorNotes T307	lemma = 'the'
+T308	pos_NN 1487 1494	picture
+#299	AnnotatorNotes T308	lemma = 'picture'
+T309	pos_Fp 1494 1495	.
+#300	AnnotatorNotes T309	lemma = '.'
+T310	pos_DT 1496 1499	The
+#301	AnnotatorNotes T310	lemma = 'the'
+T311	pos_NN 1500 1507	picture
+#302	AnnotatorNotes T311	lemma = 'picture'
+T312	pos_VBD 1508 1511	was
+#303	AnnotatorNotes T312	lemma = 'be'
+T313	pos_RB 1512 1522	absolutely
+#304	AnnotatorNotes T313	lemma = 'absolutely'
+T314	pos_JJ 1523 1531	terrible
+#305	AnnotatorNotes T314	lemma = 'terrible'
+T315	pos_Fc 1531 1532	,
+#306	AnnotatorNotes T315	lemma = ','
+T316	pos_CC 1533 1536	and
+#307	AnnotatorNotes T316	lemma = 'and'
+T317	pos_DT 1537 1540	the
+#308	AnnotatorNotes T317	lemma = 'the'
+T318	pos_NN 1541 1546	image
+#309	AnnotatorNotes T318	lemma = 'image'
+T319	pos_NP 1547 1553	Dorian
+#310	AnnotatorNotes T319	lemma = 'dorian'
+T320	pos_VBD 1554 1560	looked
+#311	AnnotatorNotes T320	lemma = 'look'
+T321	pos_JJ 1561 1565	hard
+#312	AnnotatorNotes T321	lemma = 'hard'
+T322	pos_IN 1566 1570	from
+#313	AnnotatorNotes T322	lemma = 'from'
+T323	pos_DT 1571 1574	the
+#314	AnnotatorNotes T323	lemma = 'the'
+T324	pos_NN 1575 1581	canvas
+#315	AnnotatorNotes T324	lemma = 'canvas'
+T325	pos_Fp 1581 1582	.
+#316	AnnotatorNotes T325	lemma = '.'
+T326	pos_DT 1583 1586	The
+#317	AnnotatorNotes T326	lemma = 'the'
+T327	pos_NN 1587 1596	character
+#318	AnnotatorNotes T327	lemma = 'character'
+T328	pos_VBZ 1597 1600	has
+#319	AnnotatorNotes T328	lemma = 'have'
+T329	pos_VBN 1601 1607	become
+#320	AnnotatorNotes T329	lemma = 'become'
+T330	pos_RB 1608 1610	so
+#321	AnnotatorNotes T330	lemma = 'so'
+T331	pos_JJ 1611 1614	bad
+#322	AnnotatorNotes T331	lemma = 'bad'
+T332	pos_IN 1615 1619	that
+#323	AnnotatorNotes T332	lemma = 'that'
+T333	pos_VBG 1620 1628	charming
+#324	AnnotatorNotes T333	lemma = 'charm'
+T334	pos_NN 1629 1633	look
+#325	AnnotatorNotes T334	lemma = 'look'
+T335	pos_VBD 1634 1637	was
+#326	AnnotatorNotes T335	lemma = 'be'
+T336	pos_VBN 1638 1642	lost
+#327	AnnotatorNotes T336	lemma = 'lose'
+T337	pos_Fp 1642 1643	.
+#328	AnnotatorNotes T337	lemma = '.'

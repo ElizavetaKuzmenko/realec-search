@@ -1,0 +1,708 @@
+T1	suggestion 36 77	the use and usefulness of herbal medicine
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Major
+#1	AnnotatorNotes T1	how useful herbal medicines are
+T2	lex_item_choice 88 99	widely used
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	spread
+T3	lex_item_choice 235 238	big
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	extensive
+T4	Spelling 140 148	sometime
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	sometimes
+T6	Articles 870 889	to insert something
+#5	AnnotatorNotes T6	the
+T7	Punctuation 1012 1013	,
+A17	Cause T7 L1_interference
+A18	Weight-language T7 Minor
+A19	Weight-understanding T7 Minor
+T8	lex_item_choice 1146 1152	effect
+A20	Cause T8 Other
+A21	Weight-language T8 Major
+A22	Weight-understanding T8 Major
+#6	AnnotatorNotes T8	affect
+T9	suggestion 1174 1271	recommend something to somebody people, who are going to use them, to be very careful in doing it
+A23	Cause T9 Other
+A24	Weight-language T9 Critical
+A25	Weight-understanding T9 Critical
+#7	AnnotatorNotes T9	recommend to use them very carefully.
+A26	Cause T6 Absence_of_Category_in_L1
+A27	Weight-language T6 Critical
+A28	Weight-understanding T6 Major
+T10	Articles 1555 1574	to insert something
+A29	Cause T10 Absence_of_Category_in_L1
+A30	Weight-language T10 Critical
+A31	Weight-understanding T10 Major
+#8	AnnotatorNotes T10	a
+T11	Punctuation 1613 1614	,
+A32	Cause T11 L1_interference
+A33	Weight-language T11 Minor
+A34	Weight-understanding T11 Minor
+A35	Delete T11
+T12	lex_item_choice 1608 1613	great
+A36	Cause T12 Other
+A37	Weight-language T12 Major
+A38	Weight-understanding T12 Major
+#9	AnnotatorNotes T12	wonderful
+T13	pos_DT 0 3	The
+#10	AnnotatorNotes T13	lemma = 'the'
+T14	pos_NN 4 7	aim
+#11	AnnotatorNotes T14	lemma = 'aim'
+T15	pos_IN 8 10	of
+#12	AnnotatorNotes T15	lemma = 'of'
+T16	pos_PRP2 11 13	my
+#13	AnnotatorNotes T16	lemma = 'my'
+T17	pos_NN 14 20	report
+#14	AnnotatorNotes T17	lemma = 'report'
+T18	pos_VBZ 21 23	is
+#15	AnnotatorNotes T18	lemma = 'be'
+T19	pos_TO 24 26	to
+#16	AnnotatorNotes T19	lemma = 'to'
+T20	pos_VB 27 35	describe
+#17	AnnotatorNotes T20	lemma = 'describe'
+T21	pos_DT 36 39	the
+#18	AnnotatorNotes T21	lemma = 'the'
+T22	pos_NN 40 43	use
+#19	AnnotatorNotes T22	lemma = 'use'
+T23	pos_CC 44 47	and
+#20	AnnotatorNotes T23	lemma = 'and'
+T24	pos_NN 48 58	usefulness
+#21	AnnotatorNotes T24	lemma = 'usefulness'
+T25	pos_IN 59 61	of
+#22	AnnotatorNotes T25	lemma = 'of'
+T26	pos_JJ 62 68	herbal
+#23	AnnotatorNotes T26	lemma = 'herbal'
+T27	pos_NN 69 77	medicine
+#24	AnnotatorNotes T27	lemma = 'medicine'
+T28	pos_Fp 77 78	.
+#25	AnnotatorNotes T28	lemma = '.'
+T29	pos_PRP 79 83	They
+#26	AnnotatorNotes T29	lemma = 'they'
+T30	pos_VBP 84 87	are
+#27	AnnotatorNotes T30	lemma = 'be'
+T31	pos_RB 88 94	widely
+#28	AnnotatorNotes T31	lemma = 'widely'
+T32	pos_VBN 95 99	used
+#29	AnnotatorNotes T32	lemma = 'use'
+T33	pos_DT 100 103	all
+#30	AnnotatorNotes T33	lemma = 'all'
+T34	pos_IN 104 108	over
+#31	AnnotatorNotes T34	lemma = 'over'
+T35	pos_DT 109 112	the
+#32	AnnotatorNotes T35	lemma = 'the'
+T36	pos_NN 113 118	world
+#33	AnnotatorNotes T36	lemma = 'world'
+T37	pos_VBG 119 128	including
+#34	AnnotatorNotes T37	lemma = 'include'
+T38	pos_NP 129 135	Russia
+#35	AnnotatorNotes T38	lemma = 'russia'
+T39	pos_CC 136 139	and
+#36	AnnotatorNotes T39	lemma = 'and'
+T40	pos_RB 140 148	sometime
+#37	AnnotatorNotes T40	lemma = 'sometime'
+T41	pos_MD 149 152	can
+#38	AnnotatorNotes T41	lemma = 'can'
+T42	pos_VB 153 155	be
+#39	AnnotatorNotes T42	lemma = 'be'
+T43	pos_RB 156 160	very
+#40	AnnotatorNotes T43	lemma = 'very'
+T44	pos_JJ 161 170	effective
+#41	AnnotatorNotes T44	lemma = 'effective'
+T45	pos_IN 171 173	in
+#42	AnnotatorNotes T45	lemma = 'in'
+T46	pos_VBG 174 182	treating
+#43	AnnotatorNotes T46	lemma = 'treat'
+T47	pos_NNS 183 192	illnesses
+#44	AnnotatorNotes T47	lemma = 'illness'
+T48	pos_Fp 192 193	.
+#45	AnnotatorNotes T48	lemma = '.'
+T49	pos_PRP2 194 196	My
+#46	AnnotatorNotes T49	lemma = 'my'
+T50	pos_NN 197 204	opinion
+#47	AnnotatorNotes T50	lemma = 'opinion'
+T51	pos_VBZ 205 207	is
+#48	AnnotatorNotes T51	lemma = 'be'
+T52	pos_VBN 208 213	based
+#49	AnnotatorNotes T52	lemma = 'base'
+T53	pos_IN 214 216	on
+#50	AnnotatorNotes T53	lemma = 'on'
+T54	pos_DT 217 220	the
+#51	AnnotatorNotes T54	lemma = 'the'
+T55	pos_NNS 221 229	findings
+#52	AnnotatorNotes T55	lemma = 'finding'
+T56	pos_IN 230 232	of
+#53	AnnotatorNotes T56	lemma = 'of'
+T57	pos_DT 233 234	a
+#54	AnnotatorNotes T57	lemma = 'a'
+T58	pos_JJ 235 238	big
+#55	AnnotatorNotes T58	lemma = 'big'
+T59	pos_NN 239 247	research
+#56	AnnotatorNotes T59	lemma = 'research'
+T60	pos_IN 248 250	on
+#57	AnnotatorNotes T60	lemma = 'on'
+T61	pos_DT 251 255	this
+#58	AnnotatorNotes T61	lemma = 'this'
+T62	pos_NN 256 263	subject
+#59	AnnotatorNotes T62	lemma = 'subject'
+T63	pos_CC 264 267	and
+#60	AnnotatorNotes T63	lemma = 'and'
+T64	pos_NN 268 279	information
+#61	AnnotatorNotes T64	lemma = 'information'
+T65	pos_IN 280 284	from
+#62	AnnotatorNotes T65	lemma = 'from'
+T66	pos_DT 285 289	some
+#63	AnnotatorNotes T66	lemma = 'some'
+T67	pos_JJ 290 300	well-known
+#64	AnnotatorNotes T67	lemma = 'well-known'
+T68	pos_JJ 301 308	medical
+#65	AnnotatorNotes T68	lemma = 'medical'
+T69	pos_NNS 309 317	journals
+#66	AnnotatorNotes T69	lemma = 'journal'
+T70	pos_Fp 317 318	.
+#67	AnnotatorNotes T70	lemma = '.'
+T71	pos_NNS 322 327	Herbs
+#68	AnnotatorNotes T71	lemma = 'herb'
+T72	pos_CC 328 331	and
+#69	AnnotatorNotes T72	lemma = 'and'
+T73	pos_NN 332 337	plant
+#70	AnnotatorNotes T73	lemma = 'plant'
+T74	pos_NNS 338 346	extracts
+#71	AnnotatorNotes T74	lemma = 'extract'
+T75	pos_VBD 347 351	were
+#72	AnnotatorNotes T75	lemma = 'be'
+T76	pos_DT 352 355	the
+#73	AnnotatorNotes T76	lemma = 'the'
+T77	pos_JJ 356 361	first
+#74	AnnotatorNotes T77	lemma = '1'
+T78	pos_NN 362 366	type
+#75	AnnotatorNotes T78	lemma = 'type'
+T79	pos_IN 367 369	of
+#76	AnnotatorNotes T79	lemma = 'of'
+T80	pos_NN 370 378	medicine
+#77	AnnotatorNotes T80	lemma = 'medicine'
+T81	pos_VBN 379 389	discovered
+#78	AnnotatorNotes T81	lemma = 'discover'
+T82	pos_IN 390 392	by
+#79	AnnotatorNotes T82	lemma = 'by'
+T83	pos_NNS 393 399	people
+#80	AnnotatorNotes T83	lemma = 'people'
+T84	pos_CC 400 403	and
+#81	AnnotatorNotes T84	lemma = 'and'
+T85	pos_VBD 404 408	were
+#82	AnnotatorNotes T85	lemma = 'be'
+T86	pos_VBN 409 413	used
+#83	AnnotatorNotes T86	lemma = 'use'
+T87	pos_IN 414 417	for
+#84	AnnotatorNotes T87	lemma = 'for'
+T88	pos_NNS 418 427	thousands
+#85	AnnotatorNotes T88	lemma = 'thousand'
+T89	pos_IN 428 430	of
+#86	AnnotatorNotes T89	lemma = 'of'
+T90	pos_NNS 431 436	years
+#87	AnnotatorNotes T90	lemma = 'year'
+T91	pos_RB 437 443	in all
+#88	AnnotatorNotes T91	lemma = 'in_all'
+T92	pos_JJ 444 455	traditional
+#89	AnnotatorNotes T92	lemma = 'traditional'
+T93	pos_NNS 456 464	cultures
+#90	AnnotatorNotes T93	lemma = 'culture'
+T94	pos_Fp 464 465	.
+#91	AnnotatorNotes T94	lemma = '.'
+T95	pos_EX 467 472	There
+#92	AnnotatorNotes T95	lemma = 'there'
+T96	pos_VBP 473 476	are
+#93	AnnotatorNotes T96	lemma = 'be'
+T97	pos_Z 477 482	three
+#94	AnnotatorNotes T97	lemma = '3'
+T98	pos_JJ 483 487	main
+#95	AnnotatorNotes T98	lemma = 'main'
+T99	pos_NNS 488 493	types
+#96	AnnotatorNotes T99	lemma = 'type'
+T100	pos_IN 494 496	of
+#97	AnnotatorNotes T100	lemma = 'of'
+T101	pos_JJ 497 503	herbal
+#98	AnnotatorNotes T101	lemma = 'herbal'
+T102	pos_NNS 504 512	remedies
+#99	AnnotatorNotes T102	lemma = 'remedy'
+T103	pos_RB 513 521	nowadays
+#100	AnnotatorNotes T103	lemma = 'nowadays'
+T104	pos_Fd 521 522	:
+#101	AnnotatorNotes T104	lemma = ':'
+T105	pos_JJ 523 530	Western
+#102	AnnotatorNotes T105	lemma = 'western'
+T106	pos_Fc 530 531	,
+#103	AnnotatorNotes T106	lemma = ','
+T107	pos_NP 532 539	Chinese
+#104	AnnotatorNotes T107	lemma = 'chinese'
+T108	pos_CC 540 543	and
+#105	AnnotatorNotes T108	lemma = 'and'
+T109	pos_NP 544 550	Indian
+#106	AnnotatorNotes T109	lemma = 'indian'
+T110	pos_Fp 550 551	.
+#107	AnnotatorNotes T110	lemma = '.'
+T111	pos_DT 556 559	The
+#108	AnnotatorNotes T111	lemma = 'the'
+T112	pos_JJ 560 564	long
+#109	AnnotatorNotes T112	lemma = 'long'
+T113	pos_NN 565 575	experience
+#110	AnnotatorNotes T113	lemma = 'experience'
+T114	pos_IN 576 578	of
+#111	AnnotatorNotes T114	lemma = 'of'
+T115	pos_VBG 579 584	using
+#112	AnnotatorNotes T115	lemma = 'use'
+T116	pos_JJ 585 591	herbal
+#113	AnnotatorNotes T116	lemma = 'herbal'
+T117	pos_NN 592 600	medicine
+#114	AnnotatorNotes T117	lemma = 'medicine'
+T118	pos_NNS 601 606	shows
+#115	AnnotatorNotes T118	lemma = 'show'
+T119	pos_Fc 606 607	,
+#116	AnnotatorNotes T119	lemma = ','
+T120	pos_IN 608 612	that
+#117	AnnotatorNotes T120	lemma = 'that'
+T121	pos_VBG 613 619	taking
+#118	AnnotatorNotes T121	lemma = 'take'
+T122	pos_NNS 620 625	herbs
+#119	AnnotatorNotes T122	lemma = 'herb'
+T123	pos_MD 626 629	can
+#120	AnnotatorNotes T123	lemma = 'can'
+T124	pos_RB 630 636	really
+#121	AnnotatorNotes T124	lemma = 'really'
+T125	pos_VB 637 644	improve
+#122	AnnotatorNotes T125	lemma = 'improve'
+T126	pos_NNS 645 653	people's
+#123	AnnotatorNotes T126	lemma = 'people'
+T127	pos_POS 645 653	people's
+#124	AnnotatorNotes T127	lemma = ''s'
+T128	pos_NN 654 660	health
+#125	AnnotatorNotes T128	lemma = 'health'
+T129	pos_Fp 660 661	.
+#126	AnnotatorNotes T129	lemma = '.'
+T130	pos_VBG 662 668	Having
+#127	AnnotatorNotes T130	lemma = 'have'
+T131	pos_VBD 669 673	said
+#128	AnnotatorNotes T131	lemma = 'say'
+T132	pos_DT 674 678	this
+#129	AnnotatorNotes T132	lemma = 'this'
+T133	pos_Fc 678 679	,
+#130	AnnotatorNotes T133	lemma = ','
+T134	pos_PRP 680 684	they
+#131	AnnotatorNotes T134	lemma = 'they'
+T135	pos_VBP 685 689	have
+#132	AnnotatorNotes T135	lemma = 'have'
+T136	pos_TO 690 692	to
+#133	AnnotatorNotes T136	lemma = 'to'
+T137	pos_VB 693 695	be
+#134	AnnotatorNotes T137	lemma = 'be'
+T138	pos_VBN 696 701	taken
+#135	AnnotatorNotes T138	lemma = 'take'
+T139	pos_RB 702 711	carefully
+#136	AnnotatorNotes T139	lemma = 'carefully'
+T140	pos_IN 712 717	since
+#137	AnnotatorNotes T140	lemma = 'since'
+T141	pos_PRP 718 722	they
+#138	AnnotatorNotes T141	lemma = 'they'
+T142	pos_MD 723 726	can
+#139	AnnotatorNotes T142	lemma = 'can'
+T143	pos_VB 727 732	cause
+#140	AnnotatorNotes T143	lemma = 'cause'
+T144	pos_DT 733 737	some
+#141	AnnotatorNotes T144	lemma = 'some'
+T145	pos_NN 738 742	side
+#142	AnnotatorNotes T145	lemma = 'side'
+T146	pos_NNS 743 750	effects
+#143	AnnotatorNotes T146	lemma = 'effect'
+T147	pos_RB 751 758	as well
+#144	AnnotatorNotes T147	lemma = 'as_well'
+T148	pos_RB 759 761	as
+#145	AnnotatorNotes T148	lemma = 'as'
+T149	pos_VB 762 770	interact
+#146	AnnotatorNotes T149	lemma = 'interact'
+T150	pos_RB 771 776	badly
+#147	AnnotatorNotes T150	lemma = 'badly'
+T151	pos_IN 777 781	with
+#148	AnnotatorNotes T151	lemma = 'with'
+T152	pos_JJ 782 787	other
+#149	AnnotatorNotes T152	lemma = 'other'
+T153	pos_NNS 788 793	drugs
+#150	AnnotatorNotes T153	lemma = 'drug'
+T154	pos_Fp 793 794	.
+#151	AnnotatorNotes T154	lemma = '.'
+T155	pos_RBS 795 799	Most
+#152	AnnotatorNotes T155	lemma = 'many'
+T156	pos_IN 800 802	of
+#153	AnnotatorNotes T156	lemma = 'of'
+T157	pos_DT 803 806	the
+#154	AnnotatorNotes T157	lemma = 'the'
+T158	pos_NNS 807 813	people
+#155	AnnotatorNotes T158	lemma = 'people'
+T159	pos_VBP 814 822	consider
+#156	AnnotatorNotes T159	lemma = 'consider'
+T160	pos_JJ 823 829	herbal
+#157	AnnotatorNotes T160	lemma = 'herbal'
+T161	pos_NN 830 838	medicine
+#158	AnnotatorNotes T161	lemma = 'medicine'
+T162	pos_RB 839 844	quite
+#159	AnnotatorNotes T162	lemma = 'quite'
+T163	pos_JJ 845 854	effective
+#160	AnnotatorNotes T163	lemma = 'effective'
+T164	pos_Fd 854 855	:
+#161	AnnotatorNotes T164	lemma = ':'
+T165	pos_Z 856 858	55
+#162	AnnotatorNotes T165	lemma = '55'
+T166	pos_NN 859 866	percent
+#163	AnnotatorNotes T166	lemma = 'percent'
+T167	pos_IN 867 869	of
+#164	AnnotatorNotes T167	lemma = 'of'
+T168	pos_TO 870 872	to
+#165	AnnotatorNotes T168	lemma = 'to'
+T169	pos_VB 873 879	insert
+#166	AnnotatorNotes T169	lemma = 'insert'
+T170	pos_PRP 880 889	something
+#167	AnnotatorNotes T170	lemma = 'something'
+T171	pos_VBN 890 898	surveyed
+#168	AnnotatorNotes T171	lemma = 'survey'
+T172	pos_NNS 899 906	members
+#169	AnnotatorNotes T172	lemma = 'member'
+T173	pos_MD 907 912	would
+#170	AnnotatorNotes T173	lemma = 'would'
+T174	pos_VB 913 922	recommend
+#171	AnnotatorNotes T174	lemma = 'recommend'
+T175	pos_PRP 923 927	them
+#172	AnnotatorNotes T175	lemma = 'them'
+T176	pos_TO 928 930	to
+#173	AnnotatorNotes T176	lemma = 'to'
+T177	pos_PRP2 931 936	their
+#174	AnnotatorNotes T177	lemma = 'their'
+T178	pos_NNS 937 944	friends
+#175	AnnotatorNotes T178	lemma = 'friend'
+T179	pos_Fp 944 945	.
+#176	AnnotatorNotes T179	lemma = '.'
+T180	pos_TO 951 953	To
+#177	AnnotatorNotes T180	lemma = 'to'
+T181	pos_VB 954 963	summarize
+#178	AnnotatorNotes T181	lemma = 'summarize'
+T182	pos_DT 964 967	all
+#179	AnnotatorNotes T182	lemma = 'all'
+T183	pos_NNS 968 973	facts
+#180	AnnotatorNotes T183	lemma = 'fact'
+T184	pos_VBN 974 983	presented
+#181	AnnotatorNotes T184	lemma = 'present'
+T185	pos_IN 984 986	in
+#182	AnnotatorNotes T185	lemma = 'in'
+T186	pos_DT 987 990	the
+#183	AnnotatorNotes T186	lemma = 'the'
+T187	pos_IN 991 996	above
+#184	AnnotatorNotes T187	lemma = 'above'
+T188	pos_VBN 997 1006	mentioned
+#185	AnnotatorNotes T188	lemma = 'mention'
+T189	pos_NN 1007 1012	study
+#186	AnnotatorNotes T189	lemma = 'study'
+T190	pos_Fc 1012 1013	,
+#187	AnnotatorNotes T190	lemma = ','
+T191	pos_DT 1014 1017	the
+#188	AnnotatorNotes T191	lemma = 'the'
+T192	pos_NNS 1018 1023	herbs
+#189	AnnotatorNotes T192	lemma = 'herb'
+T193	pos_MD 1024 1027	can
+#190	AnnotatorNotes T193	lemma = 'can'
+T194	pos_VB 1028 1030	be
+#191	AnnotatorNotes T194	lemma = 'be'
+T195	pos_JJ 1031 1038	harmful
+#192	AnnotatorNotes T195	lemma = 'harmful'
+T196	pos_IN 1039 1042	for
+#193	AnnotatorNotes T196	lemma = 'for'
+T197	pos_DT 1043 1046	the
+#194	AnnotatorNotes T197	lemma = 'the'
+T198	pos_NN 1047 1051	body
+#195	AnnotatorNotes T198	lemma = 'body'
+T199	pos_IN 1052 1054	if
+#196	AnnotatorNotes T199	lemma = 'if'
+T200	pos_PRP 1055 1059	they
+#197	AnnotatorNotes T200	lemma = 'they'
+T201	pos_VBP 1060 1063	are
+#198	AnnotatorNotes T201	lemma = 'be'
+T202	pos_RB 1064 1067	not
+#199	AnnotatorNotes T202	lemma = 'not'
+T203	pos_VBN 1068 1072	used
+#200	AnnotatorNotes T203	lemma = 'use'
+T204	pos_IN 1073 1075	in
+#201	AnnotatorNotes T204	lemma = 'in'
+T205	pos_DT 1076 1077	a
+#202	AnnotatorNotes T205	lemma = 'a'
+T206	pos_JJ 1078 1083	right
+#203	AnnotatorNotes T206	lemma = 'right'
+T207	pos_NN 1084 1087	way
+#204	AnnotatorNotes T207	lemma = 'way'
+T208	pos_Fp 1087 1088	.
+#205	AnnotatorNotes T208	lemma = '.'
+T209	pos_CC 1089 1092	But
+#206	AnnotatorNotes T209	lemma = 'but'
+T210	pos_PRP 1093 1097	they
+#207	AnnotatorNotes T210	lemma = 'they'
+T211	pos_VBP 1098 1102	have
+#208	AnnotatorNotes T211	lemma = 'have'
+T212	pos_DT 1103 1111	a lot of
+#209	AnnotatorNotes T212	lemma = 'a_lot_of'
+T213	pos_NNS 1112 1120	benefits
+#210	AnnotatorNotes T213	lemma = 'benefit'
+T214	pos_CC 1121 1124	and
+#211	AnnotatorNotes T214	lemma = 'and'
+T215	pos_RB 1125 1130	often
+#212	AnnotatorNotes T215	lemma = 'often'
+T216	pos_MD 1131 1134	can
+#213	AnnotatorNotes T216	lemma = 'can'
+T217	pos_RB 1135 1145	positively
+#214	AnnotatorNotes T217	lemma = 'positively'
+T218	pos_VB 1146 1152	effect
+#215	AnnotatorNotes T218	lemma = 'effect'
+T219	pos_DT 1153 1156	the
+#216	AnnotatorNotes T219	lemma = 'the'
+T220	pos_NN 1157 1163	health
+#217	AnnotatorNotes T220	lemma = 'health'
+T221	pos_Fp 1163 1164	.
+#218	AnnotatorNotes T221	lemma = '.'
+T222	pos_PRP 1165 1167	We
+#219	AnnotatorNotes T222	lemma = 'we'
+T223	pos_MD 1168 1173	would
+#220	AnnotatorNotes T223	lemma = 'would'
+T224	pos_VB 1174 1183	recommend
+#221	AnnotatorNotes T224	lemma = 'recommend'
+T225	pos_PRP 1184 1193	something
+#222	AnnotatorNotes T225	lemma = 'something'
+T226	pos_TO 1194 1196	to
+#223	AnnotatorNotes T226	lemma = 'to'
+T227	pos_PRP 1197 1205	somebody
+#224	AnnotatorNotes T227	lemma = 'somebody'
+T228	pos_NNS 1206 1212	people
+#225	AnnotatorNotes T228	lemma = 'people'
+T229	pos_Fc 1212 1213	,
+#226	AnnotatorNotes T229	lemma = ','
+T230	pos_WP 1214 1217	who
+#227	AnnotatorNotes T230	lemma = 'who'
+T231	pos_VBP 1218 1221	are
+#228	AnnotatorNotes T231	lemma = 'be'
+T232	pos_VBG 1222 1227	going
+#229	AnnotatorNotes T232	lemma = 'go'
+T233	pos_TO 1228 1230	to
+#230	AnnotatorNotes T233	lemma = 'to'
+T234	pos_VB 1231 1234	use
+#231	AnnotatorNotes T234	lemma = 'use'
+T235	pos_PRP 1235 1239	them
+#232	AnnotatorNotes T235	lemma = 'them'
+T236	pos_Fc 1239 1240	,
+#233	AnnotatorNotes T236	lemma = ','
+T237	pos_TO 1241 1243	to
+#234	AnnotatorNotes T237	lemma = 'to'
+T238	pos_VB 1244 1246	be
+#235	AnnotatorNotes T238	lemma = 'be'
+T239	pos_RB 1247 1251	very
+#236	AnnotatorNotes T239	lemma = 'very'
+T240	pos_JJ 1252 1259	careful
+#237	AnnotatorNotes T240	lemma = 'careful'
+T241	pos_IN 1260 1262	in
+#238	AnnotatorNotes T241	lemma = 'in'
+T242	pos_VBG 1263 1268	doing
+#239	AnnotatorNotes T242	lemma = 'do'
+T243	pos_PRP 1269 1271	it
+#240	AnnotatorNotes T243	lemma = 'it'
+T244	pos_Fp 1271 1272	.
+#241	AnnotatorNotes T244	lemma = '.'
+T245	pos_PRP 1274 1276	It
+#242	AnnotatorNotes T245	lemma = 'it'
+T246	pos_VBZ 1277 1279	is
+#243	AnnotatorNotes T246	lemma = 'be'
+T247	pos_RB 1280 1289	extremely
+#244	AnnotatorNotes T247	lemma = 'extremely'
+T248	pos_JJ 1290 1299	important
+#245	AnnotatorNotes T248	lemma = 'important'
+T249	pos_TO 1300 1302	to
+#246	AnnotatorNotes T249	lemma = 'to'
+T250	pos_VB 1303 1310	consult
+#247	AnnotatorNotes T250	lemma = 'consult'
+T251	pos_PRP2 1311 1315	your
+#248	AnnotatorNotes T251	lemma = 'your'
+T252	pos_NN 1316 1322	doctor
+#249	AnnotatorNotes T252	lemma = 'doctor'
+T253	pos_IN 1323 1325	if
+#250	AnnotatorNotes T253	lemma = 'if'
+T254	pos_PRP 1326 1329	you
+#251	AnnotatorNotes T254	lemma = 'you'
+T255	pos_VBP 1330 1336	decide
+#252	AnnotatorNotes T255	lemma = 'decide'
+T256	pos_TO 1337 1339	to
+#253	AnnotatorNotes T256	lemma = 'to'
+T257	pos_VB 1340 1345	start
+#254	AnnotatorNotes T257	lemma = 'start'
+T258	pos_VBG 1346 1351	using
+#255	AnnotatorNotes T258	lemma = 'use'
+T259	pos_NNS 1352 1357	herbs
+#256	AnnotatorNotes T259	lemma = 'herb'
+T260	pos_Fp 1357 1358	.
+#257	AnnotatorNotes T260	lemma = '.'
+T261	pos_PRP 1359 1362	You
+#258	AnnotatorNotes T261	lemma = 'you'
+T262	pos_MD 1363 1369	should
+#259	AnnotatorNotes T262	lemma = 'should'
+T263	pos_RB 645 653	people's
+#260	AnnotatorNotes T263	lemma = 'not'
+T264	pos_RB 1374 1380	easily
+#261	AnnotatorNotes T264	lemma = 'easily'
+T265	pos_CC 1381 1384	and
+#262	AnnotatorNotes T265	lemma = 'and'
+T266	pos_RB 1385 1390	fully
+#263	AnnotatorNotes T266	lemma = 'fully'
+T267	pos_VBP 1391 1398	believe
+#264	AnnotatorNotes T267	lemma = 'believe'
+T268	pos_NN 1399 1410	information
+#265	AnnotatorNotes T268	lemma = 'information'
+T269	pos_IN 1411 1413	on
+#266	AnnotatorNotes T269	lemma = 'on'
+T270	pos_DT 1414 1417	the
+#267	AnnotatorNotes T270	lemma = 'the'
+T271	pos_NNS 1418 1426	packages
+#268	AnnotatorNotes T271	lemma = 'package'
+T272	pos_IN 1427 1429	of
+#269	AnnotatorNotes T272	lemma = 'of'
+T273	pos_JJ 1430 1436	herbal
+#270	AnnotatorNotes T273	lemma = 'herbal'
+T274	pos_NNS 1437 1445	products
+#271	AnnotatorNotes T274	lemma = 'product'
+T275	pos_Fp 1445 1446	.
+#272	AnnotatorNotes T275	lemma = '.'
+T276	pos_RB 1447 1451	Also
+#273	AnnotatorNotes T276	lemma = 'also'
+T277	pos_Fc 1451 1452	,
+#274	AnnotatorNotes T277	lemma = ','
+T278	pos_PRP 1453 1456	you
+#275	AnnotatorNotes T278	lemma = 'you'
+T279	pos_MD 1457 1461	must
+#276	AnnotatorNotes T279	lemma = 'must'
+T280	pos_VB 1462 1464	be
+#277	AnnotatorNotes T280	lemma = 'be'
+T281	pos_JJ 1465 1469	sure
+#278	AnnotatorNotes T281	lemma = 'sure'
+T282	pos_IN 1470 1474	that
+#279	AnnotatorNotes T282	lemma = 'that'
+T283	pos_PRP 1475 1478	you
+#280	AnnotatorNotes T283	lemma = 'you'
+T284	pos_VBP 1479 1482	use
+#281	AnnotatorNotes T284	lemma = 'use'
+T285	pos_DT 1483 1484	a
+#282	AnnotatorNotes T285	lemma = 'a'
+T286	pos_JJ 1485 1492	correct
+#283	AnnotatorNotes T286	lemma = 'correct'
+T287	pos_NN 1493 1497	herb
+#284	AnnotatorNotes T287	lemma = 'herb'
+T288	pos_WDT 1498 1502	that
+#285	AnnotatorNotes T288	lemma = 'that'
+T289	pos_VBZ 1503 1505	is
+#286	AnnotatorNotes T289	lemma = 'be'
+T290	pos_JJ 1506 1510	good
+#287	AnnotatorNotes T290	lemma = 'good'
+T291	pos_IN 1511 1514	for
+#288	AnnotatorNotes T291	lemma = 'for'
+T292	pos_PRP 1515 1518	you
+#289	AnnotatorNotes T292	lemma = 'you'
+T293	pos_Fp 1518 1519	.
+#290	AnnotatorNotes T293	lemma = '.'
+T294	pos_PRP 1520 1522	It
+#291	AnnotatorNotes T294	lemma = 'it'
+T295	pos_VBZ 1523 1525	is
+#292	AnnotatorNotes T295	lemma = 'be'
+T296	pos_JJ 1526 1535	important
+#293	AnnotatorNotes T296	lemma = 'important'
+T297	pos_TO 1536 1538	to
+#294	AnnotatorNotes T297	lemma = 'to'
+T298	pos_VB 1539 1546	discuss
+#295	AnnotatorNotes T298	lemma = 'discuss'
+T299	pos_PRP 1547 1549	it
+#296	AnnotatorNotes T299	lemma = 'it'
+T300	pos_IN 1550 1554	with
+#297	AnnotatorNotes T300	lemma = 'with'
+T301	pos_TO 1555 1557	to
+#298	AnnotatorNotes T301	lemma = 'to'
+T302	pos_VB 1558 1564	insert
+#299	AnnotatorNotes T302	lemma = 'insert'
+T303	pos_PRP 1565 1574	something
+#300	AnnotatorNotes T303	lemma = 'something'
+T304	pos_JJ 1575 1587	professional
+#301	AnnotatorNotes T304	lemma = 'professional'
+T305	pos_NN 1588 1597	herbalist
+#302	AnnotatorNotes T305	lemma = 'herbalist'
+T306	pos_CC 1598 1601	and
+#303	AnnotatorNotes T306	lemma = 'and'
+T307	pos_PRP 1602 1604	it
+#304	AnnotatorNotes T307	lemma = 'it'
+T308	pos_VBZ 1605 1607	is
+#305	AnnotatorNotes T308	lemma = 'be'
+T309	pos_JJ 1608 1613	great
+#306	AnnotatorNotes T309	lemma = 'great'
+T310	pos_Fc 1613 1614	,
+#307	AnnotatorNotes T310	lemma = ','
+T311	pos_IN 1615 1617	if
+#308	AnnotatorNotes T311	lemma = 'if'
+T312	pos_PRP 1618 1620	he
+#309	AnnotatorNotes T312	lemma = 'he'
+T313	pos_VBZ 1621 1626	makes
+#310	AnnotatorNotes T313	lemma = 'make'
+T314	pos_DT 1627 1628	a
+#311	AnnotatorNotes T314	lemma = 'a'
+T315	pos_NN 1629 1637	medicine
+#312	AnnotatorNotes T315	lemma = 'medicine'
+T316	pos_RB 1638 1648	especially
+#313	AnnotatorNotes T316	lemma = 'especially'
+T317	pos_IN 1649 1652	for
+#314	AnnotatorNotes T317	lemma = 'for'
+T318	pos_PRP2 1653 1657	your
+#315	AnnotatorNotes T318	lemma = 'your'
+T319	pos_JJ 1658 1665	medical
+#316	AnnotatorNotes T319	lemma = 'medical'
+T320	pos_NNS 1666 1671	needs
+#317	AnnotatorNotes T320	lemma = 'need'
+T321	pos_CC 1672 1675	and
+#318	AnnotatorNotes T321	lemma = 'and'
+T322	pos_NNS 1676 1682	issues
+#319	AnnotatorNotes T322	lemma = 'issue'
+T323	pos_Fp 1682 1683	.
+#320	AnnotatorNotes T323	lemma = '.'
+T324	pos_VBG 1684 1689	Doing
+#321	AnnotatorNotes T324	lemma = 'do'
+T325	pos_PDT 1690 1693	all
+#322	AnnotatorNotes T325	lemma = 'all'
+T326	pos_DT 1694 1699	these
+#323	AnnotatorNotes T326	lemma = 'these'
+T327	pos_NNS 1700 1706	things
+#324	AnnotatorNotes T327	lemma = 'thing'
+T328	pos_Fc 1706 1707	,
+#325	AnnotatorNotes T328	lemma = ','
+T329	pos_PRP 1708 1711	you
+#326	AnnotatorNotes T329	lemma = 'you'
+T330	pos_MD 1712 1715	can
+#327	AnnotatorNotes T330	lemma = 'can'
+T331	pos_VB 1716 1722	expect
+#328	AnnotatorNotes T331	lemma = 'expect'
+T332	pos_DT 1723 1724	a
+#329	AnnotatorNotes T332	lemma = 'a'
+T333	pos_RB 1725 1729	very
+#330	AnnotatorNotes T333	lemma = 'very'
+T334	pos_JJ 1730 1734	good
+#331	AnnotatorNotes T334	lemma = 'good'
+T335	pos_NN 1735 1741	effect
+#332	AnnotatorNotes T335	lemma = 'effect'
+T336	pos_IN 1742 1746	from
+#333	AnnotatorNotes T336	lemma = 'from'
+T337	pos_JJ 1747 1753	herbal
+#334	AnnotatorNotes T337	lemma = 'herbal'
+T338	pos_NNS 1754 1762	remedies
+#335	AnnotatorNotes T338	lemma = 'remedy'
+T339	pos_Fp 1762 1763	.
+#336	AnnotatorNotes T339	lemma = '.'

@@ -1,0 +1,403 @@
+T1	Number 24 31	explore	
+#1	AnnotatorNotes T1	explores
+T2	Art_choice 90 99	so-called
+#2	AnnotatorNotes T2	The so-called
+T3	Art_choice 241 244	the	
+A3	Delete T3
+T4	Art_choice 381 384	the	
+A4	Delete T4
+T6	Art_choice 32 38	impact
+#3	AnnotatorNotes T6	the impact
+A1	Weight-language T1 Major
+A2	Cause T6 Absence_of_Category_in_L1
+A5	Weight-language T6 Minor
+A6	Cause T2 Absence_of_Category_in_L1
+A7	Weight-language T2 Minor
+A8	Cause T3 Absence_of_Category_in_L1
+A9	Weight-language T3 Minor
+A10	Cause T4 Absence_of_Category_in_L1
+A11	Weight-language T4 Minor
+T7	pos_﻿ 0 1	﻿
+#4	AnnotatorNotes T7	lemma = '﻿'
+T8	pos_NP 1 3	In
+#5	AnnotatorNotes T8	lemma = 'in'
+T9	pos_DT 4 8	this
+#6	AnnotatorNotes T9	lemma = 'this'
+T10	pos_NN 9 14	paper
+#7	AnnotatorNotes T10	lemma = 'paper'
+T11	pos_Fc 14 15	,
+#8	AnnotatorNotes T11	lemma = ','
+T12	pos_NP 16 23	J.Aaker	
+#9	AnnotatorNotes T12	lemma = 'j._aaker'
+T13	pos_VB 24 31	explore
+#10	AnnotatorNotes T13	lemma = 'explore'
+T14	pos_NN 32 38	impact
+#11	AnnotatorNotes T14	lemma = 'impact'
+T15	pos_IN 39 41	of
+#12	AnnotatorNotes T15	lemma = 'of'
+T16	pos_NN 42 47	brand
+#13	AnnotatorNotes T16	lemma = 'brand'
+T17	pos_IN 48 50	on
+#14	AnnotatorNotes T17	lemma = 'on'
+T18	pos_DT 51 54	the
+#15	AnnotatorNotes T18	lemma = 'the'
+T19	pos_NN 55 64	formation
+#16	AnnotatorNotes T19	lemma = 'formation'
+T20	pos_IN 65 67	of
+#17	AnnotatorNotes T20	lemma = 'of'
+T21	pos_NN 68 76	consumer
+#18	AnnotatorNotes T21	lemma = 'consumer'
+T22	pos_POS 76 78	's
+#19	AnnotatorNotes T22	lemma = ''s'
+T23	pos_NN 79 87	behavior
+#20	AnnotatorNotes T23	lemma = 'behavior'
+T24	pos_Fp 17 18	.
+#21	AnnotatorNotes T24	lemma = '.'
+T25	pos_JJ 90 99	so-called
+#22	AnnotatorNotes T25	lemma = 'so-called'
+T26	pos_Fc 99 100	,
+#23	AnnotatorNotes T26	lemma = ','
+T27	pos_NN 101 106	brand
+#24	AnnotatorNotes T27	lemma = 'brand'
+T28	pos_NN 107 118	personality
+#25	AnnotatorNotes T28	lemma = 'personality'
+T29	pos_MD 119 122	can
+#26	AnnotatorNotes T29	lemma = 'can'
+T30	pos_VB 123 125	be
+#27	AnnotatorNotes T30	lemma = 'be'
+T31	pos_RB 126 130	very
+#28	AnnotatorNotes T31	lemma = 'very'
+T32	pos_JJ 131 142	influential
+#29	AnnotatorNotes T32	lemma = 'influential'
+T33	pos_IN 143 145	in
+#30	AnnotatorNotes T33	lemma = 'in'
+T34	pos_NN 146 154	consumer
+#31	AnnotatorNotes T34	lemma = 'consumer'
+T35	pos_POS 154 156	's
+#32	AnnotatorNotes T35	lemma = ''s'
+T36	pos_VBG 157 163	buying
+#33	AnnotatorNotes T36	lemma = 'buy'
+T37	pos_NNS 164 170	habits
+#34	AnnotatorNotes T37	lemma = 'habit'
+T38	pos_IN 171 175	with
+#35	AnnotatorNotes T38	lemma = 'with'
+T39	pos_VBZ 176 183	regards
+#36	AnnotatorNotes T39	lemma = 'regard'
+T40	pos_TO 184 186	to
+#37	AnnotatorNotes T40	lemma = 'to'
+T41	pos_DT 19 20	a
+#38	AnnotatorNotes T41	lemma = 'a'
+T42	pos_JJ 189 199	particular
+#39	AnnotatorNotes T42	lemma = 'particular'
+T43	pos_NN 200 207	product
+#40	AnnotatorNotes T43	lemma = 'product'
+T44	pos_CC 208 210	or
+#41	AnnotatorNotes T44	lemma = 'or'
+T45	pos_NN 211 218	service
+#42	AnnotatorNotes T45	lemma = 'service'
+T46	pos_Fp 87 88	.
+#43	AnnotatorNotes T46	lemma = '.'
+T47	pos_DT 220 223	The
+#44	AnnotatorNotes T47	lemma = 'the'
+T48	pos_NN 224 230	author
+#45	AnnotatorNotes T48	lemma = 'author'
+T49	pos_VBZ 231 240	considers
+#46	AnnotatorNotes T49	lemma = 'consider'
+T50	pos_DT 241 244	the
+#47	AnnotatorNotes T50	lemma = 'the'
+T51	pos_NN 245 250	brand
+#48	AnnotatorNotes T51	lemma = 'brand'
+T52	pos_NN 251 262	personality
+#49	AnnotatorNotes T52	lemma = 'personality'
+T53	pos_IN 263 265	as
+#50	AnnotatorNotes T53	lemma = 'as'
+T54	pos_DT 187 188	a
+#51	AnnotatorNotes T54	lemma = 'a'
+T55	pos_NN 268 271	set
+#52	AnnotatorNotes T55	lemma = 'set'
+T56	pos_IN 272 274	of
+#53	AnnotatorNotes T56	lemma = 'of'
+T57	pos_JJ 275 280	human
+#54	AnnotatorNotes T57	lemma = 'human'
+T58	pos_NNS 281 296	characteristics
+#55	AnnotatorNotes T58	lemma = 'characteristic'
+T59	pos_VBN 297 307	associated
+#56	AnnotatorNotes T59	lemma = 'associate'
+T60	pos_IN 308 312	with
+#57	AnnotatorNotes T60	lemma = 'with'
+T61	pos_DT 313 316	the
+#58	AnnotatorNotes T61	lemma = 'the'
+T62	pos_NN 317 322	brand
+#59	AnnotatorNotes T62	lemma = 'brand'
+T63	pos_Fp 218 219	.
+#60	AnnotatorNotes T63	lemma = '.'
+T64	pos_IN 325 327	In
+#61	AnnotatorNotes T64	lemma = 'in'
+T65	pos_DT 328 332	this
+#62	AnnotatorNotes T65	lemma = 'this'
+T66	pos_NN 333 338	study
+#63	AnnotatorNotes T66	lemma = 'study'
+T67	pos_NP 339 346	J.Aaker	
+#64	AnnotatorNotes T67	lemma = 'j._aaker'
+T68	pos_VBZ 347 355	develops
+#65	AnnotatorNotes T68	lemma = 'develop'
+T69	pos_NNS 356 366	approaches
+#66	AnnotatorNotes T69	lemma = 'approach'
+T70	pos_IN 367 370	for
+#67	AnnotatorNotes T70	lemma = 'for'
+T71	pos_VBG 371 380	measuring
+#68	AnnotatorNotes T71	lemma = 'measure'
+T72	pos_DT 381 384	the
+#69	AnnotatorNotes T72	lemma = 'the'
+T73	pos_NN 385 390	brand
+#70	AnnotatorNotes T73	lemma = 'brand'
+T74	pos_NN 391 402	personality
+#71	AnnotatorNotes T74	lemma = 'personality'
+T75	pos_Fp 322 323	.
+#72	AnnotatorNotes T75	lemma = '.'
+T76	pos_DT 404 407	The
+#73	AnnotatorNotes T76	lemma = 'the'
+T77	pos_NN 408 411	aim
+#74	AnnotatorNotes T77	lemma = 'aim'
+T78	pos_IN 412 414	of
+#75	AnnotatorNotes T78	lemma = 'of'
+T79	pos_PRP2 415 418	her
+#76	AnnotatorNotes T79	lemma = 'her'
+T80	pos_NN 419 427	research
+#77	AnnotatorNotes T80	lemma = 'research'
+T81	pos_VBZ 428 430	is
+#78	AnnotatorNotes T81	lemma = 'be'
+T82	pos_TO 431 433	to
+#79	AnnotatorNotes T82	lemma = 'to'
+T83	pos_VB 434 441	develop
+#80	AnnotatorNotes T83	lemma = 'develop'
+T84	pos_DT 266 267	a
+#81	AnnotatorNotes T84	lemma = 'a'
+T85	pos_JJ 444 452	specific
+#82	AnnotatorNotes T85	lemma = 'specific'
+T86	pos_NN 453 464	measurement
+#83	AnnotatorNotes T86	lemma = 'measurement'
+T87	pos_NN 465 470	scale
+#84	AnnotatorNotes T87	lemma = 'scale'
+T88	pos_WDT 471 475	that
+#85	AnnotatorNotes T88	lemma = 'that'
+T89	pos_VBZ 476 479	has
+#86	AnnotatorNotes T89	lemma = 'have'
+T90	pos_DT 480 483	the
+#87	AnnotatorNotes T90	lemma = 'the'
+T91	pos_NNS 484 493	qualities
+#88	AnnotatorNotes T91	lemma = 'quality'
+T92	pos_IN 494 496	of
+#89	AnnotatorNotes T92	lemma = 'of'
+T93	pos_NN 497 508	reliability
+#90	AnnotatorNotes T93	lemma = 'reliability'
+T94	pos_Fc 508 509	,
+#91	AnnotatorNotes T94	lemma = ','
+T95	pos_NN 510 518	validity
+#92	AnnotatorNotes T95	lemma = 'validity'
+T96	pos_CC 519 522	and
+#93	AnnotatorNotes T96	lemma = 'and'
+T97	pos_NN 523 537	generalization
+#94	AnnotatorNotes T97	lemma = 'generalization'
+T98	pos_Fc 537 538	,
+#95	AnnotatorNotes T98	lemma = ','
+T99	pos_CC 539 542	and
+#96	AnnotatorNotes T99	lemma = 'and'
+T100	pos_VBZ 543 546	has
+#97	AnnotatorNotes T100	lemma = 'have'
+T101	pos_JJ 547 556	practical
+#98	AnnotatorNotes T101	lemma = 'practical'
+T102	pos_CC 557 560	and
+#99	AnnotatorNotes T102	lemma = 'and'
+T103	pos_JJ 561 572	theoretical
+#100	AnnotatorNotes T103	lemma = 'theoretical'
+T104	pos_NNS 573 585	applications
+#101	AnnotatorNotes T104	lemma = 'application'
+T105	pos_Fp 340 341	.
+#102	AnnotatorNotes T105	lemma = '.'
+T106	pos_DT 587 590	The
+#103	AnnotatorNotes T106	lemma = 'the'
+T107	pos_JJ 591 602	theoretical
+#104	AnnotatorNotes T107	lemma = 'theoretical'
+T108	pos_NN 603 614	application
+#105	AnnotatorNotes T108	lemma = 'application'
+T109	pos_VBZ 615 617	is
+#106	AnnotatorNotes T109	lemma = 'be'
+T110	pos_IN 618 622	that
+#107	AnnotatorNotes T110	lemma = 'that'
+T111	pos_PRP 623 625	it
+#108	AnnotatorNotes T111	lemma = 'it'
+T112	pos_VBZ 626 632	allows
+#109	AnnotatorNotes T112	lemma = 'allow'
+T113	pos_VBG 633 644	correlating
+#110	AnnotatorNotes T113	lemma = 'correlate'
+T114	pos_DT 645 648	the
+#111	AnnotatorNotes T114	lemma = 'the'
+T115	pos_VBG 649 658	resulting
+#112	AnnotatorNotes T115	lemma = 'result'
+T116	pos_NN 659 664	study
+#113	AnnotatorNotes T116	lemma = 'study'
+T117	pos_IN 665 667	of
+#114	AnnotatorNotes T117	lemma = 'of'
+T118	pos_Z 668 672	five
+#115	AnnotatorNotes T118	lemma = '5'
+T119	pos_NNS 673 688	characteristics
+#116	AnnotatorNotes T119	lemma = 'characteristic'
+T120	pos_IN 689 691	of
+#117	AnnotatorNotes T120	lemma = 'of'
+T121	pos_DT 692 695	the
+#118	AnnotatorNotes T121	lemma = 'the'
+T122	pos_NN 696 701	brand
+#119	AnnotatorNotes T122	lemma = 'brand'
+T123	pos_NN 702 713	personality
+#120	AnnotatorNotes T123	lemma = 'personality'
+T124	pos_IN 714 718	with
+#121	AnnotatorNotes T124	lemma = 'with'
+T125	pos_DT 719 722	the
+#122	AnnotatorNotes T125	lemma = 'the'
+T126	pos_Fe 723 724	"
+#123	AnnotatorNotes T126	lemma = '"'
+T127	pos_JJ 724 727	Big
+#124	AnnotatorNotes T127	lemma = 'big'
+T128	pos_Z 728 732	Five
+#125	AnnotatorNotes T128	lemma = '5'
+T129	pos_Fe 732 733	"
+#126	AnnotatorNotes T129	lemma = '"'
+T130	pos_Fp 402 403	.
+#127	AnnotatorNotes T130	lemma = '.'
+T131	pos_IN 735 740	While
+#128	AnnotatorNotes T131	lemma = 'while'
+T132	pos_JJ 741 749	previous
+#129	AnnotatorNotes T132	lemma = 'previous'
+T133	pos_NN 750 758	research
+#130	AnnotatorNotes T133	lemma = 'research'
+T134	pos_WDT 759 764	which
+#131	AnnotatorNotes T134	lemma = 'which'
+T135	pos_VBZ 765 773	mantains
+#132	AnnotatorNotes T135	lemma = 'mantains'
+T136	pos_IN 774 778	that
+#133	AnnotatorNotes T136	lemma = 'that'
+T137	pos_DT 779 782	the
+#134	AnnotatorNotes T137	lemma = 'the'
+T138	pos_NNS 783 793	components
+#135	AnnotatorNotes T138	lemma = 'component'
+T139	pos_IN 794 796	of
+#136	AnnotatorNotes T139	lemma = 'of'
+T140	pos_DT 797 800	the
+#137	AnnotatorNotes T140	lemma = 'the'
+T141	pos_NN 801 806	brand
+#138	AnnotatorNotes T141	lemma = 'brand'
+T142	pos_NN 807 818	personality
+#139	AnnotatorNotes T142	lemma = 'personality'
+T143	pos_NNS 819 834	characteristics
+#140	AnnotatorNotes T143	lemma = 'characteristic'
+T144	pos_VBP 835 845	correspond
+#141	AnnotatorNotes T144	lemma = 'correspond'
+T145	pos_TO 846 848	to
+#142	AnnotatorNotes T145	lemma = 'to'
+T146	pos_DT 849 852	the
+#143	AnnotatorNotes T146	lemma = 'the'
+T147	pos_JJ 853 863	individual
+#144	AnnotatorNotes T147	lemma = 'individual'
+T148	pos_NN 864 875	personality
+#145	AnnotatorNotes T148	lemma = 'personality'
+T149	pos_IN 876 878	of
+#146	AnnotatorNotes T149	lemma = 'of'
+T150	pos_DT 879 882	the
+#147	AnnotatorNotes T150	lemma = 'the'
+T151	pos_NN 883 891	consumer
+#148	AnnotatorNotes T151	lemma = 'consumer'
+T152	pos_Fc 891 892	,
+#149	AnnotatorNotes T152	lemma = ','
+T153	pos_VBZ 893 901	provides
+#150	AnnotatorNotes T153	lemma = 'provide'
+T154	pos_NNS 902 919	counter-arguments
+#151	AnnotatorNotes T154	lemma = 'counter-argument'
+T155	pos_TO 920 922	to
+#152	AnnotatorNotes T155	lemma = 'to'
+T156	pos_NP 341 346	Aaker
+#153	AnnotatorNotes T156	lemma = 'aaker'
+T157	pos_POS 928 930	's
+#154	AnnotatorNotes T157	lemma = ''s'
+T158	pos_Fp 585 586	.
+#155	AnnotatorNotes T158	lemma = '.'
+T159	pos_DT 932 935	The
+#156	AnnotatorNotes T159	lemma = 'the'
+T160	pos_JJ 936 945	practical
+#157	AnnotatorNotes T160	lemma = 'practical'
+T161	pos_NN 946 957	application
+#158	AnnotatorNotes T161	lemma = 'application'
+T162	pos_VBZ 958 960	is
+#159	AnnotatorNotes T162	lemma = 'be'
+T163	pos_VBG 961 971	developing
+#160	AnnotatorNotes T163	lemma = 'develop'
+T164	pos_DT 442 443	a
+#161	AnnotatorNotes T164	lemma = 'a'
+T165	pos_NN 974 979	scale
+#162	AnnotatorNotes T165	lemma = 'scale'
+T166	pos_TO 980 982	to
+#163	AnnotatorNotes T166	lemma = 'to'
+T167	pos_VB 983 990	measure
+#164	AnnotatorNotes T167	lemma = 'measure'
+T168	pos_DT 991 994	the
+#165	AnnotatorNotes T168	lemma = 'the'
+T169	pos_NN 995 1006	correlation
+#166	AnnotatorNotes T169	lemma = 'correlation'
+T170	pos_IN 1007 1014	between
+#167	AnnotatorNotes T170	lemma = 'between'
+T171	pos_NNS 1015 1024	consumers
+#168	AnnotatorNotes T171	lemma = 'consumer'
+T172	pos_Fw 1024 1025	'
+#169	AnnotatorNotes T172	lemma = '''
+T173	pos_NN 1026 1037	personality
+#170	AnnotatorNotes T173	lemma = 'personality'
+T174	pos_NNS 1038 1046	features
+#171	AnnotatorNotes T174	lemma = 'feature'
+T175	pos_CC 1047 1050	and
+#172	AnnotatorNotes T175	lemma = 'and'
+T176	pos_DT 1051 1054	the
+#173	AnnotatorNotes T176	lemma = 'the'
+T177	pos_NN 1055 1060	brand
+#174	AnnotatorNotes T177	lemma = 'brand'
+T178	pos_NN 1061 1072	personality
+#175	AnnotatorNotes T178	lemma = 'personality'
+T179	pos_Fp 733 734	.
+#176	AnnotatorNotes T179	lemma = '.'
+T180	pos_DT 1074 1078	This
+#177	AnnotatorNotes T180	lemma = 'this'
+T181	pos_NN 1079 1084	paper
+#178	AnnotatorNotes T181	lemma = 'paper'
+T182	pos_VBZ 1085 1087	is
+#179	AnnotatorNotes T182	lemma = 'be'
+T183	pos_DT 1088 1091	the
+#180	AnnotatorNotes T183	lemma = 'the'
+T184	pos_JJ 1092 1097	first
+#181	AnnotatorNotes T184	lemma = '1'
+T185	pos_CC 1098 1101	and
+#182	AnnotatorNotes T185	lemma = 'and'
+T186	pos_JJ 1102 1112	successful
+#183	AnnotatorNotes T186	lemma = 'successful'
+T187	pos_NN 1113 1120	attempt
+#184	AnnotatorNotes T187	lemma = 'attempt'
+T188	pos_TO 1121 1123	to
+#185	AnnotatorNotes T188	lemma = 'to'
+T189	pos_VB 1124 1130	create
+#186	AnnotatorNotes T189	lemma = 'create'
+T190	pos_DT 924 925	a
+#187	AnnotatorNotes T190	lemma = 'a'
+T191	pos_VBN 1133 1144	generalized
+#188	AnnotatorNotes T191	lemma = 'generalize'
+T192	pos_CC 1145 1148	and
+#189	AnnotatorNotes T192	lemma = 'and'
+T193	pos_JJ 1149 1159	reasonable
+#190	AnnotatorNotes T193	lemma = 'reasonable'
+T194	pos_NN 1160 1165	scale
+#191	AnnotatorNotes T194	lemma = 'scale'
+T195	pos_IN 1166 1168	of
+#192	AnnotatorNotes T195	lemma = 'of'
+T196	pos_NN 1169 1174	brand
+#193	AnnotatorNotes T196	lemma = 'brand'
+T197	pos_NN 1175 1186	personality
+#194	AnnotatorNotes T197	lemma = 'personality'
+T198	pos_Fp 930 931	.
+#195	AnnotatorNotes T198	lemma = '.'

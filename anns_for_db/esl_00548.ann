@@ -1,0 +1,408 @@
+T1	lex_item_choice 91 109	pluses and minuses
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	benefits and drawbacks, pros et contras, etc...
+T2	suggestion 403 436	there is very high cost of living
+A4	Weight-language T2 Minor
+A5	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	living cost is high
+T3	Discourse 493 507	because of the
+A6	Cause T3 L1_interference
+A7	Weight-language T3 Major
+A8	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	considering
+T4	Absence_comp_colloc 649 655	people
+A9	Weight-language T4 Minor
+A10	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	local people
+T5	lex_item_choice 1038 1051	each separate
+A11	Cause T5 L1_interference
+A12	Weight-language T5 Minor
+A13	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	a particular
+T6	Articles 235 238	the
+A14	Cause T6 Absence_of_Category_in_L1
+A15	Weight-language T6 Critical
+A16	Weight-understanding T6 Minor
+A17	Delete T6
+T7	lex_item_choice 775 786	development
+A18	Cause T7 Other
+A19	Weight-language T7 Minor
+A20	Weight-understanding T7 Major
+#6	AnnotatorNotes T7	level
+T8	suggestion 711 750	there is a quite well-developed culture
+A21	Cause T8 Other
+A22	Weight-language T8 Minor
+A23	Weight-understanding T8 Major
+#7	AnnotatorNotes T8	culture is quite well-developed
+T9	Formational_affixes 921 930	overweigh
+A24	Cause T9 Other
+A25	Weight-language T9 Minor
+A26	Weight-understanding T9 Minor
+#8	AnnotatorNotes T9	outweigh
+T10	Articles 931 944	negative ones
+A27	Cause T10 Absence_of_Category_in_L1
+A28	Weight-language T10 Critical
+A29	Weight-understanding T10 Minor
+#9	AnnotatorNotes T10	the negative ones
+T11	pos_DT 0 3	The
+#10	AnnotatorNotes T11	lemma = 'the'
+T12	pos_NNS 4 12	diagrams
+#11	AnnotatorNotes T12	lemma = 'diagram'
+T13	pos_IN 13 15	on
+#12	AnnotatorNotes T13	lemma = 'on'
+T14	pos_DT 16 19	the
+#13	AnnotatorNotes T14	lemma = 'the'
+T15	pos_NN 20 27	picture
+#14	AnnotatorNotes T15	lemma = 'picture'
+T16	pos_VB 28 35	present
+#15	AnnotatorNotes T16	lemma = 'present'
+T17	pos_DT 36 39	the
+#16	AnnotatorNotes T17	lemma = 'the'
+T18	pos_RBS 40 44	most
+#17	AnnotatorNotes T18	lemma = 'many'
+T19	pos_JJ 45 53	frequent
+#18	AnnotatorNotes T19	lemma = 'frequent'
+T20	pos_NNS 54 62	opinions
+#19	AnnotatorNotes T20	lemma = 'opinion'
+T21	pos_IN 63 68	about
+#20	AnnotatorNotes T21	lemma = 'about'
+T22	pos_DT 69 72	the
+#21	AnnotatorNotes T22	lemma = 'the'
+T23	pos_NP 73 88	Fairmont Island
+#22	AnnotatorNotes T23	lemma = 'fairmont_island'
+T24	pos_POS 88 90	's
+#23	AnnotatorNotes T24	lemma = ''s'
+T25	pos_NNS 91 97	pluses
+#24	AnnotatorNotes T25	lemma = 'plus'
+T26	pos_CC 98 101	and
+#25	AnnotatorNotes T26	lemma = 'and'
+T27	pos_NNS 102 109	minuses
+#26	AnnotatorNotes T27	lemma = 'minus'
+T28	pos_IN 110 115	among
+#27	AnnotatorNotes T28	lemma = 'among'
+T29	pos_DT 116 119	the
+#28	AnnotatorNotes T29	lemma = 'the'
+T30	pos_NNS 120 128	tourists
+#29	AnnotatorNotes T30	lemma = 'tourist'
+T31	pos_Fp 128 129	.
+#30	AnnotatorNotes T31	lemma = '.'
+T32	pos_RB 131 138	Firstly
+#31	AnnotatorNotes T32	lemma = 'firstly'
+T33	pos_Fc 138 139	,
+#32	AnnotatorNotes T33	lemma = ','
+T34	pos_PRP 140 142	it
+#33	AnnotatorNotes T34	lemma = 'it'
+T35	pos_VBZ 143 145	is
+#34	AnnotatorNotes T35	lemma = 'be'
+T36	pos_JJ 146 155	important
+#35	AnnotatorNotes T36	lemma = 'important'
+T37	pos_TO 156 158	to
+#36	AnnotatorNotes T37	lemma = 'to'
+T38	pos_VB 159 164	point
+#37	AnnotatorNotes T38	lemma = 'point'
+T39	pos_RP 165 168	out
+#38	AnnotatorNotes T39	lemma = 'out'
+T40	pos_IN 169 173	that
+#39	AnnotatorNotes T40	lemma = 'that'
+T41	pos_DT 174 177	the
+#40	AnnotatorNotes T41	lemma = 'the'
+T42	pos_JJ 178 182	main
+#41	AnnotatorNotes T42	lemma = 'main'
+T43	pos_NN 183 191	drawback
+#42	AnnotatorNotes T43	lemma = 'drawback'
+T44	pos_IN 192 194	of
+#43	AnnotatorNotes T44	lemma = 'of'
+T45	pos_NP 195 210	Fairmont Island
+#44	AnnotatorNotes T45	lemma = 'fairmont_island'
+T46	pos_VBZ 211 213	is
+#45	AnnotatorNotes T46	lemma = 'be'
+T47	pos_DT 214 217	the
+#46	AnnotatorNotes T47	lemma = 'the'
+T48	pos_NN 218 231	expensiveness
+#47	AnnotatorNotes T48	lemma = 'expensiveness'
+T49	pos_IN 232 234	of
+#48	AnnotatorNotes T49	lemma = 'of'
+T50	pos_DT 235 238	the
+#49	AnnotatorNotes T50	lemma = 'the'
+T51	pos_NN 239 252	accommodation
+#50	AnnotatorNotes T51	lemma = 'accommodation'
+T52	pos_Fp 252 253	.
+#51	AnnotatorNotes T52	lemma = '.'
+T53	pos_RB 254 267	Interestingly
+#52	AnnotatorNotes T53	lemma = 'interestingly'
+T54	pos_JJ 268 274	enough
+#53	AnnotatorNotes T54	lemma = 'enough'
+T55	pos_Fc 274 275	,
+#54	AnnotatorNotes T55	lemma = ','
+T56	pos_DT 276 279	the
+#55	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NN 280 285	issue
+#56	AnnotatorNotes T57	lemma = 'issue'
+T58	pos_IN 286 288	of
+#57	AnnotatorNotes T58	lemma = 'of'
+T59	pos_NN 289 302	accommodation
+#58	AnnotatorNotes T59	lemma = 'accommodation'
+T60	pos_RB 303 307	also
+#59	AnnotatorNotes T60	lemma = 'also'
+T61	pos_VBZ 308 315	appears
+#60	AnnotatorNotes T61	lemma = 'appear'
+T62	pos_IN 316 318	on
+#61	AnnotatorNotes T62	lemma = 'on'
+T63	pos_DT 319 322	the
+#62	AnnotatorNotes T63	lemma = 'the'
+T64	pos_JJ 323 329	second
+#63	AnnotatorNotes T64	lemma = '2'
+T65	pos_NN 330 333	pie
+#64	AnnotatorNotes T65	lemma = 'pie'
+T66	pos_NN 334 339	chart
+#65	AnnotatorNotes T66	lemma = 'chart'
+T67	pos_Fc 339 340	,
+#66	AnnotatorNotes T67	lemma = ','
+T68	pos_WDT 341 346	which
+#67	AnnotatorNotes T68	lemma = 'which'
+T69	pos_VBZ 347 357	represents
+#68	AnnotatorNotes T69	lemma = 'represent'
+T70	pos_DT 358 361	the
+#69	AnnotatorNotes T70	lemma = 'the'
+T71	pos_NNS 362 372	advantages
+#70	AnnotatorNotes T71	lemma = 'advantage'
+T72	pos_IN 373 375	of
+#71	AnnotatorNotes T72	lemma = 'of'
+T73	pos_DT 376 380	this
+#72	AnnotatorNotes T73	lemma = 'this'
+T74	pos_NN 381 386	place
+#73	AnnotatorNotes T74	lemma = 'place'
+T75	pos_Fp 386 387	.
+#74	AnnotatorNotes T75	lemma = '.'
+T76	pos_RB 388 392	Thus
+#75	AnnotatorNotes T76	lemma = 'thus'
+T77	pos_Fc 392 393	,
+#76	AnnotatorNotes T77	lemma = ','
+T78	pos_IN 394 402	although
+#77	AnnotatorNotes T78	lemma = 'although'
+T79	pos_EX 403 408	there
+#78	AnnotatorNotes T79	lemma = 'there'
+T80	pos_VBZ 409 411	is
+#79	AnnotatorNotes T80	lemma = 'be'
+T81	pos_RB 412 416	very
+#80	AnnotatorNotes T81	lemma = 'very'
+T82	pos_JJ 417 421	high
+#81	AnnotatorNotes T82	lemma = 'high'
+T83	pos_NN 422 426	cost
+#82	AnnotatorNotes T83	lemma = 'cost'
+T84	pos_IN 427 429	of
+#83	AnnotatorNotes T84	lemma = 'of'
+T85	pos_VBG 430 436	living
+#84	AnnotatorNotes T85	lemma = 'live'
+T86	pos_IN 437 439	on
+#85	AnnotatorNotes T86	lemma = 'on'
+T87	pos_DT 440 443	the
+#86	AnnotatorNotes T87	lemma = 'the'
+T88	pos_NP 444 459	Fairmont Island
+#87	AnnotatorNotes T88	lemma = 'fairmont_island'
+T89	pos_Fc 459 460	,
+#88	AnnotatorNotes T89	lemma = ','
+T90	pos_PRP 461 463	it
+#89	AnnotatorNotes T90	lemma = 'it'
+T91	pos_VBZ 464 466	is
+#90	AnnotatorNotes T91	lemma = 'be'
+T92	pos_RB 467 475	probably
+#91	AnnotatorNotes T92	lemma = 'probably'
+T93	pos_RB 476 481	quite
+#92	AnnotatorNotes T93	lemma = 'quite'
+T94	pos_JJ 482 492	reasonable
+#93	AnnotatorNotes T94	lemma = 'reasonable'
+T95	pos_IN 493 503	because of
+#94	AnnotatorNotes T95	lemma = 'because_of'
+T96	pos_DT 504 507	the
+#95	AnnotatorNotes T96	lemma = 'the'
+T97	pos_NN 508 515	quality
+#96	AnnotatorNotes T97	lemma = 'quality'
+T98	pos_IN 516 518	of
+#97	AnnotatorNotes T98	lemma = 'of'
+T99	pos_DT 519 522	the
+#98	AnnotatorNotes T99	lemma = 'the'
+T100	pos_NN 523 536	accommodation
+#99	AnnotatorNotes T100	lemma = 'accommodation'
+T101	pos_NP 538 546	Secondly
+#100	AnnotatorNotes T101	lemma = 'secondly'
+T102	pos_Fc 546 547	,
+#101	AnnotatorNotes T102	lemma = ','
+T103	pos_DT 548 551	the
+#102	AnnotatorNotes T103	lemma = 'the'
+T104	pos_NN 552 558	survey
+#103	AnnotatorNotes T104	lemma = 'survey'
+T105	pos_VBZ 559 564	shows
+#104	AnnotatorNotes T105	lemma = 'show'
+T106	pos_IN 565 569	that
+#105	AnnotatorNotes T106	lemma = 'that'
+T107	pos_NNS 570 578	visitors
+#106	AnnotatorNotes T107	lemma = 'visitor'
+T108	pos_RB 579 585	almost
+#107	AnnotatorNotes T108	lemma = 'almost'
+T109	pos_RB 586 593	equally
+#108	AnnotatorNotes T109	lemma = 'equally'
+T110	pos_VB 594 599	enjoy
+#109	AnnotatorNotes T110	lemma = 'enjoy'
+T111	pos_DT 600 603	the
+#110	AnnotatorNotes T111	lemma = 'the'
+T112	pos_NN 604 615	hospitality
+#111	AnnotatorNotes T112	lemma = 'hospitality'
+T113	pos_Fpa 616 617	(
+#112	AnnotatorNotes T113	lemma = '('
+T114	pos_CC 617 619	or
+#113	AnnotatorNotes T114	lemma = 'or'
+T115	pos_DT 620 624	some
+#114	AnnotatorNotes T115	lemma = 'some'
+T116	pos_JJ 625 630	other
+#115	AnnotatorNotes T116	lemma = 'other'
+T117	pos_NNS 631 640	qualities
+#116	AnnotatorNotes T117	lemma = 'quality'
+T118	pos_Fpt 640 641	)
+#117	AnnotatorNotes T118	lemma = ')'
+T119	pos_IN 642 644	of
+#118	AnnotatorNotes T119	lemma = 'of'
+T120	pos_DT 645 648	the
+#119	AnnotatorNotes T120	lemma = 'the'
+T121	pos_NNS 649 655	people
+#120	AnnotatorNotes T121	lemma = 'people'
+T122	pos_CC 656 659	and
+#121	AnnotatorNotes T122	lemma = 'and'
+T123	pos_JJ 660 671	picturesque
+#122	AnnotatorNotes T123	lemma = 'picturesque'
+T124	pos_NNS 672 677	views
+#123	AnnotatorNotes T124	lemma = 'view'
+T125	pos_IN 678 680	of
+#124	AnnotatorNotes T125	lemma = 'of'
+T126	pos_DT 681 685	this
+#125	AnnotatorNotes T126	lemma = 'this'
+T127	pos_NN 686 691	place
+#126	AnnotatorNotes T127	lemma = 'place'
+T128	pos_Fp 691 692	.
+#127	AnnotatorNotes T128	lemma = '.'
+T129	pos_RB 693 700	Finally
+#128	AnnotatorNotes T129	lemma = 'finally'
+T130	pos_Fc 700 701	,
+#129	AnnotatorNotes T130	lemma = ','
+T131	pos_IN 702 710	although
+#130	AnnotatorNotes T131	lemma = 'although'
+T132	pos_EX 711 716	there
+#131	AnnotatorNotes T132	lemma = 'there'
+T133	pos_VBZ 717 719	is
+#132	AnnotatorNotes T133	lemma = 'be'
+T134	pos_DT 720 721	a
+#133	AnnotatorNotes T134	lemma = 'a'
+T135	pos_RB 722 727	quite
+#134	AnnotatorNotes T135	lemma = 'quite'
+T136	pos_JJ 728 742	well-developed
+#135	AnnotatorNotes T136	lemma = 'well-developed'
+T137	pos_NN 743 750	culture
+#136	AnnotatorNotes T137	lemma = 'culture'
+T138	pos_IN 751 753	on
+#137	AnnotatorNotes T138	lemma = 'on'
+T139	pos_NP 754 769	Fairmont Island
+#138	AnnotatorNotes T139	lemma = 'fairmont_island'
+T140	pos_Fc 769 770	,
+#139	AnnotatorNotes T140	lemma = ','
+T141	pos_DT 771 774	the
+#140	AnnotatorNotes T141	lemma = 'the'
+T142	pos_NN 775 786	development
+#141	AnnotatorNotes T142	lemma = 'development'
+T143	pos_IN 787 789	of
+#142	AnnotatorNotes T143	lemma = 'of'
+T144	pos_NN 790 803	entertainment
+#143	AnnotatorNotes T144	lemma = 'entertainment'
+T145	pos_VBZ 804 806	is
+#144	AnnotatorNotes T145	lemma = 'be'
+T146	pos_RB 807 810	not
+#145	AnnotatorNotes T146	lemma = 'not'
+T147	pos_IN 811 815	that
+#146	AnnotatorNotes T147	lemma = 'that'
+T148	pos_JJ 816 826	impressive
+#147	AnnotatorNotes T148	lemma = 'impressive'
+T149	pos_Fp 826 827	.
+#148	AnnotatorNotes T149	lemma = '.'
+T150	pos_TO 828 830	To
+#149	AnnotatorNotes T150	lemma = 'to'
+T151	pos_VB 831 839	conclude
+#150	AnnotatorNotes T151	lemma = 'conclude'
+T152	pos_Fc 839 840	,
+#151	AnnotatorNotes T152	lemma = ','
+T153	pos_PRP 841 843	it
+#152	AnnotatorNotes T153	lemma = 'it'
+T154	pos_VBZ 844 846	is
+#153	AnnotatorNotes T154	lemma = 'be'
+T155	pos_RB 847 850	not
+#154	AnnotatorNotes T155	lemma = 'not'
+T156	pos_RB 851 855	very
+#155	AnnotatorNotes T156	lemma = 'very'
+T157	pos_JJ 856 860	easy
+#156	AnnotatorNotes T157	lemma = 'easy'
+T158	pos_TO 861 863	to
+#157	AnnotatorNotes T158	lemma = 'to'
+T159	pos_VB 864 867	say
+#158	AnnotatorNotes T159	lemma = 'say'
+T160	pos_IN 868 875	whether
+#159	AnnotatorNotes T160	lemma = 'whether'
+T161	pos_JJ 876 884	positive
+#160	AnnotatorNotes T161	lemma = 'positive'
+T162	pos_NNS 885 892	aspects
+#161	AnnotatorNotes T162	lemma = 'aspect'
+T163	pos_IN 893 895	of
+#162	AnnotatorNotes T163	lemma = 'of'
+T164	pos_VBG 896 904	visiting
+#163	AnnotatorNotes T164	lemma = 'visit'
+T165	pos_NP 905 920	Fairmont Island
+#164	AnnotatorNotes T165	lemma = 'fairmont_island'
+T166	pos_VB 921 930	overweigh
+#165	AnnotatorNotes T166	lemma = 'overweigh'
+T167	pos_JJ 931 939	negative
+#166	AnnotatorNotes T167	lemma = 'negative'
+T168	pos_NNS 940 944	ones
+#167	AnnotatorNotes T168	lemma = 'one'
+T169	pos_Fp 944 945	.
+#168	AnnotatorNotes T169	lemma = '.'
+T170	pos_DT 946 949	The
+#169	AnnotatorNotes T170	lemma = 'the'
+T171	pos_RBS 950 954	most
+#170	AnnotatorNotes T171	lemma = 'many'
+T172	pos_JJ 955 966	appropriate
+#171	AnnotatorNotes T172	lemma = 'appropriate'
+T173	pos_NN 967 975	judgment
+#172	AnnotatorNotes T173	lemma = 'judgment'
+T174	pos_Fc 975 976	,
+#173	AnnotatorNotes T174	lemma = ','
+T175	pos_PRP 977 978	I
+#174	AnnotatorNotes T175	lemma = 'i'
+T176	pos_VBP 979 986	suppose
+#175	AnnotatorNotes T176	lemma = 'suppose'
+T177	pos_Fc 986 987	,
+#176	AnnotatorNotes T177	lemma = ','
+T178	pos_VBZ 988 990	is
+#177	AnnotatorNotes T178	lemma = 'be'
+T179	pos_IN 991 995	that
+#178	AnnotatorNotes T179	lemma = 'that'
+T180	pos_PRP 996 998	it
+#179	AnnotatorNotes T180	lemma = 'it'
+T181	pos_RB 999 1006	largely
+#180	AnnotatorNotes T181	lemma = 'largely'
+T182	pos_VBZ 1007 1014	depends
+#181	AnnotatorNotes T182	lemma = 'depend'
+T183	pos_IN 1015 1017	on
+#182	AnnotatorNotes T183	lemma = 'on'
+T184	pos_DT 1018 1021	the
+#183	AnnotatorNotes T184	lemma = 'the'
+T185	pos_NNS 1022 1034	requirements
+#184	AnnotatorNotes T185	lemma = 'requirement'
+T186	pos_IN 1035 1037	of
+#185	AnnotatorNotes T186	lemma = 'of'
+T187	pos_DT 1038 1042	each
+#186	AnnotatorNotes T187	lemma = 'each'
+T188	pos_JJ 1043 1051	separate
+#187	AnnotatorNotes T188	lemma = 'separate'
+T189	pos_NN 1052 1059	tourist
+#188	AnnotatorNotes T189	lemma = 'tourist'
+T190	pos_Fp 1059 1060	.
+#189	AnnotatorNotes T190	lemma = '.'

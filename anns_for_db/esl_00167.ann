@@ -1,0 +1,349 @@
+T1	Prepositions 452 454	in
+#1	AnnotatorNotes T1	of
+T2	Prepositions 887 890	red
+#2	AnnotatorNotes T2	read about
+T3	Spelling 887 890	red
+#3	AnnotatorNotes T3	read
+T4	Standard 936 963	recalled more often falsely
+A1	Cause T4 L1_interference
+A2	Weight-language T4 Major
+A3	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	recalled falsely more often
+A4	Cause T2 L1_interference
+A5	Weight-language T2 Critical
+A6	Weight-understanding T2 Major
+A7	Cause T3 Typo
+A8	Weight-language T3 Minor
+A9	Weight-understanding T3 Major
+T5	pos_DT 0 1	A
+#5	AnnotatorNotes T5	lemma = 'a'
+T6	pos_NN 2 11	prototype
+#6	AnnotatorNotes T6	lemma = 'prototype'
+T7	pos_NN 12 20	analysis
+#7	AnnotatorNotes T7	lemma = 'analysis'
+T8	pos_IN 21 23	of
+#8	AnnotatorNotes T8	lemma = 'of'
+T9	pos_DT 24 27	the
+#9	AnnotatorNotes T9	lemma = 'the'
+T10	pos_NN 28 35	concept
+#10	AnnotatorNotes T10	lemma = 'concept'
+T11	pos_IN 36 38	of
+#11	AnnotatorNotes T11	lemma = 'of'
+T12	pos_JJ 39 47	romantic
+#12	AnnotatorNotes T12	lemma = 'romantic'
+T13	pos_NN 48 52	love
+#13	AnnotatorNotes T13	lemma = 'love'
+T29	pos_NP 172 180	Although
+#29	AnnotatorNotes T29	lemma = 'although'
+T30	pos_NN 181 189	research
+#30	AnnotatorNotes T30	lemma = 'research'
+T31	pos_VBZ 190 193	has
+#31	AnnotatorNotes T31	lemma = 'have'
+T32	pos_VBN 194 204	discovered
+#32	AnnotatorNotes T32	lemma = 'discover'
+T33	pos_DT 205 208	the
+#33	AnnotatorNotes T33	lemma = 'the'
+T34	pos_NN 209 216	content
+#34	AnnotatorNotes T34	lemma = 'content'
+T36	pos_DT 220 223	the
+#36	AnnotatorNotes T36	lemma = 'the'
+T37	pos_JJ 224 230	mental
+#37	AnnotatorNotes T37	lemma = 'mental'
+T38	pos_NN 231 245	representation
+#38	AnnotatorNotes T38	lemma = 'representation'
+T39	pos_IN 217 219	of
+#39	AnnotatorNotes T39	lemma = 'of'
+T40	pos_NN 249 253	love
+#40	AnnotatorNotes T40	lemma = 'love'
+T41	pos_Fc 253 254	,
+#41	AnnotatorNotes T41	lemma = ','
+T42	pos_RB 255 261	little
+#42	AnnotatorNotes T42	lemma = 'little'
+T43	pos_VBZ 262 264	is
+#43	AnnotatorNotes T43	lemma = 'be'
+T44	pos_VBN 265 270	known
+#44	AnnotatorNotes T44	lemma = 'know'
+T45	pos_IN 271 276	about
+#45	AnnotatorNotes T45	lemma = 'about'
+T46	pos_DT 277 280	the
+#46	AnnotatorNotes T46	lemma = 'the'
+T47	pos_JJ 281 285	main
+#47	AnnotatorNotes T47	lemma = 'main'
+T48	pos_NNS 286 301	characteristics
+#48	AnnotatorNotes T48	lemma = 'characteristic'
+T49	pos_IN 246 248	of
+#49	AnnotatorNotes T49	lemma = 'of'
+T50	pos_JJ 305 313	romantic
+#50	AnnotatorNotes T50	lemma = 'romantic'
+T51	pos_NN 314 318	love
+#51	AnnotatorNotes T51	lemma = 'love'
+T52	pos_Fp 318 319	.
+#52	AnnotatorNotes T52	lemma = '.'
+T53	pos_DT 320 323	The
+#53	AnnotatorNotes T53	lemma = 'the'
+T54	pos_NN 324 334	experiment
+#54	AnnotatorNotes T54	lemma = 'experiment'
+T55	pos_VBZ 335 343	includes
+#55	AnnotatorNotes T55	lemma = 'include'
+T56	pos_Z 344 349	three
+#56	AnnotatorNotes T56	lemma = '3'
+T57	pos_NNS 350 355	parts
+#57	AnnotatorNotes T57	lemma = 'part'
+T58	pos_Fc 355 356	,
+#58	AnnotatorNotes T58	lemma = ','
+T59	pos_IN 357 359	in
+#59	AnnotatorNotes T59	lemma = 'in'
+T60	pos_WDT 360 365	which
+#60	AnnotatorNotes T60	lemma = 'which'
+T62	pos_NN 368 377	prototype
+#62	AnnotatorNotes T62	lemma = 'prototype'
+T63	pos_NN 378 386	analysis
+#63	AnnotatorNotes T63	lemma = 'analysis'
+T64	pos_VBD 387 390	was
+#64	AnnotatorNotes T64	lemma = 'be'
+T65	pos_VBN 391 398	applied
+#65	AnnotatorNotes T65	lemma = 'apply'
+T66	pos_Fe 398 399	"
+#66	AnnotatorNotes T66	lemma = '"'
+T67	pos_> 399 400	>
+#67	AnnotatorNotes T67	lemma = '>'
+T68	pos_VBD 401 404	was
+#68	AnnotatorNotes T68	lemma = 'be'
+T69	pos_VBN 405 412	applied
+#69	AnnotatorNotes T69	lemma = 'apply'
+T71	pos_NN 415 424	prototype
+#71	AnnotatorNotes T71	lemma = 'prototype'
+T72	pos_NN 425 433	analysis
+#72	AnnotatorNotes T72	lemma = 'analysis'
+T73	pos_Fp 433 434	.
+#73	AnnotatorNotes T73	lemma = '.'
+T74	pos_NN 435 440	Study
+#74	AnnotatorNotes T74	lemma = 'study'
+T75	pos_Z 441 442	1
+#75	AnnotatorNotes T75	lemma = '1'
+T76	pos_VBZ 443 451	consists
+#76	AnnotatorNotes T76	lemma = 'consist'
+T77	pos_IN 452 454	in
+#77	AnnotatorNotes T77	lemma = 'in'
+T79	pos_NN 457 468	compilation
+#79	AnnotatorNotes T79	lemma = 'compilation'
+T80	pos_IN 302 304	of
+#80	AnnotatorNotes T80	lemma = 'of'
+T81	pos_NN 472 482	prototypic
+#81	AnnotatorNotes T81	lemma = 'prototypic'
+T82	pos_VBZ 483 491	features
+#82	AnnotatorNotes T82	lemma = 'feature'
+T83	pos_VBN 492 498	listed
+#83	AnnotatorNotes T83	lemma = 'list'
+T84	pos_IN 499 501	by
+#84	AnnotatorNotes T84	lemma = 'by'
+T85	pos_NNS 502 514	participants
+#85	AnnotatorNotes T85	lemma = 'participant'
+T86	pos_IN 515 517	in
+#86	AnnotatorNotes T86	lemma = 'in'
+T87	pos_DT 366 367	a
+#87	AnnotatorNotes T87	lemma = 'a'
+T88	pos_JJ 520 524	free
+#88	AnnotatorNotes T88	lemma = 'free'
+T89	pos_NN 525 531	format
+#89	AnnotatorNotes T89	lemma = 'format'
+T90	pos_Fp 531 532	.
+#90	AnnotatorNotes T90	lemma = '.'
+T91	pos_DT 533 536	The
+#91	AnnotatorNotes T91	lemma = 'the'
+T92	pos_RBS 537 541	most
+#92	AnnotatorNotes T92	lemma = 'many'
+T93	pos_RB 542 552	frequently
+#93	AnnotatorNotes T93	lemma = 'frequently'
+T94	pos_VBN 553 557	used
+#94	AnnotatorNotes T94	lemma = 'use'
+T95	pos_VBD 558 562	were
+#95	AnnotatorNotes T95	lemma = 'be'
+T96	pos_NN 563 568	trust
+#96	AnnotatorNotes T96	lemma = 'trust'
+T97	pos_Fc 568 569	,
+#97	AnnotatorNotes T97	lemma = ','
+T98	pos_JJ 570 576	sexual
+#98	AnnotatorNotes T98	lemma = 'sexual'
+T99	pos_NN 577 587	attraction
+#99	AnnotatorNotes T99	lemma = 'attraction'
+T100	pos_/ 587 588	/
+#100	AnnotatorNotes T100	lemma = '/'
+T101	pos_NN 588 594	desire
+#101	AnnotatorNotes T101	lemma = 'desire'
+T102	pos_CC 595 598	and
+#102	AnnotatorNotes T102	lemma = 'and'
+T103	pos_NN 599 609	acceptance
+#103	AnnotatorNotes T103	lemma = 'acceptance'
+T104	pos_/ 609 610	/
+#104	AnnotatorNotes T104	lemma = '/'
+T105	pos_NN 610 619	tolerance
+#105	AnnotatorNotes T105	lemma = 'tolerance'
+T106	pos_Fp 619 620	.
+#106	AnnotatorNotes T106	lemma = '.'
+T107	pos_IN 621 623	In
+#107	AnnotatorNotes T107	lemma = 'in'
+T108	pos_JJ 624 630	second
+#108	AnnotatorNotes T108	lemma = '2'
+T109	pos_NN 631 636	phase
+#109	AnnotatorNotes T109	lemma = 'phase'
+T110	pos_NNS 637 649	participants
+#110	AnnotatorNotes T110	lemma = 'participant'
+T111	pos_VBP 650 659	determine
+#111	AnnotatorNotes T111	lemma = 'determine'
+T112	pos_DT 660 662	an
+#112	AnnotatorNotes T112	lemma = 'a'
+T113	pos_NN 663 673	importance
+#113	AnnotatorNotes T113	lemma = 'importance'
+T114	pos_IN 469 471	of
+#114	AnnotatorNotes T114	lemma = 'of'
+T115	pos_NNS 677 685	features
+#115	AnnotatorNotes T115	lemma = 'feature'
+T116	pos_IN 686 690	from
+#116	AnnotatorNotes T116	lemma = 'from'
+T117	pos_NN 691 696	study
+#117	AnnotatorNotes T117	lemma = 'study'
+T118	pos_Z 697 698	1
+#118	AnnotatorNotes T118	lemma = '1'
+T119	pos_TO 699 701	to
+#119	AnnotatorNotes T119	lemma = 'to'
+T120	pos_JJ 702 710	romantic
+#120	AnnotatorNotes T120	lemma = 'romantic'
+T121	pos_NN 711 715	love
+#121	AnnotatorNotes T121	lemma = 'love'
+T122	pos_Fc 715 716	,
+#122	AnnotatorNotes T122	lemma = ','
+T123	pos_IN 717 719	by
+#123	AnnotatorNotes T123	lemma = 'by'
+T124	pos_NNS 720 725	means
+#124	AnnotatorNotes T124	lemma = 'mean'
+T125	pos_IN 674 676	of
+#125	AnnotatorNotes T125	lemma = 'of'
+T126	pos_VBD 729 743	componentswere
+#126	AnnotatorNotes T126	lemma = 'componentswere'
+T127	pos_VBN 744 754	discovered
+#127	AnnotatorNotes T127	lemma = 'discover'
+T128	pos_Fe 754 755	"
+#128	AnnotatorNotes T128	lemma = '"'
+T129	pos_> 755 756	>
+#129	AnnotatorNotes T129	lemma = '>'
+T131	pos_VBD 760 764	were
+#131	AnnotatorNotes T131	lemma = 'be'
+T132	pos_VBN 765 775	discovered
+#132	AnnotatorNotes T132	lemma = 'discover'
+T133	pos_JJ 776 783	central
+#133	AnnotatorNotes T133	lemma = 'central'
+T134	pos_CC 784 787	and
+#134	AnnotatorNotes T134	lemma = 'and'
+T135	pos_JJ 788 798	peripheral
+#135	AnnotatorNotes T135	lemma = 'peripheral'
+T136	pos_NNS 799 809	components
+#136	AnnotatorNotes T136	lemma = 'component'
+T137	pos_Fp 809 810	.
+#137	AnnotatorNotes T137	lemma = '.'
+T138	pos_IN 811 813	In
+#138	AnnotatorNotes T138	lemma = 'in'
+T139	pos_DT 814 817	the
+#139	AnnotatorNotes T139	lemma = 'the'
+T140	pos_JJ 818 823	third
+#140	AnnotatorNotes T140	lemma = '3'
+T141	pos_NN 824 829	phase
+#141	AnnotatorNotes T141	lemma = 'phase'
+T142	pos_NNS 830 842	participants
+#142	AnnotatorNotes T142	lemma = 'participant'
+T143	pos_VBP 843 849	recall
+#143	AnnotatorNotes T143	lemma = 'recall'
+T144	pos_NNS 850 858	features
+#144	AnnotatorNotes T144	lemma = 'feature'
+T145	pos_IN 726 728	of
+#145	AnnotatorNotes T145	lemma = 'of'
+T146	pos_NNS 862 875	relationships
+#146	AnnotatorNotes T146	lemma = 'relationship'
+T147	pos_IN 876 880	that
+#147	AnnotatorNotes T147	lemma = 'that'
+T148	pos_PRP 881 885	they
+#148	AnnotatorNotes T148	lemma = 'they'
+T149	pos_JJ 887 890	red
+#149	AnnotatorNotes T149	lemma = 'red'
+T150	pos_IN 891 897	before
+#150	AnnotatorNotes T150	lemma = 'before'
+T151	pos_Fp 897 898	.
+#151	AnnotatorNotes T151	lemma = '.'
+T152	pos_IN 899 901	As
+#152	AnnotatorNotes T152	lemma = 'as'
+T153	pos_DT 413 414	a
+#153	AnnotatorNotes T153	lemma = 'a'
+T154	pos_NN 904 910	result
+#154	AnnotatorNotes T154	lemma = 'result'
+T155	pos_Fc 910 911	,
+#155	AnnotatorNotes T155	lemma = ','
+T156	pos_JJ 912 919	central
+#156	AnnotatorNotes T156	lemma = 'central'
+T157	pos_NNS 920 930	components
+#157	AnnotatorNotes T157	lemma = 'component'
+T158	pos_VBD 931 935	were
+#158	AnnotatorNotes T158	lemma = 'be'
+T159	pos_VBN 936 944	recalled
+#159	AnnotatorNotes T159	lemma = 'recall'
+T160	pos_RBR 945 949	more
+#160	AnnotatorNotes T160	lemma = 'many'
+T161	pos_RB 950 955	often
+#161	AnnotatorNotes T161	lemma = 'often'
+T162	pos_RB 956 963	falsely
+#162	AnnotatorNotes T162	lemma = 'falsely'
+T163	pos_IN 964 968	than
+#163	AnnotatorNotes T163	lemma = 'than'
+T164	pos_NN 969 979	peripheral
+#164	AnnotatorNotes T164	lemma = 'peripheral'
+T165	pos_Fp 979 980	.
+#165	AnnotatorNotes T165	lemma = '.'
+T166	pos_DT 981 986	These
+#166	AnnotatorNotes T166	lemma = 'these'
+T167	pos_NN 987 991	datа
+#167	AnnotatorNotes T167	lemma = 'datа'
+T168	pos_VBD 992 998	proved
+#168	AnnotatorNotes T168	lemma = 'prove'
+T169	pos_IN 999 1003	that
+#169	AnnotatorNotes T169	lemma = 'that'
+T170	pos_DT 1004 1007	the
+#170	AnnotatorNotes T170	lemma = 'the'
+T171	pos_JJ 1008 1016	romantic
+#171	AnnotatorNotes T171	lemma = 'romantic'
+T172	pos_NN 1017 1021	love
+#172	AnnotatorNotes T172	lemma = 'love'
+T173	pos_VBZ 1022 1025	has
+#173	AnnotatorNotes T173	lemma = 'have'
+T174	pos_DT 1026 1028	an
+#174	AnnotatorNotes T174	lemma = 'a'
+T175	pos_JJ 1029 1037	internal
+#175	AnnotatorNotes T175	lemma = 'internal'
+T176	pos_NN 1038 1047	structure
+#176	AnnotatorNotes T176	lemma = 'structure'
+T177	pos_Fc 1047 1048	,
+#177	AnnotatorNotes T177	lemma = ','
+T178	pos_RB 1049 1063	prototypically
+#178	AnnotatorNotes T178	lemma = 'prototypically'
+T179	pos_VBN 1064 1073	organized
+#179	AnnotatorNotes T179	lemma = 'organize'
+T180	pos_Fc 1073 1074	,
+#180	AnnotatorNotes T180	lemma = ','
+T181	pos_CC 1075 1078	and
+#181	AnnotatorNotes T181	lemma = 'and'
+T182	pos_JJ 1079 1085	sexual
+#182	AnnotatorNotes T182	lemma = 'sexual'
+T183	pos_NN 1086 1096	attraction
+#183	AnnotatorNotes T183	lemma = 'attraction'
+T184	pos_VBZ 1097 1099	is
+#184	AnnotatorNotes T184	lemma = 'be'
+T185	pos_NN 1100 1103	one
+#185	AnnotatorNotes T185	lemma = 'one'
+T186	pos_IN 859 861	of
+#186	AnnotatorNotes T186	lemma = 'of'
+T187	pos_DT 1107 1110	the
+#187	AnnotatorNotes T187	lemma = 'the'
+T188	pos_JJ 1111 1115	main
+#188	AnnotatorNotes T188	lemma = 'main'
+T189	pos_NNS 1116 1124	features
+#189	AnnotatorNotes T189	lemma = 'feature'
+T190	pos_Fp 1124 1125	.
+#190	AnnotatorNotes T190	lemma = '.'

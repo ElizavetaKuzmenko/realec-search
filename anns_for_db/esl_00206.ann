@@ -1,0 +1,783 @@
+T1	Tense_choice 868 881	has increased
+T2	lex_item_choice 918 924	during
+T3	Tense_choice 1317 1319	is
+T4	Tense_choice 1660 1669	has grown
+T5	Prepositions 1670 1673	for
+T6	Tense_choice 1752 1763	has dropped
+T7	Tense_choice 1807 1825	have not decreased
+T8	Tense_choice 1840 1847	reached
+T9	Number 1938 1941	are
+T10	suggestion 2049 2053	real
+A1	Delete T10
+T11	pos_DT 0 3	The
+#1	AnnotatorNotes T11	lemma = 'the'
+T12	pos_JJ 4 9	first
+#2	AnnotatorNotes T12	lemma = '1'
+T13	pos_NN 10 15	chart
+#3	AnnotatorNotes T13	lemma = 'chart'
+T14	pos_VBZ 16 28	demonstrates
+#4	AnnotatorNotes T14	lemma = 'demonstrate'
+T15	pos_IN 29 33	that
+#5	AnnotatorNotes T15	lemma = 'that'
+T16	pos_DT 34 37	the
+#6	AnnotatorNotes T16	lemma = 'the'
+T17	pos_JJ 38 43	total
+#7	AnnotatorNotes T17	lemma = 'total'
+T18	pos_NN 44 50	amount
+#8	AnnotatorNotes T18	lemma = 'amount'
+T19	pos_IN 51 53	of
+#9	AnnotatorNotes T19	lemma = 'of'
+T20	pos_NN 54 59	waste
+#10	AnnotatorNotes T20	lemma = 'waste'
+T21	pos_VBZ 60 63	has
+#11	AnnotatorNotes T21	lemma = 'have'
+T22	pos_VBN 64 73	increased
+#12	AnnotatorNotes T22	lemma = 'increase'
+T23	pos_IN 74 78	from
+#13	AnnotatorNotes T23	lemma = 'from'
+T24	pos_Z 79 91	800 thousand
+#14	AnnotatorNotes T24	lemma = '800000'
+T25	pos_NNS 92 97	tones
+#15	AnnotatorNotes T25	lemma = 'tone'
+T26	pos_TO 98 100	to
+#16	AnnotatorNotes T26	lemma = 'to'
+T27	pos_Z 101 112	one million
+#17	AnnotatorNotes T27	lemma = '1000000'
+T28	pos_IN 113 115	in
+#18	AnnotatorNotes T28	lemma = 'in'
+T29	pos_DT 116 117	a
+#19	AnnotatorNotes T29	lemma = 'a'
+T30	pos_JJ 118 127	four-year
+#20	AnnotatorNotes T30	lemma = 'four-year'
+T31	pos_NN 128 134	period
+#21	AnnotatorNotes T31	lemma = 'period'
+T32	pos_Fp 134 135	.
+#22	AnnotatorNotes T32	lemma = '.'
+T33	pos_NP 136 145	Thelowest
+#23	AnnotatorNotes T33	lemma = 'thelowest'
+T34	pos_NN 146 150	rate
+#24	AnnotatorNotes T34	lemma = 'rate'
+T35	pos_VBD 151 154	was
+#25	AnnotatorNotes T35	lemma = 'be'
+T36	pos_IN 155 157	in
+#26	AnnotatorNotes T36	lemma = 'in'
+T37	pos_W 158 171	the year 2009
+#27	AnnotatorNotes T37	lemma = '[??:??/??/2009:??.??:??]'
+T38	pos_Fd 171 172	:
+#28	AnnotatorNotes T38	lemma = ':'
+T39	pos_IN 173 185	according to
+#29	AnnotatorNotes T39	lemma = 'according_to'
+T40	pos_DT 186 189	the
+#30	AnnotatorNotes T40	lemma = 'the'
+T41	pos_NN 190 195	chart
+#31	AnnotatorNotes T41	lemma = 'chart'
+T42	pos_Fc 195 196	,
+#32	AnnotatorNotes T42	lemma = ','
+T43	pos_PRP 197 199	it
+#33	AnnotatorNotes T43	lemma = 'it'
+T44	pos_VBD 200 203	was
+#34	AnnotatorNotes T44	lemma = 'be'
+T45	pos_JJ 204 208	only
+#35	AnnotatorNotes T45	lemma = 'only'
+T46	pos_Z 209 221	700 thousand
+#36	AnnotatorNotes T46	lemma = '700000'
+T47	pos_NNS 222 227	tones
+#37	AnnotatorNotes T47	lemma = 'tone'
+T48	pos_Fc 227 228	,
+#38	AnnotatorNotes T48	lemma = ','
+T49	pos_WDT 229 234	which
+#39	AnnotatorNotes T49	lemma = 'which'
+T50	pos_VBZ 235 237	is
+#40	AnnotatorNotes T50	lemma = 'be'
+T51	pos_IN 238 242	less
+#41	AnnotatorNotes T51	lemma = 'less'
+T52	pos_IN 243 246	for
+#42	AnnotatorNotes T52	lemma = 'for'
+T53	pos_Z 247 259	100 thousand
+#43	AnnotatorNotes T53	lemma = '100000'
+T54	pos_NNS 260 265	tones
+#44	AnnotatorNotes T54	lemma = 'tone'
+T55	pos_IN 266 270	than
+#45	AnnotatorNotes T55	lemma = 'than'
+T56	pos_DT 271 274	the
+#46	AnnotatorNotes T56	lemma = 'the'
+T57	pos_NN 275 279	rate
+#47	AnnotatorNotes T57	lemma = 'rate'
+T58	pos_VBP 280 285	ofthe
+#48	AnnotatorNotes T58	lemma = 'ofthe'
+T59	pos_JJ 286 294	previous
+#49	AnnotatorNotes T59	lemma = 'previous'
+T60	pos_NN 295 299	year
+#50	AnnotatorNotes T60	lemma = 'year'
+T61	pos_Fp 299 300	.
+#51	AnnotatorNotes T61	lemma = '.'
+T62	pos_RB 301 308	However
+#52	AnnotatorNotes T62	lemma = 'however'
+T63	pos_Fc 308 309	,
+#53	AnnotatorNotes T63	lemma = ','
+T64	pos_JJ 310 314	next
+#54	AnnotatorNotes T64	lemma = 'next'
+T65	pos_NN 315 319	year
+#55	AnnotatorNotes T65	lemma = 'year'
+T66	pos_DT 320 323	the
+#56	AnnotatorNotes T66	lemma = 'the'
+T67	pos_NN 324 328	rate
+#57	AnnotatorNotes T67	lemma = 'rate'
+T68	pos_VBD 329 336	reached
+#58	AnnotatorNotes T68	lemma = 'reach'
+T69	pos_PRP2 337 340	its
+#59	AnnotatorNotes T69	lemma = 'its'
+T70	pos_NN 341 345	peak
+#60	AnnotatorNotes T70	lemma = 'peak'
+T71	pos_Fg 346 347	-
+#61	AnnotatorNotes T71	lemma = '-'
+T72	pos_PRP 348 350	it
+#62	AnnotatorNotes T72	lemma = 'it'
+T73	pos_VBD 351 354	was
+#63	AnnotatorNotes T73	lemma = 'be'
+T74	pos_Z 355 356	1
+#64	AnnotatorNotes T74	lemma = '1'
+T75	pos_Z 357 369	200 thousand
+#65	AnnotatorNotes T75	lemma = '200000'
+T76	pos_NNS 370 375	tones
+#66	AnnotatorNotes T76	lemma = 'tone'
+T77	pos_Fp 375 376	.
+#67	AnnotatorNotes T77	lemma = '.'
+T78	pos_RB 377 384	Thereby
+#68	AnnotatorNotes T78	lemma = 'thereby'
+T79	pos_Fc 384 385	,
+#69	AnnotatorNotes T79	lemma = ','
+T80	pos_DT 386 389	the
+#70	AnnotatorNotes T80	lemma = 'the'
+T81	pos_NN 390 394	rate
+#71	AnnotatorNotes T81	lemma = 'rate'
+T82	pos_WDT 395 400	which
+#72	AnnotatorNotes T82	lemma = 'which'
+T83	pos_VBD 401 404	was
+#73	AnnotatorNotes T83	lemma = 'be'
+T84	pos_VBN 405 412	reached
+#74	AnnotatorNotes T84	lemma = 'reach'
+T85	pos_IN 413 415	by
+#75	AnnotatorNotes T85	lemma = 'by'
+T86	pos_DT 416 419	the
+#76	AnnotatorNotes T86	lemma = 'the'
+T87	pos_NN 420 428	nextyear
+#77	AnnotatorNotes T87	lemma = 'nextyear'
+T88	pos_Fc 428 429	,
+#78	AnnotatorNotes T88	lemma = ','
+T89	pos_RB 430 436	namely
+#79	AnnotatorNotes T89	lemma = 'namely'
+T90	pos_Z 437 448	one million
+#80	AnnotatorNotes T90	lemma = '1000000'
+T91	pos_NNS 449 454	tones
+#81	AnnotatorNotes T91	lemma = 'tone'
+T92	pos_Fc 454 455	,
+#82	AnnotatorNotes T92	lemma = ','
+T93	pos_MD 456 461	could
+#83	AnnotatorNotes T93	lemma = 'can'
+T94	pos_VB 462 464	be
+#84	AnnotatorNotes T94	lemma = 'be'
+T95	pos_VBN 465 475	considered
+#85	AnnotatorNotes T95	lemma = 'consider'
+T96	pos_IN 476 478	as
+#86	AnnotatorNotes T96	lemma = 'as'
+T97	pos_DT 479 480	a
+#87	AnnotatorNotes T97	lemma = 'a'
+T98	pos_NN 481 488	success
+#88	AnnotatorNotes T98	lemma = 'success'
+T99	pos_Fp 488 489	.
+#89	AnnotatorNotes T99	lemma = '.'
+T100	pos_DT 488 489	.
+#90	AnnotatorNotes T100	lemma = 'this'
+T101	pos_NNS 494 498	data
+#91	AnnotatorNotes T101	lemma = 'data'
+T102	pos_MD 499 505	should
+#92	AnnotatorNotes T102	lemma = 'should'
+T103	pos_VB 506 508	be
+#93	AnnotatorNotes T103	lemma = 'be'
+T104	pos_VBN 509 517	compared
+#94	AnnotatorNotes T104	lemma = 'compare'
+T105	pos_IN 518 522	with
+#95	AnnotatorNotes T105	lemma = 'with'
+T106	pos_DT 523 526	the
+#96	AnnotatorNotes T106	lemma = 'the'
+T107	pos_NN 527 533	amount
+#97	AnnotatorNotes T107	lemma = 'amount'
+T108	pos_IN 534 536	of
+#98	AnnotatorNotes T108	lemma = 'of'
+T109	pos_NN 537 547	investment
+#99	AnnotatorNotes T109	lemma = 'investment'
+T110	pos_WDT 548 553	which
+#100	AnnotatorNotes T110	lemma = 'which'
+T111	pos_VBZ 554 556	is
+#101	AnnotatorNotes T111	lemma = 'be'
+T112	pos_VBN 557 561	made
+#102	AnnotatorNotes T112	lemma = 'make'
+T113	pos_TO 562 564	to
+#103	AnnotatorNotes T113	lemma = 'to'
+T114	pos_VB 565 572	dispose
+#104	AnnotatorNotes T114	lemma = 'dispose'
+T115	pos_DT 573 576	the
+#105	AnnotatorNotes T115	lemma = 'the'
+T116	pos_NN 577 582	waste
+#106	AnnotatorNotes T116	lemma = 'waste'
+T117	pos_Fp 582 583	.
+#107	AnnotatorNotes T117	lemma = '.'
+T118	pos_PRP 584 586	It
+#108	AnnotatorNotes T118	lemma = 'it'
+T119	pos_VBZ 587 589	is
+#109	AnnotatorNotes T119	lemma = 'be'
+T120	pos_RB 590 596	highly
+#110	AnnotatorNotes T120	lemma = 'highly'
+T121	pos_JJ 597 608	predictable
+#111	AnnotatorNotes T121	lemma = 'predictable'
+T122	pos_IN 609 613	that
+#112	AnnotatorNotes T122	lemma = 'that'
+T123	pos_DT 614 619	these
+#113	AnnotatorNotes T123	lemma = 'these'
+T124	pos_NNS 620 625	rates
+#114	AnnotatorNotes T124	lemma = 'rate'
+T125	pos_VBP 626 636	shouldvary
+#115	AnnotatorNotes T125	lemma = 'shouldvary'
+T126	pos_RB 637 646	inversely
+#116	AnnotatorNotes T126	lemma = 'inversely'
+T127	pos_Fd 646 647	:
+#117	AnnotatorNotes T127	lemma = ':'
+T128	pos_DT 648 651	the
+#118	AnnotatorNotes T128	lemma = 'the'
+T129	pos_RBR 652 656	more
+#119	AnnotatorNotes T129	lemma = 'many'
+T130	pos_NN 657 663	amount
+#120	AnnotatorNotes T130	lemma = 'amount'
+T131	pos_IN 664 666	of
+#121	AnnotatorNotes T131	lemma = 'of'
+T132	pos_NN 667 672	money
+#122	AnnotatorNotes T132	lemma = 'money'
+T133	pos_VBZ 673 675	is
+#123	AnnotatorNotes T133	lemma = 'be'
+T134	pos_VBN 676 684	invested
+#124	AnnotatorNotes T134	lemma = 'invest'
+T135	pos_IN 685 687	in
+#125	AnnotatorNotes T135	lemma = 'in'
+T136	pos_VBG 688 696	reducing
+#126	AnnotatorNotes T136	lemma = 'reduce'
+T137	pos_DT 697 700	the
+#127	AnnotatorNotes T137	lemma = 'the'
+T138	pos_NN 701 706	waste
+#128	AnnotatorNotes T138	lemma = 'waste'
+T139	pos_Fc 706 707	,
+#129	AnnotatorNotes T139	lemma = ','
+T140	pos_DT 708 711	the
+#130	AnnotatorNotes T140	lemma = 'the'
+T141	pos_IN 712 716	less
+#131	AnnotatorNotes T141	lemma = 'less'
+T142	pos_VBZ 717 719	is
+#132	AnnotatorNotes T142	lemma = 'be'
+T143	pos_DT 720 723	the
+#133	AnnotatorNotes T143	lemma = 'the'
+T144	pos_NN 724 729	waste
+#134	AnnotatorNotes T144	lemma = 'waste'
+T145	pos_Fp 729 730	.
+#135	AnnotatorNotes T145	lemma = '.'
+T146	pos_RB 731 738	However
+#136	AnnotatorNotes T146	lemma = 'however'
+T147	pos_Fc 738 739	,
+#137	AnnotatorNotes T147	lemma = ','
+T148	pos_DT 740 743	the
+#138	AnnotatorNotes T148	lemma = 'the'
+T149	pos_VBN 744 752	observed
+#139	AnnotatorNotes T149	lemma = 'observe'
+T150	pos_NN 753 762	situation
+#140	AnnotatorNotes T150	lemma = 'situation'
+T151	pos_VBZ 763 765	is
+#141	AnnotatorNotes T151	lemma = 'be'
+T152	pos_RB 766 769	not
+#142	AnnotatorNotes T152	lemma = 'not'
+T153	pos_RB 770 778	likethat
+#143	AnnotatorNotes T153	lemma = 'likethat'
+T154	pos_Fp 778 779	.
+#144	AnnotatorNotes T154	lemma = '.'
+T155	pos_DT 780 783	The
+#145	AnnotatorNotes T155	lemma = 'the'
+T156	pos_NNS 784 789	rates
+#146	AnnotatorNotes T156	lemma = 'rate'
+T157	pos_IN 790 792	of
+#147	AnnotatorNotes T157	lemma = 'of'
+T158	pos_NN 793 803	investment
+#148	AnnotatorNotes T158	lemma = 'investment'
+T159	pos_VB 804 806	go
+#149	AnnotatorNotes T159	lemma = 'go'
+T160	pos_RP 807 809	up
+#150	AnnotatorNotes T160	lemma = 'up'
+T161	pos_RB 810 818	together
+#151	AnnotatorNotes T161	lemma = 'together'
+T162	pos_IN 819 823	with
+#152	AnnotatorNotes T162	lemma = 'with'
+T163	pos_DT 824 827	the
+#153	AnnotatorNotes T163	lemma = 'the'
+T164	pos_NNS 828 833	rates
+#154	AnnotatorNotes T164	lemma = 'rate'
+T165	pos_IN 834 836	of
+#155	AnnotatorNotes T165	lemma = 'of'
+T166	pos_NN 837 842	waste
+#156	AnnotatorNotes T166	lemma = 'waste'
+T167	pos_Fp 842 843	.
+#157	AnnotatorNotes T167	lemma = '.'
+T168	pos_DT 844 847	The
+#158	AnnotatorNotes T168	lemma = 'the'
+T169	pos_NNS 848 853	rates
+#159	AnnotatorNotes T169	lemma = 'rate'
+T170	pos_IN 854 856	of
+#160	AnnotatorNotes T170	lemma = 'of'
+T171	pos_NN 857 867	investment
+#161	AnnotatorNotes T171	lemma = 'investment'
+T172	pos_VBZ 868 871	has
+#162	AnnotatorNotes T172	lemma = 'have'
+T173	pos_VBN 872 881	increased
+#163	AnnotatorNotes T173	lemma = 'increase'
+T174	pos_IN 882 886	from
+#164	AnnotatorNotes T174	lemma = 'from'
+T175	pos_Z 887 898	one million
+#165	AnnotatorNotes T175	lemma = '1000000'
+T176	pos_NN 899 903	euro
+#166	AnnotatorNotes T176	lemma = 'euro'
+T177	pos_TO 904 906	to
+#167	AnnotatorNotes T177	lemma = 'to'
+T178	pos_Z 907 910	2,5
+#168	AnnotatorNotes T178	lemma = '2,5'
+T179	pos_VBG 911 924	millionduring
+#169	AnnotatorNotes T179	lemma = 'millionduring'
+T180	pos_DT 925 930	these
+#170	AnnotatorNotes T180	lemma = 'these'
+T181	pos_Z 931 935	four
+#171	AnnotatorNotes T181	lemma = '4'
+T182	pos_NNS 936 941	years
+#172	AnnotatorNotes T182	lemma = 'year'
+T183	pos_Fp 941 942	.
+#173	AnnotatorNotes T183	lemma = '.'
+T184	pos_PRP 943 945	It
+#174	AnnotatorNotes T184	lemma = 'it'
+T185	pos_VBZ 946 949	has
+#175	AnnotatorNotes T185	lemma = 'have'
+T186	pos_TO 950 952	to
+#176	AnnotatorNotes T186	lemma = 'to'
+T187	pos_VB 953 955	be
+#177	AnnotatorNotes T187	lemma = 'be'
+T188	pos_VBN 956 961	noted
+#178	AnnotatorNotes T188	lemma = 'note'
+T189	pos_Fc 961 962	,
+#179	AnnotatorNotes T189	lemma = ','
+T190	pos_RB 963 970	however
+#180	AnnotatorNotes T190	lemma = 'however'
+T191	pos_Fc 970 971	,
+#181	AnnotatorNotes T191	lemma = ','
+T192	pos_IN 972 976	that
+#182	AnnotatorNotes T192	lemma = 'that'
+T193	pos_DT 977 980	the
+#183	AnnotatorNotes T193	lemma = 'the'
+T194	pos_NN 981 987	amount
+#184	AnnotatorNotes T194	lemma = 'amount'
+T195	pos_IN 988 990	of
+#185	AnnotatorNotes T195	lemma = 'of'
+T196	pos_NN 991 1001	investment
+#186	AnnotatorNotes T196	lemma = 'investment'
+T197	pos_VBZ 1002 1009	remains
+#187	AnnotatorNotes T197	lemma = 'remain'
+T198	pos_IN 1010 1012	at
+#188	AnnotatorNotes T198	lemma = 'at'
+T199	pos_DT 1013 1016	the
+#189	AnnotatorNotes T199	lemma = 'the'
+T200	pos_JJ 1017 1021	same
+#190	AnnotatorNotes T200	lemma = 'same'
+T201	pos_NN 1022 1027	level
+#191	AnnotatorNotes T201	lemma = 'level'
+T202	pos_Fpa 1028 1029	(
+#192	AnnotatorNotes T202	lemma = '('
+T203	pos_Z 1029 1032	1,5
+#193	AnnotatorNotes T203	lemma = '1,5'
+T204	pos_NN 1033 1040	million
+#194	AnnotatorNotes T204	lemma = 'million'
+T205	pos_NN 1041 1045	euro
+#195	AnnotatorNotes T205	lemma = 'euro'
+T206	pos_Fpt 1045 1046	)
+#196	AnnotatorNotes T206	lemma = ')'
+T207	pos_IN 1047 1049	in
+#197	AnnotatorNotes T207	lemma = 'in'
+T208	pos_W 1050 1054	2009
+#198	AnnotatorNotes T208	lemma = '[??:??/??/2009:??.??:??]'
+T209	pos_Z 1055 1062	and2010
+#199	AnnotatorNotes T209	lemma = 'and2010'
+T210	pos_Fc 1062 1063	,
+#200	AnnotatorNotes T210	lemma = ','
+T211	pos_WDT 1064 1069	which
+#201	AnnotatorNotes T211	lemma = 'which'
+T212	pos_VBD 1070 1076	caused
+#202	AnnotatorNotes T212	lemma = 'cause'
+T213	pos_DT 1077 1078	a
+#203	AnnotatorNotes T213	lemma = 'a'
+T214	pos_JJ 1079 1087	dramatic
+#204	AnnotatorNotes T214	lemma = 'dramatic'
+T215	pos_NN 1088 1092	rise
+#205	AnnotatorNotes T215	lemma = 'rise'
+T216	pos_IN 1093 1095	of
+#206	AnnotatorNotes T216	lemma = 'of'
+T217	pos_DT 1096 1099	the
+#207	AnnotatorNotes T217	lemma = 'the'
+T218	pos_NN 1100 1106	amount
+#208	AnnotatorNotes T218	lemma = 'amount'
+T219	pos_IN 1107 1109	of
+#209	AnnotatorNotes T219	lemma = 'of'
+T220	pos_NN 1110 1115	waste
+#210	AnnotatorNotes T220	lemma = 'waste'
+T221	pos_Fp 1115 1116	.
+#211	AnnotatorNotes T221	lemma = '.'
+T222	pos_IN 1117 1119	In
+#212	AnnotatorNotes T222	lemma = 'in'
+T223	pos_JJ 1120 1125	other
+#213	AnnotatorNotes T223	lemma = 'other'
+T224	pos_NNS 1126 1131	words
+#214	AnnotatorNotes T224	lemma = 'word'
+T225	pos_Fc 1131 1132	,
+#215	AnnotatorNotes T225	lemma = ','
+T226	pos_DT 1133 1136	the
+#216	AnnotatorNotes T226	lemma = 'the'
+T227	pos_NN 1137 1142	chart
+#217	AnnotatorNotes T227	lemma = 'chart'
+T228	pos_VBZ 1143 1148	shows
+#218	AnnotatorNotes T228	lemma = 'show'
+T229	pos_IN 1149 1153	that
+#219	AnnotatorNotes T229	lemma = 'that'
+T230	pos_DT 1154 1157	the
+#220	AnnotatorNotes T230	lemma = 'the'
+T231	pos_NN 1158 1164	amount
+#221	AnnotatorNotes T231	lemma = 'amount'
+T232	pos_IN 1165 1167	of
+#222	AnnotatorNotes T232	lemma = 'of'
+T233	pos_NN 1168 1173	money
+#223	AnnotatorNotes T233	lemma = 'money'
+T234	pos_VBN 1174 1182	invested
+#224	AnnotatorNotes T234	lemma = 'invest'
+T235	pos_MD 1183 1189	should
+#225	AnnotatorNotes T235	lemma = 'should'
+T236	pos_VB 1190 1192	be
+#226	AnnotatorNotes T236	lemma = 'be'
+T237	pos_RB 1192 1193	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+#227	AnnotatorNotes T237	lemma = 'increasedpermanently'
+T238	pos_CC 1214 1225	in order to
+#228	AnnotatorNotes T238	lemma = 'in_order_to'
+T239	pos_VB 1226 1232	escape
+#229	AnnotatorNotes T239	lemma = 'escape'
+T240	pos_DT 1233 1236	the
+#230	AnnotatorNotes T240	lemma = 'the'
+T241	pos_JJ 1237 1243	abrupt
+#231	AnnotatorNotes T241	lemma = 'abrupt'
+T242	pos_NNS 1244 1251	changes
+#232	AnnotatorNotes T242	lemma = 'change'
+T243	pos_IN 1252 1254	in
+#233	AnnotatorNotes T243	lemma = 'in'
+T244	pos_DT 1255 1258	the
+#234	AnnotatorNotes T244	lemma = 'the'
+T245	pos_NN 1259 1270	environment
+#235	AnnotatorNotes T245	lemma = 'environment'
+T246	pos_Fp 1270 1271	.
+#236	AnnotatorNotes T246	lemma = '.'
+T247	pos_VBG 1270 1271	.
+#237	AnnotatorNotes T247	lemma = 'concern'
+T248	pos_DT 1282 1285	the
+#238	AnnotatorNotes T248	lemma = 'the'
+T249	pos_NN 1286 1291	level
+#239	AnnotatorNotes T249	lemma = 'level'
+T250	pos_IN 1292 1294	of
+#240	AnnotatorNotes T250	lemma = 'of'
+T251	pos_JJ 1295 1301	public
+#241	AnnotatorNotes T251	lemma = 'public'
+T252	pos_NN 1302 1312	discontent
+#242	AnnotatorNotes T252	lemma = 'discontent'
+T253	pos_Fc 1312 1313	,
+#243	AnnotatorNotes T253	lemma = ','
+T254	pos_PRP 1314 1316	it
+#244	AnnotatorNotes T254	lemma = 'it'
+T255	pos_VBZ 1317 1319	is
+#245	AnnotatorNotes T255	lemma = 'be'
+T256	pos_VBG 1320 1325	going
+#246	AnnotatorNotes T256	lemma = 'go'
+T257	pos_RP 1326 1328	up
+#247	AnnotatorNotes T257	lemma = 'up'
+T258	pos_RB 1329 1340	permanently
+#248	AnnotatorNotes T258	lemma = 'permanently'
+T259	pos_IN 1341 1347	during
+#249	AnnotatorNotes T259	lemma = 'during'
+T260	pos_PDT 1348 1351	all
+#250	AnnotatorNotes T260	lemma = 'all'
+T261	pos_DT 1352 1355	the
+#251	AnnotatorNotes T261	lemma = 'the'
+T262	pos_Z 1356 1360	four
+#252	AnnotatorNotes T262	lemma = '4'
+T263	pos_NNS 1361 1366	years
+#253	AnnotatorNotes T263	lemma = 'year'
+T264	pos_IN 1367 1371	with
+#254	AnnotatorNotes T264	lemma = 'with'
+T265	pos_DT 1372 1374	no
+#255	AnnotatorNotes T265	lemma = 'no'
+T266	pos_NN 1375 1383	relation
+#256	AnnotatorNotes T266	lemma = 'relation'
+T267	pos_TO 1384 1386	to
+#257	AnnotatorNotes T267	lemma = 'to'
+T268	pos_DT 1387 1390	the
+#258	AnnotatorNotes T268	lemma = 'the'
+T269	pos_NN 1391 1395	rate
+#259	AnnotatorNotes T269	lemma = 'rate'
+T270	pos_NNS 1396 1401	leaps
+#260	AnnotatorNotes T270	lemma = 'leap'
+T271	pos_WDT 1402 1407	which
+#261	AnnotatorNotes T271	lemma = 'which'
+T272	pos_VBD 1408 1421	werediscussed
+#262	AnnotatorNotes T272	lemma = 'werediscussed'
+T273	pos_IN 1422 1427	above
+#263	AnnotatorNotes T273	lemma = 'above'
+T274	pos_Fp 1427 1428	.
+#264	AnnotatorNotes T274	lemma = '.'
+T275	pos_RB 1429 1441	Nevertheless
+#265	AnnotatorNotes T275	lemma = 'nevertheless'
+T276	pos_Fc 1441 1442	,
+#266	AnnotatorNotes T276	lemma = ','
+T277	pos_DT 1443 1446	the
+#267	AnnotatorNotes T277	lemma = 'the'
+T278	pos_NN 1447 1452	speed
+#268	AnnotatorNotes T278	lemma = 'speed'
+T279	pos_IN 1453 1455	of
+#269	AnnotatorNotes T279	lemma = 'of'
+T280	pos_DT 1456 1459	the
+#270	AnnotatorNotes T280	lemma = 'the'
+T281	pos_NN 1460 1466	growth
+#271	AnnotatorNotes T281	lemma = 'growth'
+T282	pos_VBZ 1467 1469	is
+#272	AnnotatorNotes T282	lemma = 'be'
+T283	pos_JJ 1470 1479	different
+#273	AnnotatorNotes T283	lemma = 'different'
+T284	pos_Fp 1479 1480	.
+#274	AnnotatorNotes T284	lemma = '.'
+T285	pos_IN 1481 1485	From
+#275	AnnotatorNotes T285	lemma = 'from'
+T286	pos_Z 1486 1490	2008
+#276	AnnotatorNotes T286	lemma = '2008'
+T287	pos_IN 1491 1495	till
+#277	AnnotatorNotes T287	lemma = 'till'
+T288	pos_Z 1496 1500	2009
+#278	AnnotatorNotes T288	lemma = '2009'
+T289	pos_DT 1501 1504	the
+#279	AnnotatorNotes T289	lemma = 'the'
+T290	pos_NN 1505 1509	rate
+#280	AnnotatorNotes T290	lemma = 'rate'
+T291	pos_VBN 1510 1519	increased
+#281	AnnotatorNotes T291	lemma = 'increase'
+T292	pos_IN 1520 1523	for
+#282	AnnotatorNotes T292	lemma = 'for'
+T293	pos_Z 1524 1537	five thousand
+#283	AnnotatorNotes T293	lemma = '5000'
+T294	pos_IN 1538 1540	of
+#284	AnnotatorNotes T294	lemma = 'of'
+T295	pos_NNS 1541 1551	complaints
+#285	AnnotatorNotes T295	lemma = 'complaint'
+T296	pos_Fd 1551 1552	:
+#286	AnnotatorNotes T296	lemma = ':'
+T297	pos_IN 1551 1552	:
+#287	AnnotatorNotes T297	lemma = 'from'
+T298	pos_Z 1557 1568	35 thousand
+#288	AnnotatorNotes T298	lemma = '35000'
+T299	pos_TO 1569 1571	to
+#289	AnnotatorNotes T299	lemma = 'to'
+T300	pos_Z 1572 1583	40 thousand
+#290	AnnotatorNotes T300	lemma = '40000'
+T301	pos_Fp 1583 1584	.
+#291	AnnotatorNotes T301	lemma = '.'
+T302	pos_CC 1585 1588	But
+#292	AnnotatorNotes T302	lemma = 'but'
+T303	pos_IN 1589 1591	by
+#293	AnnotatorNotes T303	lemma = 'by'
+T304	pos_DT 1592 1595	the
+#294	AnnotatorNotes T304	lemma = 'the'
+T305	pos_W 1596 1605	year 2010
+#295	AnnotatorNotes T305	lemma = '[??:??/??/2010:??.??:??]'
+T306	pos_DT 1606 1609	the
+#296	AnnotatorNotes T306	lemma = 'the'
+T307	pos_NN 1610 1618	increase
+#297	AnnotatorNotes T307	lemma = 'increase'
+T308	pos_IN 1619 1621	of
+#298	AnnotatorNotes T308	lemma = 'of'
+T309	pos_NNS 1622 1632	complaints
+#299	AnnotatorNotes T309	lemma = 'complaint'
+T310	pos_VBD 1633 1636	was
+#300	AnnotatorNotes T310	lemma = 'be'
+T311	pos_RBR 1637 1641	more
+#301	AnnotatorNotes T311	lemma = 'many'
+T312	pos_JJ 1642 1649	crucial
+#302	AnnotatorNotes T312	lemma = 'crucial'
+T313	pos_Fd 1649 1650	:
+#303	AnnotatorNotes T313	lemma = ':'
+T314	pos_DT 1651 1654	the
+#304	AnnotatorNotes T314	lemma = 'the'
+T315	pos_NN 1655 1659	rate
+#305	AnnotatorNotes T315	lemma = 'rate'
+T316	pos_VBZ 1660 1663	has
+#306	AnnotatorNotes T316	lemma = 'have'
+T317	pos_VBN 1664 1669	grown
+#307	AnnotatorNotes T317	lemma = 'grow'
+T318	pos_IN 1670 1673	for
+#308	AnnotatorNotes T318	lemma = 'for'
+T319	pos_Z 1674 1685	10 thousand
+#309	AnnotatorNotes T319	lemma = '10000'
+T320	pos_Fpa 1686 1687	(
+#310	AnnotatorNotes T320	lemma = '('
+T321	pos_IN 1687 1691	from
+#311	AnnotatorNotes T321	lemma = 'from'
+T322	pos_Z 1692 1702	40thousand
+#312	AnnotatorNotes T322	lemma = '40thousand'
+T323	pos_TO 1703 1705	to
+#313	AnnotatorNotes T323	lemma = 'to'
+T324	pos_Z 1706 1717	50 thousand
+#314	AnnotatorNotes T324	lemma = '50000'
+T325	pos_Fpt 1717 1718	)
+#315	AnnotatorNotes T325	lemma = ')'
+T326	pos_Fp 1718 1719	.
+#316	AnnotatorNotes T326	lemma = '.'
+T327	pos_RB 1720 1731	Nonetheless
+#317	AnnotatorNotes T327	lemma = 'nonetheless'
+T328	pos_DT 1732 1735	the
+#318	AnnotatorNotes T328	lemma = 'the'
+T329	pos_NN 1736 1742	amount
+#319	AnnotatorNotes T329	lemma = 'amount'
+T330	pos_IN 1743 1745	of
+#320	AnnotatorNotes T330	lemma = 'of'
+T331	pos_NN 1746 1751	waste
+#321	AnnotatorNotes T331	lemma = 'waste'
+T332	pos_VBZ 1752 1755	has
+#322	AnnotatorNotes T332	lemma = 'have'
+T333	pos_VBN 1756 1763	dropped
+#323	AnnotatorNotes T333	lemma = 'drop'
+T334	pos_IN 1764 1766	by
+#324	AnnotatorNotes T334	lemma = 'by'
+T335	pos_DT 1767 1770	the
+#325	AnnotatorNotes T335	lemma = 'the'
+T336	pos_W 1771 1780	year 2011
+#326	AnnotatorNotes T336	lemma = '[??:??/??/2011:??.??:??]'
+T337	pos_Fc 1780 1781	,
+#327	AnnotatorNotes T337	lemma = ','
+T338	pos_DT 1782 1785	the
+#328	AnnotatorNotes T338	lemma = 'the'
+T339	pos_NN 1786 1792	amount
+#329	AnnotatorNotes T339	lemma = 'amount'
+T340	pos_IN 1793 1795	of
+#330	AnnotatorNotes T340	lemma = 'of'
+T341	pos_NNS 1796 1806	complaints
+#331	AnnotatorNotes T341	lemma = 'complaint'
+T342	pos_VBP 1807 1811	have
+#332	AnnotatorNotes T342	lemma = 'have'
+T343	pos_RB 1812 1815	not
+#333	AnnotatorNotes T343	lemma = 'not'
+T344	pos_VBN 1816 1825	decreased
+#334	AnnotatorNotes T344	lemma = 'decrease'
+T345	pos_Fd 1825 1826	:
+#335	AnnotatorNotes T345	lemma = ':'
+T346	pos_DT 1827 1831	this
+#336	AnnotatorNotes T346	lemma = 'this'
+T347	pos_VBZ 1832 1839	ratehas
+#337	AnnotatorNotes T347	lemma = 'ratehas'
+T348	pos_VBN 1840 1847	reached
+#338	AnnotatorNotes T348	lemma = 'reach'
+T349	pos_Z 1848 1859	60 thousand
+#339	AnnotatorNotes T349	lemma = '60000'
+T350	pos_Fp 1859 1860	.
+#340	AnnotatorNotes T350	lemma = '.'
+T351	pos_RB 1859 1860	.
+#341	AnnotatorNotes T351	lemma = 'thus'
+T352	pos_Fc 1864 1865	,
+#342	AnnotatorNotes T352	lemma = ','
+T353	pos_DT 1866 1871	these
+#343	AnnotatorNotes T353	lemma = 'these'
+T354	pos_NNS 1872 1878	charts
+#344	AnnotatorNotes T354	lemma = 'chart'
+T355	pos_VBP 1879 1890	demonstrate
+#345	AnnotatorNotes T355	lemma = 'demonstrate'
+T356	pos_DT 1891 1892	a
+#346	AnnotatorNotes T356	lemma = 'a'
+T357	pos_NN 1893 1904	correlation
+#347	AnnotatorNotes T357	lemma = 'correlation'
+T358	pos_IN 1905 1912	between
+#348	AnnotatorNotes T358	lemma = 'between'
+T359	pos_DT 1913 1916	the
+#349	AnnotatorNotes T359	lemma = 'the'
+T360	pos_NN 1917 1923	amount
+#350	AnnotatorNotes T360	lemma = 'amount'
+T361	pos_IN 1924 1926	of
+#351	AnnotatorNotes T361	lemma = 'of'
+T362	pos_NN 1927 1932	money
+#352	AnnotatorNotes T362	lemma = 'money'
+T363	pos_WDT 1933 1937	that
+#353	AnnotatorNotes T363	lemma = 'that'
+T364	pos_VBP 1938 1941	are
+#354	AnnotatorNotes T364	lemma = 'be'
+T365	pos_VBN 1942 1950	invested
+#355	AnnotatorNotes T365	lemma = 'invest'
+T366	pos_IN 1951 1953	in
+#356	AnnotatorNotes T366	lemma = 'in'
+T367	pos_VBG 1954 1960	saving
+#357	AnnotatorNotes T367	lemma = 'save'
+T368	pos_DT 1961 1964	the
+#358	AnnotatorNotes T368	lemma = 'the'
+T369	pos_NN 1965 1971	nature
+#359	AnnotatorNotes T369	lemma = 'nature'
+T370	pos_CC 1972 1975	and
+#360	AnnotatorNotes T370	lemma = 'and'
+T371	pos_DT 1976 1979	the
+#361	AnnotatorNotes T371	lemma = 'the'
+T372	pos_NN 1980 1986	amount
+#362	AnnotatorNotes T372	lemma = 'amount'
+T373	pos_IN 1987 1989	of
+#363	AnnotatorNotes T373	lemma = 'of'
+T374	pos_NN 1990 1995	waste
+#364	AnnotatorNotes T374	lemma = 'waste'
+T375	pos_Fp 1995 1996	.
+#365	AnnotatorNotes T375	lemma = '.'
+T376	pos_IN 1997 1999	On
+#366	AnnotatorNotes T376	lemma = 'on'
+T377	pos_NN 2000 2011	thecontrary
+#367	AnnotatorNotes T377	lemma = 'thecontrary'
+T378	pos_Fc 2011 2012	,
+#368	AnnotatorNotes T378	lemma = ','
+T379	pos_DT 2013 2015	no
+#369	AnnotatorNotes T379	lemma = 'no'
+T380	pos_NN 2016 2027	correlation
+#370	AnnotatorNotes T380	lemma = 'correlation'
+T381	pos_IN 2028 2035	between
+#371	AnnotatorNotes T381	lemma = 'between'
+T382	pos_DT 2036 2039	the
+#372	AnnotatorNotes T382	lemma = 'the'
+T383	pos_NN 2040 2045	level
+#373	AnnotatorNotes T383	lemma = 'level'
+T384	pos_IN 2046 2048	of
+#374	AnnotatorNotes T384	lemma = 'of'
+T385	pos_JJ 2049 2053	real
+#375	AnnotatorNotes T385	lemma = 'real'
+T386	pos_NN 2054 2059	waste
+#376	AnnotatorNotes T386	lemma = 'waste'
+T387	pos_CC 2060 2063	and
+#377	AnnotatorNotes T387	lemma = 'and'
+T388	pos_DT 2064 2067	the
+#378	AnnotatorNotes T388	lemma = 'the'
+T389	pos_NN 2068 2073	level
+#379	AnnotatorNotes T389	lemma = 'level'
+T390	pos_IN 2074 2076	of
+#380	AnnotatorNotes T390	lemma = 'of'
+T391	pos_JJ 2077 2083	public
+#381	AnnotatorNotes T391	lemma = 'public'
+T392	pos_NN 2084 2094	discontent
+#382	AnnotatorNotes T392	lemma = 'discontent'
+T393	pos_MD 2095 2100	could
+#383	AnnotatorNotes T393	lemma = 'can'
+T394	pos_VB 2101 2103	be
+#384	AnnotatorNotes T394	lemma = 'be'
+T395	pos_VBN 2104 2112	observed
+#385	AnnotatorNotes T395	lemma = 'observe'
+T396	pos_Fp 2104 2112	observed
+#386	AnnotatorNotes T396	lemma = '.'

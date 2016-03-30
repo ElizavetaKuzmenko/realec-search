@@ -1,0 +1,550 @@
+T1	lex_item_choice 142 148	amount
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Major
+#1	AnnotatorNotes T1	number
+T275	pos_JJ 0 8	Abstract
+#2	AnnotatorNotes T275	lemma = 'abstract'
+T2	pos_NP 9 13	This
+#3	AnnotatorNotes T2	lemma = 'this'
+T3	pos_NN 14 19	paper
+#4	AnnotatorNotes T3	lemma = 'paper'
+T4	pos_VBZ 20 28	explores
+#5	AnnotatorNotes T4	lemma = 'explore'
+T5	pos_DT 29 30	a
+#6	AnnotatorNotes T5	lemma = 'a'
+T6	pos_JJ 31 34	new
+#7	AnnotatorNotes T6	lemma = 'new'
+T7	pos_NN 35 43	approach
+#8	AnnotatorNotes T7	lemma = 'approach'
+T8	pos_TO 44 46	to
+#9	AnnotatorNotes T8	lemma = 'to'
+T9	pos_JJ 47 54	lexical
+#10	AnnotatorNotes T9	lemma = 'lexical'
+T10	pos_NN 55 63	typology
+#11	AnnotatorNotes T10	lemma = 'typology'
+T11	pos_Fp 63 64	.
+#12	AnnotatorNotes T11	lemma = '.'
+T12	pos_RB 65 78	Traditionally
+#13	AnnotatorNotes T12	lemma = 'traditionally'
+T13	pos_Fc 78 79	,
+#14	AnnotatorNotes T13	lemma = ','
+T14	pos_JJ 80 87	lexical
+#15	AnnotatorNotes T14	lemma = 'lexical'
+T15	pos_NN 88 96	typology
+#16	AnnotatorNotes T15	lemma = 'typology'
+T16	pos_VBZ 97 100	has
+#17	AnnotatorNotes T16	lemma = 'have'
+T17	pos_RB 101 107	mostly
+#18	AnnotatorNotes T17	lemma = 'mostly'
+T18	pos_VBN 108 116	confined
+#19	AnnotatorNotes T18	lemma = 'confine'
+T19	pos_PRP 117 123	itself
+#20	AnnotatorNotes T19	lemma = 'itself'
+T20	pos_TO 124 126	to
+#21	AnnotatorNotes T20	lemma = 'to'
+T21	pos_DT 127 128	a
+#22	AnnotatorNotes T21	lemma = 'a'
+T22	pos_RB 129 133	very
+#23	AnnotatorNotes T22	lemma = 'very'
+T23	pos_VBN 134 141	limited
+#24	AnnotatorNotes T23	lemma = 'limit'
+T24	pos_NN 142 148	amount
+#25	AnnotatorNotes T24	lemma = 'amount'
+T25	pos_IN 149 151	of
+#26	AnnotatorNotes T25	lemma = 'of'
+T26	pos_NNS 152 161	languages
+#27	AnnotatorNotes T26	lemma = 'language'
+T27	pos_CC 162 165	and
+#28	AnnotatorNotes T27	lemma = 'and'
+T28	pos_RB 166 175	therefore
+#29	AnnotatorNotes T28	lemma = 'therefore'
+T29	pos_Fc 175 176	,
+#30	AnnotatorNotes T29	lemma = ','
+T30	pos_JJ 177 186	extensive
+#31	AnnotatorNotes T30	lemma = 'extensive'
+T31	pos_JJ 187 198	typological
+#32	AnnotatorNotes T31	lemma = 'typological'
+T32	pos_NN 199 212	investigation
+#33	AnnotatorNotes T32	lemma = 'investigation'
+T33	pos_MD 213 216	can
+#34	AnnotatorNotes T33	lemma = 'can'
+T34	pos_RB 216 219	not
+#35	AnnotatorNotes T34	lemma = 'not'
+T35	pos_VB 220 222	be
+#36	AnnotatorNotes T35	lemma = 'be'
+T36	pos_VBN 223 235	accomplished
+#37	AnnotatorNotes T36	lemma = 'accomplish'
+T37	pos_Fp 235 236	.
+#38	AnnotatorNotes T37	lemma = '.'
+T38	pos_IN 237 243	Unlike
+#39	AnnotatorNotes T38	lemma = 'unlike'
+T39	pos_DT 244 247	the
+#40	AnnotatorNotes T39	lemma = 'the'
+T40	pos_JJ 248 256	previous
+#41	AnnotatorNotes T40	lemma = 'previous'
+T41	pos_NNS 257 265	projects
+#42	AnnotatorNotes T41	lemma = 'project'
+T42	pos_VBN 266 271	based
+#43	AnnotatorNotes T42	lemma = 'base'
+T43	pos_IN 272 274	on
+#44	AnnotatorNotes T43	lemma = 'on'
+T44	pos_DT 275 276	a
+#45	AnnotatorNotes T44	lemma = 'a'
+T45	pos_JJ 277 282	broad
+#46	AnnotatorNotes T45	lemma = 'broad'
+T46	pos_NN 283 288	range
+#47	AnnotatorNotes T46	lemma = 'range'
+T47	pos_IN 289 291	of
+#48	AnnotatorNotes T47	lemma = 'of'
+T48	pos_JJ 292 302	linguistic
+#49	AnnotatorNotes T48	lemma = 'linguistic'
+T49	pos_NNS 303 307	data
+#50	AnnotatorNotes T49	lemma = 'data'
+T50	pos_CC 308 311	and
+#51	AnnotatorNotes T50	lemma = 'and'
+T51	pos_VBG 312 321	involving
+#52	AnnotatorNotes T51	lemma = 'involve'
+T52	pos_Z 322 327	30-50
+#53	AnnotatorNotes T52	lemma = '30-50'
+T53	pos_NNS 328 337	languages
+#54	AnnotatorNotes T53	lemma = 'language'
+T54	pos_Fc 337 338	,
+#55	AnnotatorNotes T54	lemma = ','
+T55	pos_PRP 339 341	we
+#56	AnnotatorNotes T55	lemma = 'we'
+T56	pos_VB 342 349	propose
+#57	AnnotatorNotes T56	lemma = 'propose'
+T57	pos_JJ 350 366	dictionary-based
+#58	AnnotatorNotes T57	lemma = 'dictionary-based'
+T58	pos_JJ 367 378	typological
+#59	AnnotatorNotes T58	lemma = 'typological'
+T59	pos_NN 379 392	investigation
+#60	AnnotatorNotes T59	lemma = 'investigation'
+T60	pos_IN 393 395	on
+#61	AnnotatorNotes T60	lemma = 'on'
+T61	pos_DT 396 399	the
+#62	AnnotatorNotes T61	lemma = 'the'
+T62	pos_NN 400 405	basis
+#63	AnnotatorNotes T62	lemma = 'basis'
+T63	pos_IN 406 408	of
+#64	AnnotatorNotes T63	lemma = 'of'
+T64	pos_RB 409 414	about
+#65	AnnotatorNotes T64	lemma = 'about'
+T65	pos_Z 415 424	a hundred
+#66	AnnotatorNotes T65	lemma = '100'
+T66	pos_NNS 425 434	languages
+#67	AnnotatorNotes T66	lemma = 'language'
+T67	pos_Fp 434 435	.
+#68	AnnotatorNotes T67	lemma = '.'
+T68	pos_DT 436 439	The
+#69	AnnotatorNotes T68	lemma = 'the'
+T69	pos_NN 440 448	research
+#70	AnnotatorNotes T69	lemma = 'research'
+T70	pos_NN 449 457	question
+#71	AnnotatorNotes T70	lemma = 'question'
+T71	pos_VBZ 458 460	is
+#72	AnnotatorNotes T71	lemma = 'be'
+T72	pos_IN 461 468	whether
+#73	AnnotatorNotes T72	lemma = 'whether'
+T73	pos_PRP 469 471	it
+#74	AnnotatorNotes T73	lemma = 'it'
+T74	pos_VBZ 472 474	is
+#75	AnnotatorNotes T74	lemma = 'be'
+T75	pos_JJ 475 483	possible
+#76	AnnotatorNotes T75	lemma = 'possible'
+T76	pos_TO 484 486	to
+#77	AnnotatorNotes T76	lemma = 'to'
+T77	pos_VB 487 492	carry
+#78	AnnotatorNotes T77	lemma = 'carry'
+T78	pos_RP 493 496	out
+#79	AnnotatorNotes T78	lemma = 'out'
+T79	pos_DT 497 498	a
+#80	AnnotatorNotes T79	lemma = 'a'
+T80	pos_JJ 499 507	reliable
+#81	AnnotatorNotes T80	lemma = 'reliable'
+T81	pos_JJ 508 515	lexical
+#82	AnnotatorNotes T81	lemma = 'lexical'
+T82	pos_JJ 516 527	typological
+#83	AnnotatorNotes T82	lemma = 'typological'
+T83	pos_NN 528 536	analysis
+#84	AnnotatorNotes T83	lemma = 'analysis'
+T84	pos_VBG 537 542	using
+#85	AnnotatorNotes T84	lemma = 'use'
+T85	pos_JJ 543 547	only
+#86	AnnotatorNotes T85	lemma = 'only'
+T86	pos_NN 548 558	dictionary
+#87	AnnotatorNotes T86	lemma = 'dictionary'
+T87	pos_NNS 559 566	entries
+#88	AnnotatorNotes T87	lemma = 'entry'
+T88	pos_Fp 566 567	.
+#89	AnnotatorNotes T88	lemma = '.'
+T89	pos_DT 568 571	The
+#90	AnnotatorNotes T89	lemma = 'the'
+T90	pos_NN 572 580	validity
+#91	AnnotatorNotes T90	lemma = 'validity'
+T91	pos_IN 581 583	of
+#92	AnnotatorNotes T91	lemma = 'of'
+T92	pos_PRP2 584 587	our
+#93	AnnotatorNotes T92	lemma = 'our'
+T93	pos_NN 588 596	approach
+#94	AnnotatorNotes T93	lemma = 'approach'
+T94	pos_VBZ 597 599	is
+#95	AnnotatorNotes T94	lemma = 'be'
+T95	pos_VBN 600 611	illustrated
+#96	AnnotatorNotes T95	lemma = 'illustrate'
+T96	pos_IN 612 614	in
+#97	AnnotatorNotes T96	lemma = 'in'
+T97	pos_NN 615 621	detail
+#98	AnnotatorNotes T97	lemma = 'detail'
+T98	pos_IN 622 625	for
+#99	AnnotatorNotes T98	lemma = 'for'
+T99	pos_DT 626 629	the
+#100	AnnotatorNotes T99	lemma = 'the'
+T100	pos_JJ 630 638	semantic
+#101	AnnotatorNotes T100	lemma = 'semantic'
+T101	pos_NN 639 645	domain
+#102	AnnotatorNotes T101	lemma = 'domain'
+T102	pos_IN 646 648	of
+#103	AnnotatorNotes T102	lemma = 'of'
+T103	pos_DT 649 652	the
+#104	AnnotatorNotes T103	lemma = 'the'
+T104	pos_NN 653 659	lexeme
+#105	AnnotatorNotes T104	lemma = 'lexeme'
+T105	pos_Fw 660 661	'
+#106	AnnotatorNotes T105	lemma = '''
+T106	pos_NN 661 664	old
+#107	AnnotatorNotes T106	lemma = 'old'
+T107	pos_Fw 664 665	'
+#108	AnnotatorNotes T107	lemma = '''
+T108	pos_Fp 665 666	.
+#109	AnnotatorNotes T108	lemma = '.'
+T109	pos_DT 667 670	The
+#110	AnnotatorNotes T109	lemma = 'the'
+T110	pos_NN 671 679	research
+#111	AnnotatorNotes T110	lemma = 'research'
+T111	pos_NNS 680 688	findings
+#112	AnnotatorNotes T111	lemma = 'finding'
+T112	pos_VBN 689 694	based
+#113	AnnotatorNotes T112	lemma = 'base'
+T113	pos_IN 695 697	on
+#114	AnnotatorNotes T113	lemma = 'on'
+T114	pos_DT 698 701	the
+#115	AnnotatorNotes T114	lemma = 'the'
+T115	pos_NNS 702 709	experts
+#116	AnnotatorNotes T115	lemma = 'expert'
+T116	pos_Fw 709 710	'
+#117	AnnotatorNotes T116	lemma = '''
+T117	pos_NN 711 721	evaluation
+#118	AnnotatorNotes T117	lemma = 'evaluation'
+T118	pos_NN 722 726	show
+#119	AnnotatorNotes T118	lemma = 'show'
+T119	pos_IN 727 731	that
+#120	AnnotatorNotes T119	lemma = 'that'
+T120	pos_DT 732 735	the
+#121	AnnotatorNotes T120	lemma = 'the'
+T121	pos_JJ 736 752	dictionary-based
+#122	AnnotatorNotes T121	lemma = 'dictionary-based'
+T122	pos_NN 753 761	approach
+#123	AnnotatorNotes T122	lemma = 'approach'
+T123	pos_NNS 762 768	yields
+#124	AnnotatorNotes T123	lemma = 'yield'
+T124	pos_DT 769 770	a
+#125	AnnotatorNotes T124	lemma = 'a'
+T125	pos_JJ 771 775	high
+#126	AnnotatorNotes T125	lemma = 'high'
+T126	pos_NN 776 786	percentage
+#127	AnnotatorNotes T126	lemma = 'percentage'
+T127	pos_IN 787 789	of
+#128	AnnotatorNotes T127	lemma = 'of'
+T128	pos_JJ 790 798	reliable
+#129	AnnotatorNotes T128	lemma = 'reliable'
+T129	pos_NNS 799 803	data
+#130	AnnotatorNotes T129	lemma = 'data'
+T130	pos_Fp 803 804	.
+#131	AnnotatorNotes T130	lemma = '.'
+T131	pos_DT 805 808	The
+#132	AnnotatorNotes T131	lemma = 'the'
+T132	pos_NN 809 818	precision
+#133	AnnotatorNotes T132	lemma = 'precision'
+T133	pos_VBZ 819 821	is
+#134	AnnotatorNotes T133	lemma = 'be'
+T134	pos_JJ 822 826	only
+#135	AnnotatorNotes T134	lemma = 'only'
+T135	pos_RB 827 837	moderately
+#136	AnnotatorNotes T135	lemma = 'moderately'
+T136	pos_JJ 838 842	high
+#137	AnnotatorNotes T136	lemma = 'high'
+T137	pos_Fc 842 843	,
+#138	AnnotatorNotes T137	lemma = ','
+T138	pos_RB 844 850	mainly
+#139	AnnotatorNotes T138	lemma = 'mainly'
+T139	pos_JJ 851 854	due
+#140	AnnotatorNotes T139	lemma = 'due'
+T140	pos_TO 855 857	to
+#141	AnnotatorNotes T140	lemma = 'to'
+T141	pos_NN 858 867	ambiguity
+#142	AnnotatorNotes T141	lemma = 'ambiguity'
+T142	pos_NNS 868 876	problems
+#143	AnnotatorNotes T142	lemma = 'problem'
+T143	pos_IN 877 879	of
+#144	AnnotatorNotes T143	lemma = 'of'
+T144	pos_DT 880 883	the
+#145	AnnotatorNotes T144	lemma = 'the'
+T145	pos_NNS 884 892	examples
+#146	AnnotatorNotes T145	lemma = 'example'
+T146	pos_VBN 893 898	given
+#147	AnnotatorNotes T146	lemma = 'give'
+T147	pos_IN 899 901	in
+#148	AnnotatorNotes T147	lemma = 'in'
+T148	pos_DT 902 905	the
+#149	AnnotatorNotes T148	lemma = 'the'
+T149	pos_NN 906 916	dictionary
+#150	AnnotatorNotes T149	lemma = 'dictionary'
+T150	pos_NNS 917 924	entries
+#151	AnnotatorNotes T150	lemma = 'entry'
+T151	pos_Fp 924 925	.
+#152	AnnotatorNotes T151	lemma = '.'
+T152	pos_DT 926 929	The
+#153	AnnotatorNotes T152	lemma = 'the'
+T153	pos_JJ 930 935	final
+#154	AnnotatorNotes T153	lemma = 'final'
+T154	pos_NN 936 941	stage
+#155	AnnotatorNotes T154	lemma = 'stage'
+T155	pos_IN 942 944	of
+#156	AnnotatorNotes T155	lemma = 'of'
+T156	pos_PRP2 945 948	our
+#157	AnnotatorNotes T156	lemma = 'our'
+T157	pos_NN 949 956	project
+#158	AnnotatorNotes T157	lemma = 'project'
+T158	pos_VBZ 957 965	involves
+#159	AnnotatorNotes T158	lemma = 'involve'
+T159	pos_VBG 966 975	compiling
+#160	AnnotatorNotes T159	lemma = 'compile'
+T160	pos_DT 976 977	a
+#161	AnnotatorNotes T160	lemma = 'a'
+T161	pos_NN 978 986	database
+#162	AnnotatorNotes T161	lemma = 'database'
+T162	pos_IN 987 989	of
+#163	AnnotatorNotes T162	lemma = 'of'
+T163	pos_JJ 990 998	reliable
+#164	AnnotatorNotes T163	lemma = 'reliable'
+T164	pos_NNS 999 1011	dictionaries
+#165	AnnotatorNotes T164	lemma = 'dictionary'
+T165	pos_WDT 1012 1016	that
+#166	AnnotatorNotes T165	lemma = 'that'
+T166	pos_MD 1017 1020	can
+#167	AnnotatorNotes T166	lemma = 'can'
+T167	pos_VB 1021 1023	be
+#168	AnnotatorNotes T167	lemma = 'be'
+T168	pos_VBN 1024 1028	used
+#169	AnnotatorNotes T168	lemma = 'use'
+T169	pos_IN 1029 1032	for
+#170	AnnotatorNotes T169	lemma = 'for'
+T170	pos_DT 1033 1036	the
+#171	AnnotatorNotes T170	lemma = 'the'
+T171	pos_JJ 1037 1044	further
+#172	AnnotatorNotes T171	lemma = 'further'
+T172	pos_JJ 1045 1052	lexical
+#173	AnnotatorNotes T172	lemma = 'lexical'
+T173	pos_JJ 1053 1064	typological
+#174	AnnotatorNotes T173	lemma = 'typological'
+T174	pos_NNS 1065 1072	studies
+#175	AnnotatorNotes T174	lemma = 'study'
+T175	pos_Fp 1072 1073	.
+#176	AnnotatorNotes T175	lemma = '.'
+T176	pos_NNS 1074 1082	Keywords
+#177	AnnotatorNotes T176	lemma = 'keyword'
+T177	pos_Fd 1082 1083	:
+#178	AnnotatorNotes T177	lemma = ':'
+T178	pos_JJ 1084 1091	lexical
+#179	AnnotatorNotes T178	lemma = 'lexical'
+T179	pos_NN 1092 1100	typology
+#180	AnnotatorNotes T179	lemma = 'typology'
+T180	pos_Fc 1100 1101	,
+#181	AnnotatorNotes T180	lemma = ','
+T181	pos_JJ 1102 1109	lexical
+#182	AnnotatorNotes T181	lemma = 'lexical'
+T182	pos_NNS 1110 1119	semantics
+#183	AnnotatorNotes T182	lemma = 'semantics'
+T183	pos_Fc 1119 1120	,
+#184	AnnotatorNotes T183	lemma = ','
+T184	pos_NN 1121 1133	lexicography
+#185	AnnotatorNotes T184	lemma = 'lexicography'
+T185	pos_Fc 1133 1134	,
+#186	AnnotatorNotes T185	lemma = ','
+T186	pos_JJ 1135 1144	bilingual
+#187	AnnotatorNotes T186	lemma = 'bilingual'
+T187	pos_NNS 1145 1157	dictionaries
+#188	AnnotatorNotes T187	lemma = 'dictionary'
+T188	pos_NP 1158 1168	References
+#189	AnnotatorNotes T188	lemma = 'references'
+T189	pos_Fc 1175 1176	,
+#190	AnnotatorNotes T189	lemma = ','
+T190	pos_NP 1177 1188	John R. Old
+#191	AnnotatorNotes T190	lemma = 'john_r._old'
+T191	pos_NNS 1189 1197	problems
+#192	AnnotatorNotes T191	lemma = 'problem'
+T192	pos_Fd 1197 1198	:
+#193	AnnotatorNotes T192	lemma = ':'
+T193	pos_NNS 1199 1209	adjectives
+#194	AnnotatorNotes T193	lemma = 'adjective'
+T194	pos_IN 1210 1212	in
+#195	AnnotatorNotes T194	lemma = 'in'
+T195	pos_NP 1213 1230	Cognitive Grammar
+#196	AnnotatorNotes T195	lemma = 'cognitive_grammar'
+T196	pos_Fp 1230 1231	.
+#197	AnnotatorNotes T196	lemma = '.'
+T197	pos_JJ 1232 1241	Cognitive
+#198	AnnotatorNotes T197	lemma = 'cognitive'
+T198	pos_NP 1242 1253	Linguistics
+#199	AnnotatorNotes T198	lemma = 'linguistics'
+T199	pos_Fc 1253 1254	,
+#200	AnnotatorNotes T199	lemma = ','
+T200	pos_Z 1255 1259	1992
+#201	AnnotatorNotes T200	lemma = '1992'
+T201	pos_Fp 1259 1260	.
+#202	AnnotatorNotes T201	lemma = '.'
+T202	pos_NP 1261 1270	Rakhilina
+#203	AnnotatorNotes T202	lemma = 'rakhilina'
+T203	pos_Fc 1270 1271	,
+#204	AnnotatorNotes T203	lemma = ','
+T204	pos_NP 1272 1294	Ekaterina V. Cognitive
+#205	AnnotatorNotes T204	lemma = 'ekaterina_v._cognitive'
+T205	pos_NN 1295 1303	analysis
+#206	AnnotatorNotes T205	lemma = 'analysis'
+T206	pos_IN 1304 1306	of
+#207	AnnotatorNotes T206	lemma = 'of'
+T207	pos_NNS 1307 1312	names
+#208	AnnotatorNotes T207	lemma = 'name'
+T208	pos_IN 1313 1315	of
+#209	AnnotatorNotes T208	lemma = 'of'
+T209	pos_NNS 1316 1323	objects
+#210	AnnotatorNotes T209	lemma = 'object'
+T210	pos_Fd 1323 1324	:
+#211	AnnotatorNotes T210	lemma = ':'
+T211	pos_NNS 1325 1334	semantics
+#212	AnnotatorNotes T211	lemma = 'semantics'
+T212	pos_CC 1335 1338	and
+#213	AnnotatorNotes T212	lemma = 'and'
+T213	pos_NN 1339 1352	combinability
+#214	AnnotatorNotes T213	lemma = 'combinability'
+T214	pos_Fp 1352 1353	.
+#215	AnnotatorNotes T214	lemma = '.'
+T215	pos_NP 1354 1360	Moscow
+#216	AnnotatorNotes T215	lemma = 'moscow'
+T216	pos_Fd 1360 1361	:
+#217	AnnotatorNotes T216	lemma = ':'
+T217	pos_NP 1362 1369	Russkie
+#218	AnnotatorNotes T217	lemma = 'russkie'
+T218	pos_NNS 1370 1377	slovari
+#219	AnnotatorNotes T218	lemma = 'slovari'
+T219	pos_Fc 1377 1378	,
+#220	AnnotatorNotes T219	lemma = ','
+T220	pos_Z 1379 1383	2000
+#221	AnnotatorNotes T220	lemma = '2000'
+T221	pos_Fp 1383 1384	.
+#222	AnnotatorNotes T221	lemma = '.'
+T222	pos_NP 1386 1392	Maisak
+#223	AnnotatorNotes T222	lemma = 'maisak'
+T223	pos_Fc 1392 1393	,
+#224	AnnotatorNotes T223	lemma = ','
+T224	pos_NP 1394 1399	Timur
+#225	AnnotatorNotes T224	lemma = 'timur'
+T225	pos_Fp 1399 1400	.
+#226	AnnotatorNotes T225	lemma = '.'
+T226	pos_NNS 1401 1406	Verbs
+#227	AnnotatorNotes T226	lemma = 'verb'
+T227	pos_IN 1407 1409	of
+#228	AnnotatorNotes T227	lemma = 'of'
+T228	pos_NP 1410 1420	Aquamotion
+#229	AnnotatorNotes T228	lemma = 'aquamotion'
+T229	pos_Fd 1420 1421	:
+#230	AnnotatorNotes T229	lemma = ':'
+T231	pos_JJ 1424 1431	lexical
+#232	AnnotatorNotes T231	lemma = 'lexical'
+T232	pos_NN 1432 1440	typology
+#233	AnnotatorNotes T232	lemma = 'typology'
+T233	pos_Fp 1440 1441	.
+#234	AnnotatorNotes T233	lemma = '.'
+T234	pos_NP 1442 1448	Moscow
+#235	AnnotatorNotes T234	lemma = 'moscow'
+T235	pos_Fd 1448 1449	:
+#236	AnnotatorNotes T235	lemma = ':'
+T236	pos_NP 1450 1456	Indrik
+#237	AnnotatorNotes T236	lemma = 'indrik'
+T237	pos_Fc 1456 1457	,
+#238	AnnotatorNotes T237	lemma = ','
+T238	pos_Z 1458 1462	2007
+#239	AnnotatorNotes T238	lemma = '2007'
+T239	pos_Fp 1462 1463	.
+#240	AnnotatorNotes T239	lemma = '.'
+T240	pos_NP 1464 1476	Koptjevskaya
+#241	AnnotatorNotes T240	lemma = 'koptjevskaya'
+T241	pos_Fc 1476 1477	,
+#242	AnnotatorNotes T241	lemma = ','
+T242	pos_NP 1478 1483	Maria
+#243	AnnotatorNotes T242	lemma = 'maria'
+T243	pos_Fp 1483 1484	.
+#244	AnnotatorNotes T243	lemma = '.'
+T244	pos_VBG 1486 1497	Approaching
+#245	AnnotatorNotes T244	lemma = 'approach'
+T245	pos_JJ 1498 1505	lexical
+#246	AnnotatorNotes T245	lemma = 'lexical'
+T246	pos_NN 1506 1514	typology
+#247	AnnotatorNotes T246	lemma = 'typology'
+T247	pos_Fc 1514 1515	,
+#248	AnnotatorNotes T247	lemma = ','
+T248	pos_Z 1516 1520	2008
+#249	AnnotatorNotes T248	lemma = '2008'
+T249	pos_Fp 1520 1521	.
+#250	AnnotatorNotes T249	lemma = '.'
+T250	pos_NP 1522 1535	Manich Jumsai
+#251	AnnotatorNotes T250	lemma = 'manich_jumsai'
+T251	pos_Fc 1535 1536	,
+#252	AnnotatorNotes T251	lemma = ','
+T252	pos_NP 1538 1565	English-Thai & Thai-English
+#253	AnnotatorNotes T252	lemma = 'english-thai_&_thai-english'
+T253	pos_NN 1566 1576	dictionary
+#254	AnnotatorNotes T253	lemma = 'dictionary'
+T254	pos_Fp 1576 1577	.
+#255	AnnotatorNotes T254	lemma = '.'
+T255	pos_NP 1578 1585	Bangkok
+#256	AnnotatorNotes T255	lemma = 'bangkok'
+T256	pos_Fd 1585 1586	:
+#257	AnnotatorNotes T256	lemma = ':'
+T257	pos_NP 1587 1593	Chatra
+#258	AnnotatorNotes T257	lemma = 'chatra'
+T258	pos_NNS 1594 1599	books
+#259	AnnotatorNotes T258	lemma = 'book'
+T259	pos_Fc 1599 1600	,
+#260	AnnotatorNotes T259	lemma = ','
+T260	pos_Z 1601 1605	1956
+#261	AnnotatorNotes T260	lemma = '1956'
+T261	pos_Fp 1605 1606	.
+#262	AnnotatorNotes T261	lemma = '.'
+T262	pos_NP 1607 1623	Richardson James
+#263	AnnotatorNotes T262	lemma = 'richardson_james'
+T263	pos_Fp 1623 1624	.
+#264	AnnotatorNotes T263	lemma = '.'
+T264	pos_DT 1625 1626	A
+#265	AnnotatorNotes T264	lemma = 'a'
+T265	pos_JJ 1627 1630	new
+#266	AnnotatorNotes T265	lemma = 'new'
+T266	pos_NP 1631 1647	Malagasy-English
+#267	AnnotatorNotes T266	lemma = 'malagasy-english'
+T267	pos_NN 1648 1658	dictionary
+#268	AnnotatorNotes T267	lemma = 'dictionary'
+T268	pos_Fp 1658 1659	.
+#269	AnnotatorNotes T268	lemma = '.'
+T269	pos_NP 1660 1671	Farnborough
+#270	AnnotatorNotes T269	lemma = 'farnborough'
+T270	pos_Fd 1671 1672	:
+#271	AnnotatorNotes T270	lemma = ':'
+T271	pos_NP 1673 1678	Gregg
+#272	AnnotatorNotes T271	lemma = 'gregg'
+T272	pos_Fc 1678 1679	,
+#273	AnnotatorNotes T272	lemma = ','
+T273	pos_Z 1680 1684	1967
+#274	AnnotatorNotes T273	lemma = '1967'
+T274	pos_Fp 1684 1685	.
+#275	AnnotatorNotes T274	lemma = '.'

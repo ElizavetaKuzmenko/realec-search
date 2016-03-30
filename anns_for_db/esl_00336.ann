@@ -1,0 +1,475 @@
+T2	Word_choice 254 272	the economy throws
+A3	Weight-language T2 Major
+#2	AnnotatorNotes T2	industries throw
+T1	Number 290 293	are
+A1	Cause T1 Other
+A2	Weight-language T1 Critical
+#1	AnnotatorNotes T1	is
+T3	Determiners 297 301	many
+A4	Weight-language T3 Major
+#3	AnnotatorNotes T3	much
+T4	Punctuation 587 590	and
+A5	Weight-language T4 Minor
+#4	AnnotatorNotes T4	, and
+T5	Tense_form 603 610	changes
+A6	Cause T5 L1_interference
+A7	Weight-language T5 Critical
+#5	AnnotatorNotes T5	is changing
+T6	Word_choice 640 649	reduction
+A8	Weight-language T6 Minor
+#6	AnnotatorNotes T6	holes
+T7	Prepositions 650 652	of
+A9	Weight-language T7 Minor
+#7	AnnotatorNotes T7	in
+T8	Articles 653 664	ozone layer
+A10	Cause T8 Absence_of_Category_in_L1
+A11	Weight-language T8 Critical
+#8	AnnotatorNotes T8	the ozone layer
+T9	Discourse 666 691	One of the other problems
+A12	Weight-language T9 Minor
+#9	AnnotatorNotes T9	One more problem 
+T10	Discourse 773 793	during the last time
+#10	AnnotatorNotes T10	lastely
+T11	Absence_comp_colloc 871 876	since
+A13	Weight-language T11 Minor
+#11	AnnotatorNotes T11	ever since
+T12	Tense_choice 890 902	has appeared
+A14	Cause T12 L1_interference
+A15	Weight-language T12 Critical
+#12	AnnotatorNotes T12	appeared
+T13	Prepositions 1091 1095	with
+A16	Weight-language T13 Major
+#13	AnnotatorNotes T13	to
+T14	Conjunctions 1110 1112	or
+A17	Weight-language T14 Major
+#14	AnnotatorNotes T14	otherwise
+T15	pos_NN 0 3	Man
+#15	AnnotatorNotes T15	lemma = 'man'
+T16	pos_VBZ 4 7	has
+#16	AnnotatorNotes T16	lemma = 'have'
+T17	pos_VBN 8 12	been
+#17	AnnotatorNotes T17	lemma = 'be'
+T18	pos_VBG 13 19	trying
+#18	AnnotatorNotes T18	lemma = 'try'
+T19	pos_TO 20 22	to
+#19	AnnotatorNotes T19	lemma = 'to'
+T20	pos_VB 23 27	make
+#20	AnnotatorNotes T20	lemma = 'make'
+T21	pos_PRP2 28 31	his
+#21	AnnotatorNotes T21	lemma = 'his'
+T22	pos_NN 32 36	life
+#22	AnnotatorNotes T22	lemma = 'life'
+T23	pos_JJR 37 43	easier
+#23	AnnotatorNotes T23	lemma = 'easier'
+T24	pos_IN 44 47	for
+#24	AnnotatorNotes T24	lemma = 'for'
+T25	pos_PRP 48 52	many
+#25	AnnotatorNotes T25	lemma = 'many'
+T26	pos_NNS 53 62	centuries
+#26	AnnotatorNotes T26	lemma = 'century'
+T27	pos_Fp 62 63	.
+#27	AnnotatorNotes T27	lemma = '.'
+T28	pos_CC 64 67	And
+#28	AnnotatorNotes T28	lemma = 'and'
+T29	pos_PRP 68 70	he
+#29	AnnotatorNotes T29	lemma = 'he'
+T30	pos_VBZ 71 74	has
+#30	AnnotatorNotes T30	lemma = 'have'
+T31	pos_VBN 75 83	invented
+#31	AnnotatorNotes T31	lemma = 'invent'
+T32	pos_DT 84 92	a lot of
+#32	AnnotatorNotes T32	lemma = 'a_lot_of'
+T33	pos_NNS 93 103	appliances
+#33	AnnotatorNotes T33	lemma = 'appliance'
+T34	pos_IN 104 107	for
+#34	AnnotatorNotes T34	lemma = 'for'
+T35	pos_PRP2 108 111	his
+#35	AnnotatorNotes T35	lemma = 'his'
+T36	pos_NN 112 116	life
+#36	AnnotatorNotes T36	lemma = 'life'
+T37	pos_WDT 117 122	which
+#37	AnnotatorNotes T37	lemma = 'which'
+T38	pos_VBP 123 130	pollute
+#38	AnnotatorNotes T38	lemma = 'pollute'
+T39	pos_PRP2 131 134	our
+#39	AnnotatorNotes T39	lemma = 'our'
+T40	pos_NN 135 141	planet
+#40	AnnotatorNotes T40	lemma = 'planet'
+T41	pos_Fp 141 142	.
+#41	AnnotatorNotes T41	lemma = '.'
+T42	pos_NNS 143 153	Economists
+#42	AnnotatorNotes T42	lemma = 'economist'
+T43	pos_VBP 154 158	have
+#43	AnnotatorNotes T43	lemma = 'have'
+T44	pos_VBN 159 166	thought
+#44	AnnotatorNotes T44	lemma = 'think'
+T45	pos_IN 167 171	that
+#45	AnnotatorNotes T45	lemma = 'that'
+T46	pos_DT 172 175	the
+#46	AnnotatorNotes T46	lemma = 'the'
+T47	pos_NN 176 186	atmosphere
+#47	AnnotatorNotes T47	lemma = 'atmosphere'
+T48	pos_Fc 186 187	,
+#48	AnnotatorNotes T48	lemma = ','
+T49	pos_NNS 188 195	forests
+#49	AnnotatorNotes T49	lemma = 'forest'
+T50	pos_Fc 195 196	,
+#50	AnnotatorNotes T50	lemma = ','
+T51	pos_NNS 197 203	rivers
+#51	AnnotatorNotes T51	lemma = 'river'
+T52	pos_CC 204 207	and
+#52	AnnotatorNotes T52	lemma = 'and'
+T53	pos_NNS 208 212	seas
+#53	AnnotatorNotes T53	lemma = 'sea'
+T54	pos_VBP 213 216	are
+#54	AnnotatorNotes T54	lemma = 'be'
+T55	pos_JJ 217 224	capable
+#55	AnnotatorNotes T55	lemma = 'capable'
+T56	pos_IN 225 227	of
+#56	AnnotatorNotes T56	lemma = 'of'
+T57	pos_VBG 228 237	absorbing
+#57	AnnotatorNotes T57	lemma = 'absorb'
+T58	pos_PDT 238 241	all
+#58	AnnotatorNotes T58	lemma = 'all'
+T59	pos_DT 242 245	the
+#59	AnnotatorNotes T59	lemma = 'the'
+T60	pos_NN 246 253	rubbish
+#60	AnnotatorNotes T60	lemma = 'rubbish'
+T61	pos_DT 254 257	the
+#61	AnnotatorNotes T61	lemma = 'the'
+T62	pos_NN 258 265	economy
+#62	AnnotatorNotes T62	lemma = 'economy'
+T63	pos_VBZ 266 272	throws
+#63	AnnotatorNotes T63	lemma = 'throw'
+T64	pos_IN 273 277	into
+#64	AnnotatorNotes T64	lemma = 'into'
+T65	pos_PRP 278 282	them
+#65	AnnotatorNotes T65	lemma = 'them'
+T66	pos_Fp 282 283	.
+#66	AnnotatorNotes T66	lemma = '.'
+T67	pos_EX 284 289	There
+#67	AnnotatorNotes T67	lemma = 'there'
+T68	pos_VBP 290 293	are
+#68	AnnotatorNotes T68	lemma = 'be'
+T69	pos_RB 294 296	so
+#69	AnnotatorNotes T69	lemma = 'so'
+T70	pos_PRP 297 301	many
+#70	AnnotatorNotes T70	lemma = 'many'
+T71	pos_NNS 302 312	pollutions
+#71	AnnotatorNotes T71	lemma = 'pollution'
+T72	pos_IN 313 323	because of
+#72	AnnotatorNotes T72	lemma = 'because_of'
+T73	pos_PRP 324 326	it
+#73	AnnotatorNotes T73	lemma = 'it'
+T74	pos_Fp 326 327	.
+#74	AnnotatorNotes T74	lemma = '.'
+T75	pos_DT 328 331	One
+#75	AnnotatorNotes T75	lemma = 'one'
+T76	pos_NN 332 341	scientist
+#76	AnnotatorNotes T76	lemma = 'scientist'
+T77	pos_VBD 342 346	said
+#77	AnnotatorNotes T77	lemma = 'say'
+T78	pos_IN 347 351	that
+#78	AnnotatorNotes T78	lemma = 'that'
+T79	pos_PRP 352 354	we
+#79	AnnotatorNotes T79	lemma = 'we'
+T80	pos_VBP 355 359	have
+#80	AnnotatorNotes T80	lemma = 'have'
+T81	pos_VBN 360 364	been
+#81	AnnotatorNotes T81	lemma = 'be'
+T82	pos_VBG 365 372	killing
+#82	AnnotatorNotes T82	lemma = 'kill'
+T83	pos_RP 373 376	out
+#83	AnnotatorNotes T83	lemma = 'out'
+T84	pos_NN 377 383	planet
+#84	AnnotatorNotes T84	lemma = 'planet'
+T85	pos_IN 384 386	by
+#85	AnnotatorNotes T85	lemma = 'by'
+T86	pos_PRP 387 396	ourselves
+#86	AnnotatorNotes T86	lemma = 'ourselves'
+T87	pos_Fp 396 397	.
+#87	AnnotatorNotes T87	lemma = '.'
+T88	pos_NN 398 401	Man
+#88	AnnotatorNotes T88	lemma = 'man'
+T89	pos_VBZ 402 405	has
+#89	AnnotatorNotes T89	lemma = 'have'
+T90	pos_VBN 406 413	changed
+#90	AnnotatorNotes T90	lemma = 'change'
+T91	pos_DT 414 417	the
+#91	AnnotatorNotes T91	lemma = 'the'
+T92	pos_NP 418 423	Earth
+#92	AnnotatorNotes T92	lemma = 'earth'
+T93	pos_Fd 423 424	:
+#93	AnnotatorNotes T93	lemma = ':'
+T94	pos_PRP 425 427	he
+#94	AnnotatorNotes T94	lemma = 'he'
+T95	pos_VBZ 428 431	has
+#95	AnnotatorNotes T95	lemma = 'have'
+T96	pos_VBN 432 440	polluted
+#96	AnnotatorNotes T96	lemma = 'pollute'
+T97	pos_PRP 441 451	everything
+#97	AnnotatorNotes T97	lemma = 'everything'
+T98	pos_CC 452 455	and
+#98	AnnotatorNotes T98	lemma = 'and'
+T99	pos_RB 456 459	now
+#99	AnnotatorNotes T99	lemma = 'now'
+T100	pos_PRP 460 462	we
+#100	AnnotatorNotes T100	lemma = 'we'
+T101	pos_VBP 463 467	have
+#101	AnnotatorNotes T101	lemma = 'have'
+T102	pos_NN 468 473	water
+#102	AnnotatorNotes T102	lemma = 'water'
+T103	pos_CC 474 477	and
+#103	AnnotatorNotes T103	lemma = 'and'
+T104	pos_NN 478 481	air
+#104	AnnotatorNotes T104	lemma = 'air'
+T105	pos_NNS 482 492	pollutions
+#105	AnnotatorNotes T105	lemma = 'pollution'
+T106	pos_Fc 492 493	,
+#106	AnnotatorNotes T106	lemma = ','
+T107	pos_JJ 494 498	acid
+#107	AnnotatorNotes T107	lemma = 'acid'
+T108	pos_NNS 499 504	rains
+#108	AnnotatorNotes T108	lemma = 'rain'
+T109	pos_WDT 505 510	which
+#109	AnnotatorNotes T109	lemma = 'which'
+T110	pos_VBZ 511 519	destroys
+#110	AnnotatorNotes T110	lemma = 'destroy'
+T111	pos_NNS 520 527	forests
+#111	AnnotatorNotes T111	lemma = 'forest'
+T112	pos_Fc 527 528	,
+#112	AnnotatorNotes T112	lemma = ','
+T113	pos_NN 529 532	etc
+#113	AnnotatorNotes T113	lemma = 'etc'
+T114	pos_Fp 532 533	.
+#114	AnnotatorNotes T114	lemma = '.'
+T115	pos_NN 534 544	Greenhouse
+#115	AnnotatorNotes T115	lemma = 'greenhouse'
+T116	pos_NN 545 551	effect
+#116	AnnotatorNotes T116	lemma = 'effect'
+T117	pos_VBZ 552 555	has
+#117	AnnotatorNotes T117	lemma = 'have'
+T118	pos_VBN 556 562	become
+#118	AnnotatorNotes T118	lemma = 'become'
+T119	pos_RBR 563 567	more
+#119	AnnotatorNotes T119	lemma = 'many'
+T120	pos_CC 568 571	and
+#120	AnnotatorNotes T120	lemma = 'and'
+T121	pos_RBR 572 576	more
+#121	AnnotatorNotes T121	lemma = 'many'
+T122	pos_JJ 577 586	dangerous
+#122	AnnotatorNotes T122	lemma = 'dangerous'
+T123	pos_CC 587 590	and
+#123	AnnotatorNotes T123	lemma = 'and'
+T124	pos_PRP2 591 594	our
+#124	AnnotatorNotes T124	lemma = 'our'
+T125	pos_NN 595 602	climate
+#125	AnnotatorNotes T125	lemma = 'climate'
+T126	pos_NNS 603 610	changes
+#126	AnnotatorNotes T126	lemma = 'change'
+T127	pos_Fp 610 611	.
+#127	AnnotatorNotes T127	lemma = '.'
+T128	pos_PRP 612 616	Many
+#128	AnnotatorNotes T128	lemma = 'many'
+T129	pos_NNS 617 625	diseases
+#129	AnnotatorNotes T129	lemma = 'disease'
+T130	pos_VBP 626 629	are
+#130	AnnotatorNotes T130	lemma = 'be'
+T131	pos_VBN 630 636	caused
+#131	AnnotatorNotes T131	lemma = 'cause'
+T132	pos_IN 637 639	by
+#132	AnnotatorNotes T132	lemma = 'by'
+T133	pos_NN 640 649	reduction
+#133	AnnotatorNotes T133	lemma = 'reduction'
+T134	pos_IN 650 652	of
+#134	AnnotatorNotes T134	lemma = 'of'
+T135	pos_NN 653 658	ozone
+#135	AnnotatorNotes T135	lemma = 'ozone'
+T136	pos_NN 659 664	layer
+#136	AnnotatorNotes T136	lemma = 'layer'
+T137	pos_Fp 664 665	.
+#137	AnnotatorNotes T137	lemma = '.'
+T138	pos_DT 666 669	One
+#138	AnnotatorNotes T138	lemma = 'one'
+T139	pos_IN 670 672	of
+#139	AnnotatorNotes T139	lemma = 'of'
+T140	pos_DT 673 676	the
+#140	AnnotatorNotes T140	lemma = 'the'
+T141	pos_JJ 677 682	other
+#141	AnnotatorNotes T141	lemma = 'other'
+T142	pos_NNS 683 691	problems
+#142	AnnotatorNotes T142	lemma = 'problem'
+T143	pos_VBZ 692 694	is
+#143	AnnotatorNotes T143	lemma = 'be'
+T144	pos_DT 695 699	that
+#144	AnnotatorNotes T144	lemma = 'that'
+T145	pos_NNS 700 707	animals
+#145	AnnotatorNotes T145	lemma = 'animal'
+T146	pos_VBP 708 711	are
+#146	AnnotatorNotes T146	lemma = 'be'
+T147	pos_VBG 712 720	becoming
+#147	AnnotatorNotes T147	lemma = 'become'
+T148	pos_JJ 721 728	extinct
+#148	AnnotatorNotes T148	lemma = 'extinct'
+T149	pos_Fp 728 729	.
+#149	AnnotatorNotes T149	lemma = '.'
+T150	pos_NN 730 739	Pollution
+#150	AnnotatorNotes T150	lemma = 'pollution'
+T151	pos_VBZ 740 743	has
+#151	AnnotatorNotes T151	lemma = 'have'
+T152	pos_VBN 744 748	been
+#152	AnnotatorNotes T152	lemma = 'be'
+T153	pos_VBG 749 760	threatening
+#153	AnnotatorNotes T153	lemma = 'threaten'
+T154	pos_PRP2 761 766	their
+#154	AnnotatorNotes T154	lemma = 'their'
+T155	pos_NNS 767 772	lives
+#155	AnnotatorNotes T155	lemma = 'life'
+T156	pos_IN 773 779	during
+#156	AnnotatorNotes T156	lemma = 'during'
+T157	pos_DT 780 783	the
+#157	AnnotatorNotes T157	lemma = 'the'
+T158	pos_JJ 784 788	last
+#158	AnnotatorNotes T158	lemma = 'last'
+T159	pos_NN 789 793	time
+#159	AnnotatorNotes T159	lemma = 'time'
+T160	pos_Fp 793 794	.
+#160	AnnotatorNotes T160	lemma = '.'
+T161	pos_JJ 796 803	Several
+#161	AnnotatorNotes T161	lemma = 'several'
+T162	pos_JJ 804 817	environmental
+#162	AnnotatorNotes T162	lemma = 'environmental'
+T163	pos_NNS 818 824	groups
+#163	AnnotatorNotes T163	lemma = 'group'
+T164	pos_VBP 825 829	have
+#164	AnnotatorNotes T164	lemma = 'have'
+T165	pos_VBN 830 834	been
+#165	AnnotatorNotes T165	lemma = 'be'
+T166	pos_VBG 835 842	working
+#166	AnnotatorNotes T166	lemma = 'work'
+T167	pos_TO 843 845	to
+#167	AnnotatorNotes T167	lemma = 'to'
+T168	pos_VB 846 853	prevent
+#168	AnnotatorNotes T168	lemma = 'prevent'
+T169	pos_PRP2 854 859	their
+#169	AnnotatorNotes T169	lemma = 'their'
+T170	pos_NN 860 870	extinction
+#170	AnnotatorNotes T170	lemma = 'extinction'
+T171	pos_IN 871 876	since
+#171	AnnotatorNotes T171	lemma = 'since'
+T172	pos_DT 877 881	this
+#172	AnnotatorNotes T172	lemma = 'this'
+T173	pos_NN 882 889	problem
+#173	AnnotatorNotes T173	lemma = 'problem'
+T174	pos_VBZ 890 893	has
+#174	AnnotatorNotes T174	lemma = 'have'
+T175	pos_VBN 894 902	appeared
+#175	AnnotatorNotes T175	lemma = 'appear'
+T176	pos_Fp 902 903	.
+#176	AnnotatorNotes T176	lemma = '.'
+T177	pos_PRP 904 908	Many
+#177	AnnotatorNotes T177	lemma = 'many'
+T178	pos_NNS 909 916	animals
+#178	AnnotatorNotes T178	lemma = 'animal'
+T179	pos_VBP 917 921	find
+#179	AnnotatorNotes T179	lemma = 'find'
+T180	pos_PRP 922 924	it
+#180	AnnotatorNotes T180	lemma = 'it'
+T181	pos_RBR 925 929	more
+#181	AnnotatorNotes T181	lemma = 'many'
+T182	pos_CC 930 933	and
+#182	AnnotatorNotes T182	lemma = 'and'
+T183	pos_RBR 934 938	more
+#183	AnnotatorNotes T183	lemma = 'many'
+T184	pos_JJ 939 948	difficult
+#184	AnnotatorNotes T184	lemma = 'difficult'
+T185	pos_TO 949 951	to
+#185	AnnotatorNotes T185	lemma = 'to'
+T186	pos_VB 952 959	survive
+#186	AnnotatorNotes T186	lemma = 'survive'
+T187	pos_IN 960 962	as
+#187	AnnotatorNotes T187	lemma = 'as'
+T188	pos_PRP2 963 968	their
+#188	AnnotatorNotes T188	lemma = 'their'
+T189	pos_JJ 969 976	natural
+#189	AnnotatorNotes T189	lemma = 'natural'
+T190	pos_NN 977 984	habitat
+#190	AnnotatorNotes T190	lemma = 'habitat'
+T191	pos_VBZ 985 988	has
+#191	AnnotatorNotes T191	lemma = 'have'
+T192	pos_VBN 989 993	been
+#192	AnnotatorNotes T192	lemma = 'be'
+T193	pos_VBN 994 1003	destroyed
+#193	AnnotatorNotes T193	lemma = 'destroy'
+T194	pos_IN 1004 1007	for
+#194	AnnotatorNotes T194	lemma = 'for'
+T195	pos_DT 1008 1011	the
+#195	AnnotatorNotes T195	lemma = 'the'
+T196	pos_JJ 1012 1016	last
+#196	AnnotatorNotes T196	lemma = 'last'
+T197	pos_NN 1017 1023	period
+#197	AnnotatorNotes T197	lemma = 'period'
+T198	pos_Fp 1023 1024	.
+#198	AnnotatorNotes T198	lemma = '.'
+T199	pos_IN 1025 1027	In
+#199	AnnotatorNotes T199	lemma = 'in'
+T200	pos_NN 1028 1038	conclusion
+#200	AnnotatorNotes T200	lemma = 'conclusion'
+T201	pos_Fc 1038 1039	,
+#201	AnnotatorNotes T201	lemma = ','
+T202	pos_PRP 1040 1041	I
+#202	AnnotatorNotes T202	lemma = 'i'
+T203	pos_VBP 1042 1046	want
+#203	AnnotatorNotes T203	lemma = 'want'
+T204	pos_TO 1047 1049	to
+#204	AnnotatorNotes T204	lemma = 'to'
+T205	pos_VB 1050 1053	say
+#205	AnnotatorNotes T205	lemma = 'say'
+T206	pos_IN 1054 1058	that
+#206	AnnotatorNotes T206	lemma = 'that'
+T207	pos_PRP 1059 1061	we
+#207	AnnotatorNotes T207	lemma = 'we'
+T208	pos_MD 1062 1066	must
+#208	AnnotatorNotes T208	lemma = 'must'
+T209	pos_VB 1067 1072	think
+#209	AnnotatorNotes T209	lemma = 'think'
+T210	pos_WP 1073 1077	what
+#210	AnnotatorNotes T210	lemma = 'what'
+T211	pos_PRP 1078 1080	we
+#211	AnnotatorNotes T211	lemma = 'we'
+T212	pos_VBP 1081 1085	have
+#212	AnnotatorNotes T212	lemma = 'have'
+T213	pos_VBN 1086 1090	done
+#213	AnnotatorNotes T213	lemma = 'do'
+T214	pos_IN 1091 1095	with
+#214	AnnotatorNotes T214	lemma = 'with'
+T215	pos_PRP2 1096 1099	our
+#215	AnnotatorNotes T215	lemma = 'our'
+T216	pos_NN 1100 1105	world
+#216	AnnotatorNotes T216	lemma = 'world'
+T217	pos_RB 1106 1109	now
+#217	AnnotatorNotes T217	lemma = 'now'
+T218	pos_CC 1110 1112	or
+#218	AnnotatorNotes T218	lemma = 'or'
+T219	pos_RB 1113 1117	very
+#219	AnnotatorNotes T219	lemma = 'very'
+T220	pos_RB 1118 1122	soon
+#220	AnnotatorNotes T220	lemma = 'soon'
+T221	pos_PRP 1123 1125	we
+#221	AnnotatorNotes T221	lemma = 'we'
+T222	pos_MD 1126 1130	will
+#222	AnnotatorNotes T222	lemma = 'will'
+T223	pos_VB 1131 1135	have
+#223	AnnotatorNotes T223	lemma = 'have'
+T224	pos_DT 1136 1138	no
+#224	AnnotatorNotes T224	lemma = 'no'
+T225	pos_NN 1139 1144	world
+#225	AnnotatorNotes T225	lemma = 'world'
+T226	pos_TO 1145 1147	to
+#226	AnnotatorNotes T226	lemma = 'to'
+T227	pos_VB 1148 1152	live
+#227	AnnotatorNotes T227	lemma = 'live'
+T228	pos_IN 1153 1155	in
+#228	AnnotatorNotes T228	lemma = 'in'
+T229	pos_Fp 1155 1156	.
+#229	AnnotatorNotes T229	lemma = '.'

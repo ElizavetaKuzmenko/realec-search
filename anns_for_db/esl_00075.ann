@@ -1,0 +1,277 @@
+T1	Lack_par_constr 306 316	themselves
+#1	AnnotatorNotes T1	for themselves
+T2	lex_item_choice 318 328	Relying on	
+#2	AnnotatorNotes T2	According to
+T3	Punctuation 395 395	
+#3	AnnotatorNotes T3	,
+T6	Art_choice 428 431	the	
+A6	Delete T6
+A1	Cause T1 Typo
+A2	Weight-language T1 Major
+A3	Cause T2 L1_interference
+A4	Weight-language T2 Minor
+A5	Cause T3 Typo
+A7	Weight-language T3 Minor
+A12	Cause T6 Absence_of_Category_in_L1
+A13	Weight-language T6 Minor
+T5	Prepositions 397 431	is influenced in equal measure the
+A10	Cause T5 Typo
+A11	Weight-language T5 Major
+A14	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	is influenced in equal measure by the
+T7	pos_﻿ 0 1	﻿
+#6	AnnotatorNotes T7	lemma = '﻿'
+T8	pos_NP 1 14	Psychological
+#7	AnnotatorNotes T8	lemma = 'psychological'
+T9	pos_NNS 16 28	perspectives
+#8	AnnotatorNotes T9	lemma = 'perspective'
+T10	pos_IN 30 32	on
+#9	AnnotatorNotes T10	lemma = 'on'
+T11	pos_NN 34 50	entrepreneurship
+#10	AnnotatorNotes T11	lemma = 'entrepreneurship'
+T12	pos_Fd 50 51	:
+#11	AnnotatorNotes T12	lemma = ':'
+T13	pos_JJ 54 63	cognitive
+#12	AnnotatorNotes T13	lemma = 'cognitive'
+T14	pos_CC 64 67	and
+#13	AnnotatorNotes T14	lemma = 'and'
+T15	pos_JJ 69 75	social
+#14	AnnotatorNotes T15	lemma = 'social'
+T16	pos_NNS 76 83	factors
+#15	AnnotatorNotes T16	lemma = 'factor'
+T17	pos_IN 85 87	in
+#16	AnnotatorNotes T17	lemma = 'in'
+T18	pos_NNS 88 101	entrepreneurs
+#17	AnnotatorNotes T18	lemma = 'entrepreneur'
+T19	pos_Fw 101 102	'
+#18	AnnotatorNotes T19	lemma = '''
+T20	pos_NN 104 111	success
+#19	AnnotatorNotes T20	lemma = 'success'
+T21	pos_Fp 111 112	.
+#20	AnnotatorNotes T21	lemma = '.'
+T22	pos_DT 113 117	This
+#21	AnnotatorNotes T22	lemma = 'this'
+T23	pos_NN 118 125	article
+#22	AnnotatorNotes T23	lemma = 'article'
+T24	pos_VBZ 126 133	reveals
+#23	AnnotatorNotes T24	lemma = 'reveal'
+T25	pos_NNS 134 140	issues
+#24	AnnotatorNotes T25	lemma = 'issue'
+T26	pos_PDT 141 145	such
+#25	AnnotatorNotes T26	lemma = 'such'
+T27	pos_IN 146 148	as
+#26	AnnotatorNotes T27	lemma = 'as'
+T28	pos_NN 149 152	why
+#27	AnnotatorNotes T28	lemma = 'why'
+T29	pos_VBP 153 156	are
+#28	AnnotatorNotes T29	lemma = 'be'
+T30	pos_DT 158 162	some
+#29	AnnotatorNotes T30	lemma = 'some'
+T31	pos_NNS 163 176	entrepreneurs
+#30	AnnotatorNotes T31	lemma = 'entrepreneur'
+T32	pos_RB 178 180	so
+#31	AnnotatorNotes T32	lemma = 'so'
+T33	pos_RB 181 185	much
+#32	AnnotatorNotes T33	lemma = 'much'
+T34	pos_RBR 187 191	more
+#33	AnnotatorNotes T34	lemma = 'many'
+T35	pos_JJ 193 203	successful
+#34	AnnotatorNotes T35	lemma = 'successful'
+T36	pos_IN 204 208	than
+#35	AnnotatorNotes T36	lemma = 'than'
+T37	pos_NNS 210 216	others
+#36	AnnotatorNotes T37	lemma = 'other'
+T38	pos_IN 218 220	in
+#37	AnnotatorNotes T38	lemma = 'in'
+T39	pos_VBG 221 229	starting
+#38	AnnotatorNotes T39	lemma = 'start'
+T40	pos_JJ 230 233	new
+#39	AnnotatorNotes T40	lemma = 'new'
+T41	pos_NNS 234 248	companies-ones
+#40	AnnotatorNotes T41	lemma = 'companies-ones'
+T42	pos_WDT 249 253	that
+#41	AnnotatorNotes T42	lemma = 'that'
+T43	pos_VBP 255 261	create
+#42	AnnotatorNotes T43	lemma = 'create'
+T44	pos_NN 262 268	wealth
+#43	AnnotatorNotes T44	lemma = 'wealth'
+T45	pos_IN 270 273	for
+#44	AnnotatorNotes T45	lemma = 'for'
+T46	pos_PRP2 275 280	their
+#45	AnnotatorNotes T46	lemma = 'their'
+T47	pos_NNS 282 291	societies
+#46	AnnotatorNotes T47	lemma = 'society'
+T48	pos_RB 293 300	as well
+#47	AnnotatorNotes T48	lemma = 'as_well'
+T49	pos_IN 302 304	as
+#48	AnnotatorNotes T49	lemma = 'as'
+T50	pos_PRP 306 316	themselves
+#49	AnnotatorNotes T50	lemma = 'themselves'
+T51	pos_Fit 316 317	?
+#50	AnnotatorNotes T51	lemma = '?'
+T52	pos_VBG 318 325	Relying
+#51	AnnotatorNotes T52	lemma = 'rely'
+T53	pos_IN 326 328	on
+#52	AnnotatorNotes T53	lemma = 'on'
+T54	pos_DT 329 332	the
+#53	AnnotatorNotes T54	lemma = 'the'
+T55	pos_NNS 333 340	results
+#54	AnnotatorNotes T55	lemma = 'result'
+T56	pos_IN 341 343	of
+#55	AnnotatorNotes T56	lemma = 'of'
+T57	pos_DT 344 347	the
+#56	AnnotatorNotes T57	lemma = 'the'
+T58	pos_JJ 348 356	previous
+#57	AnnotatorNotes T58	lemma = 'previous'
+T59	pos_NN 357 365	research
+#58	AnnotatorNotes T59	lemma = 'research'
+T60	pos_IN 366 371	about
+#59	AnnotatorNotes T60	lemma = 'about'
+T61	pos_JJ 372 387	entrepreneurial
+#60	AnnotatorNotes T61	lemma = 'entrepreneurial'
+T62	pos_NN 388 395	success
+#61	AnnotatorNotes T62	lemma = 'success'
+T63	pos_VBZ 397 399	is
+#62	AnnotatorNotes T63	lemma = 'be'
+T64	pos_VBN 400 410	influenced
+#63	AnnotatorNotes T64	lemma = 'influence'
+T65	pos_IN 411 413	in
+#64	AnnotatorNotes T65	lemma = 'in'
+T66	pos_JJ 414 419	equal
+#65	AnnotatorNotes T66	lemma = 'equal'
+T67	pos_NN 420 427	measure
+#66	AnnotatorNotes T67	lemma = 'measure'
+T68	pos_DT 428 431	the
+#67	AnnotatorNotes T68	lemma = 'the'
+T69	pos_JJ 432 438	social
+#68	AnnotatorNotes T69	lemma = 'social'
+T70	pos_CC 439 442	and
+#69	AnnotatorNotes T70	lemma = 'and'
+T71	pos_JJ 443 452	cognitive
+#70	AnnotatorNotes T71	lemma = 'cognitive'
+T72	pos_NNS 453 460	factors
+#71	AnnotatorNotes T72	lemma = 'factor'
+T73	pos_Fp 460 461	.
+#72	AnnotatorNotes T73	lemma = '.'
+T74	pos_VBN 462 467	Based
+#73	AnnotatorNotes T74	lemma = 'base'
+T75	pos_IN 468 470	on
+#74	AnnotatorNotes T75	lemma = 'on'
+T76	pos_NNS 471 478	studies
+#75	AnnotatorNotes T76	lemma = 'study'
+T77	pos_IN 479 481	by
+#76	AnnotatorNotes T77	lemma = 'by'
+T78	pos_JJ 482 489	various
+#77	AnnotatorNotes T78	lemma = 'various'
+T79	pos_NNS 490 497	authors
+#78	AnnotatorNotes T79	lemma = 'author'
+T80	pos_PRP 498 500	it
+#79	AnnotatorNotes T80	lemma = 'it'
+T81	pos_VBZ 501 504	has
+#80	AnnotatorNotes T81	lemma = 'have'
+T82	pos_VBN 505 509	been
+#81	AnnotatorNotes T82	lemma = 'be'
+T83	pos_VBN 510 515	found
+#82	AnnotatorNotes T83	lemma = 'find'
+T84	pos_IN 516 520	that
+#83	AnnotatorNotes T84	lemma = 'that'
+T85	pos_JJ 521 531	successful
+#84	AnnotatorNotes T85	lemma = 'successful'
+T86	pos_NNS 532 545	entrepreneurs
+#85	AnnotatorNotes T86	lemma = 'entrepreneur'
+T87	pos_VBP 546 552	appear
+#86	AnnotatorNotes T87	lemma = 'appear'
+T88	pos_TO 553 555	to
+#87	AnnotatorNotes T88	lemma = 'to'
+T89	pos_VB 556 561	think
+#88	AnnotatorNotes T89	lemma = 'think'
+T90	pos_RB 562 573	differently
+#89	AnnotatorNotes T90	lemma = 'differently'
+T91	pos_IN 574 578	than
+#90	AnnotatorNotes T91	lemma = 'than'
+T92	pos_JJ 579 584	other
+#91	AnnotatorNotes T92	lemma = 'other'
+T93	pos_NNS 585 592	persons
+#92	AnnotatorNotes T93	lemma = 'person'
+T94	pos_IN 593 595	in
+#93	AnnotatorNotes T94	lemma = 'in'
+T95	pos_JJ 596 603	several
+#94	AnnotatorNotes T95	lemma = 'several'
+T96	pos_NNS 604 612	respects
+#95	AnnotatorNotes T96	lemma = 'respect'
+T97	pos_CC 613 616	and
+#96	AnnotatorNotes T97	lemma = 'and'
+T98	pos_PRP 617 621	they
+#97	AnnotatorNotes T98	lemma = 'they'
+T99	pos_VBP 622 628	appear
+#98	AnnotatorNotes T99	lemma = 'appear'
+T100	pos_TO 629 631	to
+#99	AnnotatorNotes T100	lemma = 'to'
+T101	pos_VB 632 634	be
+#100	AnnotatorNotes T101	lemma = 'be'
+T102	pos_JJR 635 641	higher
+#101	AnnotatorNotes T102	lemma = 'high'
+T103	pos_IN 642 644	in
+#102	AnnotatorNotes T103	lemma = 'in'
+T104	pos_JJ 645 651	social
+#103	AnnotatorNotes T104	lemma = 'social'
+T105	pos_NN 652 662	competence
+#104	AnnotatorNotes T105	lemma = 'competence'
+T106	pos_Fp 662 663	.
+#105	AnnotatorNotes T106	lemma = '.'
+T107	pos_RB 664 676	Additionally
+#106	AnnotatorNotes T107	lemma = 'additionally'
+T108	pos_Fc 676 677	,
+#107	AnnotatorNotes T108	lemma = ','
+T109	pos_DT 678 681	the
+#108	AnnotatorNotes T109	lemma = 'the'
+T110	pos_NNS 682 689	results
+#109	AnnotatorNotes T110	lemma = 'result'
+T111	pos_VBP 690 697	suggest
+#110	AnnotatorNotes T111	lemma = 'suggest'
+T112	pos_IN 698 702	that
+#111	AnnotatorNotes T112	lemma = 'that'
+T113	pos_DT 704 707	the
+#112	AnnotatorNotes T113	lemma = 'the'
+T114	pos_NNS 708 718	principles
+#113	AnnotatorNotes T114	lemma = 'principle'
+T115	pos_CC 719 722	and
+#114	AnnotatorNotes T115	lemma = 'and'
+T116	pos_NNS 723 731	findings
+#115	AnnotatorNotes T116	lemma = 'finding'
+T117	pos_IN 732 734	of
+#116	AnnotatorNotes T117	lemma = 'of'
+T118	pos_NN 735 745	psychology
+#117	AnnotatorNotes T118	lemma = 'psychology'
+T119	pos_MD 746 749	can
+#118	AnnotatorNotes T119	lemma = 'can'
+T120	pos_VB 751 753	be
+#119	AnnotatorNotes T120	lemma = 'be'
+T121	pos_JJ 755 765	invaluable
+#120	AnnotatorNotes T121	lemma = 'invaluable'
+T122	pos_IN 766 769	for
+#121	AnnotatorNotes T122	lemma = 'for'
+T123	pos_VBG 770 779	providing
+#122	AnnotatorNotes T123	lemma = 'provide'
+T124	pos_JJ 780 789	important
+#123	AnnotatorNotes T124	lemma = 'important'
+T125	pos_NNS 791 799	insights
+#124	AnnotatorNotes T125	lemma = 'insight'
+T126	pos_IN 800 804	into
+#125	AnnotatorNotes T126	lemma = 'into'
+T127	pos_DT 806 809	the
+#126	AnnotatorNotes T127	lemma = 'the'
+T128	pos_NNS 811 818	factors
+#127	AnnotatorNotes T128	lemma = 'factor'
+T129	pos_IN 820 824	that
+#128	AnnotatorNotes T129	lemma = 'that'
+T130	pos_NN 826 835	influence
+#129	AnnotatorNotes T130	lemma = 'influence'
+T131	pos_NNS 837 850	entrepreneurs
+#130	AnnotatorNotes T131	lemma = 'entrepreneur'
+T132	pos_Fw 850 851	'
+#131	AnnotatorNotes T132	lemma = '''
+T133	pos_NN 853 860	success
+#132	AnnotatorNotes T133	lemma = 'success'
+T134	pos_Fp 860 861	.
+#133	AnnotatorNotes T134	lemma = '.'

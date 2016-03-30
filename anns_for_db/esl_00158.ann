@@ -1,0 +1,597 @@
+T2	Category_confusion 365 375	aggressive
+#2	AnnotatorNotes T2	aggressiveness
+T5	Word_choice 567 575	that the	
+A5	Delete T5
+T6	Tense_choice 726 730	were	
+#6	AnnotatorNotes T6	are
+T7	Modals_choice 794 811	needed to include	
+#7	AnnotatorNotes T7	includes
+T8	Modals_choice 924 941	needed to include	
+#8	AnnotatorNotes T8	includes
+T9	Word_order 1359 1371	In the study	
+A9	Delete T9
+T10	Word_order 1396 1396	
+#10	AnnotatorNotes T10	by the study
+A2	Weight-language T2 Major
+A6	Weight-language T5 Major
+A8	Weight-language T6 Minor
+A10	Weight-language T7 Major
+A11	Weight-language T8 Major
+A12	Weight-language T9 Minor
+A13	Weight-language T10 Minor
+T11	Word_choice 553 575	they expected that the
+#3	AnnotatorNotes T11	the expected
+T3	Possessive 379 387	children
+A3	Cause T3 Other
+A4	Weight-language T3 Major
+A7	Weight-understanding T3 Major
+#4	AnnotatorNotes T3	children's
+T4	Possessive 392 398	adults
+A14	Cause T4 Other
+A15	Weight-language T4 Major
+A16	Weight-understanding T4 Major
+#5	AnnotatorNotes T4	adults'
+T12	pos_﻿ 0 1	﻿
+#11	AnnotatorNotes T12	lemma = '﻿'
+T13	pos_NP 1 11	Short-term
+#12	AnnotatorNotes T13	lemma = 'short-term'
+T14	pos_CC 12 15	and
+#13	AnnotatorNotes T14	lemma = 'and'
+T15	pos_NP 16 25	Long-term
+#14	AnnotatorNotes T15	lemma = 'long-term'
+T16	pos_NNS 26 33	effects
+#15	AnnotatorNotes T16	lemma = 'effect'
+T17	pos_IN 34 36	of
+#16	AnnotatorNotes T17	lemma = 'of'
+T18	pos_JJ 37 44	violent
+#17	AnnotatorNotes T18	lemma = 'violent'
+T19	pos_NNS 45 50	media
+#18	AnnotatorNotes T19	lemma = 'media'
+T20	pos_IN 51 53	on
+#19	AnnotatorNotes T20	lemma = 'on'
+T21	pos_NN 54 64	aggression
+#20	AnnotatorNotes T21	lemma = 'aggression'
+T22	pos_IN 65 67	in
+#21	AnnotatorNotes T22	lemma = 'in'
+T23	pos_NNS 68 76	children
+#22	AnnotatorNotes T23	lemma = 'child'
+T24	pos_CC 77 80	and
+#23	AnnotatorNotes T24	lemma = 'and'
+T25	pos_NNS 81 87	adults
+#24	AnnotatorNotes T25	lemma = 'adult'
+T26	pos_Fp 87 88	.
+#25	AnnotatorNotes T26	lemma = '.'
+T27	pos_DT 89 93	This
+#26	AnnotatorNotes T27	lemma = 'this'
+T28	pos_NN 94 101	article
+#27	AnnotatorNotes T28	lemma = 'article'
+T29	pos_VBZ 102 109	reviews
+#28	AnnotatorNotes T29	lemma = 'review'
+T30	pos_DT 110 113	the
+#29	AnnotatorNotes T30	lemma = 'the'
+T31	pos_NNS 114 121	studies
+#30	AnnotatorNotes T31	lemma = 'study'
+T32	pos_CC 122 125	and
+#31	AnnotatorNotes T32	lemma = 'and'
+T33	pos_NNS 126 134	theories
+#32	AnnotatorNotes T33	lemma = 'theory'
+T34	pos_VBN 135 142	devoted
+#33	AnnotatorNotes T34	lemma = 'devote'
+T35	pos_TO 143 145	to
+#34	AnnotatorNotes T35	lemma = 'to'
+T36	pos_DT 146 149	the
+#35	AnnotatorNotes T36	lemma = 'the'
+T37	pos_NN 150 157	problem
+#36	AnnotatorNotes T37	lemma = 'problem'
+T38	pos_IN 158 160	of
+#37	AnnotatorNotes T38	lemma = 'of'
+T39	pos_JJ 161 168	violent
+#38	AnnotatorNotes T39	lemma = 'violent'
+T40	pos_NNS 169 174	media
+#39	AnnotatorNotes T40	lemma = 'media'
+T41	pos_NNS 175 182	effects
+#40	AnnotatorNotes T41	lemma = 'effect'
+T42	pos_IN 183 185	on
+#41	AnnotatorNotes T42	lemma = 'on'
+T43	pos_NN 186 196	aggression
+#42	AnnotatorNotes T43	lemma = 'aggression'
+T44	pos_IN 197 199	in
+#43	AnnotatorNotes T44	lemma = 'in'
+T45	pos_NNS 200 208	children
+#44	AnnotatorNotes T45	lemma = 'child'
+T46	pos_CC 209 212	and
+#45	AnnotatorNotes T46	lemma = 'and'
+T47	pos_NNS 213 219	adults
+#46	AnnotatorNotes T47	lemma = 'adult'
+T48	pos_Fp 219 220	.
+#47	AnnotatorNotes T48	lemma = '.'
+T49	pos_DT 221 224	The
+#48	AnnotatorNotes T49	lemma = 'the'
+T50	pos_JJ 225 229	main
+#49	AnnotatorNotes T50	lemma = 'main'
+T51	pos_NN 230 239	objective
+#50	AnnotatorNotes T51	lemma = 'objective'
+T52	pos_IN 240 242	of
+#51	AnnotatorNotes T52	lemma = 'of'
+T53	pos_DT 243 247	this
+#52	AnnotatorNotes T53	lemma = 'this'
+T54	pos_NN 248 255	article
+#53	AnnotatorNotes T54	lemma = 'article'
+T55	pos_VBZ 256 258	is
+#54	AnnotatorNotes T55	lemma = 'be'
+T56	pos_TO 259 261	to
+#55	AnnotatorNotes T56	lemma = 'to'
+T57	pos_VB 262 272	accumulate
+#56	AnnotatorNotes T57	lemma = 'accumulate'
+T58	pos_DT 273 276	the
+#57	AnnotatorNotes T58	lemma = 'the'
+T59	pos_VBG 277 285	existing
+#58	AnnotatorNotes T59	lemma = 'exist'
+T60	pos_JJ 286 297	theoretical
+#59	AnnotatorNotes T60	lemma = 'theoretical'
+T61	pos_CC 298 301	and
+#60	AnnotatorNotes T61	lemma = 'and'
+T62	pos_JJ 302 311	empirical
+#61	AnnotatorNotes T62	lemma = 'empirical'
+T63	pos_NN 312 322	conception
+#62	AnnotatorNotes T63	lemma = 'conception'
+T64	pos_JJ 323 328	ofthe
+#63	AnnotatorNotes T64	lemma = 'ofthe'
+T65	pos_NNS 329 336	effects
+#64	AnnotatorNotes T65	lemma = 'effect'
+T66	pos_IN 337 339	of
+#65	AnnotatorNotes T66	lemma = 'of'
+T67	pos_JJ 340 347	violent
+#66	AnnotatorNotes T67	lemma = 'violent'
+T68	pos_NNS 348 353	media
+#67	AnnotatorNotes T68	lemma = 'media'
+T69	pos_IN 354 356	on
+#68	AnnotatorNotes T69	lemma = 'on'
+T70	pos_RBR 357 364	further
+#69	AnnotatorNotes T70	lemma = 'far'
+T71	pos_JJ 365 375	aggressive
+#70	AnnotatorNotes T71	lemma = 'aggressive'
+T72	pos_IN 376 378	in
+#71	AnnotatorNotes T72	lemma = 'in'
+T73	pos_NNS 379 387	children
+#72	AnnotatorNotes T73	lemma = 'child'
+T74	pos_CC 388 391	and
+#73	AnnotatorNotes T74	lemma = 'and'
+T75	pos_NNS 392 398	adults
+#74	AnnotatorNotes T75	lemma = 'adult'
+T76	pos_NN 399 407	behavior
+#75	AnnotatorNotes T76	lemma = 'behavior'
+T77	pos_Fp 407 408	.
+#76	AnnotatorNotes T77	lemma = '.'
+T78	pos_DT 409 412	The
+#77	AnnotatorNotes T78	lemma = 'the'
+T79	pos_NN 413 423	hypothesis
+#78	AnnotatorNotes T79	lemma = 'hypothesis'
+T80	pos_IN 424 426	of
+#79	AnnotatorNotes T80	lemma = 'of'
+T81	pos_DT 427 431	this
+#80	AnnotatorNotes T81	lemma = 'this'
+T82	pos_NN 432 437	study
+#81	AnnotatorNotes T82	lemma = 'study'
+T83	pos_VBZ 438 440	is
+#82	AnnotatorNotes T83	lemma = 'be'
+T84	pos_DT 441 445	that
+#83	AnnotatorNotes T84	lemma = 'that'
+T85	pos_JJ 446 456	short-term
+#84	AnnotatorNotes T85	lemma = 'short-term'
+T86	pos_NN 457 463	effect
+#85	AnnotatorNotes T86	lemma = 'effect'
+T87	pos_IN 464 466	of
+#86	AnnotatorNotes T87	lemma = 'of'
+T88	pos_JJ 467 474	violent
+#87	AnnotatorNotes T88	lemma = 'violent'
+T89	pos_NNS 475 480	media
+#88	AnnotatorNotes T89	lemma = 'media'
+T90	pos_IN 481 483	on
+#89	AnnotatorNotes T90	lemma = 'on'
+T91	pos_NN 484 494	aggression
+#90	AnnotatorNotes T91	lemma = 'aggression'
+T92	pos_MD 495 499	will
+#91	AnnotatorNotes T92	lemma = 'will'
+T93	pos_VB 500 502	be
+#92	AnnotatorNotes T93	lemma = 'be'
+T94	pos_JJR 503 509	larger
+#93	AnnotatorNotes T94	lemma = 'large'
+T95	pos_IN 510 513	for
+#94	AnnotatorNotes T95	lemma = 'for'
+T96	pos_NNS 514 520	adults
+#95	AnnotatorNotes T96	lemma = 'adult'
+T97	pos_IN 521 525	than
+#96	AnnotatorNotes T97	lemma = 'than'
+T98	pos_IN 526 529	for
+#97	AnnotatorNotes T98	lemma = 'for'
+T99	pos_NNS 530 538	children
+#98	AnnotatorNotes T99	lemma = 'child'
+T100	pos_Fp 538 539	.
+#99	AnnotatorNotes T100	lemma = '.'
+T101	pos_IN 540 542	In
+#100	AnnotatorNotes T101	lemma = 'in'
+T102	pos_NN 543 551	contrast
+#101	AnnotatorNotes T102	lemma = 'contrast'
+T103	pos_Fc 551 552	,
+#102	AnnotatorNotes T103	lemma = ','
+T104	pos_PRP 553 557	they
+#103	AnnotatorNotes T104	lemma = 'they'
+T105	pos_VBD 558 566	expected
+#104	AnnotatorNotes T105	lemma = 'expect'
+T106	pos_IN 567 571	that
+#105	AnnotatorNotes T106	lemma = 'that'
+T107	pos_DT 572 575	the
+#106	AnnotatorNotes T107	lemma = 'the'
+T108	pos_JJ 576 585	long-term
+#107	AnnotatorNotes T108	lemma = 'long-term'
+T109	pos_NN 586 592	effect
+#108	AnnotatorNotes T109	lemma = 'effect'
+T110	pos_IN 593 595	of
+#109	AnnotatorNotes T110	lemma = 'of'
+T111	pos_JJ 596 603	violent
+#110	AnnotatorNotes T111	lemma = 'violent'
+T112	pos_NNS 604 609	media
+#111	AnnotatorNotes T112	lemma = 'media'
+T113	pos_IN 610 612	on
+#112	AnnotatorNotes T113	lemma = 'on'
+T114	pos_NN 613 623	aggression
+#113	AnnotatorNotes T114	lemma = 'aggression'
+T115	pos_MD 624 628	will
+#114	AnnotatorNotes T115	lemma = 'will'
+T116	pos_VB 629 631	be
+#115	AnnotatorNotes T116	lemma = 'be'
+T117	pos_JJR 632 638	larger
+#116	AnnotatorNotes T117	lemma = 'large'
+T118	pos_IN 639 642	for
+#117	AnnotatorNotes T118	lemma = 'for'
+T119	pos_NNS 643 651	children
+#118	AnnotatorNotes T119	lemma = 'child'
+T120	pos_IN 652 656	than
+#119	AnnotatorNotes T120	lemma = 'than'
+T121	pos_IN 657 660	for
+#120	AnnotatorNotes T121	lemma = 'for'
+T122	pos_NNS 661 667	adults
+#121	AnnotatorNotes T122	lemma = 'adult'
+T123	pos_Fp 667 668	.
+#122	AnnotatorNotes T123	lemma = '.'
+T124	pos_DT 669 672	The
+#123	AnnotatorNotes T124	lemma = 'the'
+T125	pos_NN 673 678	paper
+#124	AnnotatorNotes T125	lemma = 'paper'
+T126	pos_VBZ 679 683	uses
+#125	AnnotatorNotes T126	lemma = 'use'
+T127	pos_DT 684 687	the
+#126	AnnotatorNotes T127	lemma = 'the'
+T128	pos_NN 688 694	method
+#127	AnnotatorNotes T128	lemma = 'method'
+T129	pos_IN 695 697	of
+#128	AnnotatorNotes T129	lemma = 'of'
+T130	pos_NN 698 711	meta-analysis
+#129	AnnotatorNotes T130	lemma = 'meta-analysis'
+T131	pos_Fp 711 712	.
+#130	AnnotatorNotes T131	lemma = '.'
+T132	pos_Z 713 716	Two
+#131	AnnotatorNotes T132	lemma = '2'
+T133	pos_NNS 717 725	criteria
+#132	AnnotatorNotes T133	lemma = 'criterion'
+T134	pos_VBD 726 730	were
+#133	AnnotatorNotes T134	lemma = 'be'
+T135	pos_VBN 731 735	used
+#134	AnnotatorNotes T135	lemma = 'use'
+T136	pos_IN 736 739	for
+#135	AnnotatorNotes T136	lemma = 'for'
+T137	pos_NN 740 749	selection
+#136	AnnotatorNotes T137	lemma = 'selection'
+T138	pos_NNS 750 757	studies
+#137	AnnotatorNotes T138	lemma = 'study'
+T139	pos_IN 758 761	for
+#138	AnnotatorNotes T139	lemma = 'for'
+T140	pos_NN 762 775	meta-analysis
+#139	AnnotatorNotes T140	lemma = 'meta-analysis'
+T141	pos_Fp 775 776	.
+#140	AnnotatorNotes T141	lemma = '.'
+T142	pos_RB 777 782	First
+#141	AnnotatorNotes T142	lemma = 'first'
+T143	pos_Fc 782 783	,
+#142	AnnotatorNotes T143	lemma = ','
+T144	pos_DT 784 787	the
+#143	AnnotatorNotes T144	lemma = 'the'
+T145	pos_NN 788 793	study
+#144	AnnotatorNotes T145	lemma = 'study'
+T146	pos_VBN 794 800	needed
+#145	AnnotatorNotes T146	lemma = 'need'
+T147	pos_TO 801 803	to
+#146	AnnotatorNotes T147	lemma = 'to'
+T148	pos_VB 804 811	include
+#147	AnnotatorNotes T148	lemma = 'include'
+T149	pos_DT 812 813	a
+#148	AnnotatorNotes T149	lemma = 'a'
+T150	pos_NN 814 821	measure
+#149	AnnotatorNotes T150	lemma = 'measure'
+T151	pos_CC 822 824	or
+#150	AnnotatorNotes T151	lemma = 'or'
+T152	pos_NN 825 837	manipulation
+#151	AnnotatorNotes T152	lemma = 'manipulation'
+T153	pos_IN 838 840	of
+#152	AnnotatorNotes T153	lemma = 'of'
+T154	pos_JJ 841 848	violent
+#153	AnnotatorNotes T154	lemma = 'violent'
+T155	pos_NNS 849 854	media
+#154	AnnotatorNotes T155	lemma = 'media'
+T156	pos_NN 855 863	exposure
+#155	AnnotatorNotes T156	lemma = 'exposure'
+T157	pos_Fpa 864 865	(
+#156	AnnotatorNotes T157	lemma = '('
+T158	pos_NN 865 866	f
+#157	AnnotatorNotes T158	lemma = 'f'
+T159	pos_Fp 866 867	.
+#158	AnnotatorNotes T159	lemma = '.'
+T160	pos_NN 867 868	e
+#159	AnnotatorNotes T160	lemma = 'e'
+T161	pos_Fp 868 869	.
+#160	AnnotatorNotes T161	lemma = '.'
+T162	pos_NP 869 871	TV
+#161	AnnotatorNotes T162	lemma = 'tv'
+T163	pos_NNS 872 880	programs
+#162	AnnotatorNotes T163	lemma = 'program'
+T164	pos_Fc 880 881	,
+#163	AnnotatorNotes T164	lemma = ','
+T165	pos_NNS 882 887	films
+#164	AnnotatorNotes T165	lemma = 'film'
+T166	pos_Fc 887 888	,
+#165	AnnotatorNotes T166	lemma = ','
+T167	pos_JJ 889 894	video
+#166	AnnotatorNotes T167	lemma = 'video'
+T168	pos_NNS 895 900	games
+#167	AnnotatorNotes T168	lemma = 'game'
+T169	pos_NN 901 904	etc
+#168	AnnotatorNotes T169	lemma = 'etc'
+T170	pos_Fpt 904 905	)
+#169	AnnotatorNotes T170	lemma = ')'
+T171	pos_Fp 905 906	.
+#170	AnnotatorNotes T171	lemma = '.'
+T172	pos_JJ 907 913	Second
+#171	AnnotatorNotes T172	lemma = '2'
+T173	pos_Fc 913 914	,
+#172	AnnotatorNotes T173	lemma = ','
+T174	pos_DT 915 918	the
+#173	AnnotatorNotes T174	lemma = 'the'
+T175	pos_VBN 919 930	studyneeded
+#174	AnnotatorNotes T175	lemma = 'studyneeded'
+T176	pos_TO 931 933	to
+#175	AnnotatorNotes T176	lemma = 'to'
+T177	pos_NN 934 942	includea
+#176	AnnotatorNotes T177	lemma = 'includea'
+T178	pos_NN 943 950	measure
+#177	AnnotatorNotes T178	lemma = 'measure'
+T179	pos_IN 951 953	of
+#178	AnnotatorNotes T179	lemma = 'of'
+T180	pos_JJ 954 964	aggressive
+#179	AnnotatorNotes T180	lemma = 'aggressive'
+T181	pos_NN 965 973	behavior
+#180	AnnotatorNotes T181	lemma = 'behavior'
+T182	pos_Fc 973 974	,
+#181	AnnotatorNotes T182	lemma = ','
+T183	pos_JJ 975 985	aggressive
+#182	AnnotatorNotes T183	lemma = 'aggressive'
+T184	pos_NN 986 995	cognition
+#183	AnnotatorNotes T184	lemma = 'cognition'
+T185	pos_Fc 995 996	,
+#184	AnnotatorNotes T185	lemma = ','
+T186	pos_JJ 997 1007	aggressive
+#185	AnnotatorNotes T186	lemma = 'aggressive'
+T187	pos_VB 1008 1014	affect
+#186	AnnotatorNotes T187	lemma = 'affect'
+T188	pos_Fc 1014 1015	,
+#187	AnnotatorNotes T188	lemma = ','
+T189	pos_JJ 1016 1029	physiological
+#188	AnnotatorNotes T189	lemma = 'physiological'
+T190	pos_NN 1030 1037	arousal
+#189	AnnotatorNotes T190	lemma = 'arousal'
+T191	pos_Fc 1037 1038	,
+#190	AnnotatorNotes T191	lemma = ','
+T192	pos_CC 1039 1041	or
+#191	AnnotatorNotes T192	lemma = 'or'
+T193	pos_VBG 1042 1049	helping
+#192	AnnotatorNotes T193	lemma = 'help'
+T194	pos_NN 1050 1058	behavior
+#193	AnnotatorNotes T194	lemma = 'behavior'
+T195	pos_Fp 1058 1059	.
+#194	AnnotatorNotes T195	lemma = '.'
+T196	pos_TO 1060 1062	To
+#195	AnnotatorNotes T196	lemma = 'to'
+T197	pos_VB 1063 1071	retrieve
+#196	AnnotatorNotes T197	lemma = 'retrieve'
+T198	pos_JJ 1072 1080	relevant
+#197	AnnotatorNotes T198	lemma = 'relevant'
+T199	pos_NNS 1081 1088	studies
+#198	AnnotatorNotes T199	lemma = 'study'
+T200	pos_Fc 1088 1089	,
+#199	AnnotatorNotes T200	lemma = ','
+T201	pos_VBZ 1090 1100	researches
+#200	AnnotatorNotes T201	lemma = 'research'
+T202	pos_VBD 1101 1109	searched
+#201	AnnotatorNotes T202	lemma = 'search'
+T203	pos_DT 1110 1113	the
+#202	AnnotatorNotes T203	lemma = 'the'
+T204	pos_NN 1114 1122	database
+#203	AnnotatorNotes T204	lemma = 'database'
+T205	pos_IN 1123 1127	from
+#204	AnnotatorNotes T205	lemma = 'from'
+T206	pos_Z 1128 1132	1887
+#205	AnnotatorNotes T206	lemma = '1887'
+T207	pos_TO 1133 1135	to
+#206	AnnotatorNotes T207	lemma = 'to'
+T208	pos_Z 1136 1140	2000
+#207	AnnotatorNotes T208	lemma = '2000'
+T209	pos_Fp 1140 1141	.
+#208	AnnotatorNotes T209	lemma = '.'
+T210	pos_DT 1142 1143	A
+#209	AnnotatorNotes T210	lemma = 'a'
+T211	pos_NN 1144 1149	total
+#210	AnnotatorNotes T211	lemma = 'total'
+T212	pos_IN 1150 1152	of
+#211	AnnotatorNotes T212	lemma = 'of'
+T213	pos_Z 1153 1156	431
+#212	AnnotatorNotes T213	lemma = '431'
+T214	pos_NNS 1157 1164	studies
+#213	AnnotatorNotes T214	lemma = 'study'
+T215	pos_VBG 1165 1174	involving
+#214	AnnotatorNotes T215	lemma = 'involve'
+T216	pos_Z 1175 1177	68
+#215	AnnotatorNotes T216	lemma = '68'
+T217	pos_Z 1178 1181	463
+#216	AnnotatorNotes T217	lemma = '463'
+T218	pos_NNS 1182 1194	participants
+#217	AnnotatorNotes T218	lemma = 'participant'
+T219	pos_VBD 1195 1198	met
+#218	AnnotatorNotes T219	lemma = 'meet'
+T220	pos_DT 1199 1204	these
+#219	AnnotatorNotes T220	lemma = 'these'
+T221	pos_NNS 1205 1213	criteria
+#220	AnnotatorNotes T221	lemma = 'criterion'
+T222	pos_Fp 1213 1214	.
+#221	AnnotatorNotes T222	lemma = '.'
+T223	pos_EX 1215 1220	There
+#222	AnnotatorNotes T223	lemma = 'there'
+T224	pos_VBD 1221 1225	were
+#223	AnnotatorNotes T224	lemma = 'be'
+T225	pos_Z 1226 1229	264
+#224	AnnotatorNotes T225	lemma = '264'
+T226	pos_NNS 1230 1237	studies
+#225	AnnotatorNotes T226	lemma = 'study'
+T227	pos_VBG 1238 1247	involving
+#226	AnnotatorNotes T227	lemma = 'involve'
+T228	pos_Z 1248 1250	50
+#227	AnnotatorNotes T228	lemma = '50'
+T229	pos_Z 1251 1254	312
+#228	AnnotatorNotes T229	lemma = '312'
+T230	pos_NNS 1255 1263	children
+#229	AnnotatorNotes T230	lemma = 'child'
+T231	pos_CC 1264 1267	and
+#230	AnnotatorNotes T231	lemma = 'and'
+T232	pos_Z 1268 1271	167
+#231	AnnotatorNotes T232	lemma = '167'
+T233	pos_NNS 1272 1279	studies
+#232	AnnotatorNotes T233	lemma = 'study'
+T234	pos_VBG 1280 1289	involving
+#233	AnnotatorNotes T234	lemma = 'involve'
+T235	pos_Z 1290 1292	18
+#234	AnnotatorNotes T235	lemma = '18'
+T236	pos_Z 1293 1296	151
+#235	AnnotatorNotes T236	lemma = '151'
+T237	pos_NN 1297 1302	adult
+#236	AnnotatorNotes T237	lemma = 'adult'
+T238	pos_Fp 1302 1303	.
+#237	AnnotatorNotes T238	lemma = '.'
+T239	pos_DT 1304 1307	The
+#238	AnnotatorNotes T239	lemma = 'the'
+T240	pos_NN 1308 1314	effect
+#239	AnnotatorNotes T240	lemma = 'effect'
+T241	pos_NN 1315 1319	size
+#240	AnnotatorNotes T241	lemma = 'size'
+T242	pos_NN 1320 1325	index
+#241	AnnotatorNotes T242	lemma = 'index'
+T243	pos_VBD 1326 1329	was
+#242	AnnotatorNotes T243	lemma = 'be'
+T244	pos_DT 1330 1333	the
+#243	AnnotatorNotes T244	lemma = 'the'
+T245	pos_NN 1334 1345	correlation
+#244	AnnotatorNotes T245	lemma = 'correlation'
+T246	pos_NN 1346 1357	coefficient
+#245	AnnotatorNotes T246	lemma = 'coefficient'
+T247	pos_Fp 1357 1358	.
+#246	AnnotatorNotes T247	lemma = '.'
+T248	pos_IN 1359 1361	In
+#247	AnnotatorNotes T248	lemma = 'in'
+T249	pos_DT 1362 1365	the
+#248	AnnotatorNotes T249	lemma = 'the'
+T250	pos_NN 1366 1371	study
+#249	AnnotatorNotes T250	lemma = 'study'
+T251	pos_NN 1372 1382	hypothesis
+#250	AnnotatorNotes T251	lemma = 'hypothesis'
+T252	pos_VBD 1383 1386	was
+#251	AnnotatorNotes T252	lemma = 'be'
+T253	pos_VBN 1387 1396	confirmed
+#252	AnnotatorNotes T253	lemma = 'confirm'
+T254	pos_Fp 1397 1398	.
+#253	AnnotatorNotes T254	lemma = '.'
+T255	pos_DT 1399 1403	This
+#254	AnnotatorNotes T255	lemma = 'this'
+T256	pos_VBZ 1404 1406	is
+#255	AnnotatorNotes T256	lemma = 'be'
+T257	pos_JJ 1407 1417	consistent
+#256	AnnotatorNotes T257	lemma = 'consistent'
+T258	pos_IN 1418 1422	with
+#257	AnnotatorNotes T258	lemma = 'with'
+T259	pos_DT 1423 1426	the
+#258	AnnotatorNotes T259	lemma = 'the'
+T260	pos_NN 1427 1433	theory
+#259	AnnotatorNotes T260	lemma = 'theory'
+T261	pos_IN 1434 1438	that
+#260	AnnotatorNotes T261	lemma = 'that'
+T262	pos_JJ 1439 1449	short-term
+#261	AnnotatorNotes T262	lemma = 'short-term'
+T263	pos_NNS 1450 1457	effects
+#262	AnnotatorNotes T263	lemma = 'effect'
+T264	pos_VBP 1458 1461	are
+#263	AnnotatorNotes T264	lemma = 'be'
+T265	pos_RB 1462 1468	mostly
+#264	AnnotatorNotes T265	lemma = 'mostly'
+T266	pos_JJ 1469 1472	due
+#265	AnnotatorNotes T266	lemma = 'due'
+T267	pos_TO 1473 1475	to
+#266	AnnotatorNotes T267	lemma = 'to'
+T268	pos_DT 1476 1479	the
+#267	AnnotatorNotes T268	lemma = 'the'
+T269	pos_VBG 1480 1487	priming
+#268	AnnotatorNotes T269	lemma = 'prime'
+T270	pos_IN 1488 1490	of
+#269	AnnotatorNotes T270	lemma = 'of'
+T271	pos_VBG 1491 1499	existing
+#270	AnnotatorNotes T271	lemma = 'exist'
+T272	pos_RB 1500 1504	well
+#271	AnnotatorNotes T272	lemma = 'well'
+T273	pos_VBN 1505 1512	encoded
+#272	AnnotatorNotes T273	lemma = 'encode'
+T274	pos_NNS 1513 1520	scripts
+#273	AnnotatorNotes T274	lemma = 'script'
+T275	pos_Fc 1520 1521	,
+#274	AnnotatorNotes T275	lemma = ','
+T276	pos_NNS 1522 1529	schemas
+#275	AnnotatorNotes T276	lemma = 'schema'
+T277	pos_Fc 1529 1530	,
+#276	AnnotatorNotes T277	lemma = ','
+T278	pos_CC 1531 1533	or
+#277	AnnotatorNotes T278	lemma = 'or'
+T279	pos_NNS 1534 1541	beliefs
+#278	AnnotatorNotes T279	lemma = 'belief'
+T280	pos_IN 1542 1549	whereas
+#279	AnnotatorNotes T280	lemma = 'whereas'
+T281	pos_JJ 1550 1559	long-term
+#280	AnnotatorNotes T281	lemma = 'long-term'
+T282	pos_NNS 1560 1567	effects
+#281	AnnotatorNotes T282	lemma = 'effect'
+T283	pos_VBP 1568 1575	require
+#282	AnnotatorNotes T283	lemma = 'require'
+T284	pos_DT 1576 1579	the
+#283	AnnotatorNotes T284	lemma = 'the'
+T285	pos_NN 1580 1588	learning
+#284	AnnotatorNotes T285	lemma = 'learning'
+T286	pos_IN 1589 1591	of
+#285	AnnotatorNotes T286	lemma = 'of'
+T287	pos_NNS 1592 1599	scripts
+#286	AnnotatorNotes T287	lemma = 'script'
+T288	pos_Fc 1599 1600	,
+#287	AnnotatorNotes T288	lemma = ','
+T289	pos_NNS 1601 1608	schemas
+#288	AnnotatorNotes T289	lemma = 'schema'
+T290	pos_Fc 1608 1609	,
+#289	AnnotatorNotes T290	lemma = ','
+T291	pos_CC 1610 1612	or
+#290	AnnotatorNotes T291	lemma = 'or'
+T292	pos_NNS 1613 1620	beliefs
+#291	AnnotatorNotes T292	lemma = 'belief'
+T293	pos_Fp 1620 1621	.
+#292	AnnotatorNotes T293	lemma = '.'

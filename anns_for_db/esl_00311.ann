@@ -1,0 +1,562 @@
+T1	Discourse 244 271	basing on sufficient facts.
+A1	Weight-language T1 Major
+#1	AnnotatorNotes T1	according to researchers working in the domain of ethnolinguistics [Wierzbicka – different years]
+T2	Discourse 272 361	For example, there is no equivalent in all languages in the world to describe an emotion.
+A2	Weight-language T2 Major
+#2	AnnotatorNotes T2	There are no exact translation equivalents in emotion terms across the world's languages. 
+T3	Discourse 381 436	a variety in expressing emotions in different languages
+A3	Weight-language T3 Major
+#3	AnnotatorNotes T3	significant cross-linguistic variation emotionsin emotion expression 
+T4	Discourse 436 437	:
+A4	Weight-language T4 Minor
+#4	AnnotatorNotes T4	e.g., 
+T5	lex_item_choice 470 478	variants
+A5	Cause T5 L1_interference
+A6	Weight-language T5 Major
+#5	AnnotatorNotes T5	terms
+T6	suggestion 496 503	certain
+A7	Delete T6
+T7	Discourse 496 511	certain emotion
+A8	Cause T7 L1_interference
+A9	Weight-language T7 Major
+#6	AnnotatorNotes T7	different subtypes within a larger emotion type
+T8	Discourse 535 590	could lack for such variety to express the same emotion
+A10	Cause T8 Other
+A11	Weight-language T8 Major
+#7	AnnotatorNotes T8	can have only one umbrella term for a certain type of emotion.
+T9	note 669 715	by AA Zaliznyak [1985] B. I. Shakhovsky [1987]
+A12	Weight-language T9 Major
+A13	Delete T9
+#8	AnnotatorNotes T9	inappropriate quotations – Wierzbicka should start the list, then maybe generally – The Moscow School of Semantics, as well as the works by A.Zaliznyak, A.Shmelev  
+T10	Spelling 736 747	researches.
+A14	Cause T10 Typo
+A15	Weight-language T10 Minor
+#9	AnnotatorNotes T10	researchers
+T11	Discourse 851 972	there are relevant problems in the general theory of emotions, their designations and functioning in different languages.
+A16	Delete T11
+T12	note 851 971	there are relevant problems in the general theory of emotions, their designations and functioning in different languages
+#10	AnnotatorNotes T12	: there are unresolved issues concerning cross-linguistic conceptualization of emotions, namely, how emotions of the same type are conceptualized in different languages
+T13	Discourse 1107 1115	emotions
+#11	AnnotatorNotes T13	the main emotions
+T14	Adjectives 729 735	others
+A18	Cause T14 Typo
+A19	Weight-language T14 Minor
+#12	AnnotatorNotes T14	Sg/Pl confusion
+T15	Discourse 1140 1149	and so on
+A20	Cause T15 Other
+A21	Weight-language T15 Major
+#13	AnnotatorNotes T15	etc.
+T16	note 1287 1311	A certain range of words
+#14	AnnotatorNotes T16	Non-specific
+T17	note 1357 1395	examined by different linguistic means
+#15	AnnotatorNotes T17	Non-specific
+T18	pos_EX 0 5	There
+#16	AnnotatorNotes T18	lemma = 'there'
+T19	pos_VBZ 6 8	is
+#17	AnnotatorNotes T19	lemma = 'be'
+T20	pos_DT 9 10	a
+#18	AnnotatorNotes T20	lemma = 'a'
+T21	pos_JJ 11 18	certain
+#19	AnnotatorNotes T21	lemma = 'certain'
+T22	pos_NN 19 24	range
+#20	AnnotatorNotes T22	lemma = 'range'
+T23	pos_IN 25 27	of
+#21	AnnotatorNotes T23	lemma = 'of'
+T24	pos_NNS 28 36	emotions
+#22	AnnotatorNotes T24	lemma = 'emotion'
+T25	pos_NNS 37 43	people
+#23	AnnotatorNotes T25	lemma = 'people'
+T26	pos_NN 44 54	experience
+#24	AnnotatorNotes T26	lemma = 'experience'
+T27	pos_IN 55 65	throughout
+#25	AnnotatorNotes T27	lemma = 'throughout'
+T28	pos_DT 66 69	the
+#26	AnnotatorNotes T28	lemma = 'the'
+T29	pos_NN 70 75	world
+#27	AnnotatorNotes T29	lemma = 'world'
+T30	pos_Fp 75 76	.
+#28	AnnotatorNotes T30	lemma = '.'
+T31	pos_JJ 77 84	Various
+#29	AnnotatorNotes T31	lemma = 'various'
+T32	pos_NNS 85 95	biologists
+#30	AnnotatorNotes T32	lemma = 'biologist'
+T33	pos_CC 96 99	and
+#31	AnnotatorNotes T33	lemma = 'and'
+T34	pos_NNS 100 113	psychologists
+#32	AnnotatorNotes T34	lemma = 'psychologist'
+T35	pos_VBD 114 120	proved
+#33	AnnotatorNotes T35	lemma = 'prove'
+T36	pos_IN 121 125	that
+#34	AnnotatorNotes T36	lemma = 'that'
+T37	pos_EX 126 131	there
+#35	AnnotatorNotes T37	lemma = 'there'
+T38	pos_VBZ 132 134	is
+#36	AnnotatorNotes T38	lemma = 'be'
+T39	pos_JJ 135 141	strong
+#37	AnnotatorNotes T39	lemma = 'strong'
+T40	pos_NN 142 150	evidence
+#38	AnnotatorNotes T40	lemma = 'evidence'
+T41	pos_IN 151 154	for
+#39	AnnotatorNotes T41	lemma = 'for'
+T42	pos_DT 155 158	the
+#40	AnnotatorNotes T42	lemma = 'the'
+T43	pos_NN 159 171	universality
+#41	AnnotatorNotes T43	lemma = 'universality'
+T44	pos_IN 172 174	of
+#42	AnnotatorNotes T44	lemma = 'of'
+T45	pos_NNS 175 183	emotions
+#43	AnnotatorNotes T45	lemma = 'emotion'
+T46	pos_Fp 183 184	.
+#44	AnnotatorNotes T46	lemma = '.'
+T47	pos_RB 185 192	However
+#45	AnnotatorNotes T47	lemma = 'however'
+T48	pos_Fc 192 193	,
+#46	AnnotatorNotes T48	lemma = ','
+T49	pos_JJ 194 202	cultural
+#47	AnnotatorNotes T49	lemma = 'cultural'
+T50	pos_CC 203 206	and
+#48	AnnotatorNotes T50	lemma = 'and'
+T51	pos_JJ 207 217	linguistic
+#49	AnnotatorNotes T51	lemma = 'linguistic'
+T52	pos_NN 218 235	conceptualization
+#50	AnnotatorNotes T52	lemma = 'conceptualization'
+T53	pos_VBZ 236 243	differs
+#51	AnnotatorNotes T53	lemma = 'differ'
+T54	pos_VBG 244 250	basing
+#52	AnnotatorNotes T54	lemma = 'base'
+T55	pos_IN 251 253	on
+#53	AnnotatorNotes T55	lemma = 'on'
+T56	pos_JJ 254 264	sufficient
+#54	AnnotatorNotes T56	lemma = 'sufficient'
+T57	pos_NNS 265 270	facts
+#55	AnnotatorNotes T57	lemma = 'fact'
+T58	pos_Fp 270 271	.
+#56	AnnotatorNotes T58	lemma = '.'
+T59	pos_RB 272 283	For example
+#57	AnnotatorNotes T59	lemma = 'for_example'
+T60	pos_Fc 283 284	,
+#58	AnnotatorNotes T60	lemma = ','
+T61	pos_EX 285 290	there
+#59	AnnotatorNotes T61	lemma = 'there'
+T62	pos_VBZ 291 293	is
+#60	AnnotatorNotes T62	lemma = 'be'
+T63	pos_DT 294 296	no
+#61	AnnotatorNotes T63	lemma = 'no'
+T64	pos_NN 297 307	equivalent
+#62	AnnotatorNotes T64	lemma = 'equivalent'
+T65	pos_RB 308 314	in all
+#63	AnnotatorNotes T65	lemma = 'in_all'
+T66	pos_NNS 315 324	languages
+#64	AnnotatorNotes T66	lemma = 'language'
+T67	pos_IN 325 327	in
+#65	AnnotatorNotes T67	lemma = 'in'
+T68	pos_DT 328 331	the
+#66	AnnotatorNotes T68	lemma = 'the'
+T69	pos_NN 332 337	world
+#67	AnnotatorNotes T69	lemma = 'world'
+T70	pos_TO 338 340	to
+#68	AnnotatorNotes T70	lemma = 'to'
+T71	pos_VB 341 349	describe
+#69	AnnotatorNotes T71	lemma = 'describe'
+T72	pos_DT 350 352	an
+#70	AnnotatorNotes T72	lemma = 'a'
+T73	pos_NN 353 360	emotion
+#71	AnnotatorNotes T73	lemma = 'emotion'
+T74	pos_Fp 360 361	.
+#72	AnnotatorNotes T74	lemma = '.'
+T75	pos_RB 362 370	Moreover
+#73	AnnotatorNotes T75	lemma = 'moreover'
+T76	pos_Fc 370 371	,
+#74	AnnotatorNotes T76	lemma = ','
+T77	pos_EX 372 377	there
+#75	AnnotatorNotes T77	lemma = 'there'
+T78	pos_VBZ 378 380	is
+#76	AnnotatorNotes T78	lemma = 'be'
+T79	pos_DT 381 382	a
+#77	AnnotatorNotes T79	lemma = 'a'
+T80	pos_NN 383 390	variety
+#78	AnnotatorNotes T80	lemma = 'variety'
+T81	pos_IN 391 393	in
+#79	AnnotatorNotes T81	lemma = 'in'
+T82	pos_VBG 394 404	expressing
+#80	AnnotatorNotes T82	lemma = 'express'
+T83	pos_NNS 405 413	emotions
+#81	AnnotatorNotes T83	lemma = 'emotion'
+T84	pos_IN 414 416	in
+#82	AnnotatorNotes T84	lemma = 'in'
+T85	pos_JJ 417 426	different
+#83	AnnotatorNotes T85	lemma = 'different'
+T86	pos_NNS 427 436	languages
+#84	AnnotatorNotes T86	lemma = 'language'
+T87	pos_Fd 436 437	:
+#85	AnnotatorNotes T87	lemma = ':'
+T88	pos_DT 438 441	one
+#86	AnnotatorNotes T88	lemma = 'one'
+T89	pos_NN 442 450	language
+#87	AnnotatorNotes T89	lemma = 'language'
+T90	pos_MD 451 454	can
+#88	AnnotatorNotes T90	lemma = 'can'
+T91	pos_VB 455 459	have
+#89	AnnotatorNotes T91	lemma = 'have'
+T92	pos_JJ 460 469	different
+#90	AnnotatorNotes T92	lemma = 'different'
+T93	pos_NNS 470 478	variants
+#91	AnnotatorNotes T93	lemma = 'variant'
+T94	pos_IN 479 482	for
+#92	AnnotatorNotes T94	lemma = 'for'
+T95	pos_VBG 483 493	expressing
+#93	AnnotatorNotes T95	lemma = 'express'
+T96	pos_DT 494 495	a
+#94	AnnotatorNotes T96	lemma = 'a'
+T97	pos_JJ 496 503	certain
+#95	AnnotatorNotes T97	lemma = 'certain'
+T98	pos_NN 504 511	emotion
+#96	AnnotatorNotes T98	lemma = 'emotion'
+T99	pos_Fc 511 512	,
+#97	AnnotatorNotes T99	lemma = ','
+T100	pos_IN 513 518	while
+#98	AnnotatorNotes T100	lemma = 'while'
+T101	pos_JJ 519 524	other
+#99	AnnotatorNotes T101	lemma = 'other'
+T102	pos_NNS 525 534	languages
+#100	AnnotatorNotes T102	lemma = 'language'
+T103	pos_MD 535 540	could
+#101	AnnotatorNotes T103	lemma = 'can'
+T104	pos_NN 541 545	lack
+#102	AnnotatorNotes T104	lemma = 'lack'
+T105	pos_IN 546 549	for
+#103	AnnotatorNotes T105	lemma = 'for'
+T106	pos_PDT 550 554	such
+#104	AnnotatorNotes T106	lemma = 'such'
+T107	pos_NN 555 562	variety
+#105	AnnotatorNotes T107	lemma = 'variety'
+T108	pos_TO 563 565	to
+#106	AnnotatorNotes T108	lemma = 'to'
+T109	pos_VB 566 573	express
+#107	AnnotatorNotes T109	lemma = 'express'
+T110	pos_DT 574 577	the
+#108	AnnotatorNotes T110	lemma = 'the'
+T111	pos_JJ 578 582	same
+#109	AnnotatorNotes T111	lemma = 'same'
+T112	pos_NN 583 590	emotion
+#110	AnnotatorNotes T112	lemma = 'emotion'
+T113	pos_Fp 590 591	.
+#111	AnnotatorNotes T113	lemma = '.'
+T114	pos_DT 604 607	The
+#112	AnnotatorNotes T114	lemma = 'the'
+T115	pos_NN 608 615	problem
+#113	AnnotatorNotes T115	lemma = 'problem'
+T116	pos_IN 616 618	of
+#114	AnnotatorNotes T116	lemma = 'of'
+T117	pos_NNS 619 627	emotions
+#115	AnnotatorNotes T117	lemma = 'emotion'
+T118	pos_IN 628 630	in
+#116	AnnotatorNotes T118	lemma = 'in'
+T119	pos_NNS 631 642	linguistics
+#117	AnnotatorNotes T119	lemma = 'linguistics'
+T120	pos_VBD 643 646	was
+#118	AnnotatorNotes T120	lemma = 'be'
+T121	pos_RB 647 657	previously
+#119	AnnotatorNotes T121	lemma = 'previously'
+T122	pos_VBN 658 668	considered
+#120	AnnotatorNotes T122	lemma = 'consider'
+T123	pos_IN 669 671	by
+#121	AnnotatorNotes T123	lemma = 'by'
+T124	pos_NP 672 684	AA Zaliznyak
+#122	AnnotatorNotes T124	lemma = 'aa_zaliznyak'
+T125	pos_Fca 685 686	[
+#123	AnnotatorNotes T125	lemma = '['
+T126	pos_Z 686 690	1985
+#124	AnnotatorNotes T126	lemma = '1985'
+T127	pos_Fct 690 691	]
+#125	AnnotatorNotes T127	lemma = ']'
+T128	pos_NP 692 708	B. I. Shakhovsky
+#126	AnnotatorNotes T128	lemma = 'b._i._shakhovsky'
+T129	pos_Fca 709 710	[
+#127	AnnotatorNotes T129	lemma = '['
+T130	pos_Z 710 714	1987
+#128	AnnotatorNotes T130	lemma = '1987'
+T131	pos_Fct 714 715	]
+#129	AnnotatorNotes T131	lemma = ']'
+T132	pos_Fc 715 716	,
+#130	AnnotatorNotes T132	lemma = ','
+T133	pos_CC 717 720	and
+#131	AnnotatorNotes T133	lemma = 'and'
+T134	pos_IN 721 723	by
+#132	AnnotatorNotes T134	lemma = 'by'
+T135	pos_PRP 724 728	many
+#133	AnnotatorNotes T135	lemma = 'many'
+T136	pos_NNS 729 735	others
+#134	AnnotatorNotes T136	lemma = 'other'
+T137	pos_VBZ 736 746	researches
+#135	AnnotatorNotes T137	lemma = 'research'
+T138	pos_Fp 746 747	.
+#136	AnnotatorNotes T138	lemma = '.'
+T139	pos_RB 748 755	However
+#137	AnnotatorNotes T139	lemma = 'however'
+T140	pos_Fc 755 756	,
+#138	AnnotatorNotes T140	lemma = ','
+T141	pos_IN 757 764	despite
+#139	AnnotatorNotes T141	lemma = 'despite'
+T142	pos_DT 765 768	the
+#140	AnnotatorNotes T142	lemma = 'the'
+T143	pos_NN 769 773	fact
+#141	AnnotatorNotes T143	lemma = 'fact'
+T144	pos_IN 774 778	that
+#142	AnnotatorNotes T144	lemma = 'that'
+T145	pos_NN 779 790	linguistics
+#143	AnnotatorNotes T145	lemma = 'linguistics'
+T146	pos_VBZ 791 794	has
+#144	AnnotatorNotes T146	lemma = 'have'
+T147	pos_DT 795 796	a
+#145	AnnotatorNotes T147	lemma = 'a'
+T148	pos_JJ 797 801	long
+#146	AnnotatorNotes T148	lemma = 'long'
+T149	pos_NN 802 812	experience
+#147	AnnotatorNotes T149	lemma = 'experience'
+T150	pos_IN 813 815	in
+#148	AnnotatorNotes T150	lemma = 'in'
+T151	pos_DT 816 819	the
+#149	AnnotatorNotes T151	lemma = 'the'
+T152	pos_NN 820 825	study
+#150	AnnotatorNotes T152	lemma = 'study'
+T153	pos_IN 826 828	of
+#151	AnnotatorNotes T153	lemma = 'of'
+T154	pos_NNS 829 837	emotions
+#152	AnnotatorNotes T154	lemma = 'emotion'
+T155	pos_IN 838 840	in
+#153	AnnotatorNotes T155	lemma = 'in'
+T156	pos_NN 841 849	language
+#154	AnnotatorNotes T156	lemma = 'language'
+T157	pos_Fc 849 850	,
+#155	AnnotatorNotes T157	lemma = ','
+T158	pos_EX 851 856	there
+#156	AnnotatorNotes T158	lemma = 'there'
+T159	pos_VBP 857 860	are
+#157	AnnotatorNotes T159	lemma = 'be'
+T160	pos_JJ 861 869	relevant
+#158	AnnotatorNotes T160	lemma = 'relevant'
+T161	pos_NNS 870 878	problems
+#159	AnnotatorNotes T161	lemma = 'problem'
+T162	pos_IN 879 881	in
+#160	AnnotatorNotes T162	lemma = 'in'
+T163	pos_DT 882 885	the
+#161	AnnotatorNotes T163	lemma = 'the'
+T164	pos_JJ 886 893	general
+#162	AnnotatorNotes T164	lemma = 'general'
+T165	pos_NN 894 900	theory
+#163	AnnotatorNotes T165	lemma = 'theory'
+T166	pos_IN 901 903	of
+#164	AnnotatorNotes T166	lemma = 'of'
+T167	pos_NNS 904 912	emotions
+#165	AnnotatorNotes T167	lemma = 'emotion'
+T168	pos_Fc 912 913	,
+#166	AnnotatorNotes T168	lemma = ','
+T169	pos_PRP2 914 919	their
+#167	AnnotatorNotes T169	lemma = 'their'
+T170	pos_NNS 920 932	designations
+#168	AnnotatorNotes T170	lemma = 'designation'
+T171	pos_CC 933 936	and
+#169	AnnotatorNotes T171	lemma = 'and'
+T172	pos_VBG 937 948	functioning
+#170	AnnotatorNotes T172	lemma = 'function'
+T173	pos_IN 949 951	in
+#171	AnnotatorNotes T173	lemma = 'in'
+T174	pos_JJ 952 961	different
+#172	AnnotatorNotes T174	lemma = 'different'
+T175	pos_NNS 962 971	languages
+#173	AnnotatorNotes T175	lemma = 'language'
+T176	pos_Fp 971 972	.
+#174	AnnotatorNotes T176	lemma = '.'
+T177	pos_DT 984 987	The
+#175	AnnotatorNotes T177	lemma = 'the'
+T178	pos_JJ 988 992	main
+#176	AnnotatorNotes T178	lemma = 'main'
+T179	pos_NN 993 996	aim
+#177	AnnotatorNotes T179	lemma = 'aim'
+T180	pos_IN 997 999	of
+#178	AnnotatorNotes T180	lemma = 'of'
+T181	pos_PRP2 1000 1003	our
+#179	AnnotatorNotes T181	lemma = 'our'
+T182	pos_NN 1004 1011	project
+#180	AnnotatorNotes T182	lemma = 'project'
+T183	pos_VBZ 1012 1014	is
+#181	AnnotatorNotes T183	lemma = 'be'
+T184	pos_TO 1015 1017	to
+#182	AnnotatorNotes T184	lemma = 'to'
+T185	pos_VB 1018 1024	create
+#183	AnnotatorNotes T185	lemma = 'create'
+T186	pos_DT 1025 1026	a
+#184	AnnotatorNotes T186	lemma = 'a'
+T187	pos_JJ 1027 1037	linguistic
+#185	AnnotatorNotes T187	lemma = 'linguistic'
+T188	pos_Fe 1038 1039	"
+#186	AnnotatorNotes T188	lemma = '"'
+T189	pos_NN 1039 1042	map
+#187	AnnotatorNotes T189	lemma = 'map'
+T190	pos_Fe 1042 1043	"
+#188	AnnotatorNotes T190	lemma = '"'
+T191	pos_IN 1044 1046	of
+#189	AnnotatorNotes T191	lemma = 'of'
+T192	pos_NNS 1047 1055	emotions
+#190	AnnotatorNotes T192	lemma = 'emotion'
+T193	pos_IN 1056 1058	in
+#191	AnnotatorNotes T193	lemma = 'in'
+T194	pos_JJ 1059 1068	different
+#192	AnnotatorNotes T194	lemma = 'different'
+T195	pos_NNS 1069 1078	languages
+#193	AnnotatorNotes T195	lemma = 'language'
+T196	pos_CC 1079 1082	and
+#194	AnnotatorNotes T196	lemma = 'and'
+T197	pos_VBP 1083 1091	describe
+#195	AnnotatorNotes T197	lemma = 'describe'
+T198	pos_WDT 1092 1097	which
+#196	AnnotatorNotes T198	lemma = 'which'
+T199	pos_NNS 1098 1106	subtypes
+#197	AnnotatorNotes T199	lemma = 'subtype'
+T200	pos_NNS 1107 1115	emotions
+#198	AnnotatorNotes T200	lemma = 'emotion'
+T201	pos_Fpa 1116 1117	(
+#199	AnnotatorNotes T201	lemma = '('
+T202	pos_IN 1117 1121	like
+#200	AnnotatorNotes T202	lemma = 'like'
+T203	pos_NN 1122 1126	fear
+#201	AnnotatorNotes T203	lemma = 'fear'
+T204	pos_Fc 1126 1127	,
+#202	AnnotatorNotes T204	lemma = ','
+T205	pos_NN 1128 1133	shame
+#203	AnnotatorNotes T205	lemma = 'shame'
+T206	pos_Fc 1133 1134	,
+#204	AnnotatorNotes T206	lemma = ','
+T207	pos_NN 1135 1139	pity
+#205	AnnotatorNotes T207	lemma = 'pity'
+T208	pos_CC 1140 1143	and
+#206	AnnotatorNotes T208	lemma = 'and'
+T209	pos_RB 1144 1149	so on
+#207	AnnotatorNotes T209	lemma = 'so_on'
+T210	pos_Fpt 1149 1150	)
+#208	AnnotatorNotes T210	lemma = ')'
+T211	pos_VBP 1151 1155	have
+#209	AnnotatorNotes T211	lemma = 'have'
+T212	pos_IN 1156 1158	in
+#210	AnnotatorNotes T212	lemma = 'in'
+T213	pos_DT 1159 1163	each
+#211	AnnotatorNotes T213	lemma = 'each'
+T214	pos_NN 1164 1172	language
+#212	AnnotatorNotes T214	lemma = 'language'
+T215	pos_Fp 1172 1173	.
+#213	AnnotatorNotes T215	lemma = '.'
+T216	pos_DT 1186 1190	This
+#214	AnnotatorNotes T216	lemma = 'this'
+T217	pos_JJ 1191 1201	particular
+#215	AnnotatorNotes T217	lemma = 'particular'
+T218	pos_NN 1202 1207	paper
+#216	AnnotatorNotes T218	lemma = 'paper'
+T219	pos_VBZ 1208 1210	is
+#217	AnnotatorNotes T219	lemma = 'be'
+T220	pos_VBN 1211 1220	dedicated
+#218	AnnotatorNotes T220	lemma = 'dedicate'
+T221	pos_TO 1221 1223	to
+#219	AnnotatorNotes T221	lemma = 'to'
+T222	pos_DT 1224 1227	the
+#220	AnnotatorNotes T222	lemma = 'the'
+T223	pos_NN 1228 1239	description
+#221	AnnotatorNotes T223	lemma = 'description'
+T224	pos_IN 1240 1242	of
+#222	AnnotatorNotes T224	lemma = 'of'
+T225	pos_DT 1243 1246	the
+#223	AnnotatorNotes T225	lemma = 'the'
+T226	pos_NN 1247 1254	emotion
+#224	AnnotatorNotes T226	lemma = 'emotion'
+T227	pos_Fe 1255 1256	"
+#225	AnnotatorNotes T227	lemma = '"'
+T228	pos_NN 1256 1261	Pride
+#226	AnnotatorNotes T228	lemma = 'pride'
+T229	pos_Fe 1261 1262	"
+#227	AnnotatorNotes T229	lemma = '"'
+T230	pos_IN 1263 1265	in
+#228	AnnotatorNotes T230	lemma = 'in'
+T231	pos_DT 1266 1269	the
+#229	AnnotatorNotes T231	lemma = 'the'
+T232	pos_JJ 1270 1276	German
+#230	AnnotatorNotes T232	lemma = 'german'
+T233	pos_NN 1277 1285	language
+#231	AnnotatorNotes T233	lemma = 'language'
+T234	pos_Fp 1285 1286	.
+#232	AnnotatorNotes T234	lemma = '.'
+T235	pos_DT 1287 1288	A
+#233	AnnotatorNotes T235	lemma = 'a'
+T236	pos_JJ 1289 1296	certain
+#234	AnnotatorNotes T236	lemma = 'certain'
+T237	pos_NN 1297 1302	range
+#235	AnnotatorNotes T237	lemma = 'range'
+T238	pos_IN 1303 1305	of
+#236	AnnotatorNotes T238	lemma = 'of'
+T239	pos_NNS 1306 1311	words
+#237	AnnotatorNotes T239	lemma = 'word'
+T240	pos_VBG 1312 1322	describing
+#238	AnnotatorNotes T240	lemma = 'describe'
+T241	pos_DT 1323 1326	the
+#239	AnnotatorNotes T241	lemma = 'the'
+T242	pos_NN 1327 1334	emotion
+#240	AnnotatorNotes T242	lemma = 'emotion'
+T243	pos_Fe 1335 1336	"
+#241	AnnotatorNotes T243	lemma = '"'
+T244	pos_NN 1336 1341	Pride
+#242	AnnotatorNotes T244	lemma = 'pride'
+T245	pos_Fe 1342 1343	"
+#243	AnnotatorNotes T245	lemma = '"'
+T246	pos_VBZ 1344 1346	is
+#244	AnnotatorNotes T246	lemma = 'be'
+T247	pos_VBN 1347 1352	taken
+#245	AnnotatorNotes T247	lemma = 'take'
+T248	pos_CC 1353 1356	and
+#246	AnnotatorNotes T248	lemma = 'and'
+T249	pos_VBN 1357 1365	examined
+#247	AnnotatorNotes T249	lemma = 'examine'
+T250	pos_IN 1366 1368	by
+#248	AnnotatorNotes T250	lemma = 'by'
+T251	pos_JJ 1369 1378	different
+#249	AnnotatorNotes T251	lemma = 'different'
+T252	pos_JJ 1379 1389	linguistic
+#250	AnnotatorNotes T252	lemma = 'linguistic'
+T253	pos_NNS 1390 1395	means
+#251	AnnotatorNotes T253	lemma = 'mean'
+T254	pos_Fp 1395 1396	.
+#252	AnnotatorNotes T254	lemma = '.'
+T255	pos_RB 1397 1410	In particular
+#253	AnnotatorNotes T255	lemma = 'in_particular'
+T256	pos_Fc 1410 1411	,
+#254	AnnotatorNotes T256	lemma = ','
+T257	pos_DT 1412 1415	the
+#255	AnnotatorNotes T257	lemma = 'the'
+T258	pos_NN 1416 1421	focus
+#256	AnnotatorNotes T258	lemma = 'focus'
+T259	pos_VBZ 1422 1426	lies
+#257	AnnotatorNotes T259	lemma = 'lie'
+T260	pos_IN 1427 1429	on
+#258	AnnotatorNotes T260	lemma = 'on'
+T261	pos_VBG 1430 1439	examining
+#259	AnnotatorNotes T261	lemma = 'examine'
+T262	pos_NNS 1440 1445	words
+#260	AnnotatorNotes T262	lemma = 'word'
+T263	pos_RB 1446 1458	semantically
+#261	AnnotatorNotes T263	lemma = 'semantically'
+T264	pos_Fc 1458 1459	,
+#262	AnnotatorNotes T264	lemma = ','
+T265	pos_RB 1460 1473	syntactically
+#263	AnnotatorNotes T265	lemma = 'syntactically'
+T266	pos_CC 1474 1477	and
+#264	AnnotatorNotes T266	lemma = 'and'
+T267	pos_VBG 1478 1487	revealing
+#265	AnnotatorNotes T267	lemma = 'reveal'
+T268	pos_PRP2 1488 1493	their
+#266	AnnotatorNotes T268	lemma = 'their'
+T269	pos_NNS 1494 1506	similarities
+#267	AnnotatorNotes T269	lemma = 'similarity'
+T270	pos_CC 1507 1510	and
+#268	AnnotatorNotes T270	lemma = 'and'
+T271	pos_NNS 1511 1522	differences
+#269	AnnotatorNotes T271	lemma = 'difference'
+T272	pos_Fp 1522 1523	.
+#270	AnnotatorNotes T272	lemma = '.'

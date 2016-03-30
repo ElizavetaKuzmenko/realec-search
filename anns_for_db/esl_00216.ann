@@ -1,0 +1,558 @@
+T2	Noun_number 170 179	thousands
+A3	Cause T2 L1_interference
+A4	Weight-language T2 Major
+#2	AnnotatorNotes T2	thousand
+T4	Spelling 317 322	tones
+A7	Cause T4 Typo
+A8	Weight-language T4 Major
+#4	AnnotatorNotes T4	tonnes
+T6	Word_choice 553 561	movement
+A11	Cause T6 Other
+A12	Weight-language T6 Minor
+#6	AnnotatorNotes T6	increase
+T8	Word_choice 780 789	situation
+A15	Cause T8 Other
+A16	Weight-language T8 Minor
+#8	AnnotatorNotes T8	increase
+T9	Choice_synonyms 828 834	number
+A17	Cause T9 Other
+A18	Weight-language T9 Minor
+#9	AnnotatorNotes T9	amount
+T11	Choice_synonyms 851 855	time
+A21	Cause T11 Other
+A22	Weight-language T11 Minor
+#11	AnnotatorNotes T11	period
+T12	Noun_number 872 881	thousands
+A23	Cause T12 L1_interference
+A24	Weight-language T12 Major
+#12	AnnotatorNotes T12	thousand
+T13	lex_item_choice 889 902	What is about
+A25	Cause T13 Other
+A26	Weight-language T13 Minor
+#13	AnnotatorNotes T13	as for
+T15	suggestion 1048 1097	remains as it was in 2010 in comparison with 2009
+A28	Weight-language T15 Minor
+#15	AnnotatorNotes T15	in 2010 remains as it was in 2009
+T16	Word_choice 1113 1136	produced wasteincreases
+A29	Weight-language T16 Major
+#16	AnnotatorNotes T16	lemma = 'as'
+T17	Word_choice 1138 1143	while
+A30	Weight-language T17 Minor
+#17	AnnotatorNotes T17	lemma = 'we'
+T1	Prepositions 110 113	for
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+#1	AnnotatorNotes T1	over
+T3	Choice_synonyms 298 304	number
+A5	Cause T3 Other
+A6	Weight-language T3 Minor
+#3	AnnotatorNotes T3	amount
+T5	suggestion 632 634	it
+A9	Cause T5 Other
+A10	Weight-language T5 Minor
+A13	Delete T5
+T7	Spelling 882 887	tones
+A14	Cause T7 Typo
+A19	Weight-language T7 Minor
+#5	AnnotatorNotes T7	tonnes
+T10	Word_choice 1258 1272	interconnected
+A20	Cause T10 Other
+A27	Weight-language T10 Minor
+#7	AnnotatorNotes T10	mutually dependent
+T14	Prepositions 1159 1161	on
+A31	Cause T14 Typo
+A32	Weight-language T14 Major
+#10	AnnotatorNotes T14	of
+T18	Word_choice 790 793	was
+A33	Cause T18 Other
+A34	Weight-language T18 Minor
+#14	AnnotatorNotes T18	lemma = 'can'
+T19	Grammar 794 801	between
+A35	Cause T19 Other
+A36	Weight-language T19 Minor
+#18	AnnotatorNotes T19	from
+T20	Grammar 510 519	thousands
+A37	Cause T20 Other
+A38	Weight-language T20 Major
+#19	AnnotatorNotes T20	thousand
+T21	Spelling 520 525	tones
+A39	Cause T21 Typo
+A40	Weight-language T21 Minor
+#20	AnnotatorNotes T21	tonnes
+T22	Noun_number 706 715	thousands
+A41	Cause T22 Other
+A42	Weight-language T22 Major
+#21	AnnotatorNotes T22	lemma = 'chart'
+A43	Cause T16 Other
+A44	Cause T17 Other
+A45	Cause T15 Other
+T16	pos_IN 0 2
+#22	AnnotatorNotes T16	lemma = 'as'
+T17	pos_PRP 3 5
+#23	AnnotatorNotes T17	lemma = 'we'
+T18	pos_MD 6 9
+#24	AnnotatorNotes T18	lemma = 'can'
+T19	pos_VB 10 13
+#25	AnnotatorNotes T19	lemma = 'see'
+T20	pos_IN 14 16
+#26	AnnotatorNotes T20	lemma = 'on'
+T21	pos_DT 17 20
+#27	AnnotatorNotes T21	lemma = 'the'
+T22	pos_NNS 21 27
+#28	AnnotatorNotes T22	lemma = 'chart'
+T23	pos_Fc 27 28	,
+#29	AnnotatorNotes T23	lemma = ','
+T24	pos_DT 29 32	the
+#30	AnnotatorNotes T24	lemma = 'the'
+T25	pos_NN 33 39	number
+#31	AnnotatorNotes T25	lemma = 'number'
+T26	pos_IN 40 42	of
+#32	AnnotatorNotes T26	lemma = 'of'
+T27	pos_NNS 43 53	complaints
+#33	AnnotatorNotes T27	lemma = 'complaint'
+T28	pos_VBG 54 63	regarding
+#34	AnnotatorNotes T28	lemma = 'regard'
+T29	pos_JJ 64 77	environmental
+#35	AnnotatorNotes T29	lemma = 'environmental'
+T30	pos_NN 78 84	damage
+#36	AnnotatorNotes T30	lemma = 'damage'
+T31	pos_VBZ 85 88	has
+#37	AnnotatorNotes T31	lemma = 'have'
+T32	pos_RB 89 93	just
+#38	AnnotatorNotes T32	lemma = 'just'
+T33	pos_VBN 94 98	been
+#39	AnnotatorNotes T33	lemma = 'be'
+T34	pos_VBG 99 109	increasing
+#40	AnnotatorNotes T34	lemma = 'increase'
+T35	pos_IN 110 113	for
+#41	AnnotatorNotes T35	lemma = 'for'
+T36	pos_DT 114 117	the
+#42	AnnotatorNotes T36	lemma = 'the'
+T37	pos_JJ 118 122	last
+#43	AnnotatorNotes T37	lemma = 'last'
+T38	pos_Z 123 127	four
+#44	AnnotatorNotes T38	lemma = '4'
+T39	pos_NNS 128 133	years
+#45	AnnotatorNotes T39	lemma = 'year'
+T40	pos_CC 134 137	and
+#46	AnnotatorNotes T40	lemma = 'and'
+T41	pos_IN 138 140	by
+#47	AnnotatorNotes T41	lemma = 'by'
+T42	pos_NN 141 146	nowit
+#48	AnnotatorNotes T42	lemma = 'nowit'
+T43	pos_VBD 147 154	reached
+#49	AnnotatorNotes T43	lemma = 'reach'
+T44	pos_PRP2 155 158	its
+#50	AnnotatorNotes T44	lemma = 'its'
+T45	pos_NN 159 163	peak
+#51	AnnotatorNotes T45	lemma = 'peak'
+T46	pos_IN 164 166	at
+#52	AnnotatorNotes T46	lemma = 'at'
+T47	pos_Z 167 169	60
+#53	AnnotatorNotes T47	lemma = '60'
+T48	pos_NNS 170 179	thousands
+#54	AnnotatorNotes T48	lemma = 'thousand'
+T49	pos_NNS 180 190	complaints
+#55	AnnotatorNotes T49	lemma = 'complaint'
+T50	pos_DT 191 192	a
+#56	AnnotatorNotes T50	lemma = 'a'
+T51	pos_NN 193 197	year
+#57	AnnotatorNotes T51	lemma = 'year'
+T52	pos_Fp 197 198	.
+#58	AnnotatorNotes T52	lemma = '.'
+T53	pos_DT 199 202	The
+#59	AnnotatorNotes T53	lemma = 'the'
+T54	pos_RBS 203 207	most
+#60	AnnotatorNotes T54	lemma = 'many'
+T55	pos_VBG 208 218	surprising
+#61	AnnotatorNotes T55	lemma = 'surprise'
+T56	pos_NN 219 224	thing
+#62	AnnotatorNotes T56	lemma = 'thing'
+T57	pos_VBZ 225 227	is
+#63	AnnotatorNotes T57	lemma = 'be'
+T58	pos_IN 228 232	that
+#64	AnnotatorNotes T58	lemma = 'that'
+T59	pos_DT 233 237	this
+#65	AnnotatorNotes T59	lemma = 'this'
+T60	pos_NN 238 244	number
+#66	AnnotatorNotes T60	lemma = 'number'
+T61	pos_VBZ 245 247	is
+#67	AnnotatorNotes T61	lemma = 'be'
+T62	pos_RB 248 251	not
+#68	AnnotatorNotes T62	lemma = 'not'
+T63	pos_VBN 252 259	related
+#69	AnnotatorNotes T63	lemma = 'relate'
+T64	pos_IN 260 264	with
+#70	AnnotatorNotes T64	lemma = 'with'
+T65	pos_DT 265 268	the
+#71	AnnotatorNotes T65	lemma = 'the'
+T66	pos_NN 269 274	chart
+#72	AnnotatorNotes T66	lemma = 'chart'
+T67	pos_IN 275 277	in
+#73	AnnotatorNotes T67	lemma = 'in'
+T68	pos_WDT 278 283	which
+#74	AnnotatorNotes T68	lemma = 'which'
+T69	pos_JJ 284 289	wecan
+#75	AnnotatorNotes T69	lemma = 'wecan'
+T70	pos_VB 290 293	see
+#76	AnnotatorNotes T70	lemma = 'see'
+T71	pos_DT 294 297	the
+#77	AnnotatorNotes T71	lemma = 'the'
+T72	pos_NN 298 304	number
+#78	AnnotatorNotes T72	lemma = 'number'
+T73	pos_IN 305 307	of
+#79	AnnotatorNotes T73	lemma = 'of'
+T74	pos_NN 308 313	waste
+#80	AnnotatorNotes T74	lemma = 'waste'
+T75	pos_IN 314 316	in
+#81	AnnotatorNotes T75	lemma = 'in'
+T76	pos_NNS 317 322	tones
+#82	AnnotatorNotes T76	lemma = 'tone'
+T77	pos_VBN 323 331	produced
+#83	AnnotatorNotes T77	lemma = 'produce'
+T78	pos_IN 332 334	by
+#84	AnnotatorNotes T78	lemma = 'by'
+T79	pos_DT 335 338	the
+#85	AnnotatorNotes T79	lemma = 'the'
+T80	pos_NP 339 341	UK
+#86	AnnotatorNotes T80	lemma = 'uk'
+T81	pos_NNS 342 352	industries
+#87	AnnotatorNotes T81	lemma = 'industry'
+T82	pos_Fp 352 353	.
+#88	AnnotatorNotes T82	lemma = '.'
+T83	pos_RB 354 365	For example
+#89	AnnotatorNotes T83	lemma = 'for_example'
+T84	pos_Fc 365 366	,
+#90	AnnotatorNotes T84	lemma = ','
+T85	pos_IN 367 372	while
+#91	AnnotatorNotes T85	lemma = 'while'
+T86	pos_DT 373 376	the
+#92	AnnotatorNotes T86	lemma = 'the'
+T87	pos_Fe 377 378	"
+#93	AnnotatorNotes T87	lemma = '"'
+T88	pos_NN 378 383	waste
+#94	AnnotatorNotes T88	lemma = 'waste'
+T89	pos_Fe 383 384	"
+#95	AnnotatorNotes T89	lemma = '"'
+T90	pos_VBP 385 390	chart
+#96	AnnotatorNotes T90	lemma = 'chart'
+T91	pos_VBN 391 398	reached
+#97	AnnotatorNotes T91	lemma = 'reach'
+T92	pos_PRP2 399 402	its
+#98	AnnotatorNotes T92	lemma = 'its'
+T93	pos_JJ 403 411	all-time
+#99	AnnotatorNotes T93	lemma = 'all-time'
+T94	pos_JJ 412 416	high
+#100	AnnotatorNotes T94	lemma = 'high'
+T95	pos_IN 417 419	in
+#101	AnnotatorNotes T95	lemma = 'in'
+T96	pos_W 420 424	2010
+#102	AnnotatorNotes T96	lemma = '[??:??/??/2010:??.??:??]'
+T97	pos_JJ 425 431	andthe
+#103	AnnotatorNotes T97	lemma = 'andthe'
+T98	pos_NN 432 442	difference
+#104	AnnotatorNotes T98	lemma = 'difference'
+T99	pos_IN 443 450	between
+#105	AnnotatorNotes T99	lemma = 'between'
+T100	pos_DT 451 454	the
+#106	AnnotatorNotes T100	lemma = 'the'
+T101	pos_NNS 455 462	amounts
+#107	AnnotatorNotes T101	lemma = 'amount'
+T102	pos_IN 463 465	of
+#108	AnnotatorNotes T102	lemma = 'of'
+T103	pos_NN 466 471	waste
+#109	AnnotatorNotes T103	lemma = 'waste'
+T104	pos_VBN 472 480	produced
+#110	AnnotatorNotes T104	lemma = 'produce'
+T105	pos_IN 481 483	in
+#111	AnnotatorNotes T105	lemma = 'in'
+T106	pos_W 484 488	2009
+#112	AnnotatorNotes T106	lemma = '[??:??/??/2009:??.??:??]'
+T107	pos_CC 489 492	and
+#113	AnnotatorNotes T107	lemma = 'and'
+T108	pos_IN 493 495	in
+#114	AnnotatorNotes T108	lemma = 'in'
+T109	pos_W 496 500	2010
+#115	AnnotatorNotes T109	lemma = '[??:??/??/2010:??.??:??]'
+T110	pos_VBZ 501 503	is
+#116	AnnotatorNotes T110	lemma = 'be'
+T111	pos_DT 504 505	a
+#117	AnnotatorNotes T111	lemma = 'a'
+T112	pos_Z 506 509	500
+#118	AnnotatorNotes T112	lemma = '500'
+T113	pos_NNS 510 519	thousands
+#119	AnnotatorNotes T113	lemma = 'thousand'
+T114	pos_NNS 520 525	tones
+#120	AnnotatorNotes T114	lemma = 'tone'
+T115	pos_Fpa 526 527	(
+#121	AnnotatorNotes T115	lemma = '('
+T116	pos_WDT 527 532	which
+#122	AnnotatorNotes T116	lemma = 'which'
+T117	pos_VBZ 533 535	is
+#123	AnnotatorNotes T117	lemma = 'be'
+T118	pos_RB 536 542	really
+#124	AnnotatorNotes T118	lemma = 'really'
+T119	pos_DT 543 545	an
+#125	AnnotatorNotes T119	lemma = 'a'
+T120	pos_JJ 546 552	abrupt
+#126	AnnotatorNotes T120	lemma = 'abrupt'
+T121	pos_NN 553 561	movement
+#127	AnnotatorNotes T121	lemma = 'movement'
+T122	pos_Fpt 561 562	)
+#128	AnnotatorNotes T122	lemma = ')'
+T123	pos_Fc 562 563	,
+#129	AnnotatorNotes T123	lemma = ','
+T124	pos_NN 564 575	thisprocess
+#130	AnnotatorNotes T124	lemma = 'thisprocess'
+T125	pos_VBD 576 579	did
+#131	AnnotatorNotes T125	lemma = 'do'
+T126	pos_RB 580 583	not
+#132	AnnotatorNotes T126	lemma = 'not'
+T127	pos_VB 584 588	have
+#133	AnnotatorNotes T127	lemma = 'have'
+T128	pos_DT 589 592	any
+#134	AnnotatorNotes T128	lemma = 'any'
+T129	pos_NN 593 599	impact
+#135	AnnotatorNotes T129	lemma = 'impact'
+T130	pos_IN 600 602	on
+#136	AnnotatorNotes T130	lemma = 'on'
+T131	pos_DT 603 606	the
+#137	AnnotatorNotes T131	lemma = 'the'
+T132	pos_Fe 607 608	"
+#138	AnnotatorNotes T132	lemma = '"'
+T133	pos_NN 608 613	chart
+#139	AnnotatorNotes T133	lemma = 'chart'
+T134	pos_IN 614 616	of
+#140	AnnotatorNotes T134	lemma = 'of'
+T135	pos_NNS 617 627	complaints
+#141	AnnotatorNotes T135	lemma = 'complaint'
+T136	pos_Fe 627 628	"
+#142	AnnotatorNotes T136	lemma = '"'
+T137	pos_IN 629 631	as
+#143	AnnotatorNotes T137	lemma = 'as'
+T138	pos_PRP 632 634	it
+#144	AnnotatorNotes T138	lemma = 'it'
+T139	pos_MD 635 640	might
+#145	AnnotatorNotes T139	lemma = 'may'
+T140	pos_VB 641 645	have
+#146	AnnotatorNotes T140	lemma = 'have'
+T141	pos_VBN 646 650	been
+#147	AnnotatorNotes T141	lemma = 'be'
+T142	pos_VBN 651 659	expected
+#148	AnnotatorNotes T142	lemma = 'expect'
+T143	pos_Fp 659 660	.
+#149	AnnotatorNotes T143	lemma = '.'
+T144	pos_DT 661 664	The
+#150	AnnotatorNotes T144	lemma = 'the'
+T145	pos_NN 665 671	number
+#151	AnnotatorNotes T145	lemma = 'number'
+T146	pos_IN 672 674	of
+#152	AnnotatorNotes T146	lemma = 'of'
+T147	pos_NNS 675 685	complaints
+#153	AnnotatorNotes T147	lemma = 'complaint'
+T148	pos_VBD 686 695	increased
+#154	AnnotatorNotes T148	lemma = 'increase'
+T149	pos_JJ 696 700	only
+#155	AnnotatorNotes T149	lemma = 'only'
+T150	pos_IN 701 703	in
+#156	AnnotatorNotes T150	lemma = 'in'
+T151	pos_Zp 704 728	10thousands between 2009
+#157	AnnotatorNotes T151	lemma = '10thousands/2009'
+T152	pos_CC 729 732	and
+#158	AnnotatorNotes T152	lemma = 'and'
+T153	pos_Z 733 737	2010
+#159	AnnotatorNotes T153	lemma = '2010'
+T154	pos_WDT 738 743	which
+#160	AnnotatorNotes T154	lemma = 'which'
+T155	pos_VBZ 744 746	is
+#161	AnnotatorNotes T155	lemma = 'be'
+T156	pos_RB 747 750	not
+#162	AnnotatorNotes T156	lemma = 'not'
+T157	pos_JJ 751 762	significant
+#163	AnnotatorNotes T157	lemma = 'significant'
+T158	pos_IN 763 770	because
+#164	AnnotatorNotes T158	lemma = 'because'
+T159	pos_DT 771 774	the
+#165	AnnotatorNotes T159	lemma = 'the'
+T160	pos_JJ 775 779	same
+#166	AnnotatorNotes T160	lemma = 'same'
+T161	pos_NN 780 789	situation
+#167	AnnotatorNotes T161	lemma = 'situation'
+T162	pos_VBD 790 793	was
+#168	AnnotatorNotes T162	lemma = 'be'
+T163	pos_IN 794 801	between
+#169	AnnotatorNotes T163	lemma = 'between'
+T164	pos_Z 802 806	2010
+#170	AnnotatorNotes T164	lemma = '2010'
+T165	pos_CC 807 810	and
+#171	AnnotatorNotes T165	lemma = 'and'
+T166	pos_Z 811 815	2011
+#172	AnnotatorNotes T166	lemma = '2011'
+T167	pos_IN 816 823	whereas
+#173	AnnotatorNotes T167	lemma = 'whereas'
+T168	pos_DT 824 827	the
+#174	AnnotatorNotes T168	lemma = 'the'
+T169	pos_NN 828 834	number
+#175	AnnotatorNotes T169	lemma = 'number'
+T170	pos_IN 835 837	of
+#176	AnnotatorNotes T170	lemma = 'of'
+T171	pos_NN 838 843	waste
+#177	AnnotatorNotes T171	lemma = 'waste'
+T172	pos_RB 844 850	inthat
+#178	AnnotatorNotes T172	lemma = 'inthat'
+T173	pos_NN 851 855	time
+#179	AnnotatorNotes T173	lemma = 'time'
+T174	pos_VBD 856 864	declined
+#180	AnnotatorNotes T174	lemma = 'decline'
+T175	pos_IN 865 867	by
+#181	AnnotatorNotes T175	lemma = 'by'
+T176	pos_Z 868 871	200
+#182	AnnotatorNotes T176	lemma = '200'
+T177	pos_NNS 872 881	thousands
+#183	AnnotatorNotes T177	lemma = 'thousand'
+T178	pos_NNS 882 887	tones
+#184	AnnotatorNotes T178	lemma = 'tone'
+T179	pos_Fp 887 888	.
+#185	AnnotatorNotes T179	lemma = '.'
+T180	pos_WP 889 893	What
+#186	AnnotatorNotes T180	lemma = 'what'
+T181	pos_VBZ 894 896	is
+#187	AnnotatorNotes T181	lemma = 'be'
+T182	pos_IN 897 902	about
+#188	AnnotatorNotes T182	lemma = 'about'
+T183	pos_NNS 903 914	connections
+#189	AnnotatorNotes T183	lemma = 'connection'
+T184	pos_IN 915 922	between
+#190	AnnotatorNotes T184	lemma = 'between'
+T185	pos_Fe 923 924	"
+#191	AnnotatorNotes T185	lemma = '"'
+T186	pos_NN 924 929	waste
+#192	AnnotatorNotes T186	lemma = 'waste'
+T187	pos_Fe 929 930	"
+#193	AnnotatorNotes T187	lemma = '"'
+T188	pos_NN 931 936	chart
+#194	AnnotatorNotes T188	lemma = 'chart'
+T189	pos_CC 937 940	and
+#195	AnnotatorNotes T189	lemma = 'and'
+T190	pos_DT 941 944	the
+#196	AnnotatorNotes T190	lemma = 'the'
+T191	pos_NN 945 952	diagram
+#197	AnnotatorNotes T191	lemma = 'diagram'
+T192	pos_VBG 953 960	showing
+#198	AnnotatorNotes T192	lemma = 'show'
+T193	pos_DT 961 964	the
+#199	AnnotatorNotes T193	lemma = 'the'
+T194	pos_NN 965 970	level
+#200	AnnotatorNotes T194	lemma = 'level'
+T195	pos_IN 971 973	of
+#201	AnnotatorNotes T195	lemma = 'of'
+T196	pos_NN 974 984	investment
+#202	AnnotatorNotes T196	lemma = 'investment'
+T197	pos_NN 985 992	inwaste
+#203	AnnotatorNotes T197	lemma = 'inwaste'
+T198	pos_NN 993 1001	disposal
+#204	AnnotatorNotes T198	lemma = 'disposal'
+T199	pos_Fc 1001 1002	,
+#205	AnnotatorNotes T199	lemma = ','
+T200	pos_PRP 1003 1005	we
+#206	AnnotatorNotes T200	lemma = 'we'
+T201	pos_MD 1006 1009	can
+#207	AnnotatorNotes T201	lemma = 'can'
+T202	pos_VB 1010 1013	see
+#208	AnnotatorNotes T202	lemma = 'see'
+T203	pos_IN 1014 1018	that
+#209	AnnotatorNotes T203	lemma = 'that'
+T204	pos_WRB 1019 1023	when
+#210	AnnotatorNotes T204	lemma = 'when'
+T205	pos_DT 1024 1027	the
+#211	AnnotatorNotes T205	lemma = 'the'
+T206	pos_NN 1028 1033	level
+#212	AnnotatorNotes T206	lemma = 'level'
+T207	pos_IN 1034 1036	of
+#213	AnnotatorNotes T207	lemma = 'of'
+T208	pos_NN 1037 1047	investment
+#214	AnnotatorNotes T208	lemma = 'investment'
+T209	pos_VBZ 1048 1055	remains
+#215	AnnotatorNotes T209	lemma = 'remain'
+T210	pos_IN 1056 1058	as
+#216	AnnotatorNotes T210	lemma = 'as'
+T211	pos_PRP 1059 1061	it
+#217	AnnotatorNotes T211	lemma = 'it'
+T212	pos_VBD 1062 1065	was
+#218	AnnotatorNotes T212	lemma = 'be'
+T213	pos_IN 1066 1068	in
+#219	AnnotatorNotes T213	lemma = 'in'
+T214	pos_W 1069 1073	2010
+#220	AnnotatorNotes T214	lemma = '[??:??/??/2010:??.??:??]'
+T215	pos_IN 1074 1076	in
+#221	AnnotatorNotes T215	lemma = 'in'
+T216	pos_NN 1077 1087	comparison
+#222	AnnotatorNotes T216	lemma = 'comparison'
+T217	pos_IN 1088 1092	with
+#223	AnnotatorNotes T217	lemma = 'with'
+T218	pos_Z 1093 1097	2009
+#224	AnnotatorNotes T218	lemma = '2009'
+T219	pos_Fc 1097 1098	,
+#225	AnnotatorNotes T219	lemma = ','
+T220	pos_DT 1099 1102	the
+#226	AnnotatorNotes T220	lemma = 'the'
+T221	pos_NN 1103 1109	amount
+#227	AnnotatorNotes T221	lemma = 'amount'
+T222	pos_IN 1110 1112	of
+#228	AnnotatorNotes T222	lemma = 'of'
+T223	pos_VBN 1113 1121	produced
+#229	AnnotatorNotes T223	lemma = 'produce'
+T224	pos_NNS 1122 1136	wasteincreases
+#230	AnnotatorNotes T224	lemma = 'wasteincreases'
+T225	pos_Fc 1136 1137	,
+#231	AnnotatorNotes T225	lemma = ','
+T226	pos_IN 1138 1143	while
+#232	AnnotatorNotes T226	lemma = 'while'
+T227	pos_WRB 1144 1148	when
+#233	AnnotatorNotes T227	lemma = 'when'
+T228	pos_DT 1149 1152	the
+#234	AnnotatorNotes T228	lemma = 'the'
+T229	pos_NN 1153 1158	level
+#235	AnnotatorNotes T229	lemma = 'level'
+T230	pos_IN 1159 1161	on
+#236	AnnotatorNotes T230	lemma = 'on'
+T231	pos_NN 1162 1172	investment
+#237	AnnotatorNotes T231	lemma = 'investment'
+T232	pos_NNS 1173 1182	increases
+#238	AnnotatorNotes T232	lemma = 'increase'
+T233	pos_Fg 1183 1184	-
+#239	AnnotatorNotes T233	lemma = '-'
+T234	pos_DT 1185 1188	the
+#240	AnnotatorNotes T234	lemma = 'the'
+T235	pos_NN 1189 1195	amount
+#241	AnnotatorNotes T235	lemma = 'amount'
+T236	pos_IN 1196 1198	of
+#242	AnnotatorNotes T236	lemma = 'of'
+T237	pos_NN 1199 1204	waste
+#243	AnnotatorNotes T237	lemma = 'waste'
+T238	pos_VBZ 1205 1209	goes
+#244	AnnotatorNotes T238	lemma = 'go'
+T239	pos_RB 1210 1214	down
+#245	AnnotatorNotes T239	lemma = 'down'
+T240	pos_Fp 1214 1215	.
+#246	AnnotatorNotes T240	lemma = '.'
+T241	pos_RB 1216 1218	So
+#247	AnnotatorNotes T241	lemma = 'so'
+T242	pos_PRP 1219 1221	we
+#248	AnnotatorNotes T242	lemma = 'we'
+T243	pos_MD 1222 1225	can
+#249	AnnotatorNotes T243	lemma = 'can'
+T244	pos_VB 1226 1229	see
+#250	AnnotatorNotes T244	lemma = 'see'
+T245	pos_IN 1230 1234	that
+#251	AnnotatorNotes T245	lemma = 'that'
+T246	pos_DT 1235 1240	these
+#252	AnnotatorNotes T246	lemma = 'these'
+T247	pos_Z 1241 1244	two
+#253	AnnotatorNotes T247	lemma = '2'
+T248	pos_VBZ 1245 1254	processes
+#254	AnnotatorNotes T248	lemma = 'process'
+T249	pos_VBN 1255 1272	areinterconnected
+#255	AnnotatorNotes T249	lemma = 'areinterconnected'
+T250	pos_Fp 1255 1272	areinterconnected
+#256	AnnotatorNotes T250	lemma = '.'
