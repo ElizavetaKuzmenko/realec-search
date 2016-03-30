@@ -11,7 +11,6 @@ table2.write('mistake_id\ttext_id\ttype\ttext\tattr_weight_language\tcause\tcorr
 table3 = open('table_texts.csv', 'w', encoding='utf8')
 table3.write('text_id\ttext_name\n')
 
-
 def write_table(f, text_id, mistake_id):
     token_id = 1
     lines = open(f, 'r', encoding='utf8').readlines()
