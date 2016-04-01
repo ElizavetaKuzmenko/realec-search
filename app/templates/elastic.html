@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<p>Text search:</p>
+<form method=post>
+<div class="form-group">
+{% if text %}
+<input type="text" class="form-control" name="text_query" value="{{ text }}" maxlength=100>
+{% else %}
+<input type="text" class="form-control" name="text_query" placeholder="Input you text..." maxlength=100>
+{% endif %}
+</div>
+<button type="submit" class="btn btn-primary" name="text_query" value="search">Search</button>
+</form>
+
+    {% if texts %}
+<hr>
+    <ul>
+        {% for item in texts %}
+        <li>{{ item }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+{% endblock %}
