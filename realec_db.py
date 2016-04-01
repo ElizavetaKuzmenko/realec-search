@@ -70,9 +70,9 @@ def queries():
     #print(c.fetchall())
 
 if __name__ == '__main__':
-    make_tags()
-    make_tokens()
-    make_texts()
-    base.commit()
-    base.close()
-    #queries()
+    #make_tags()
+    #make_tokens()
+    #make_texts()
+    #base.commit()
+    #base.close()
+    queries()

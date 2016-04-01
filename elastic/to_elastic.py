@@ -2,8 +2,8 @@
 
 import json, requests, os, csv
 from elasticsearch import Elasticsearch
-PATH = '/home/lizaku/PycharmProjects/REALEC/anns_for_db'
-PATH_mistakes = '/home/lizaku/PycharmProjects/REALEC/table_mistakes.csv'
+PATH = '/home/lizaku/PycharmProjects/realec-search/anns_for_db'
+PATH_mistakes = '/home/lizaku/PycharmProjects/realec-search/table_mistakes.csv'
 
 
 
