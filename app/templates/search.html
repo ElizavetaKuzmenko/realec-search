@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block content %}
+
+<p>Text search:</p>
+<form method=post>
+<div class="form-group">
+{% if text %}
+<input type="text" class="form-control" name="text_query" value="{{ text }}" maxlength=100>
+{% else %}
+<input type="text" class="form-control" name="text_query" placeholder="choose" maxlength=100>
+{% endif %}
+</div>
+<button type="submit" class="btn btn-primary" name="text_query" value="search">Search</button>
+</form>
+
+<p>Search for particular error types: </p>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Error types</button>
+<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <h4>Mistake categories: </h4><hr>
+        <form method=post>
+      <div class="checkbox">
+          <fieldset>
+                  {% for t in tags %}
+                  <label>
+                      <input type="checkbox" name="tag_query" value="{{ t }}">{{ t }}
+                  </label><br>
+                  {% endfor %}
+          </fieldset>
+      </div>
+        <button type="submit" class="btn btn-primary" name="tag_query" value="search">Search</button>
+        </form>
+
+
+    </div>
+  </div>
+</div>
+
+    {% if results %}
+<hr>
+    <ul>
+    {% for result in results %}
+        <li>{{ result }} </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+ {% if tags_results %}
+<hr>
+    <ul>
+    {% for result in tags_results %}
+        <li>{{ result }} </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+{% endblock %}
