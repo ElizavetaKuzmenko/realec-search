@@ -72,5 +72,14 @@ def to_elastic():
 
 
 if __name__ == '__main__':
-    to_elastic()
+    with open('texts.json', 'w', encoding="utf-8") as f:
+        jsons = read_corpus(PATH)
+        for j in jsons:
+            f.write(j + '\n')
+
+    with open('mistakes.json', 'w', encoding="utf-8") as f:
+        jsons = extract_mistakes(PATH_mistakes)
+        for j in jsons:
+            f.write(j + '\n')
+    #to_elastic()
 
