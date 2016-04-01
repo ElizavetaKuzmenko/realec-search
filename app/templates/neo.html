@@ -1,4 +1,35 @@
 {% extends "base.html" %}
 {% block content %}
+<p>Search for particular error types: </p>
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Error types</button>
+<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+        <h4>Mistake categories: </h4><hr>
+        <form method=post>
+      <div class="checkbox">
+          <fieldset>
+                  {% for t in tags %}
+                  <label>
+                      <input type="checkbox" name="tag_query" value="{{ t }}">{{ t }}
+                  </label><br>
+                  {% endfor %}
+          </fieldset>
+      </div>
+        <button type="submit" class="btn btn-primary" name="tag_query" value="search">Search</button>
+        </form>
 
+
+    </div>
+  </div>
+</div>
+
+{% if res %}
+<hr>
+    <ul>
+    {% for result in res %}
+        <li> {{ result }} </li>
+    {% endfor %}
+    </ul>
+{% endif %}
 {% endblock %}
