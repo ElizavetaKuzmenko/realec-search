@@ -2,12 +2,12 @@
 {% block content %}
 
 <p>Text search:</p>
-<form method=post>
+<form action="" method=post>
 <div class="form-group">
 {% if text %}
 <input type="text" class="form-control" name="text_query" value="{{ text }}" maxlength=100>
 {% else %}
-<input type="text" class="form-control" name="text_query" placeholder="choose" maxlength=100>
+<input type="text" class="form-control" name="text_query" placeholder="Input your text..." maxlength=100>
 {% endif %}
 </div>
 <button type="submit" class="btn btn-primary" name="text_query" value="search">Search</button>
@@ -49,8 +49,11 @@
  {% if tags_results %}
 <hr>
     <ul>
-    {% for result in tags_results %}
-        <li>{{ result }} </li>
+    {% for key, value in tags_results.items() %}
+        <b>{{ key }}</b>
+        {% for v in value %}
+        <li> {{ v }}</li>
+        {% endfor %}
     {% endfor %}
     </ul>
     {% endif %}
